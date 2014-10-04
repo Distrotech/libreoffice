@@ -1,0 +1,502 @@
+#. extracted from sc/source/ui/miscdlgs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2011-12-31 02:30+0200\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_COLS\n"
+"string.text"
+msgid "Column inserted"
+msgstr "Dálkur settur inn"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_ROWS\n"
+"string.text"
+msgid "Row inserted "
+msgstr "Röð sett inn "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_TABS\n"
+"string.text"
+msgid "Sheet inserted "
+msgstr "Blað sett inn "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_COLS\n"
+"string.text"
+msgid "Column deleted"
+msgstr "Dálki eytt"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_ROWS\n"
+"string.text"
+msgid "Row deleted"
+msgstr "Röð eytt"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_TABS\n"
+"string.text"
+msgid "Sheet deleted"
+msgstr "Blaði eytt"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_MOVE\n"
+"string.text"
+msgid "Range moved"
+msgstr "Svið fært"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CONTENT\n"
+"string.text"
+msgid "Changed contents"
+msgstr "Breytt innihald"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CONTENT_WITH_CHILD\n"
+"string.text"
+msgid "Changed contents"
+msgstr "Breytt innihald"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CHILD_CONTENT\n"
+"string.text"
+msgid "Changed to "
+msgstr "Breyta í "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CHILD_ORGCONTENT\n"
+"string.text"
+msgid "Original"
+msgstr "Upprunalegt"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_REJECT\n"
+"string.text"
+msgid "Changes rejected"
+msgstr "Breytingum hafnað"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_ACCEPTED\n"
+"string.text"
+msgid "Accepted"
+msgstr "Samþykkt"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_REJECTED\n"
+"string.text"
+msgid "Rejected"
+msgstr "Hafnað"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_NO_ENTRY\n"
+"string.text"
+msgid "No Entry"
+msgstr "Engin færsla"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_EMPTY\n"
+"string.text"
+msgid "<empty>"
+msgstr "<tómt>"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES\n"
+"SC_CHANGES_COMMENT\n"
+"menuitem.text"
+msgid "Edit Comment..."
+msgstr "Breyta athugasemd..."
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_ACTION\n"
+"menuitem.text"
+msgid "Action"
+msgstr "Aðgerð"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_POSITION\n"
+"menuitem.text"
+msgid "Position"
+msgstr "Staðsetning"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_AUTHOR\n"
+"menuitem.text"
+msgid "Author"
+msgstr "Höfundur"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_DATE\n"
+"menuitem.text"
+msgid "Date"
+msgstr "Dagsetning"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_COMMENT\n"
+"menuitem.text"
+msgid "Description"
+msgstr "Lýsing"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES\n"
+"SC_SUB_SORT\n"
+"menuitem.text"
+msgid "Sorting"
+msgstr "Röðun"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"FT_CONFLICTS\n"
+"fixedtext.text"
+msgid "There are conflicting changes in this shared spreadsheet. Conflicts must be resolved before saving the spreadsheet. Keep either own or other changes."
+msgstr "Það eru árekstrar á milli breytinga í þessu sameiginlega skjali. Slíka árekstra verður að leysa áður en skjalið er vistað. Haltu annaðhvort eigin breytingar eða samþykktu hinar."
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPMINE\n"
+"pushbutton.text"
+msgid "Keep ~Mine"
+msgstr "Halda ~mínu"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPOTHER\n"
+"pushbutton.text"
+msgid "Keep ~Other"
+msgstr "~Halda öðru"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPALLMINE\n"
+"pushbutton.text"
+msgid "~Keep All Mine"
+msgstr "Halda öll~u mínu"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPALLOTHERS\n"
+"pushbutton.text"
+msgid "Keep ~All Others"
+msgstr "Hald~a öllu frá öðrum"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_CONFLICT\n"
+"string.text"
+msgid "Conflict"
+msgstr "Stangast á"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_AUTHOR\n"
+"string.text"
+msgid "Author"
+msgstr "Höfundur"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Dagsetning"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_UNKNOWN_USER\n"
+"string.text"
+msgid "Unknown User"
+msgstr "Óþekktur notandi"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"modaldialog.text"
+msgid "Resolve Conflicts"
+msgstr "Leysa árekstra"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_DESC\n"
+"fixedtext.text"
+msgid "The document you are about to export has one or more protected items with password that cannot be exported. Please re-type your password to be able to export your document."
+msgstr "Skjalið sem þú ert að fara að flytja út inniheldur eitt eða fleiri atriði vernduð með lykilorði sem ekki er hægt að flytja út. Endurtaktu lykilorðið þitt til að geta flutt út skjalið."
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FL_DOCUMENT\n"
+"fixedline.text"
+msgid "Document protection"
+msgstr "Vernda skjal"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_DOCSTATUS\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Staða óþekkt"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_DOC\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Slá inn aftur"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FL_SHEET\n"
+"fixedline.text"
+msgid "Sheet protection"
+msgstr "Vernda blað"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME1\n"
+"fixedtext.text"
+msgid "Sheet1 has a really long name"
+msgstr "Blað1 er með verulega langt nafn"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS1\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Staða óþekkt"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET1\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Slá inn aftur"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME2\n"
+"fixedtext.text"
+msgid "Sheet2"
+msgstr "Blað2"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS2\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Staða óþekkt"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET2\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Slá inn aftur"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME3\n"
+"fixedtext.text"
+msgid "Sheet3"
+msgstr "Blað3"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS3\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Staða óþekkt"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET3\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Slá inn aftur"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME4\n"
+"fixedtext.text"
+msgid "Sheet4"
+msgstr "Blað4"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS4\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Staða óþekkt"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET4\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Slá inn aftur"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_NOT_PROTECTED\n"
+"string.text"
+msgid "Not protected"
+msgstr "Ekki varið"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_NOT_PASS_PROTECTED\n"
+"string.text"
+msgid "Not password-protected"
+msgstr "Ekki varið af lykilorði"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_BAD\n"
+"string.text"
+msgid "Hash incompatible"
+msgstr "Dulritunargildi (hash) er ekki samsvarandi"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_GOOD\n"
+"string.text"
+msgid "Hash compatible"
+msgstr "Dulritunargildi (hash) er samsvarandi"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_REGENERATED\n"
+"string.text"
+msgid "Hash re-generated"
+msgstr "Dulritunargildi (hash) er endurgert"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"modaldialog.text"
+msgid "Re-type Password"
+msgstr "Sláðu aðgangsorðið inn aftur"

@@ -1,0 +1,2411 @@
+#. extracted from sd/uiconfig/simpress/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:04+0200\n"
+"PO-Revision-Date: 2014-07-31 19:36+0000\n"
+"Last-Translator: Elanjelian <tamiliam@gmail.com>\n"
+"Language-Team: Tamil <>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1406835381.000000\n"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"entrance\n"
+"label\n"
+"string.text"
+msgid "Entrance"
+msgstr "நுழைவாயில்"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"emphasis\n"
+"label\n"
+"string.text"
+msgid "Emphasis"
+msgstr "சொல்லழுத்தம்"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"exit\n"
+"label\n"
+"string.text"
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"motion_paths\n"
+"label\n"
+"string.text"
+msgid "Motion Paths"
+msgstr "நகர்வுப் பாதைகள்"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"misc_effects\n"
+"label\n"
+"string.text"
+msgid "Misc Effects"
+msgstr "பிற விளைவுகள்"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"effect_speed_label\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "வேகம்:"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "_Automatic preview"
+msgstr "தானியங்கு முன்னோட்டம்"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"prop_label1\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "திசை:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_start\n"
+"label\n"
+"string.text"
+msgid "Accelerated start"
+msgstr "விரைவுப்படுத்தப்பட்ட துவக்கம்"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_end\n"
+"label\n"
+"string.text"
+msgid "Decelerated end"
+msgstr "மெதுவாக்கப்பட்ட முடிவு"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "அமைவுகள்"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_label\n"
+"label\n"
+"string.text"
+msgid "A_fter animation:"
+msgstr "அசைவூட்டத்திற்கு பிறகு:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "_Sound:"
+msgstr "ஒலி:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_label\n"
+"label\n"
+"string.text"
+msgid "_Text animation:"
+msgstr "உரை அசைவூட்டம்:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"dim_color_label\n"
+"label\n"
+"string.text"
+msgid "Di_m color:"
+msgstr "மங்கலான நிறம்:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_delay_label\n"
+"label\n"
+"string.text"
+msgid "delay between characters"
+msgstr "வரியுருக்களுக்கு இடையேயான தாமதம்"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"0\n"
+"stringlist.text"
+msgid "Don't dim"
+msgstr "மங்கலாக்காதே"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"1\n"
+"stringlist.text"
+msgid "Dim with color"
+msgstr "நிறத்துடன் மங்கலாக்கு"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"2\n"
+"stringlist.text"
+msgid "Hide after animation"
+msgstr "அசைவூட்டத்திற்கு பிறகு மறை"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"3\n"
+"stringlist.text"
+msgid "Hide on next animation"
+msgstr "அடுத்த அசைவூட்டத்திற்கு பிறகு மறை"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"0\n"
+"stringlist.text"
+msgid "All at once"
+msgstr "ஒரே நேரத்தில் அனைத்தும்"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"1\n"
+"stringlist.text"
+msgid "Word by word"
+msgstr "சொல் சொல்லாக"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"2\n"
+"stringlist.text"
+msgid "Letter by letter"
+msgstr "எழுத்து எழுத்தாக"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Enhancement"
+msgstr "மேம்படுத்தல்"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"CustomAnimationProperties\n"
+"title\n"
+"string.text"
+msgid "Effect Options"
+msgstr "விளைவு தேர்வுகள்"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"effect\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "விளைவு"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"timing\n"
+"label\n"
+"string.text"
+msgid "Timing"
+msgstr "நேரம்"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"textanim\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "உரை அசைவூட்டம்"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"add_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add Effect"
+msgstr "விளைவைச் சேர்"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"remove_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Effect"
+msgstr "விளைவை அகற்று"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"change_effect\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Modify Effect"
+msgstr "விளைவை மாற்றியமை"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_up\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Up"
+msgstr "மேலே நகர்த்து"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_down\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Down"
+msgstr "கீழ் நகர்த்து"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"play\n"
+"tooltip_text\n"
+"string.text"
+msgid "Preview Effect"
+msgstr "விளைவு முன்னோட்டம்"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "தொடங்கு"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_property\n"
+"label\n"
+"string.text"
+msgid "_Direction"
+msgstr "திசை"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_speed\n"
+"label\n"
+"string.text"
+msgid "Sp_eed"
+msgstr "வேகம்"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "சொடுக்கில்"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "முந்தையதுடன்"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "முந்தையதற்கு பிறகு"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"more_properties\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_label\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "விளைவு"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic pre_view"
+msgstr "தானியக்க முன்னோட்டம்"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_label\n"
+"label\n"
+"string.text"
+msgid "_Group text:"
+msgstr "குழு உரை:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"auto_after\n"
+"label\n"
+"string.text"
+msgid "_Automatically after:"
+msgstr "இதன் பிறகு தானாக:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"0\n"
+"stringlist.text"
+msgid "As one object"
+msgstr "ஒரு பொருளாக"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"1\n"
+"stringlist.text"
+msgid "All paragraphs at once"
+msgstr "ஒரே நேரத்தில் அனைத்து பத்திகளையும்"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"2\n"
+"stringlist.text"
+msgid "By 1st level paragraphs"
+msgstr "முதல் மட்ட பத்திகளின் மூலம்"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"3\n"
+"stringlist.text"
+msgid "By 2nd level paragraphs"
+msgstr "2 ஆம் மட்ட பத்திகள்வழி"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"4\n"
+"stringlist.text"
+msgid "By 3rd level paragraphs"
+msgstr "3 ஆம் மட்ட பத்திகள்வழி"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"5\n"
+"stringlist.text"
+msgid "By 4th level paragraphs"
+msgstr "4 ஆம் மட்ட பத்திகள்வழி"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"6\n"
+"stringlist.text"
+msgid "By 5th level paragraphs"
+msgstr "5 ஆம் மட்ட பத்திகள்வழி"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"animate_shape\n"
+"label\n"
+"string.text"
+msgid "Animate attached _shape"
+msgstr "இணைத்த வடிவத்தை அசைவூட்டு"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"reverse_order\n"
+"label\n"
+"string.text"
+msgid "_In reverse order"
+msgstr "தலைகீழ் வரிசையில்"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_label\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "தொடங்கு:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"delay_label\n"
+"label\n"
+"string.text"
+msgid "_Delay:"
+msgstr "தாமதம்:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"duration_label\n"
+"label\n"
+"string.text"
+msgid "S_peed:"
+msgstr "வேகம்:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"repeat_label\n"
+"label\n"
+"string.text"
+msgid "_Repeat:"
+msgstr "திரும்பச் செய்:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "சொடுக்கும்போது"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "முந்தையதுடன்"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "முந்தையதற்கு பிறகு"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rewind\n"
+"label\n"
+"string.text"
+msgid "Rewind _when done playing"
+msgstr "இயக்கம் முடியும்பொழுது திரும்ப இயக்கவும்"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_click_sequence\n"
+"label\n"
+"string.text"
+msgid "_Animate as part of click sequence"
+msgstr "சொடுக்கல் தாெடர்ச்சியின் பகுதியாக அசுவூட்டு"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_interactive\n"
+"label\n"
+"string.text"
+msgid "Start _effect on click of"
+msgstr "சொடுக்கலின் போது விளைவை தொடங்கு"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Trigger"
+msgstr "தூண்டல்"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"CustomSlideShows\n"
+"title\n"
+"string.text"
+msgid "Custom Slide Shows"
+msgstr "தனிப்பயன் ஸ்லைடு காட்சிகள்"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"copy\n"
+"label\n"
+"string.text"
+msgid "Cop_y"
+msgstr "நக_லெடுக்க"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"startshow\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "தொடங்கு"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"usecustomshows\n"
+"label\n"
+"string.text"
+msgid "_Use Custom Slide Show"
+msgstr "தனிப்பயன் காட்சியை பயன்படுத்து"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"DefineCustomSlideShow\n"
+"title\n"
+"string.text"
+msgid "Define Custom Slide Show"
+msgstr "பழக்கக்காட்சியை வரையறுக்க"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "பெயர்:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Existing slides"
+msgstr "உள்ள படவில்லைகள்"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Selected slides"
+msgstr "தேர்ந்த படவில்லைகள்"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid ">>"
+msgstr ">>"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "<<"
+msgstr "<<"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"EditFieldsDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Field"
+msgstr "புலத்தை தொகு"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"fixedRB\n"
+"label\n"
+"string.text"
+msgid "_Fixed"
+msgstr "நிலைத்த"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"varRB\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "மாறி"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Field type"
+msgstr "புலத்தின் வகை"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "மொழி"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "F_ormat"
+msgstr "வடிவூட்டம்"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"apply_all\n"
+"label\n"
+"string.text"
+msgid "Appl_y to All"
+msgstr "அனைத்திற்கும் செயற்படுத்து"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"slides\n"
+"label\n"
+"string.text"
+msgid "Slides"
+msgstr "படவில்லைகள்"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes and Handouts"
+msgstr "குறிப்புகளும் அறிவிப்புகளும்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_cb\n"
+"label\n"
+"string.text"
+msgid "Heade_r"
+msgstr "தலைக்குறிப்பு"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_label\n"
+"label\n"
+"string.text"
+msgid "Header _text:"
+msgstr "தலைக்குறிப்பு உரை:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"datetime_cb\n"
+"label\n"
+"string.text"
+msgid "_Date and time"
+msgstr "தேதியும் நேரமும்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_fixed\n"
+"label\n"
+"string.text"
+msgid "Fi_xed"
+msgstr "நிலைத்த"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_auto\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "மாறி"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "மொழி"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label1\n"
+"label\n"
+"string.text"
+msgid "_Format"
+msgstr "வடிவூட்டம்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_cb\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "அடிக்குறிப்பு"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_label\n"
+"label\n"
+"string.text"
+msgid "F_ooter text:"
+msgstr "அடிக்குறிப்பு உரை:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"slide_number\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "படவில்லை எண்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"include_label\n"
+"label\n"
+"string.text"
+msgid "Include on slide"
+msgstr "படவில்லையில் அடங்கும்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"not_on_title\n"
+"label\n"
+"string.text"
+msgid "Do _not show on the first slide"
+msgstr "முதல் படவில்லையில் காண்பிக்க வேண்டாம்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_a\n"
+"label\n"
+"string.text"
+msgid "_Page Number"
+msgstr "பக்க எண்"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_b\n"
+"label\n"
+"string.text"
+msgid "Include on page"
+msgstr "பக்கத்தில் அடங்கும்"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"InsertSlidesDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "ஸ்லைடுகளை நுழை"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "முன்னர்"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "பின்னர்"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "நிலை"
+
+#: interactiondialog.ui
+msgctxt ""
+"interactiondialog.ui\n"
+"InteractionDialog\n"
+"title\n"
+"string.text"
+msgid "Interaction"
+msgstr "இடைவினை"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Action at mouse click"
+msgstr "சுட்டி சொடுக்கிய போது செய்யப்படும் செயல்"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"fttree\n"
+"label\n"
+"string.text"
+msgid "Target"
+msgstr "இலக்கு"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Interaction"
+msgstr "இடைவினை"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "உலாவு..."
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "கண்டுபிடி"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"sound-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Path Name"
+msgstr "பாதை பெயர்"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"MasterLayoutDialog\n"
+"title\n"
+"string.text"
+msgid "Master Elements"
+msgstr "முதன்மை கூறுகள்"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"header\n"
+"label\n"
+"string.text"
+msgid "_Header"
+msgstr "மேற்குறிப்பு"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "_Date/time"
+msgstr "தேதி/நேரம்"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"footer\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "அடிக்குறிப்பு"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"pagenumber\n"
+"label\n"
+"string.text"
+msgid "_Page number"
+msgstr "பக்க எண்"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"slidenumber\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "படவில்லை எண்"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"Placeholders\n"
+"label\n"
+"string.text"
+msgid "Placeholders"
+msgstr "இடம்பிடிகள்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"qickedit\n"
+"label\n"
+"string.text"
+msgid "Allow quick editing"
+msgstr "விரைவுத் தொகுத்தலை அனுமதி"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"textselected\n"
+"label\n"
+"string.text"
+msgid "Only text area selected"
+msgstr "தேர்ந்தெடுக்கப்பட வேண்டிய உரைப்பகுதி"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Text objects"
+msgstr "உரை பொருட்கள்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"startwithwizard\n"
+"label\n"
+"string.text"
+msgid "Start with _wizard"
+msgstr "வழிகாட்டியில் இருந்து தொடங்கவும்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"newdoclbl\n"
+"label\n"
+"string.text"
+msgid "New document"
+msgstr "புதிய ஆவணம்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"copywhenmove\n"
+"label\n"
+"string.text"
+msgid "Copy when moving"
+msgstr "நகரும்போது நகலெடு"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Unit of _measurement"
+msgstr "அளவீட்டு அலகு"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"tapstoplabel\n"
+"label\n"
+"string.text"
+msgid "Ta_b stops"
+msgstr "தத்தல் நிறுத்தங்கள்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"objalwymov\n"
+"label\n"
+"string.text"
+msgid "Objects always moveable"
+msgstr "எப்போதும் நகர்த்தக்கூடிய பொருள்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"distrotcb\n"
+"label\n"
+"string.text"
+msgid "Do not distort objects in curve"
+msgstr "வளைகோட்டுப் பொருளை விலக்காதே"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"backgroundback\n"
+"label\n"
+"string.text"
+msgid "Use background cache"
+msgstr "பின்புல பதுக்கத்தை பயன்படுத்து"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "அமைவுகள்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enremotcont\n"
+"label\n"
+"string.text"
+msgid "Enable remote control"
+msgstr "தொலைநிலைக் கட்டுப்பாட்டை செயல்படுத்து"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enprsntcons\n"
+"label\n"
+"string.text"
+msgid "Enable Presenter Console"
+msgstr "ப்ரசென்ட்டர் பணிமுனையை செயல்படுத்து"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Presentation"
+msgstr "வழங்கல்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Drawing scale"
+msgstr "வரைதல் அளவுகோல்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"widthlbl\n"
+"label\n"
+"string.text"
+msgid "Page _width"
+msgstr "பக்க அகலம்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"heightlbl\n"
+"label\n"
+"string.text"
+msgid "Page _height"
+msgstr "பக்கம் உயரம்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Scale"
+msgstr "அளவுகோல்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"printermetrics\n"
+"label\n"
+"string.text"
+msgid "Us_e printer metrics for document formatting"
+msgstr "ஆவண வடிவமைத்தலுக்கு அச்சுப்பொறி அளவை பயன்படுத்து"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"cbCompatibility\n"
+"label\n"
+"string.text"
+msgid "Add _spacing between paragraphs and tables (in current document)"
+msgstr "இடைவெளியைப் பத்திக்கும் அட்டவணைக்கும் இடையில் (நடப்பு ஆவணத்தில்) சேர்"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compatibility"
+msgstr "ஏற்புடைமை"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"PhotoAlbumCreatorDialog\n"
+"title\n"
+"string.text"
+msgid "Create Photo Album"
+msgstr "புகைப்பட ஆல்பத்தை உருவாக்கு"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"create_btn\n"
+"label\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "ஸ்லைடுகளை நுழை"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "பட்டியலிருந்து பிம்பத்தை அகற்று"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "பட்டியலிருந்து பிம்பத்தை அகற்று"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "படத்தை மேலே நகர்த்து"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "படத்தை மேலே நகர்த்து"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "படத்தை கீழே நகர்த்து"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "படத்தை கீழே நகர்த்து"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Slide Layout"
+msgstr "ஸ்லைடு தளக்கோலம்"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"asr_check\n"
+"label\n"
+"string.text"
+msgid "Keep Aspect Ratio"
+msgstr "தன்மை விகிதத்தை மாற்றாதே"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "1 Image"
+msgstr "1 படம்"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "2 Images"
+msgstr "2 படங்கள்"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "4 Images"
+msgstr "4 படங்கள்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"PresentationDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Show"
+msgstr "ஸ்லைடு காட்சி"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from\n"
+"label\n"
+"string.text"
+msgid "_From:"
+msgstr "_இருந்து:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from_cb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Starting slide"
+msgstr "தொடக்க ஸ்லைடு"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allslides\n"
+"label\n"
+"string.text"
+msgid "All _slides"
+msgstr "அனைத்து _காட்சிகள்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"customslideshow\n"
+"label\n"
+"string.text"
+msgid "_Custom Slide Show:"
+msgstr "தனிப்பயன் படவில்லை காட்சி:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Range"
+msgstr "வரம்பு/வீச்சு"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"presdisplay_label\n"
+"label\n"
+"string.text"
+msgid "P_resentation display:"
+msgstr "வழங்கல் காட்சி:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"externalmonitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1 (external)"
+msgstr "காட்சி %1 (வெளிப்புறம்)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"monitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1"
+msgstr "காட்சி %1"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allmonitors_str\n"
+"label\n"
+"string.text"
+msgid "All displays"
+msgstr "அனைத்து காட்சிகளும்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"external_str\n"
+"label\n"
+"string.text"
+msgid "Auto External (Display %1)"
+msgstr "வெளிப்புற தானியங்கி(காட்சி %1)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Multiple displays"
+msgstr "பல காட்சிகள்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "முன்னிருப்பு"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"window\n"
+"label\n"
+"string.text"
+msgid "_Window"
+msgstr "_சாளரம்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "த_ன்னியக்கம்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"showlogo\n"
+"label\n"
+"string.text"
+msgid "Show _logo"
+msgstr "_குறியீட்டை காட்டுக"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"tooltip_text\n"
+"string.text"
+msgid "Duration of pause"
+msgstr "நிறுத்த நேரம்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Pause Duration"
+msgstr "இடைநிறுத்த காலஅளவு"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "வகை"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"manualslides\n"
+"label\n"
+"string.text"
+msgid "Change slides _manually"
+msgstr "படவில்லைகளை கைமுறையாக மாற்று"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointervisible\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer _visible"
+msgstr "சுட்டி _புலனாகா முறைமையில்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointeraspen\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer as _pen"
+msgstr "சுட்டெலி சுட்டி பேனாவாக"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"navigatorvisible\n"
+"label\n"
+"string.text"
+msgid "_Navigator visible"
+msgstr "_உலாவி புலனாக்கம்"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"animationsallowed\n"
+"label\n"
+"string.text"
+msgid "_Animations allowed"
+msgstr "_அசைவூட்டங்கள் உண்டு"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"changeslidesbyclick\n"
+"label\n"
+"string.text"
+msgid "Change slides by clic_king on background"
+msgstr "படவில்லைகளை மாற்ற பின்புலத்தைச் சொடுக்கு"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"alwaysontop\n"
+"label\n"
+"string.text"
+msgid "Presentation always _on top"
+msgstr "எப்போதும் _வழங்கல் காட்சி மேலே"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printname\n"
+"label\n"
+"string.text"
+msgid "Slide name"
+msgstr "ஸ்லைடு பெயர்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printdatetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "தேதியும் நேரமும்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printhidden\n"
+"label\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "ஒளிந்தப் பக்கங்கள்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "உள்ளடக்கங்கள்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalcolors\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "அசல் அளவு"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"grayscale\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "கிரேஸ்கேல்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"blackandwhite\n"
+"label\n"
+"string.text"
+msgid "Black & white"
+msgstr "கருப்பு & வெள்ளை"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "நிறம்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalsize\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "அசல் அளவு"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"fittoprintable\n"
+"label\n"
+"string.text"
+msgid "Fit to printable page"
+msgstr "அச்சடிக்கக்கூடிய பக்கத்தை பொருத்தவும்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"distributeonmultiple\n"
+"label\n"
+"string.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "பல பக்கங்களின் தாளில் விநியோகிக்கவும்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"tilesheet\n"
+"label\n"
+"string.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "திரும்பும் ஸ்லைடுகளுடன் டைல் பக்கத்தின் தாள்"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "அளவு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagenmcb\n"
+"label\n"
+"string.text"
+msgid "_Page name"
+msgstr "பக்கத்தின் பெயர்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"datecb\n"
+"label\n"
+"string.text"
+msgid "D_ate"
+msgstr "தேதி"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"timecb\n"
+"label\n"
+"string.text"
+msgid "Ti_me"
+msgstr "நேரம்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"hiddenpgcb\n"
+"label\n"
+"string.text"
+msgid "H_idden pages"
+msgstr "ஒளிந்தப் பக்கங்கள்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"printlbl\n"
+"label\n"
+"string.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagedefaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "முன்னிருப்பு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"fittopgrb\n"
+"label\n"
+"string.text"
+msgid "_Fit to page"
+msgstr "பக்கத்திற்கு பொருத்து"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"tilepgrb\n"
+"label\n"
+"string.text"
+msgid "_Tile pages"
+msgstr "தளப் பக்கங்கள்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"brouchrb\n"
+"label\n"
+"string.text"
+msgid "B_rochure"
+msgstr "சிற்றேடு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"papertryfrmprntrcb\n"
+"label\n"
+"string.text"
+msgid "Paper tray from printer s_ettings"
+msgstr "அச்சுப்பொறி அமைவுகளிலிருந்து காகிதத் தட்டு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"frontcb\n"
+"label\n"
+"string.text"
+msgid "Fr_ont"
+msgstr "முன்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"backcb\n"
+"label\n"
+"string.text"
+msgid "Ba_ck"
+msgstr "பின்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Page options"
+msgstr "பக்கத்தேர்வுகள்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"drawingcb\n"
+"label\n"
+"string.text"
+msgid "Drawing"
+msgstr "வரைபடம்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"notecb\n"
+"label\n"
+"string.text"
+msgid "Notes"
+msgstr "குறிப்புகள்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"handoutcb\n"
+"label\n"
+"string.text"
+msgid "Handouts"
+msgstr "கையேடுகள்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "திட்டவரை"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"contentlbl\n"
+"label\n"
+"string.text"
+msgid "Content"
+msgstr "உள்ளடக்கம்"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"defaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "முன்னிருப்பு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"grayscalerb\n"
+"label\n"
+"string.text"
+msgid "Gra_yscale"
+msgstr "சாம்பலளவு"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"blackwhiterb\n"
+"label\n"
+"string.text"
+msgid "Black & _white"
+msgstr "கருப்பு & வெள்ளை"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "தரம்"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"RemoteDialog\n"
+"title\n"
+"string.text"
+msgid "Impress Remote"
+msgstr "இம்ப்ரெஸ் ரிமோட்"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"ruler\n"
+"label\n"
+"string.text"
+msgid "_Rulers visible"
+msgstr "அளவுகாட்டி புலனாக்கம்"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"dragstripes\n"
+"label\n"
+"string.text"
+msgid "_Snap Lines when moving"
+msgstr "நகரும் போது கோடுகளை பொருத்தச்செய்"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"handlesbezier\n"
+"label\n"
+"string.text"
+msgid "_All control points in Bezier editor"
+msgstr "Bezier பதிப்பியில் உள்ள கட்டுப்பாடு புள்ளிகள்"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"moveoutline\n"
+"label\n"
+"string.text"
+msgid "_Contour of each individual object"
+msgstr "ஒவ்வொரு பொருளின் வெளிக்கோடு"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Display"
+msgstr "காண்பி"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"SlideDesignDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Design"
+msgstr "படவில்லை வடிவமைப்பு"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"masterpage\n"
+"label\n"
+"string.text"
+msgid "_Exchange background page"
+msgstr "பின்புல பக்கத்தை பரிமாற்று"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"checkmasters\n"
+"label\n"
+"string.text"
+msgid "_Delete unused backgrounds"
+msgstr "தேவையற்ற பின்புலங்களை அழி"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a slide design"
+msgstr "படவில்லை வடிவமைப்பைத் தேர்ந்தெடுக்கவும்"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"load\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "ஏற்றுக..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Apply to selected slides"
+msgstr "தேர்ந்தெடுத்த படவில்லைகளுக்கு செயற்படுத்து"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_label\n"
+"label\n"
+"string.text"
+msgid "Speed:"
+msgstr "வேகம்:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"0\n"
+"stringlist.text"
+msgid "Slow"
+msgstr "மெதுவாக"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"1\n"
+"stringlist.text"
+msgid "Medium"
+msgstr "நடுத்தரம்"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"2\n"
+"stringlist.text"
+msgid "Fast"
+msgstr "வேகமாக"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "Sound:"
+msgstr "ஒலி:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"0\n"
+"stringlist.text"
+msgid "No Sound"
+msgstr "ஒலி இல்லை"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"1\n"
+"stringlist.text"
+msgid "Stop Previous Sound"
+msgstr "முந்தைய ஒலியை நிறுத்து"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"2\n"
+"stringlist.text"
+msgid "Other Sound..."
+msgstr "மற்ற ஒலி..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"loop_sound\n"
+"label\n"
+"string.text"
+msgid "Loop until next sound"
+msgstr "அடுத்த ஒலி வரை லூப் செய்"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify transition"
+msgstr "நிலைமாற்றத்தை மாற்றியமை"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_mouse_click\n"
+"label\n"
+"string.text"
+msgid "On mouse click"
+msgstr "சொடுக்கும்போது"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_auto_after\n"
+"label\n"
+"string.text"
+msgid "Automatically after"
+msgstr "இதன் பிறகு தானாக"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Advance slide"
+msgstr "மேம்பட்ட படவில்லை"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"apply_to_all\n"
+"label\n"
+"string.text"
+msgid "Apply to All Slides"
+msgstr "அனைத்து படவில்லைகளுக்கும் பயன்படுத்து"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"play\n"
+"label\n"
+"string.text"
+msgid "Play"
+msgstr "ஓட்டு"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"slide_show\n"
+"label\n"
+"string.text"
+msgid "Slide Show"
+msgstr "ஸ்லைடு காட்சி"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic preview"
+msgstr "தானியக்க முன்தோற்றம்"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Header Row"
+msgstr "தலைப்பு நிரை"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastRowStyle\n"
+"label\n"
+"string.text"
+msgid "Tot_al Row"
+msgstr "மொத்த நிரை"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Banded Rows"
+msgstr "பட்டையாக்கப்பட்ட நிரைகள்"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Fi_rst Column"
+msgstr "முதல் நிரல்"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastColumnStyle\n"
+"label\n"
+"string.text"
+msgid "_Last Column"
+msgstr "கடைசி நிரல்"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Ba_nded Columns"
+msgstr "பட்டையாக்கிய நிரல்கள்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Image Styles"
+msgstr "பிம்பம் பாணிகள்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "_Standard"
+msgstr "செந்தரம்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"organizer\n"
+"label\n"
+"string.text"
+msgid "Organizer"
+msgstr "ஒருங்கிணைப்பாளர்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"line\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "கோடு"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"area\n"
+"label\n"
+"string.text"
+msgid "Area"
+msgstr "பரப்பு"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"shadowing\n"
+"label\n"
+"string.text"
+msgid "Shadowing"
+msgstr "நிழலமைத்தல்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"transparency\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "ஒளிஊடுருவல்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "எழுத்துரு"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"fonteffect\n"
+"label\n"
+"string.text"
+msgid "Font Effect"
+msgstr "எழுத்துரு மாற்றம்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"indents\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "உள்ளடக்கங்கள் & இடைவெளி விடுதல்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "உரை"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"animation\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "உரை அசைவூட்டம்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"dimensioning\n"
+"label\n"
+"string.text"
+msgid "Dimensioning"
+msgstr "பரிமாணங்கள்"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"connector\n"
+"label\n"
+"string.text"
+msgid "Connector"
+msgstr "இணைப்பி"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "சீரமைப்பு"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"asiantypo\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "ஆசியாவின் அச்சுக்கலை"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"tabs\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "கீற்றுகள்"

@@ -1,0 +1,2411 @@
+#. extracted from sd/uiconfig/simpress/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:04+0200\n"
+"PO-Revision-Date: 2014-07-14 20:17+0000\n"
+"Last-Translator: Alan <alan.monfort@free.fr>\n"
+"Language-Team: none\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1405369046.000000\n"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"entrance\n"
+"label\n"
+"string.text"
+msgid "Entrance"
+msgstr "Enkerzh"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"emphasis\n"
+"label\n"
+"string.text"
+msgid "Emphasis"
+msgstr "Kreñvaat"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"exit\n"
+"label\n"
+"string.text"
+msgid "Exit"
+msgstr "Mont kuit"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"motion_paths\n"
+"label\n"
+"string.text"
+msgid "Motion Paths"
+msgstr "Bannhentoù"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"misc_effects\n"
+"label\n"
+"string.text"
+msgid "Misc Effects"
+msgstr "Efedoù liesseurt"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"effect_speed_label\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "_Tizh :"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "_Automatic preview"
+msgstr "Alber_z emgefreek"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"prop_label1\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "_Tuadur :"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_start\n"
+"label\n"
+"string.text"
+msgid "Accelerated start"
+msgstr "Loc'hañ herrek"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_end\n"
+"label\n"
+"string.text"
+msgid "Decelerated end"
+msgstr "Dibenn en arouar"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Arventennoù"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_label\n"
+"label\n"
+"string.text"
+msgid "A_fter animation:"
+msgstr "Gou_de ar bliverezh :"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "_Sound:"
+msgstr "_Son :"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_label\n"
+"label\n"
+"string.text"
+msgid "_Text animation:"
+msgstr "_Testennoù fiñv :"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"dim_color_label\n"
+"label\n"
+"string.text"
+msgid "Di_m color:"
+msgstr "Liv _blinañ :"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_delay_label\n"
+"label\n"
+"string.text"
+msgid "delay between characters"
+msgstr "dale etre an arouezennoù"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"0\n"
+"stringlist.text"
+msgid "Don't dim"
+msgstr "Na vlinañ"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"1\n"
+"stringlist.text"
+msgid "Dim with color"
+msgstr "Blinañ gant ul liv"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"2\n"
+"stringlist.text"
+msgid "Hide after animation"
+msgstr "Masklañ goude ar fiñvadur"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"3\n"
+"stringlist.text"
+msgid "Hide on next animation"
+msgstr "Masklañ gant ar fiñvadur da zont"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"0\n"
+"stringlist.text"
+msgid "All at once"
+msgstr "An holl diouzh un dro"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"1\n"
+"stringlist.text"
+msgid "Word by word"
+msgstr "Ger ha ger"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"2\n"
+"stringlist.text"
+msgid "Letter by letter"
+msgstr "Lizherenn ha lizherenn"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Enhancement"
+msgstr "Gwellaat"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"CustomAnimationProperties\n"
+"title\n"
+"string.text"
+msgid "Effect Options"
+msgstr "Dibarzhioù an efedoù"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"effect\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efed"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"timing\n"
+"label\n"
+"string.text"
+msgid "Timing"
+msgstr "Munutennerezh"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"textanim\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Testennoù fiñv"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"add_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add Effect"
+msgstr "Ouzhpennañ un efed"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"remove_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Effect"
+msgstr "Dilemel an efed"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"change_effect\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Modify Effect"
+msgstr "Daskemmañ an efed"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_up\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Up"
+msgstr "Davit ar c'hrec'h"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_down\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Down"
+msgstr "Davit an traoñ"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"play\n"
+"tooltip_text\n"
+"string.text"
+msgid "Preview Effect"
+msgstr "Alberz an efed"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "_Loc'hañ"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_property\n"
+"label\n"
+"string.text"
+msgid "_Direction"
+msgstr "_Tuadur"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_speed\n"
+"label\n"
+"string.text"
+msgid "Sp_eed"
+msgstr "Ti_zh"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Gant ur c'hlik"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Gant an hini gent"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Goude an hini gent"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"more_properties\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_label\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efed"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic pre_view"
+msgstr "Alberz em_gefreek"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_label\n"
+"label\n"
+"string.text"
+msgid "_Group text:"
+msgstr "_Strollañ an testennoù :"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"auto_after\n"
+"label\n"
+"string.text"
+msgid "_Automatically after:"
+msgstr "_Ent emgefreek war-lerc'h :"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"0\n"
+"stringlist.text"
+msgid "As one object"
+msgstr "Evel ergorenn unel"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"1\n"
+"stringlist.text"
+msgid "All paragraphs at once"
+msgstr "An holl rannbennadoù war un dro"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"2\n"
+"stringlist.text"
+msgid "By 1st level paragraphs"
+msgstr "Dre rannbennadoù a gentañ live"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"3\n"
+"stringlist.text"
+msgid "By 2nd level paragraphs"
+msgstr "Dre rannbennadoù a eil live"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"4\n"
+"stringlist.text"
+msgid "By 3rd level paragraphs"
+msgstr "Dre rannbennadoù a drede live"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"5\n"
+"stringlist.text"
+msgid "By 4th level paragraphs"
+msgstr "Dre rannbennadoù a bevarvet live"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"6\n"
+"stringlist.text"
+msgid "By 5th level paragraphs"
+msgstr "Dre rannbennadoù a bempet live"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"animate_shape\n"
+"label\n"
+"string.text"
+msgid "Animate attached _shape"
+msgstr "Luskañ al l_un ereet"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"reverse_order\n"
+"label\n"
+"string.text"
+msgid "_In reverse order"
+msgstr "_En urzh gin"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_label\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Deraouiñ :"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"delay_label\n"
+"label\n"
+"string.text"
+msgid "_Delay:"
+msgstr "_Dale :"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"duration_label\n"
+"label\n"
+"string.text"
+msgid "S_peed:"
+msgstr "T_izh :"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"repeat_label\n"
+"label\n"
+"string.text"
+msgid "_Repeat:"
+msgstr "_Arren :"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Gant ur c'hlik"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Gant an hini gent"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Goude an hini gent"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rewind\n"
+"label\n"
+"string.text"
+msgid "Rewind _when done playing"
+msgstr "Adenbeniañ _goude bezañ lennet"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_click_sequence\n"
+"label\n"
+"string.text"
+msgid "_Animate as part of click sequence"
+msgstr "Tresadenn _fiñv gant ur gemalenn glikoù"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_interactive\n"
+"label\n"
+"string.text"
+msgid "Start _effect on click of"
+msgstr "Loc'hañ an efed gant ar _c'hlik war"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Trigger"
+msgstr "Deluskell"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"CustomSlideShows\n"
+"title\n"
+"string.text"
+msgid "Custom Slide Shows"
+msgstr "Treyonennaoueg personelaet"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"copy\n"
+"label\n"
+"string.text"
+msgid "Cop_y"
+msgstr "_Eilañ"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"startshow\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "_Loc'hañ"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"usecustomshows\n"
+"label\n"
+"string.text"
+msgid "_Use Custom Slide Show"
+msgstr "_Arverañ an dreyonennaoueg personelaet"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"DefineCustomSlideShow\n"
+"title\n"
+"string.text"
+msgid "Define Custom Slide Show"
+msgstr "Despizañ un dreyonennaoueg personelaet"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "A_nv :"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Existing slides"
+msgstr "_Treyonennoù ez eus anezho"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Selected slides"
+msgstr "Treyonennoù _diuzet"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid ">>"
+msgstr ">>"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "<<"
+msgstr "<<"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"EditFieldsDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Field"
+msgstr "Embann ar vaezienn"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"fixedRB\n"
+"label\n"
+"string.text"
+msgid "_Fixed"
+msgstr "_Fest"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"varRB\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Argemmenn"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Field type"
+msgstr "Rizh maezienn"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "_Yezh"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "F_ormat"
+msgstr "Men_trezh"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"apply_all\n"
+"label\n"
+"string.text"
+msgid "Appl_y to All"
+msgstr "Arloañ d'an _holl anezho"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"slides\n"
+"label\n"
+"string.text"
+msgid "Slides"
+msgstr "Treyonennoù"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes and Handouts"
+msgstr "Notennoù ha brudfollennoù"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_cb\n"
+"label\n"
+"string.text"
+msgid "Heade_r"
+msgstr "Re_ollin"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_label\n"
+"label\n"
+"string.text"
+msgid "Header _text:"
+msgstr "Reollin an _talbenn :"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"datetime_cb\n"
+"label\n"
+"string.text"
+msgid "_Date and time"
+msgstr "_Deiziad hag eur"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_fixed\n"
+"label\n"
+"string.text"
+msgid "Fi_xed"
+msgstr "Fe_st"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_auto\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Argemmenn"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "_Yezh"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label1\n"
+"label\n"
+"string.text"
+msgid "_Format"
+msgstr "_Mentrezh"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_cb\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "_Troad pajenn"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_label\n"
+"label\n"
+"string.text"
+msgid "F_ooter text:"
+msgstr "Testenn an _diaz pajenn :"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"slide_number\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Niverenn an dre_yonenn"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"include_label\n"
+"label\n"
+"string.text"
+msgid "Include on slide"
+msgstr "Enlakaat war an dreyonenn"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"not_on_title\n"
+"label\n"
+"string.text"
+msgid "Do _not show on the first slide"
+msgstr "Na skrammañ war an dreyonenn _gentañ"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_a\n"
+"label\n"
+"string.text"
+msgid "_Page Number"
+msgstr "Niverenn ar ba_jenn"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_b\n"
+"label\n"
+"string.text"
+msgid "Include on page"
+msgstr "Enlakaat war ar bajenn"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"InsertSlidesDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Enlakaat treyonnennoù"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "_Kent"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "_Goude"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Lec'hiadur"
+
+#: interactiondialog.ui
+msgctxt ""
+"interactiondialog.ui\n"
+"InteractionDialog\n"
+"title\n"
+"string.text"
+msgid "Interaction"
+msgstr "Etrewezhiañ"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Action at mouse click"
+msgstr "Gwered dre glik al logodenn"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"fttree\n"
+"label\n"
+"string.text"
+msgid "Target"
+msgstr "Bukenn"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Interaction"
+msgstr "Etrewezhiañ"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Kantreal..."
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "_Kavout"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"sound-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Path Name"
+msgstr "Anv an treug"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"MasterLayoutDialog\n"
+"title\n"
+"string.text"
+msgid "Master Elements"
+msgstr "Elfennoù mestrezed"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"header\n"
+"label\n"
+"string.text"
+msgid "_Header"
+msgstr "_Talbenn"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "_Date/time"
+msgstr "_Deiziad/eur"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"footer\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "_Troad pajenn"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"pagenumber\n"
+"label\n"
+"string.text"
+msgid "_Page number"
+msgstr "Niverenn _bajenn"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"slidenumber\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Niverenn an dre_yonenn"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"Placeholders\n"
+"label\n"
+"string.text"
+msgid "Placeholders"
+msgstr "Erlec'hiadoù"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"qickedit\n"
+"label\n"
+"string.text"
+msgid "Allow quick editing"
+msgstr "Aotren an embann trumm"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"textselected\n"
+"label\n"
+"string.text"
+msgid "Only text area selected"
+msgstr "Ar maez testenn diuzet hepken"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Text objects"
+msgstr "Ergorennoù testenn"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"startwithwizard\n"
+"label\n"
+"string.text"
+msgid "Start with _wizard"
+msgstr "Loc'hañ gant ar _skoazeller"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"newdoclbl\n"
+"label\n"
+"string.text"
+msgid "New document"
+msgstr "Teul nevez"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"copywhenmove\n"
+"label\n"
+"string.text"
+msgid "Copy when moving"
+msgstr "Eilañ e-pad an dilec'hiañ"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Unit of _measurement"
+msgstr "_Unanenn vuzuliañ"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"tapstoplabel\n"
+"label\n"
+"string.text"
+msgid "Ta_b stops"
+msgstr "Taolenn_ata"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"objalwymov\n"
+"label\n"
+"string.text"
+msgid "Objects always moveable"
+msgstr "Ergorennoù dilec'hiadus bepred"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"distrotcb\n"
+"label\n"
+"string.text"
+msgid "Do not distort objects in curve"
+msgstr "Arabat gweañ an ergorenn da grommennoù"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"backgroundback\n"
+"label\n"
+"string.text"
+msgid "Use background cache"
+msgstr "Arverañ ar grubuilh evit an drekleur"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Arventennoù"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enremotcont\n"
+"label\n"
+"string.text"
+msgid "Enable remote control"
+msgstr "Gweredekaat ar reoliñ a-bell"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enprsntcons\n"
+"label\n"
+"string.text"
+msgid "Enable Presenter Console"
+msgstr "Gweredekaat penel ar ginnigerez"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Presentation"
+msgstr "Kinnigadenn"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Drawing scale"
+msgstr "Skeul an _dresadenn"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"widthlbl\n"
+"label\n"
+"string.text"
+msgid "Page _width"
+msgstr "Led ar ba_jenn"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"heightlbl\n"
+"label\n"
+"string.text"
+msgid "Page _height"
+msgstr "_Sav ar bajenn"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Scale"
+msgstr "Skeul"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"printermetrics\n"
+"label\n"
+"string.text"
+msgid "Us_e printer metrics for document formatting"
+msgstr "Arverañ _muzulioù ar voullerez evit mentrezhañ an teul"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"cbCompatibility\n"
+"label\n"
+"string.text"
+msgid "Add _spacing between paragraphs and tables (in current document)"
+msgstr "Ou_zhpennañ an esaouiñ etre ar rannbennadoù hag an taolennoù (en teul oberiant)"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compatibility"
+msgstr "Keverlec'hded"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"PhotoAlbumCreatorDialog\n"
+"title\n"
+"string.text"
+msgid "Create Photo Album"
+msgstr "Krouiñ un albomad luc'hskeudennoù"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"create_btn\n"
+"label\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Enlakaat treyonnennoù"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Dilemel ar skeudenn diwar ar roll"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Dilemel ar skeudenn diwar ar roll"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Dilec'hiañ ar skeudenn etrezek al lein"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Dilec'hiañ ar skeudenn etrezek al lein"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Dilec'hiañ ar skeudenn etrezek an traoñ"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Dilec'hiañ ar skeudenn etrezek an traoñ"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Alberz"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Slide Layout"
+msgstr "Pajennaozañ an dreyonenn"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"asr_check\n"
+"label\n"
+"string.text"
+msgid "Keep Aspect Ratio"
+msgstr "Mirout kenfeur an neuz"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "1 Image"
+msgstr "1 skeudenn"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "2 Images"
+msgstr "2 skeudenn"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "4 Images"
+msgstr "4 skeudenn"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"PresentationDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Treyonennaoueg"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from\n"
+"label\n"
+"string.text"
+msgid "_From:"
+msgstr "_Diouzh :"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from_cb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Starting slide"
+msgstr "Treyonenn deraouiñ"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allslides\n"
+"label\n"
+"string.text"
+msgid "All _slides"
+msgstr "An holl dre_yonennoù"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"customslideshow\n"
+"label\n"
+"string.text"
+msgid "_Custom Slide Show:"
+msgstr "Tre_yonennaoueg personelaet :"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Range"
+msgstr "Lijorenn"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"presdisplay_label\n"
+"label\n"
+"string.text"
+msgid "P_resentation display:"
+msgstr "Skramm ar gi_nnigadenn :"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"externalmonitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1 (external)"
+msgstr "Skrammañ %1 (diavaez)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"monitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1"
+msgstr "Skrammañ %1"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allmonitors_str\n"
+"label\n"
+"string.text"
+msgid "All displays"
+msgstr "An holl skrammoù"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"external_str\n"
+"label\n"
+"string.text"
+msgid "Auto External (Display %1)"
+msgstr "Diavaez emgefreek (Skramm %1)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Multiple displays"
+msgstr "Skrammoù liesek"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "_Dre ziouer"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"window\n"
+"label\n"
+"string.text"
+msgid "_Window"
+msgstr "_Prenestr"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "_Emgef."
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"showlogo\n"
+"label\n"
+"string.text"
+msgid "Show _logo"
+msgstr "Skrammañ ar sie_ll"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"tooltip_text\n"
+"string.text"
+msgid "Duration of pause"
+msgstr "Pad an ehan"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Pause Duration"
+msgstr "Ehanvezh"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Rizh"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"manualslides\n"
+"label\n"
+"string.text"
+msgid "Change slides _manually"
+msgstr "Kemmañ an dreyonenn gant an dor_n"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointervisible\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer _visible"
+msgstr "_Biz al logodenn hewel"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointeraspen\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer as _pen"
+msgstr "Biz al logodenn evel _kreion"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"navigatorvisible\n"
+"label\n"
+"string.text"
+msgid "_Navigator visible"
+msgstr "_Merdeer hewelus"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"animationsallowed\n"
+"label\n"
+"string.text"
+msgid "_Animations allowed"
+msgstr "A_otren an tresadennoù fiñv"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"changeslidesbyclick\n"
+"label\n"
+"string.text"
+msgid "Change slides by clic_king on background"
+msgstr "Kemmañ an dreyonenn dre ur c'hli_k war an drekleur"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"alwaysontop\n"
+"label\n"
+"string.text"
+msgid "Presentation always _on top"
+msgstr "Kinnigadenn bepred en a-_raok"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dibarzhioù"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printname\n"
+"label\n"
+"string.text"
+msgid "Slide name"
+msgstr "Anv an dreyonenn"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printdatetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "Deiziad hag eur"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printhidden\n"
+"label\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "Pajennadoù masklet"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "Endalc'had"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalcolors\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Ment a-orin"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"grayscale\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Liveoù louedoù"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"blackandwhite\n"
+"label\n"
+"string.text"
+msgid "Black & white"
+msgstr "Du & gwenn"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Liv"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalsize\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Ment a-orin"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"fittoprintable\n"
+"label\n"
+"string.text"
+msgid "Fit to printable page"
+msgstr "Lakaat da genglotañ gant ar bajennad voulladus"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"distributeonmultiple\n"
+"label\n"
+"string.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Dasparzhañ war veur a bajenn baper"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"tilesheet\n"
+"label\n"
+"string.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "Gourloañ ar follennoù paper gant an treyonennoù arreet"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Ment "
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagenmcb\n"
+"label\n"
+"string.text"
+msgid "_Page name"
+msgstr "Anv ar _bajenn"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"datecb\n"
+"label\n"
+"string.text"
+msgid "D_ate"
+msgstr "D_eiziad"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"timecb\n"
+"label\n"
+"string.text"
+msgid "Ti_me"
+msgstr "E_ur"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"hiddenpgcb\n"
+"label\n"
+"string.text"
+msgid "H_idden pages"
+msgstr "Pajennadoù _masklet"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"printlbl\n"
+"label\n"
+"string.text"
+msgid "Print"
+msgstr "Moullañ"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagedefaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Dre ziouer"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"fittopgrb\n"
+"label\n"
+"string.text"
+msgid "_Fit to page"
+msgstr "_Lakaat da genglotañ gant ar bajenn"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"tilepgrb\n"
+"label\n"
+"string.text"
+msgid "_Tile pages"
+msgstr "Pajennoù e _marellig"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"brouchrb\n"
+"label\n"
+"string.text"
+msgid "B_rochure"
+msgstr "K_raflevr"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"papertryfrmprntrcb\n"
+"label\n"
+"string.text"
+msgid "Paper tray from printer s_ettings"
+msgstr "Kludell herve_z arventennoù ar voullerez"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"frontcb\n"
+"label\n"
+"string.text"
+msgid "Fr_ont"
+msgstr "Tu _reizh"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"backcb\n"
+"label\n"
+"string.text"
+msgid "Ba_ck"
+msgstr "Tu _gin"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Page options"
+msgstr "Dibarzhioù ar bajennad"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"drawingcb\n"
+"label\n"
+"string.text"
+msgid "Drawing"
+msgstr "Tresadenn"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"notecb\n"
+"label\n"
+"string.text"
+msgid "Notes"
+msgstr "Notennoù"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"handoutcb\n"
+"label\n"
+"string.text"
+msgid "Handouts"
+msgstr "Brudfollennoù"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "Trolinenn"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"contentlbl\n"
+"label\n"
+"string.text"
+msgid "Content"
+msgstr "Endalc'had"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"defaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Dre ziouer"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"grayscalerb\n"
+"label\n"
+"string.text"
+msgid "Gra_yscale"
+msgstr "Liveoù lo_uedoù"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"blackwhiterb\n"
+"label\n"
+"string.text"
+msgid "Black & _white"
+msgstr "Du & _gwenn"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "Perzhded"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"RemoteDialog\n"
+"title\n"
+"string.text"
+msgid "Impress Remote"
+msgstr "Pellanker Impress"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"ruler\n"
+"label\n"
+"string.text"
+msgid "_Rulers visible"
+msgstr "_Reolennoù hewel"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"dragstripes\n"
+"label\n"
+"string.text"
+msgid "_Snap Lines when moving"
+msgstr "_Desteudañ al linennoù pa vezont dilec'hiet"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"handlesbezier\n"
+"label\n"
+"string.text"
+msgid "_All control points in Bezier editor"
+msgstr "_An holl boentoù reoliñ en embanner Bézier"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"moveoutline\n"
+"label\n"
+"string.text"
+msgid "_Contour of each individual object"
+msgstr "_Trolinenn pep ergorenn"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Display"
+msgstr "Skrammañ"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"SlideDesignDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Design"
+msgstr "Neuz an dreyonenn"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"masterpage\n"
+"label\n"
+"string.text"
+msgid "_Exchange background page"
+msgstr "_Eskemm ar bajenn drekleur"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"checkmasters\n"
+"label\n"
+"string.text"
+msgid "_Delete unused backgrounds"
+msgstr "_Dilemel ar pajennoù drekleur diarver"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a slide design"
+msgstr "Diuzañ un neuz treyonenn "
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"load\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "_Kargañ..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Apply to selected slides"
+msgstr "Seveniñ d'an treyonennoù diuzet"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_label\n"
+"label\n"
+"string.text"
+msgid "Speed:"
+msgstr "Tizh :"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"0\n"
+"stringlist.text"
+msgid "Slow"
+msgstr "Gorrek"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"1\n"
+"stringlist.text"
+msgid "Medium"
+msgstr "Etre"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"2\n"
+"stringlist.text"
+msgid "Fast"
+msgstr "Trumm"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "Sound:"
+msgstr "Son :"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"0\n"
+"stringlist.text"
+msgid "No Sound"
+msgstr "Son ebet"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"1\n"
+"stringlist.text"
+msgid "Stop Previous Sound"
+msgstr "Paouez gant ar son kent"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"2\n"
+"stringlist.text"
+msgid "Other Sound..."
+msgstr "Son all..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"loop_sound\n"
+"label\n"
+"string.text"
+msgid "Loop until next sound"
+msgstr "Dol betek ar son war-lerc'h"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify transition"
+msgstr "Daskemmañ an ardreuzad"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_mouse_click\n"
+"label\n"
+"string.text"
+msgid "On mouse click"
+msgstr "Dre glikañ gant al logodenn"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_auto_after\n"
+"label\n"
+"string.text"
+msgid "Automatically after"
+msgstr "Ent emgefreek war-lerc'h"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Advance slide"
+msgstr "Mont d'an dreyonenn da-heul"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"apply_to_all\n"
+"label\n"
+"string.text"
+msgid "Apply to All Slides"
+msgstr "Seveniñ d'an holl dreyonennoù"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"play\n"
+"label\n"
+"string.text"
+msgid "Play"
+msgstr "Lenn"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"slide_show\n"
+"label\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Treyonennaoueg"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic preview"
+msgstr "Alberz emgefreek"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Header Row"
+msgstr "_Renk an talbenn"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastRowStyle\n"
+"label\n"
+"string.text"
+msgid "Tot_al Row"
+msgstr "Renk an holl_ad"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Banded Rows"
+msgstr "Renkoù _livet"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Fi_rst Column"
+msgstr "Bann _kentañ"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastColumnStyle\n"
+"label\n"
+"string.text"
+msgid "_Last Column"
+msgstr "_Bann diwezhañ"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Ba_nded Columns"
+msgstr "Ba_nnoù livet"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Image Styles"
+msgstr "Stiloù ar skeudennoù"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "_Standard"
+msgstr "_Skoueriek"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"organizer\n"
+"label\n"
+"string.text"
+msgid "Organizer"
+msgstr "Ardead"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"line\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "Linenn"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"area\n"
+"label\n"
+"string.text"
+msgid "Area"
+msgstr "Maez"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"shadowing\n"
+"label\n"
+"string.text"
+msgid "Shadowing"
+msgstr "Skeud"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"transparency\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "Boullder"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Nodrezh"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"fonteffect\n"
+"label\n"
+"string.text"
+msgid "Font Effect"
+msgstr "Efedoù nodrezh"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"indents\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Pukadoù & Esaouiñ"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Testenn"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"animation\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Testenn fiñv"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"dimensioning\n"
+"label\n"
+"string.text"
+msgid "Dimensioning"
+msgstr "Mentadur"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"connector\n"
+"label\n"
+"string.text"
+msgid "Connector"
+msgstr "Kennasker"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Desteudañ"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"asiantypo\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Arouezerezh aziat"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"tabs\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Taolennata"

@@ -1,0 +1,360 @@
+#. extracted from sw/source/ui/envelp
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2011-04-06 04:32+0200\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_DATABASE_NOT_OPENED\n"
+"string.text"
+msgid "Database could not be opened."
+msgstr "Cơ sở dữ liệu không thể mở được."
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_NO_DRIVERS\n"
+"string.text"
+msgid "No database drivers installed."
+msgstr "Chưa cài đặt trình điều khiển cơ sở dữ liệu nào."
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_BTN_NEWDOC\n"
+"string.text"
+msgid "~New Doc."
+msgstr "Tài liệu ~mới"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_SENDER_TOKENS\n"
+"string.text"
+msgid "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+msgstr "CÔNG TY;CR;TÊN; ;HỌ;CR;ĐỊA CHỈ;CR;THÀNH PHỐ; ;TỈNH; ;MÃ BƯU ĐIỆN;CR;QUỐC GIA;CR;"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_SYNC_BTN\n"
+"BTN_SYNC\n"
+"pushbutton.text"
+msgid "Synchronize Labels"
+msgstr "Đồng bộ hoá các nhãn"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "[User]"
+msgstr "[User]"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HDIST\n"
+"string.text"
+msgid "H. Pitch"
+msgstr "Dốc nằm ngang"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_VDIST\n"
+"string.text"
+msgid "V. Pitch"
+msgstr "Dốc dọc"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "Bề rộng"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "Bề cao"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left margin"
+msgstr "Lề trái"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_UPPER\n"
+"string.text"
+msgid "Top margin"
+msgstr "Lề trên"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_COLS\n"
+"string.text"
+msgid "Columns"
+msgstr "Cột"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_ROWS\n"
+"string.text"
+msgid "Rows"
+msgstr "Hàng"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PWIDTH\n"
+"string.text"
+msgid "Page Width"
+msgstr "Bề rộng trang"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PHEIGHT\n"
+"string.text"
+msgid "Page Height"
+msgstr "Độ ~cao trang"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"_MAIL_MERGE_STRING_\n"
+"#define.text"
+msgid "Mail Merge"
+msgstr "Trộn thư"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_ALL\n"
+"radiobutton.text"
+msgid "~All"
+msgstr "Tất ~cả"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MARKED\n"
+"radiobutton.text"
+msgid "~Selected records"
+msgstr "Các bản ~ghi đã chọn"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FROM\n"
+"radiobutton.text"
+msgid "~From:"
+msgstr "~Từ :"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_BIS\n"
+"fixedtext.text"
+msgid "~To:"
+msgstr "Đế~n:"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_RECORD\n"
+"fixedline.text"
+msgid "Records"
+msgstr "Bản ghi"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_PRINTER\n"
+"radiobutton.text"
+msgid "~Printer"
+msgstr "~Máy in"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MAILING\n"
+"radiobutton.text"
+msgid "~Electronic"
+msgstr "Đ~iện tử"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FILE\n"
+"radiobutton.text"
+msgid "File"
+msgstr "Tập tin"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_SINGLE_JOBS\n"
+"checkbox.text"
+msgid "~Single print jobs"
+msgstr "Công ~việc in đơn lẻ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_SAVE_MERGED_DOCUMENT\n"
+"fixedline.text"
+msgid "Save merged document"
+msgstr "Lưu tài liệu đã trộn"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_SINGLE_DOC\n"
+"radiobutton.text"
+msgid "S~ave as single document"
+msgstr "Lưu ~dạng cùng một tài liệu"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_INDIVIDUAL\n"
+"radiobutton.text"
+msgid "Sa~ve as individual documents"
+msgstr "Lư~u dạng các tài liệu riêng"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_GENERATE_FROM_DATABASE\n"
+"checkbox.text"
+msgid "Generate file name from ~Database"
+msgstr "Tạo ra tên tập tin từ Cơ sở ~dữ liệu"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_COLUMN\n"
+"fixedtext.text"
+msgid "Field"
+msgstr "Trường"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_PATH\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "Đường ~dẫn"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FILTER\n"
+"fixedtext.text"
+msgid "F~ile format"
+msgstr "Định dạng tập t~in"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "~Chủ đề"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_ATTACH\n"
+"fixedtext.text"
+msgid "Attachments"
+msgstr "Đồ đính kèm"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Mail Format"
+msgstr "Định dạng thư"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_HTML\n"
+"checkbox.text"
+msgid "HTM~L"
+msgstr "HTM~L"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_RTF\n"
+"checkbox.text"
+msgid "RT~F"
+msgstr "RT~F"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_SW\n"
+"checkbox.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME Writer"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_DEST\n"
+"fixedline.text"
+msgid "Output"
+msgstr "Đầu ra"

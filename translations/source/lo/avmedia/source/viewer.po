@@ -1,0 +1,56 @@
+#. extracted from avmedia/source/viewer
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2011-04-05 23:57+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_INSERTMEDIA_DLG\n"
+"string.text"
+msgid "Insert Movie and Sound"
+msgstr "ໃສ່ພາບພະຍົນແລະສຽງ"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_OPENMEDIA_DLG\n"
+"string.text"
+msgid "Open Movie and Sound"
+msgstr "ເປີດພາບພະຍົນແລະສຽງ"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_ALL_MEDIAFILES\n"
+"string.text"
+msgid "All movie and sound files"
+msgstr "ແຟ້ມພາບພະຍົນແລະສຽງທັງໝົດ"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_ALL_FILES\n"
+"string.text"
+msgid "All files"
+msgstr "ແຟ້ມທັງໝົດ"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_ERR_URL\n"
+"errorbox.text"
+msgid "The format of the selected file is not supported."
+msgstr "ແບບແຟ້ມທີ່ເລືອກບໍ່ສາມາດ​ນຳ​ໃຊ້ໄດ້"

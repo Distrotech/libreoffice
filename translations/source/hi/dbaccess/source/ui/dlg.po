@@ -1,0 +1,1905 @@
+#. extracted from dbaccess/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-01-23 11:27+0000\n"
+"Last-Translator: Rajesh <rajesh672@gmail.com>\n"
+"Language-Team: Hindi <hindi>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1358940474.0\n"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_DBASE_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the dBASE files"
+msgstr "dBASE फ़ाइल का पथ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_FLAT_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the text files"
+msgstr "पाठ फ़ाइल का पथ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_CALC_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the spreadsheet document"
+msgstr "स्प्रेडशीट दस्तावेज़ का पथ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_NAME_OF_ODBC_DATASOURCE\n"
+"string.text"
+msgid "Name of the ODBC data source on your system"
+msgstr "आपके तंत्र पर ODBC आँकड़ा स्रोत"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MYSQL_DATABASE_NAME\n"
+"string.text"
+msgid "Name of the MySQL database"
+msgstr "MySQL डेटाबेस का नाम"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ORACLE_DATABASE_NAME\n"
+"string.text"
+msgid "Name of the Oracle database"
+msgstr "Oracle डेटाबेस का नाम"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MSACCESS_MDB_FILE\n"
+"string.text"
+msgid "Microsoft Access database file"
+msgstr "माइक्रोसॉफ्ट पहुँच डेटाबेस फ़ाइल"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_NO_ADDITIONAL_SETTINGS\n"
+"string.text"
+msgid "No more settings are necessary. To verify that the connection is working, click the '%test' button."
+msgstr "अब और सेटिंग आवश्यक नहीं है. यह जाँचने के लिए कनेक्शन काम कर रहा है, '%test' बटन पर क्लिक करें."
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_COMMONURL\n"
+"string.text"
+msgid "Datasource URL"
+msgstr "डेटास्रोत URL"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_HOSTNAME\n"
+"string.text"
+msgid "~Host name"
+msgstr "मेजबान नाम (~H)"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MOZILLA_PROFILE_NAME\n"
+"string.text"
+msgid "~Mozilla profile name"
+msgstr "मोज़िला प्रोफ़ाइल नाम (~M)"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_THUNDERBIRD_PROFILE_NAME\n"
+"string.text"
+msgid "~Thunderbird profile name"
+msgstr "थंडरबर्ड प्रोफ़ाइल नाम (~T)"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ADD_TABLES\n"
+"string.text"
+msgid "Add Tables"
+msgstr ""
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ADD_TABLE_OR_QUERY\n"
+"string.text"
+msgid "Add Table or Query"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BROWSECONTROLGROUP( AUTO_X, AUTO_Y, AUTOPAGE_X, AUTO_HID, AUTO_HID2)\n"
+"PB_AUTOBROWSEURL\n"
+"pushbutton.text"
+msgid "Browse"
+msgstr "ब्राउज़"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BROWSECONTROLGROUP( AUTO_X, AUTO_Y, AUTOPAGE_X, AUTO_HID, AUTO_HID2)\n"
+"PB_CREATEDB\n"
+"pushbutton.text"
+msgid "Create New"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_NAMECONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTODATABASENAME\n"
+"fixedtext.text"
+msgid "Database name"
+msgstr "डेटाबेस का नाम"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_HOSTCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOHOSTNAME\n"
+"fixedtext.text"
+msgid "Server"
+msgstr "सर्वर"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BASEDNCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOBASEDN\n"
+"fixedtext.text"
+msgid "Base ~DN"
+msgstr "आधार ~DN"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_PORTCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOPORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "पोर्ट संख्या (~P)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_CHARSET( AUTO_Y, AUTOPAGE_X )\n"
+"FL_DATACONVERT\n"
+"fixedline.text"
+msgid "Data conversion"
+msgstr "आँकड़ा हस्तांतरण"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_CHARSET( AUTO_Y, AUTOPAGE_X )\n"
+"FT_CHARSET\n"
+"fixedtext.text"
+msgid "~Character set"
+msgstr "वर्ण सेट (~C)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOEXTENSIONHEADER\n"
+"fixedtext.text"
+msgid "Specify the type of files you want to access"
+msgstr "फ़ाइल का प्रकार बतायें जिसे आप पहुँच करना चाहते हैं"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSCTEXTFILES\n"
+"radiobutton.text"
+msgid "Plain text files (*.txt)"
+msgstr "सादा पाठ फ़ाइल (*.txt)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSCCSVFILES\n"
+"radiobutton.text"
+msgid "'Comma separated value' files (*.csv)"
+msgstr "'कोमा से अलग मान' फ़ाइल (*.csv)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSOTHERS\n"
+"radiobutton.text"
+msgid "Custom:"
+msgstr "मनपसंद:"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOOWNEXTENSIONAPPENDIX\n"
+"fixedtext.text"
+msgid "Custom: *.abc"
+msgstr "मनपसंद: *.abc"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FL_AUTOSEPARATOR2\n"
+"fixedline.text"
+msgid "Row Format"
+msgstr "कच्चा प्रारूप"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOFIELDSEPARATOR\n"
+"fixedtext.text"
+msgid "Field separator"
+msgstr "क्षेत्र पृथक्कारक"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOTEXTSEPARATOR\n"
+"fixedtext.text"
+msgid "Text separator"
+msgstr "पाठ पृथक्कारक"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTODECIMALSEPARATOR\n"
+"fixedtext.text"
+msgid "Decimal separator"
+msgstr "दशमलव पृथक्कारक"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"FT_AUTOTHOUSANDSSEPARATOR\n"
+"fixedtext.text"
+msgid "Thousands separator"
+msgstr "हजार पृथक्कारक"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"CB_AUTOHEADER\n"
+"checkbox.text"
+msgid "~Text contains headers"
+msgstr "पाठ में शीर्षिका है (~T)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTOTEXT_FIELD_SEP_NONE\n"
+"string.text"
+msgid "{None}"
+msgstr "{कोई नहीं}"
+
+#. EM Dec 2002: 'Space' refers to what you get when you hit the space bar on your keyboard.
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTOFIELDSEPARATORLIST\n"
+"string.text"
+msgid ";\t59\t,\t44\t:\t58\t{Tab}\t9\t{Space}\t32"
+msgstr ";\t59\t,\t44\t:\t58\t{Tab}\t9\t{Space}\t32"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTODELIMITER_MISSING\n"
+"string.text"
+msgid "#1 must be set."
+msgstr "#1 को जरूर सेट होना चाहिये."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTODELIMITER_MUST_DIFFER\n"
+"string.text"
+msgid "#1 and #2 must be different."
+msgstr "#1 और #2 भिन्न होना चाहिए."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTONO_WILDCARDS\n"
+"string.text"
+msgid "Wildcards such as ?,* are not allowed in #1."
+msgstr "#1 में ?,* जैसे वाइल्डकार्ड स्वीकृत नहीं है."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_JDBCDRIVERCLASSGROUP(AUTO_Y, AUTO_HID, AUTO_HID2)\n"
+"FT_AUTOJDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "JDBC d~river class"
+msgstr "JDBC चालक वर्ग (~r)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_JDBCDRIVERCLASSGROUP(AUTO_Y, AUTO_HID, AUTO_HID2)\n"
+"PB_AUTOTESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "जाँच वर्ग"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SOCKETCONTROLGROUP(AUTO_Y)\n"
+"FT_SOCKET\n"
+"fixedtext.text"
+msgid "Socket"
+msgstr "सॉकेट"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_NEWFOLDER\n"
+"imagebutton.quickhelptext"
+msgid "Create New Directory"
+msgstr "नई निर्देशिका बनाएँ"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_UP\n"
+"imagebutton.quickhelptext"
+msgid "Up One Level"
+msgstr "एक स्तर ऊपर"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"FT_EXPLORERFILE_FILENAME\n"
+"fixedtext.text"
+msgid "File ~name:"
+msgstr "फ़ाइल का नाम (~n):"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_SAVE\n"
+"pushbutton.text"
+msgid "Save"
+msgstr "सहेजें"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"STR_PATHNAME\n"
+"string.text"
+msgid "~Path:"
+msgstr "मार्ग (~P):"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"modaldialog.text"
+msgid "Save"
+msgstr "सहेजें"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"STR_NEW_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "फ़ोल्डर"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "फ़ाइल पहले से मौजूद है. इसके ऊपर लिखें?"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "General"
+msgstr "सामान्य"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Host name"
+msgstr "मेजबान नाम (~H)"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "User authentication"
+msgstr "उपयोक्ता सत्यापन"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "उपयोक्ता नाम (~U)"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"CB_PASSWORD_REQUIRED\n"
+"checkbox.text"
+msgid "Password required"
+msgstr "कूटशब्द जरूरी"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR3\n"
+"fixedline.text"
+msgid "JDBC properties"
+msgstr "JDBC गुण"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "~JDBC driver class"
+msgstr "JDBC चालक वर्ग (~J)"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test Class"
+msgstr "जाँच वर्ग"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"PB_TESTCONNECTION\n"
+"pushbutton.text"
+msgid "Test Connection"
+msgstr "जाँच कनेक्शन"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_TEST\n"
+"string.text"
+msgid "Connection Test"
+msgstr "कनेक्शन जाँच"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_SUCCESS\n"
+"string.text"
+msgid "The connection was established successfully."
+msgstr "कनेक्शन सफलतापूर्वक स्थापित किया गया."
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_NO_SUCCESS\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "कनेक्शन स्थापित नहीं किया जा सका."
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_JDBCDRIVER_SUCCESS\n"
+"string.text"
+msgid "The JDBC driver was loaded successfully."
+msgstr "JDBC चालक सफलतापूर्वक भारित किया गया था."
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_JDBCDRIVER_NO_SUCCESS\n"
+"string.text"
+msgid "The JDBC driver could not be loaded."
+msgstr "JDBC चालक सफलतापूर्वक भारित नहीं किया जा सका था."
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_MSACCESS_FILTERNAME\n"
+"string.text"
+msgid "MS Access file"
+msgstr "MS पहुँच फ़ाइल"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_MSACCESS_2007_FILTERNAME\n"
+"string.text"
+msgid "MS Access 2007 file"
+msgstr "MS एक्सेस 2007 फ़ाइल"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_FIREBIRD_FILTERNAME\n"
+"string.text"
+msgid "Firebird Database"
+msgstr ""
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FL_USER\n"
+"fixedline.text"
+msgid "User selection"
+msgstr "उपयोक्ता चुनाव"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FT_USER\n"
+"fixedtext.text"
+msgid "Us~er:"
+msgstr "उपयोक्ता (~e):"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_NEWUSER\n"
+"pushbutton.text"
+msgid "~Add User..."
+msgstr "उपयोक्ता जोड़ें (~A)..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_CHANGEPWD\n"
+"pushbutton.text"
+msgid "Change ~Password..."
+msgstr "कूटशब्द बदलें (~P)..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_DELETEUSER\n"
+"pushbutton.text"
+msgid "~Delete User..."
+msgstr "उपयोक्ता मिटाएँ (~D)..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FL_TABLE_GRANTS\n"
+"fixedline.text"
+msgid "Access rights for selected user"
+msgstr "चुने हुए उपयोक्ता के लिए प्रवेश अधिकार"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"QUERY_USERADMIN_DELETE_USER\n"
+"querybox.text"
+msgid "Do you really want to delete the user?"
+msgstr "आप सचमुच में उपयोक्ता को मिटाना चाहते हैं?"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"STR_USERADMIN_NOT_AVAILABLE\n"
+"string.text"
+msgid "The database does not support user administration."
+msgstr "डेटाबेस उपयोक्ता प्रशासन का समर्थन नहीं करता है."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"STR_ERROR_PASSWORDS_NOT_IDENTICAL\n"
+"string.text"
+msgid "The passwords do not match. Please enter the password again."
+msgstr "कूटशब्द समान नहीं है. कृपया फिर से कूटशब्द को प्रविष्ट कीजिए."
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_MYSQL_DATABASE_NAME\n"
+"fixedtext.text"
+msgid "~Database name"
+msgstr "डेटाबेस नाम (~D)"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_HOST_PORT\n"
+"radiobutton.text"
+msgid "Se~rver / Port"
+msgstr "सर्वर / पोर्ट (~r)"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_HOST_NAME\n"
+"fixedtext.text"
+msgid "~Server"
+msgstr "सर्वर (~S)"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_PORT\n"
+"fixedtext.text"
+msgid "~Port"
+msgstr "पोर्ट (~P)"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_PORT_DEFAULT\n"
+"fixedtext.text"
+msgid "Default: 3306"
+msgstr "तयशुदा: 3306"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_SOCKET\n"
+"radiobutton.text"
+msgid "So~cket"
+msgstr "सॉकेट (~c)"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_NAMED_PIPE\n"
+"radiobutton.text"
+msgid "Named p~ipe"
+msgstr "नामित पाइप (~i)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_USECATALOG(AUTO_Y)\n"
+"CB_USECATALOG\n"
+"checkbox.text"
+msgid "Use catalog for file-based databases"
+msgstr "फ़ाइल-आधारित डेटाबेस के लिए कैटलॉग इस्तेमाल करें"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_FIXEDLINE_CONNSETTINGS(AUTO_Y)\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Connection Settings"
+msgstr "कनेक्शन सेटिंग"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_HOST_AND_PORT(AUTO_Y)\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Host name"
+msgstr "मेजबान नाम (~H)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_HOST_AND_PORT(AUTO_Y)\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "पोर्ट संख्या (~P)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"DLG_DATABASE_TYPE_CHANGE\n"
+"modaldialog.text"
+msgid "Database properties"
+msgstr "आँकड़ा स्रोत गुण"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Optional settings"
+msgstr "वैकल्पिक सेटिंग"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"CB_SHOWDELETEDROWS\n"
+"checkbox.text"
+msgid "Display deleted records as well"
+msgstr "निष्क्रिय रिकार्डको दिखाएँ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"FT_SPECIAL_MESSAGE\n"
+"fixedtext.text"
+msgid "Note: When deleted, and thus inactive, records are displayed, you will not be able to delete records from the data source."
+msgstr "टिप्पणी: जब मिटाया गया, और इसलिए निष्क्रिय है, रिकार्ड प्रदर्शित किया गया, आप डेटास्रोत से रिकार्ड को मिटाने मे समर्थ नहीं होंगे."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"PB_INDICIES\n"
+"pushbutton.text"
+msgid "Indexes..."
+msgstr "अनुक्रमणिका..."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ODBC\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Optional Settings"
+msgstr "वैक्लल्पिक सेटिंग"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ODBC\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "ODBC ~options"
+msgstr "ODBC विकल्प (~o)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_JDBC\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "MySQL JDBC d~river class"
+msgstr "MySQL JDBC चालक वर्ग (~r)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_JDBC\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "जाँच वर्ग"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "User authentication"
+msgstr "उपयोक्ता सत्यापन"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "उपयोक्ता नाम (~U)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"CB_PASSWORD_REQUIRED\n"
+"checkbox.text"
+msgid "Password required"
+msgstr "कूटशब्द जरूरी"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ORACLE_JDBC\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "Oracle JDBC d~river class"
+msgstr "Oracle JDBC चालक वर्ग (~r)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ORACLE_JDBC\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "जाँच वर्ग"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Connection Settings"
+msgstr "कनेक्शन सेटिंग"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_BASEDN\n"
+"fixedtext.text"
+msgid "~Base DN"
+msgstr "आधार DN (~B)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"CB_USESSL\n"
+"checkbox.text"
+msgid "Use secure connection (SSL)"
+msgstr "सुरक्षित कनेक्शन प्रयोग करें (SSL)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "पोर्ट संख्या (~P)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_LDAPROWCOUNT\n"
+"fixedtext.text"
+msgid "Maximum number of ~records"
+msgstr "रिकार्ड की अधिकतम संख्या (~r)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Hostname"
+msgstr "मेजबाननाम (~H)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "पोर्ट संख्या (~P)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "~Driver settings"
+msgstr "चालक सेटिंग (~D)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_PARENTTITLE_GENERAL\n"
+"string.text"
+msgid "Data Source Properties: #"
+msgstr "आँकड़ा स्रोत गुण: #"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_ERR_USE_CONNECT_TO\n"
+"string.text"
+msgid "Please choose 'Connect to an existing database' to connect to an existing database instead."
+msgstr "किसी मौजूदा डेटाबेस से जुड़ने के लिए कृपया 'मौजूदा डेटाबेस से जुड़ें' चुनें."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_COULD_NOT_LOAD_ODBC_LIB\n"
+"string.text"
+msgid "Could not load the program library #lib# or it is corrupted. The ODBC data source selection is not available."
+msgstr "प्रोग्राम लाइब्रेरी #lib# को लोड नहीं कर सकता है अथवा दोषयुक्त है. ODBC आँकड़ा स्रोत चुनाव अनुपलब्ध है."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_UNSUPPORTED_DATASOURCE_TYPE\n"
+"string.text"
+msgid ""
+"This kind of data source is not supported on this platform.\n"
+"You are allowed to change the settings, but you probably will not be able to connect to the database."
+msgstr ""
+"इस प्लेटफोर्म में इस प्रकार का आँकड़ा स्रोत समर्थित नहीं है.\n"
+"आप निर्धारणों को बदल सकते हैं, लेकिन शायद आप डेटाबेस से कनेक्ट नहीं कर सकते हैं."
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_ENTER_CONNECTION_PASSWORD\n"
+"string.text"
+msgid "A password is needed to connect to the data source \"$name$\"."
+msgstr "\"$name$\" आँकड़ा स्रोत को कनेक्ट करने के लिए एक कूटशब्द की आवश्यकता है."
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_ASK_FOR_DIRECTORY_CREATION\n"
+"string.text"
+msgid ""
+"The directory\n"
+"\n"
+"$path$\n"
+"\n"
+"does not exist. Should it be created?"
+msgstr ""
+"निर्देशिका\n"
+"\n"
+"$path$\n"
+"\n"
+"मौजूद नहीं है. इसे बनाया जाना चाहिए?"
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_COULD_NOT_CREATE_DIRECTORY\n"
+"string.text"
+msgid "The directory $name$ could not be created."
+msgstr "$name$ निर्देशिका को उत्पन्न नहीं कर सकते हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_DBWIZARDTITLE\n"
+"string.text"
+msgid "Database Wizard"
+msgstr "डेटाबेस सहायक"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_INTROPAGE\n"
+"string.text"
+msgid "Select database"
+msgstr "डेटाबेस चुनें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_DBASE\n"
+"string.text"
+msgid "Set up dBASE connection"
+msgstr "dBASE कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_TEXT\n"
+"string.text"
+msgid "Set up a connection to text files"
+msgstr "एक पाठ डेटाबेस में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MSACCESS\n"
+"string.text"
+msgid "Set up Microsoft Access connection"
+msgstr "माइक्रोसॉफ़्ट एक्सेस कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_LDAP\n"
+"string.text"
+msgid "Set up LDAP connection"
+msgstr "dBASE कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ADO\n"
+"string.text"
+msgid "Set up ADO connection"
+msgstr "dBASE कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_JDBC\n"
+"string.text"
+msgid "Set up JDBC connection"
+msgstr "dBASE कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ORACLE\n"
+"string.text"
+msgid "Set up Oracle database connection"
+msgstr "Oracle डेटाबेस कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MYSQL\n"
+"string.text"
+msgid "Set up MySQL connection"
+msgstr "dBASE कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ODBC\n"
+"string.text"
+msgid "Set up ODBC connection"
+msgstr "dBASE कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_SPREADSHEET\n"
+"string.text"
+msgid "Set up Spreadsheet connection"
+msgstr "स्प्रेडशीट कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_AUTHENTIFICATION\n"
+"string.text"
+msgid "Set up user authentication"
+msgstr "उपयोक्ता सत्यापन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MYSQL_NATIVE\n"
+"string.text"
+msgid "Set up MySQL server data"
+msgstr "MySQL सर्वर डेटा सेट करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_FINAL\n"
+"string.text"
+msgid "Save and proceed"
+msgstr "सहेजें और बढ़ें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"modaldialog.text"
+msgid "Database Wizard"
+msgstr "डेटाबेस सहायक"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"STR_DATABASEDEFAULTNAME\n"
+"string.text"
+msgid "New Database"
+msgstr "नया डेटाबेस"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQL_HEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up a connection to a MySQL database"
+msgstr "एक MySQL डेटाबेस में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQL_HELPTEXT\n"
+"fixedtext.text"
+msgid ""
+"You can connect to a MySQL database using either ODBC or JDBC.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"आपको एक MySQL डेटाबेस से जुड़ना चाहिए या तो ODBC या JDBC प्रयोग करके.\n"
+"कृपया अपने तंत्र प्रशासक से संपर्क करे यदि आप निम्न सेटिंग के बारे में अनिश्चित हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQLCONNECTIONMODE\n"
+"fixedtext.text"
+msgid "How do you want to connect to your MySQL database?"
+msgstr "आप कैसे अपने MySQL डेटाबेस से जोड़ना चाहते हैं?"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIAODBC\n"
+"radiobutton.text"
+msgid "Connect using ODBC (Open Database Connectivity)"
+msgstr "ODBC (ओपन डेटाबेस कनेक्टिविटी) के प्रयोग से जोड़ें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIAJDBC\n"
+"radiobutton.text"
+msgid "Connect using JDBC (Java Database Connectivity)"
+msgstr "JDBC (Java डेटाबेस कनेक्टिविटी) के प्रयोग से जोड़ें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIANATIVE\n"
+"radiobutton.text"
+msgid "Connect directly"
+msgstr "सीधे कनेक्ट करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_AUTHENTIFICATIONHEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up the user authentication"
+msgstr "उपयोक्ता सत्यापन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_AUTHENTIFICATIONHELPTEXT\n"
+"fixedtext.text"
+msgid "Some databases require you to enter a user name."
+msgstr "कुछ डेटाबेस के लिए उपयोक्ता नाम आप दाखिल करें."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_GENERALUSERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "उपयोक्ता नाम (~U)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"CB_GENERALPASSWORDREQUIRED\n"
+"checkbox.text"
+msgid "Password re~quired"
+msgstr "कूटशब्द जरूरी (~q)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"PB_TESTCONNECTION\n"
+"pushbutton.text"
+msgid "~Test Connection"
+msgstr "जाँच कनेक्शन (~T)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQLJDBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up connection to a MySQL database using JDBC"
+msgstr "एक MySQL डेटाबेस में JDBC के प्रयोग से कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQLJDBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to a MySQL database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"आप JDBC प्रयोग करके एक MySQL डेटाबेस से जुड़ने के लिए जरूरी सूचना दीजिए. नोट करें कि एक JDBC चालक को आपके तंत्र पर जरूर संस्थापित किया जाना चाहिए और %PRODUCTNAME के साथ पंजीकृत.\n"
+"कृपया अपने तंत्र प्रशासक से संपर्क करें यदि आप निम्न सेटिंग के बारे में अनिश्चित हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQL_DRIVERCLASSTEXT\n"
+"string.text"
+msgid "MySQL JDBC d~river class:"
+msgstr "MySQL JDBC चालक वर्ग (~r):"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQL_DEFAULT\n"
+"string.text"
+msgid "Default: 3306"
+msgstr "तयशुदा: 3306"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_NATIVE\n"
+"FT_SETUP_WIZARD_HEADER\n"
+"fixedtext.text"
+msgid "Set up connection to a MySQL database"
+msgstr "एक MySQL डेटाबेस में कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_NATIVE\n"
+"FT_SETUP_WIZARD_HELP\n"
+"fixedtext.text"
+msgid "Please enter the required information to connect to a MySQL database."
+msgstr "कोई MySQL डेटाबेस में जोड़ने के लिए जरूरी सूचना को दाखिल करें."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_DBASE\n"
+"STR_DBASE_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to dBASE files"
+msgstr "dBASE फ़ाइल में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_DBASE\n"
+"STR_DBASE_HELPTEXT\n"
+"string.text"
+msgid "Select the folder where the dBASE files are stored."
+msgstr "वह फ़ोल्डर चुनें जहां dBASE फ़ाइलें जमा हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to text files"
+msgstr "एक पाठ डेटाबेस में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_HELPTEXT\n"
+"string.text"
+msgid "Select the folder where the CSV (Comma Separated Values) text files are stored. %PRODUCTNAME Base will open these files in read-only mode."
+msgstr "उस फ़ोल्डर को चुनें जहां CSV (अर्द्धविराम से अलग मान) पाठ फ़ाइलें जमा हैं. %PRODUCTNAME बेस इन फ़ाइलों को खोलेगा केवल पढ़ने के मोड में."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to text files"
+msgstr "पाठ फ़ाइल में पथ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MSACCESS\n"
+"STR_MSACCESS_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to a Microsoft Access database"
+msgstr "माइक्रोसॉफ़्ट एक्सेस डेटाबेस में एक कनेक्शन जमायें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MSACCESS\n"
+"STR_MSACCESS_HELPTEXT\n"
+"string.text"
+msgid "Please select the Microsoft Access file you want to access."
+msgstr "कृपया माइक्रोसॉफ़्ट एक्सेस फ़ाइल चुनें जिसे आप पहुँच करना चाहते हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"FT_LDAP_HEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up a connection to an LDAP directory"
+msgstr "एक LDAP निर्देशिका में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"FT_LDAP_HELPTEXT\n"
+"fixedtext.text"
+msgid ""
+"Please enter the required information to connect to an LDAP directory.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"आप एक LDAP निर्देशिका से जुड़ने के लिए जरूरी सूचना दीजिए.\n"
+"कृपया अपने तंत्र प्रशासक से संपर्क करें यदि आप निम्न सेटिंग के बारे में अनिश्चित हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"STR_LDAP_DEFAULT\n"
+"string.text"
+msgid "Default: 389"
+msgstr "तयशुदा: 389"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"CB_WIZ_USESSL\n"
+"checkbox.text"
+msgid "Use ~secure connection (SSL)"
+msgstr "सुरक्षित कनेक्शन प्रयोग करें (SSL) (~s)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ADO\n"
+"STR_ADO_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an ADO database"
+msgstr "एक ADO डेटाबेस में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ADO\n"
+"STR_ADO_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the URL of the ADO data source you want to connect to.\n"
+"Click 'Browse' to configure provider-specific settings.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ADO डाटा स्रोत को URL दीजिए जिससे आप जुड़ना चाहते हैं.\n"
+"'ब्राउज़'को क्लिक करें देनेवाले विशेष सेटिंग को विन्यस्त करने के लिए.\n"
+"कृपया अपने तंत्र प्रशासक से संपर्क करें यदि आप निम्न सेटिंग के बारे में अनिश्चित हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ODBC\n"
+"STR_ODBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an ODBC database"
+msgstr "एक ODBC डेटाबेस में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ODBC\n"
+"STR_ODBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Enter the name of the ODBC database you want to connect to.\n"
+"Click 'Browse...' to select an ODBC database that is already registered in %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ODBC डेटाबेस का नाम दीजिए जिससे आप जुड़ना चाहतें हैं.\n"
+"'ब्राउज़...'को क्लिक करें एक ODBC डेटाबेस से चुनने के लिए जो पहले से %PRODUCTNAME में पंजीकृत है.\n"
+"कृपया अपने तंत्र प्रशासक से संपर्क करें यदि आप निम्न सेटिंग के बारे में अनिश्चित हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_JDBC\n"
+"STR_JDBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to a JDBC database"
+msgstr "एक JDBC डेटाबेस में एक कनेक्शन सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_JDBC\n"
+"STR_JDBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to a JDBC database.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"आप एक JDBC निर्देशिका से जुड़ने के लिए जरूरी सूचना दीजिए.\n"
+"कृपया अपने तंत्र प्रशासक से संपर्क करें यदि आप निम्न सेटिंग के बारे में अनिश्चित हैं."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an Oracle database"
+msgstr "एक Oracle डेटाबेस में एक कनेक्शन का सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_DEFAULT\n"
+"string.text"
+msgid "Default: 1521"
+msgstr "तयशुदा: 1521"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_DRIVERCLASSTEXT\n"
+"string.text"
+msgid "Oracle JDBC ~driver class"
+msgstr "Oracle JDBC चालक वर्ग (~d)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to an Oracle database. Note that a JDBC Driver Class must be installed on your system and registered with %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEET_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to spreadsheets"
+msgstr "स्प्रेडशीट में कनेक्शन का सेटअप करें"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEET_HELPTEXT\n"
+"string.text"
+msgid ""
+"Click 'Browse...' to select a %PRODUCTNAME spreadsheet or Microsoft Excel workbook.\n"
+"%PRODUCTNAME will open this file in read-only mode."
+msgstr ""
+"'ब्राउज़ करें...'को क्लिक करें एक %PRODUCTNAME स्प्रेडशीट अथवा माइक्रोसॉफ़्ट एक्सेल वर्कबुक को चुनने के लिए .\n"
+"%PRODUCTNAME इस फ़ाइल को सिर्फ पढ़ने के लिए मोड में खोलेगा."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEETPATH\n"
+"string.text"
+msgid "~Location and file name"
+msgstr "अवस्थिति और फ़ाइल नाम (~L)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"CB_SPREADSHEETPASSWORDREQUIRED\n"
+"checkbox.text"
+msgid "~Password required"
+msgstr "कूटशब्द जरूरी (~P)"
+
+#: directsql.src
+msgctxt ""
+"directsql.src\n"
+"STR_COMMAND_EXECUTED_SUCCESSFULLY\n"
+"string.text"
+msgid "Command successfully executed."
+msgstr "आज्ञा सफलता से पूरी हुई."
+
+#: directsql.src
+msgctxt ""
+"directsql.src\n"
+"STR_DIRECTSQL_CONNECTIONLOST\n"
+"string.text"
+msgid "The connection to the database has been lost. This dialog will be closed."
+msgstr "डेटाबेस से कनेक्शन नष्ट हो गया. इस डायलॉग को बंद किया जाएगा."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_NEW\n"
+"toolboxitem.text"
+msgid "New Index"
+msgstr "नई अनुक्रमणिका"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_DROP\n"
+"toolboxitem.text"
+msgid "Delete Current Index"
+msgstr "वर्तमाण अनुक्रमणिका को मिटाएँ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_RENAME\n"
+"toolboxitem.text"
+msgid "Rename Current Index"
+msgstr "वर्तमान अनुक्रमणिका को पुनः नाम दें"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_SAVE\n"
+"toolboxitem.text"
+msgid "Save Current Index"
+msgstr "वर्तमान अनुक्रमणिका सहेजें"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_RESET\n"
+"toolboxitem.text"
+msgid "Reset Current Index"
+msgstr "वर्तमान अनुक्रमणिका फिर सेट करें"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FL_INDEXDETAILS\n"
+"fixedline.text"
+msgid "Index details"
+msgstr "अनुक्रमणिका विवरण"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FT_DESC_LABEL\n"
+"fixedtext.text"
+msgid "Index identifier:"
+msgstr "अनुक्रमणिका पहचानकर्ता:"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"CB_UNIQUE\n"
+"checkbox.text"
+msgid "~Unique"
+msgstr "अद्वितीय (~U)"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FT_FIELDS\n"
+"fixedtext.text"
+msgid "Fields"
+msgstr "क्षेत्र"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"PB_CLOSE\n"
+"pushbutton.text"
+msgid "~Close"
+msgstr "बंद करें (~C)"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"modaldialog.text"
+msgid "Indexes"
+msgstr "सूची"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_TAB_INDEX_SORTORDER\n"
+"string.text"
+msgid "Sort order"
+msgstr "छांटने का क्रम"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_TAB_INDEX_FIELD\n"
+"string.text"
+msgid "Index field"
+msgstr "अनुक्रमणिका क्षेत्र"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_ORDER_ASCENDING\n"
+"string.text"
+msgid "Ascending"
+msgstr "आरोहण क्रम"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_ORDER_DESCENDING\n"
+"string.text"
+msgid "Descending"
+msgstr "अवरोहण क्रम"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_CONFIRM_DROP_INDEX\n"
+"string.text"
+msgid "Do you really want to delete the index '$name$'?"
+msgstr "आप सचमुच में '$name$' अनुक्रमणिका को मिटाना चाहते हैं?"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_LOGICAL_INDEX_NAME\n"
+"string.text"
+msgid "index"
+msgstr "सूची"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"ERR_NEED_INDEX_FIELDS\n"
+"errorbox.text"
+msgid "The index must contain at least one field."
+msgstr "अनुक्रमणिका में कम से कम एक क्षेत्र का रहना ज़रूरी है."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"ERR_NEED_INDEX_FIELDS\n"
+"errorbox.title"
+msgid "Save Index"
+msgstr "सूची सहेजें"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"QUERY_SAVE_CURRENT_INDEX\n"
+"querybox.text"
+msgid "Do you want to save the changes made to the current index?"
+msgstr "आप वर्तमान अनुक्रमणिका में किए गए परिवर्तनों को सहेजना चाहते हैं?"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"QUERY_SAVE_CURRENT_INDEX\n"
+"querybox.title"
+msgid "Exit Index Design"
+msgstr "निकास सूची डिजायन"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_INDEX_NAME_ALREADY_USED\n"
+"string.text"
+msgid "There is already another index named \"$name$\"."
+msgstr "\"$name$\" नाम की अनुक्रमणिका पहले से ही अस्तित्व में है."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_INDEXDESIGN_DOUBLE_COLUMN_NAME\n"
+"string.text"
+msgid "In an index definition, no table column may occur more than once. However, you have entered column \"$name$\" twice."
+msgstr "अनुक्रमणिका परिभाषा में, कोई भी सारणी के स्तंभ एक से अधिक बार नहीं आना चाहिए . आपने \"$name$\" स्तंभ को दो बार प्रविष्ट किया है."
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"FL_PARAMS\n"
+"fixedline.text"
+msgid "~Parameters"
+msgstr "पैरामीटर (~P)"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"FT_VALUE\n"
+"fixedtext.text"
+msgid "~Value"
+msgstr "मान (~V)"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"BT_TRAVELNEXT\n"
+"pushbutton.text"
+msgid "~Next"
+msgstr "आगे (~N)"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"STR_COULD_NOT_CONVERT_PARAM\n"
+"string.text"
+msgid "The entry could not be converted to a valid value for the \"$name$\"column"
+msgstr "प्रविष्टि को \"$name$\"स्तंभ के लिए मान्य मूल्य में बदल नहीं सकते हैं"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"modaldialog.text"
+msgid "Parameter Input"
+msgstr "पैरामीटर इनपुट"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_STATUS\n"
+"string.text"
+msgid "SQL Status"
+msgstr ""
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_ERRORCODE\n"
+"string.text"
+msgid "Error code"
+msgstr ""
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXPLAN_STRINGCONVERSION_ERROR\n"
+"string.text"
+msgid "A frequent reason for this error is an inappropriate character set setting for the language of your database. Check the setting by choosing Edit - Database - Properties."
+msgstr "आपके डेटाबेस भाषा के लिए एक उचित वर्ण सेटिंग इस त्रुटि का कारण है. सेटिंग को जाँचें संपादन - डेटाबेस - गुण को चुन कर."
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "त्रुटि"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr "चेतावनी"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_INFO\n"
+"string.text"
+msgid "Information"
+msgstr "सूचना"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_DETAILS\n"
+"string.text"
+msgid "Details"
+msgstr "विवरण"
+
+#: textconnectionsettings.src
+msgctxt ""
+"textconnectionsettings.src\n"
+"DLG_TEXT_CONNECTION_SETTINGS\n"
+"modaldialog.text"
+msgid "Text Connection Settings"
+msgstr "पाठ कनेक्शन सेटिंग"

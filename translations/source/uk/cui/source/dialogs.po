@@ -1,0 +1,2006 @@
+#. extracted from cui/source/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-06-15 17:17+0000\n"
+"Last-Translator: Андрій <andriykopanytsia@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1402852641.000000\n"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"modaldialog.text"
+msgid "Color Picker"
+msgstr "Вибір кольору"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"PB_PICKER\n"
+"imagebutton.quickhelptext"
+msgid "Pick a color from the document"
+msgstr "Вибір кольору зі документа"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_RGB\n"
+"fixedline.text"
+msgid "RGB"
+msgstr "RGB"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_RED\n"
+"fixedtext.text"
+msgid "~Red"
+msgstr "~Червоний"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_GREEN\n"
+"fixedtext.text"
+msgid "~Green"
+msgstr "~Зелений"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BLUE\n"
+"fixedtext.text"
+msgid "~Blue"
+msgstr "~Синій"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HEX\n"
+"fixedtext.text"
+msgid "Hex ~#"
+msgstr "Шістнадцятковий ~#"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_HSB\n"
+"fixedline.text"
+msgid "HSB"
+msgstr "HSB"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HUE\n"
+"fixedtext.text"
+msgid "H~ue"
+msgstr "~Тон"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_SATURATION\n"
+"fixedtext.text"
+msgid "~Saturation"
+msgstr "~Насиченість"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BRIGHTNESS\n"
+"fixedtext.text"
+msgid "Bright~ness"
+msgstr "~Яскравість"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_CMYK\n"
+"fixedline.text"
+msgid "CMYK"
+msgstr "CMYK"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_CYAN\n"
+"fixedtext.text"
+msgid "~Cyan"
+msgstr "~Блакитний"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_MAGENTA\n"
+"fixedtext.text"
+msgid "~Magenta"
+msgstr "~Пурпурний"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_YELLOW\n"
+"fixedtext.text"
+msgid "~Yellow"
+msgstr "~Жовтий"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_KEY\n"
+"fixedtext.text"
+msgid "~Key"
+msgstr "~Чорний"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_WORD\n"
+"fixedtext.text"
+msgid "Origi~nal"
+msgstr "~Оригінал"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_NEWWORD\n"
+"fixedtext.text"
+msgid "~Word"
+msgstr "~Слово"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_SUGGESTION\n"
+"fixedtext.text"
+msgid "~Suggestions"
+msgstr "~Варіанти"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNORE\n"
+"pushbutton.text"
+msgid "~Ignore"
+msgstr "~Пропустити"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNOREALL\n"
+"pushbutton.text"
+msgid "Always I~gnore"
+msgstr "П~ропускати завжди"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGE\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr "~Замінити"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGEALL\n"
+"pushbutton.text"
+msgid "Always R~eplace"
+msgstr "З~амінювати завжди"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_OPTIONS\n"
+"pushbutton.text"
+msgid "Options..."
+msgstr "Параметри..."
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_SPL_CANCEL\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "~Закрити"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ERR_TEXTNOTFOUND\n"
+"string.text"
+msgid "No alternatives found."
+msgstr "Альтернатив не знайдено."
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECT_FILE_IFRAME\n"
+"string.text"
+msgid "Select File for Floating Frame"
+msgstr "Вибрати файл для рухомого фрейму"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_MYMACROS\n"
+"string.text"
+msgid "My Macros"
+msgstr "Мої макроси"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PRODMACROS\n"
+"string.text"
+msgid "%PRODUCTNAME Macros"
+msgstr "Макроси %PRODUCTNAME"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_ADD_COMMANDS\n"
+"string.text"
+msgid "Add Commands"
+msgstr "Додати команди"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_RUN\n"
+"string.text"
+msgid "Run"
+msgstr "Виконати"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ROW\n"
+"string.text"
+msgid "Insert Rows"
+msgstr "Вставити рядки"
+
+#. PPI is pixel per inch, %1 is a number
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PPI\n"
+"string.text"
+msgid "(%1 PPI)"
+msgstr "(%1 PPI)"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_COL\n"
+"string.text"
+msgid "Insert Columns"
+msgstr "Вставити стовпчики"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_AUTO_ENTRY\n"
+"string.text"
+msgid "Automatic"
+msgstr "Автоматично"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_EDIT_GRAPHIC\n"
+"string.text"
+msgid "Link"
+msgstr "Посилання"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_LOADACCELCONFIG\n"
+"string.text"
+msgid "Load Keyboard Configuration"
+msgstr "Завантажити конфігурацію клавіатури"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SAVEACCELCONFIG\n"
+"string.text"
+msgid "Save Keyboard Configuration"
+msgstr "Зберегти конфігурацію клавіатури"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_FILTERNAME_CFG\n"
+"string.text"
+msgid "Configuration (*.cfg)"
+msgstr "Конфігурація (*.cfg)"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_ANYWHERE\n"
+"string.text"
+msgid "anywhere in the field"
+msgstr "будь-де у полі"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_BEGINNING\n"
+"string.text"
+msgid "beginning of field"
+msgstr "на початку поля"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_END\n"
+"string.text"
+msgid "end of field"
+msgstr "наприкінці поля"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_WHOLE\n"
+"string.text"
+msgid "entire field"
+msgstr "все поле"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_TOP\n"
+"string.text"
+msgid "From top"
+msgstr "Згори"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_BOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "Знизу"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_NORECORD\n"
+"errorbox.text"
+msgid "No records corresponding to your data found."
+msgstr "Не знайдено записи, що відповідають запиту."
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_GENERAL_ERROR\n"
+"errorbox.text"
+msgid "An unknown error occurred. The search could not be finished."
+msgstr "Невідома помилка. Неможливо завершити пошук."
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_FORWARD\n"
+"string.text"
+msgid "Overflow, search continued at the beginning"
+msgstr "Переповнення, пошук буде продовжено з початку"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_BACKWARD\n"
+"string.text"
+msgid "Overflow, search continued at the end"
+msgstr "Переповнення, пошук буде продовжено з кінця"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_COUNTING\n"
+"string.text"
+msgid "counting records"
+msgstr "підрахунок записів"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOFILES\n"
+"string.text"
+msgid "<No Files>"
+msgstr "<без файлів>"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERYPROPS_OBJECT\n"
+"string.text"
+msgid "Object;Objects"
+msgstr "Об'єкт; Об'єкти"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_READONLY\n"
+"string.text"
+msgid "(read-only)"
+msgstr "(лише для читання)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ALLFILES\n"
+"string.text"
+msgid "<All Files>"
+msgstr "<Усі файли>"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ID_EXISTS\n"
+"string.text"
+msgid "This ID already exists..."
+msgstr "Цей ID вже існує..."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find"
+msgstr "З~найти"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "Формат"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_SIMPLE_CONVERSION\n"
+"radiobutton.text"
+msgid "~Hangul/Hanja"
+msgstr "~Хангиль/Ханджа"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BRACKETED\n"
+"radiobutton.text"
+msgid "Hanja (Han~gul)"
+msgstr "Ханджа (Хан~гиль)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BRACKETED\n"
+"radiobutton.text"
+msgid "Hang~ul (Hanja)"
+msgstr "Ханги~ль (Ханджа)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_ABOVE\n"
+"radiobutton.text"
+msgid "Hangu~l"
+msgstr "Хангил~ь"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BELOW\n"
+"radiobutton.text"
+msgid "Hang~ul"
+msgstr "Х~ангиль"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_ABOVE\n"
+"radiobutton.text"
+msgid "Han~ja"
+msgstr "Ханд~жа"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BELOW\n"
+"radiobutton.text"
+msgid "Ha~nja"
+msgstr "Хан~джа"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_CONVERSION\n"
+"fixedtext.text"
+msgid "Conversion"
+msgstr "Перетворення"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANGUL_ONLY\n"
+"checkbox.text"
+msgid "Hangul ~only"
+msgstr "~Лише Хангиль"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANJA_ONLY\n"
+"checkbox.text"
+msgid "Hanja onl~y"
+msgstr "Ли~ше Ханджа"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_REPLACE_BY_CHARACTER\n"
+"checkbox.text"
+msgid "Replace b~y character"
+msgstr "Замінити ~символом"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "Хангиль"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANJA\n"
+"string.text"
+msgid "Hanja"
+msgstr "Ханджа"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"modaldialog.text"
+msgid "Hangul/Hanja Conversion"
+msgstr "Перетворення Хангиль/Ханджа"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"STR_EDITHINT\n"
+"string.text"
+msgid "[Enter text here]"
+msgstr "[Введіть тут текст]"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_BOOK\n"
+"fixedtext.text"
+msgid "Book"
+msgstr "Книжка"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_ORIGINAL\n"
+"fixedtext.text"
+msgid "Original"
+msgstr "Оригінал"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_SUGGESTIONS\n"
+"fixedtext.text"
+msgid "Suggestions (max. 8)"
+msgstr "Пропозиції (до 8)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_NEW\n"
+"pushbutton.text"
+msgid "New"
+msgstr "Створити"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_DELETE\n"
+"pushbutton.text"
+msgid "Delete"
+msgstr "Видалити"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_CLOSE\n"
+"cancelbutton.text"
+msgid "Close"
+msgstr "Закрити"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"modaldialog.text"
+msgid "Edit Custom Dictionary"
+msgstr "Редагування словника користувача"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_APPLY\n"
+"pushbutton.text"
+msgid "Apply"
+msgstr "Застосувати"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_CLOSE\n"
+"pushbutton.text"
+msgid "Close"
+msgstr "Закрити"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"modaldialog.text"
+msgid "Target in Document"
+msgstr "Посилання на елемент у документі"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_NOENTRIES\n"
+"string.text"
+msgid "Targets do not exist in the document."
+msgstr "У документі немає доступних для посилання елементів."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_DOCNOTOPEN\n"
+"string.text"
+msgid "Couldn't open the document."
+msgstr "Неможливо відкрити документ."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"STR_MARK_TREE\n"
+"string.text"
+msgid "Mark Tree"
+msgstr "Позначити дерево"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_LINKTYPE\n"
+"fixedline.text"
+msgid "Hyperlink type"
+msgstr "Тип гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_INTERNET\n"
+"radiobutton.text"
+msgid "~Web"
+msgstr "~Інтернет"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_FTP\n"
+"radiobutton.text"
+msgid "~FTP"
+msgstr "~FTP"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TARGET_HTML\n"
+"fixedtext.text"
+msgid "Tar~get"
+msgstr "~Адреса"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_LOGIN\n"
+"fixedtext.text"
+msgid "~Login name"
+msgstr "~Ім'я користувача"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_PASSWD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr "~Пароль"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"CBX_ANONYMOUS\n"
+"checkbox.text"
+msgid "Anonymous ~user"
+msgstr "Анонімний ~користувач"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "WWW Browser"
+msgstr "WWW-оглядач"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Open web browser, copy an URL, and paste it to Target field"
+msgstr "Відкрити веб-браузер, скопіювати URL і вставити у цільове поле"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Додаткові параметри"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "Фре~йм"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "~Елемент"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Кнопка"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "~Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Назва"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MAILNEWS\n"
+"fixedline.text"
+msgid "Mail & news"
+msgstr "Пошта та новини"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_MAIL\n"
+"radiobutton.text"
+msgid "~E-mail"
+msgstr "Ел.по~шта"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_NEWS\n"
+"radiobutton.text"
+msgid "~News"
+msgstr "~Новини"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_RECEIVER\n"
+"fixedtext.text"
+msgid "Re~cipient"
+msgstr "~Отримувач"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "~Тема"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.text"
+msgid "Data Sources..."
+msgstr "Джерела даних..."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.quickhelptext"
+msgid "Data Sources..."
+msgstr "Джерела даних..."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Додаткові параметри"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "Фре~йм"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "~Елемент"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Кнопка"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "~Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Назва"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_DOCUMENT\n"
+"fixedline.text"
+msgid "Document"
+msgstr "Документ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_PATH_DOC\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "~Шлях"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.text"
+msgid "Open File"
+msgstr "Відкрити файл"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.quickhelptext"
+msgid "Open File"
+msgstr "Відкрити файл"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_TARGET\n"
+"fixedline.text"
+msgid "Target in document"
+msgstr "Посилання на елемент у документі"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TARGET_DOC\n"
+"fixedtext.text"
+msgid "Targ~et"
+msgstr "~Ціль"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_URL\n"
+"fixedtext.text"
+msgid "URL"
+msgstr "URL"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FULL_URL\n"
+"fixedtext.text"
+msgid "Test text"
+msgstr "Тестовий текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "Target in Document"
+msgstr "Посилання на елемент у документі"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Target in Document"
+msgstr "Посилання на елемент у документі"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Додаткові параметри"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "Фре~йм"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "~Елемент"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Кнопка"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "~Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Назва"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_NEWDOCUMENT\n"
+"fixedline.text"
+msgid "New document"
+msgstr "Створити документ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITNOW\n"
+"radiobutton.text"
+msgid "Edit ~now"
+msgstr "Редагувати ~зараз"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITLATER\n"
+"radiobutton.text"
+msgid "Edit ~later"
+msgstr "Правити ~пізніше"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_PATH_NEWDOC\n"
+"fixedtext.text"
+msgid "~File"
+msgstr "~Файл"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_DOCUMENT_TYPES\n"
+"fixedtext.text"
+msgid "File ~type"
+msgstr "~Тип файла"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.text"
+msgid "Select Path"
+msgstr "Вибрати шлях"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.quickhelptext"
+msgid "Select Path"
+msgstr "Вибрати шлях"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Додаткові параметри"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "Фре~йм"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "~Елемент"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Кнопка"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "~Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Назва"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Події"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXDLG_NEWHYPERLINK\n"
+"modaldialog.text"
+msgid "Hyperlink"
+msgstr "Гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_APPLYBUT\n"
+"string.text"
+msgid "Apply"
+msgstr "Застосувати"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_CLOSEBUT\n"
+"string.text"
+msgid "Close"
+msgstr "Закрити"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT1\n"
+"string.text"
+msgid "Mouse over object"
+msgstr "Миша над об'єктом"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT2\n"
+"string.text"
+msgid "Trigger hyperlink"
+msgstr "Запустити гіперпосилання"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT3\n"
+"string.text"
+msgid "Mouse leaves object"
+msgstr "Миша залишає об'єкт"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_NOVALIDFILENAME\n"
+"string.text"
+msgid "Please type in a valid file name."
+msgstr "Введіть правильну назву файла."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP\n"
+"string.text"
+msgid "Internet"
+msgstr "Інтернет"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to a Web page or FTP server connection."
+msgstr "Тут ви створюєте гіперпосилання до веб-сторінки або з'єднання з FTP-сервером."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP\n"
+"string.text"
+msgid "Mail & News"
+msgstr "Пошта та новини"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an e-mail address or newsgroup."
+msgstr "Тут ви створюєте гіперпосилання на адресу електронної пошти або групи новин."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP\n"
+"string.text"
+msgid "Document"
+msgstr "Документ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an existing document or a target within a document."
+msgstr "Місце для створення гіперпосилання на наявний документ або певне місце у документі."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP\n"
+"string.text"
+msgid "New Document"
+msgstr "Створити документ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP_HELP\n"
+"string.text"
+msgid "This is where you create a new document to which the new link points."
+msgstr "Тут ви створюєте новий документ на який вказує нове посилання."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FORM_BUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "Кнопка"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FROM_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Текст"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_QUERYOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "Файл вже існує. Перезаписати?"
+
+#: iconcdlg.src
+msgctxt ""
+"iconcdlg.src\n"
+"RID_SVXSTR_ICONCHOICEDLG_RESETBUT\n"
+"string.text"
+msgid "~Back"
+msgstr "Н~азад"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_MULTIPATH_DBL_ERR\n"
+"string.text"
+msgid "The path %1 already exists."
+msgstr "Шлях %1 вже існує."
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_TITLE\n"
+"string.text"
+msgid "Select Archives"
+msgstr "Вибір архівів"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_HEADLINE\n"
+"string.text"
+msgid "Archives"
+msgstr "Архіви"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_MULTIFILE_DBL_ERR\n"
+"string.text"
+msgid "The file %1 already exists."
+msgstr "Файл %1 вже існує."
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_PASSWD_MUST_BE_CONFIRMED\n"
+"string.text"
+msgid "Password must be confirmed"
+msgstr "Потрібно підтвердити пароль"
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_ONE_PASSWORD_MISMATCH\n"
+"string.text"
+msgid "The confirmation password did not match the password. Set the password again by entering the same password in both boxes."
+msgstr "Підтвердження та пароль не збігаються. Спробуйте знову, ввівши в обидва поля однакові паролі."
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_TWO_PASSWORDS_MISMATCH\n"
+"string.text"
+msgid "The confirmation passwords did not match the original passwords. Set the passwords again."
+msgstr "Паролі підтвердження не збігаються з оригінальними. Задайте паролі знову."
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_INVALID_STATE_FOR_OK_BUTTON\n"
+"string.text"
+msgid "Please enter a password to open or to modify, or check the open read-only option to continue."
+msgstr "Для продовження введіть пароль відкриття або зміни або вкажіть «тільки для читання»."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY\n"
+"string.text"
+msgid "Do you want to delete the following object?"
+msgstr "Ви справді хочете видалити цей об'єкт?"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY_TITLE\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "Підтвердити видалення"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED\n"
+"string.text"
+msgid "The selected object could not be deleted."
+msgstr "Не вдається видалити вибраний об'єкт."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to delete this object."
+msgstr " Вам бракує прав для видалення цього об'єкту."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED_TITLE\n"
+"string.text"
+msgid "Error Deleting Object"
+msgstr "Помилка при видаленні об'єкту"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED\n"
+"string.text"
+msgid "The object could not be created."
+msgstr "Не вдається створити об'єкт."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDDUP\n"
+"string.text"
+msgid " Object with the same name already exists."
+msgstr " Об'єкт з такою назвою вже існує."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to create this object."
+msgstr " Вам бракує прав для створення цього об'єкту."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED_TITLE\n"
+"string.text"
+msgid "Error Creating Object"
+msgstr "Помилка при створенні об'єкту"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED\n"
+"string.text"
+msgid "The object could not be renamed."
+msgstr "Не вдається перейменувати об'єкт."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to rename this object."
+msgstr " Вам бракує прав для перейменування цього об'єкту."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED_TITLE\n"
+"string.text"
+msgid "Error Renaming Object"
+msgstr "Помилка при перейменуванні об'єкту"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TITLE\n"
+"string.text"
+msgid "%PRODUCTNAME Error"
+msgstr "Помилка %PRODUCTNAME"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_LANG_NOT_SUPPORTED\n"
+"string.text"
+msgid "The scripting language %LANGUAGENAME is not supported."
+msgstr "Мова сценаріїв %LANGUAGENAME не підтримується."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_RUNNING\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "Помилка при виконанні сценарію %LANGUAGENAME %SCRIPTNAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_RUNNING\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "Виключна ситуація при виконанні сценарію %LANGUAGENAME %SCRIPTNAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_AT_LINE\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "Помилка при виконанні сценарію %LANGUAGENAME %SCRIPTNAME у рядку: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_AT_LINE\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "Виключна ситуація при виконанні сценарію %LANGUAGENAME %SCRIPTNAME у рядку: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_RUNNING\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "Помилка сценарію при виконанні сценарію %LANGUAGENAME %SCRIPTNAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_AT_LINE\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "Помилка сценарію при виконанні сценарію %LANGUAGENAME %SCRIPTNAME у рядку: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TYPE_LABEL\n"
+"string.text"
+msgid "Type:"
+msgstr "Тип:"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_MESSAGE_LABEL\n"
+"string.text"
+msgid "Message:"
+msgstr "Повідомлення:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "Первинний файл"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_LINKS\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "Елемент:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "Type"
+msgstr "Тип"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_STATUS\n"
+"fixedtext.text"
+msgid "Status"
+msgstr "Стан"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"1\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "~Закрити"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_UPDATE_NOW\n"
+"pushbutton.text"
+msgid "~Update"
+msgstr "~Оновити"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_OPEN_SOURCE\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr "~Відкрити"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_CHANGE_SOURCE\n"
+"pushbutton.text"
+msgid "~Modify..."
+msgstr "~Змінити..."
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_BREAK_LINK\n"
+"pushbutton.text"
+msgid "~Break Link"
+msgstr "~Розірвати зв'язок"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES2\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "Первинний файл"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_SOURCE2\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "Елемент:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE2\n"
+"fixedtext.text"
+msgid "Type:"
+msgstr "Тип:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_UPDATE\n"
+"fixedtext.text"
+msgid "Update:"
+msgstr "Оновити:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_AUTOMATIC\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "~Автоматично"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_MANUAL\n"
+"radiobutton.text"
+msgid "Ma~nual"
+msgstr "В~ручну"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_AUTOLINK\n"
+"string.text"
+msgid "Automatic"
+msgstr "Автоматично"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_MANUALLINK\n"
+"string.text"
+msgid "Manual"
+msgstr "Вручну"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BROKENLINK\n"
+"string.text"
+msgid "Not available"
+msgstr "Недоступно"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_GRAPHICLINK\n"
+"string.text"
+msgid "Graphic"
+msgstr "Графічний об'єкт"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BUTTONCLOSE\n"
+"string.text"
+msgid "~Close"
+msgstr "~Закрити"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "Ви дійсно хочете видалити виділені зв'язки?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG_MULTI\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "Ви дійсно хочете видалити виділені зв'язки?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_WAITINGLINK\n"
+"string.text"
+msgid "Waiting"
+msgstr "Очікування"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"modaldialog.text"
+msgid "Edit Links"
+msgstr "Редагування зв'язків"

@@ -1,0 +1,599 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2011-04-06 04:37+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "Okukhethwa kummandla:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Itheyibhile;Intandabuzo;Sql;Sql [Yomthonyama]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "Isiseko Seenkcukacha Somthombo Wolwazi"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "Ingaba ufuna ukuhlela ucwangciso loluhlu olwehlayo?"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"GB_MAPPING\n"
+"fixedline.text"
+msgid "Column names"
+msgstr "Amagama oluhlu olwehlayo"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"ST_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<akukho>"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"modaldialog.text"
+msgid "Column Layout for Table %1"
+msgstr "Ukumiswa Kakuhle Kwetheyibhile %1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "Inqaku elipapashwayo"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "Incwadi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "Iincwadana zezazisi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "Isicatshulwa esivela encwadini"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "Isicatshulwa esivela encwadini esinesihloko"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr "Ingqokelela yamanqaku apapashwe ngobunzululwazi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr "Ukugcinwa kwamaxwebhu ngobugcisa"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "I-thesis"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "Ingxubevange"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "I-dissertation"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "Ingxelo yophando"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "Akupapashwanga"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "e-mail"
+msgstr "imeyile"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "Uxwebhu lwe-WWW"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "Kuchazelwe-umsebenzisi1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr "Kuchazelwe-umsebenzisi2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr "Kuchazelwe-umsebenzisi3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr "Kuchazelwe-umsebenzisi4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr "Kuchazelwe-umsebenzisi5"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"tabpage.text"
+msgid "General"
+msgstr "Ngokubanzi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_IDENTIFIER\n"
+"string.text"
+msgid "~Short name"
+msgstr "~Igama elifutshane"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHTYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "~Isimbo"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_YEAR\n"
+"string.text"
+msgid "~Year"
+msgstr "~Unyaka"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHOR\n"
+"string.text"
+msgid "Author(s)"
+msgstr "Ababhali"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TITLE\n"
+"string.text"
+msgid "Tit~le"
+msgstr "Isihlo~ko"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PUBLISHER\n"
+"string.text"
+msgid "~Publisher"
+msgstr "~Umpapashi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ADDRESS\n"
+"string.text"
+msgid "A~ddress"
+msgstr "I~dilesi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ISBN\n"
+"string.text"
+msgid "~ISBN"
+msgstr "~ISBN"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CHAPTER\n"
+"string.text"
+msgid "~Chapter"
+msgstr "~Isahluko"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PAGE\n"
+"string.text"
+msgid "Pa~ge(s)"
+msgstr "Amakha~si"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITOR\n"
+"string.text"
+msgid "Editor"
+msgstr "Umhleli"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITION\n"
+"string.text"
+msgid "Ed~ition"
+msgstr "Uhl~elo"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_BOOKTITLE\n"
+"string.text"
+msgid "~Book title"
+msgstr "Isihloko ~Sencwadi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_VOLUME\n"
+"string.text"
+msgid "Volume"
+msgstr "Isixa"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_HOWPUBLISHED\n"
+"string.text"
+msgid "Publication t~ype"
+msgstr "I~simbo sopapasho"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ORGANIZATION\n"
+"string.text"
+msgid "Organi~zation"
+msgstr "Umbu~tho"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_INSTITUTION\n"
+"string.text"
+msgid "Instit~ution"
+msgstr "Izi~ko"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SCHOOL\n"
+"string.text"
+msgid "University"
+msgstr "Iyunivesithi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_REPORT\n"
+"string.text"
+msgid "Type of re~port"
+msgstr "Uhlobo lwe~ngxelo"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_MONTH\n"
+"string.text"
+msgid "~Month"
+msgstr "~Inyanga"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_JOURNAL\n"
+"string.text"
+msgid "~Journal"
+msgstr "~Ingqokelela yamanqaku apapashwe ngobunzululwazi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NUMBER\n"
+"string.text"
+msgid "Numb~er"
+msgstr "Inomb~olo"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SERIES\n"
+"string.text"
+msgid "Se~ries"
+msgstr "Utho~tho"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ANNOTE\n"
+"string.text"
+msgid "Ann~otation"
+msgstr "Ufak~elelo lwamanqaku"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NOTE\n"
+"string.text"
+msgid "~Note"
+msgstr "~Ingongoma"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_URL\n"
+"string.text"
+msgid "URL"
+msgstr "I-URL"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM1\n"
+"string.text"
+msgid "User-defined field ~1"
+msgstr "Ummandla wokuchazelwe-umsebenzisi ~1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM2\n"
+"string.text"
+msgid "User-defined field ~2"
+msgstr "Ummandla wokuchazelwe-umsebenzisi ~2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM3\n"
+"string.text"
+msgid "User-defined field ~3"
+msgstr "Ummandla wokuchazelwe-umsebenzisi ~3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM4\n"
+"string.text"
+msgid "User-defined field ~4"
+msgstr "Ummandla wokuchazelwe-umsebenzisi ~4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM5\n"
+"string.text"
+msgid "User-defined field ~5"
+msgstr "Ummandla wokuchazelwe-umsebenzisi ~5"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "Itheyibhile"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "Iqhosha Lokuphanda"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "Isihluzi Esizenzekelayo"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr "Isihluzi Sesiqhelo"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr ""
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "Ucwangciso Loluhlu Olwehlayo"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "Umthombo Weenkcukacha"

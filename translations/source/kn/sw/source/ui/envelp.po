@@ -1,0 +1,361 @@
+#. extracted from sw/source/ui/envelp
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-07-01 11:42+0000\n"
+"Last-Translator: Shankar <svenkate@redhat.com>\n"
+"Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1372678949.0\n"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_DATABASE_NOT_OPENED\n"
+"string.text"
+msgid "Database could not be opened."
+msgstr "ದತ್ತಸಂಚಯವನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ."
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_NO_DRIVERS\n"
+"string.text"
+msgid "No database drivers installed."
+msgstr "ಯಾವುದೆ ದತ್ತಸಂಚಯ ಚಾಲಕಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ."
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_BTN_NEWDOC\n"
+"string.text"
+msgid "~New Doc."
+msgstr "ಹೊಸ ದಸ್ತಾವೇಜು(~N)"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_SENDER_TOKENS\n"
+"string.text"
+msgid "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+msgstr "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_SYNC_BTN\n"
+"BTN_SYNC\n"
+"pushbutton.text"
+msgid "Synchronize Labels"
+msgstr "ಗುರುತುಪಟ್ಟಿಗಳನ್ನು ಮೇಳೈಸು"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "[User]"
+msgstr "[ಬಳಕೆದಾರ]"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HDIST\n"
+"string.text"
+msgid "H. Pitch"
+msgstr "ಅ. ಪಿಚ್"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_VDIST\n"
+"string.text"
+msgid "V. Pitch"
+msgstr "ಲ. ಪಿಚ್"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "ಅಗಲ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "ಎತ್ತರ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left margin"
+msgstr "ಎಡ ಅಂಚು"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_UPPER\n"
+"string.text"
+msgid "Top margin"
+msgstr "ಮೇಲಿನ ಅಂಚು"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_COLS\n"
+"string.text"
+msgid "Columns"
+msgstr "ಲಂಬಸಾಲುಗಳು"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_ROWS\n"
+"string.text"
+msgid "Rows"
+msgstr "ಅಡ್ಡಸಾಲುಗಳು"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PWIDTH\n"
+"string.text"
+msgid "Page Width"
+msgstr "ಪುಟದ ಅಗಲ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PHEIGHT\n"
+"string.text"
+msgid "Page Height"
+msgstr "ಪುಟದ ಎತ್ತರ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"_MAIL_MERGE_STRING_\n"
+"#define.text"
+msgid "Mail Merge"
+msgstr "ಮೈಲ್ ವಿಲೀನಗೊಳಿಕೆ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_ALL\n"
+"radiobutton.text"
+msgid "~All"
+msgstr "ಎಲ್ಲವೂ(~A)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MARKED\n"
+"radiobutton.text"
+msgid "~Selected records"
+msgstr "ಆಯ್ಕೆ ಮಾಡಲಾದ ದಾಖಲೆಗಳು(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FROM\n"
+"radiobutton.text"
+msgid "~From:"
+msgstr "ಯಿಂದ(~F):"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_BIS\n"
+"fixedtext.text"
+msgid "~To:"
+msgstr "ಗೆ(~T):"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_RECORD\n"
+"fixedline.text"
+msgid "Records"
+msgstr "ದಾಖಲೆಗಳು"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_PRINTER\n"
+"radiobutton.text"
+msgid "~Printer"
+msgstr "ಮುದ್ರಕ(~P)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MAILING\n"
+"radiobutton.text"
+msgid "~Electronic"
+msgstr "ವಿದ್ಯುನ್ಮಾನ(~E)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FILE\n"
+"radiobutton.text"
+msgid "File"
+msgstr "ಕಡತ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_SINGLE_JOBS\n"
+"checkbox.text"
+msgid "~Single print jobs"
+msgstr "ಒಂದು ಮುದ್ರಣ ಕಾರ್ಯಗಳು(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_SAVE_MERGED_DOCUMENT\n"
+"fixedline.text"
+msgid "Save merged document"
+msgstr "ವಿಲೀನಗೊಳಿಸಲಾದ ದಸ್ತಾವೇಜನ್ನು ಉಳಿಸು"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_SINGLE_DOC\n"
+"radiobutton.text"
+msgid "S~ave as single document"
+msgstr "ಒಂದು ದಸ್ತಾವೇಜಾಗಿ ಉಳಿಸು(~a)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_INDIVIDUAL\n"
+"radiobutton.text"
+msgid "Sa~ve as individual documents"
+msgstr "ಪ್ರತ್ಯೇಕ ದಸ್ತಾವೇಜುಗಳಾಗಿ ಉಳಿಸು(~v)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_GENERATE_FROM_DATABASE\n"
+"checkbox.text"
+msgid "Generate file name from ~Database"
+msgstr "ದತ್ತಸಂಚಯದಿಂದ ಕಡತದ ಹೆಸರನ್ನು ಉತ್ಪಾದಿಸು(~D)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_COLUMN\n"
+"fixedtext.text"
+msgid "Field"
+msgstr "ವರ್ಗ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_PATH\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "ಮಾರ್ಗ(~P)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FILTER\n"
+"fixedtext.text"
+msgid "F~ile format"
+msgstr "ಕಡತ ರಚನಾ ವಿನ್ಯಾಸ(~i)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "ವಿಷಯ(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_ATTACH\n"
+"fixedtext.text"
+msgid "Attachments"
+msgstr "ಲಗತ್ತುಗಳು"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Mail Format"
+msgstr "ಮೈಲ್ ರಚನಾವಿನ್ಯಾಸ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_HTML\n"
+"checkbox.text"
+msgid "HTM~L"
+msgstr "HTM~L"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_RTF\n"
+"checkbox.text"
+msgid "RT~F"
+msgstr "RT~F"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_SW\n"
+"checkbox.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME ರೈಟರ್"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_DEST\n"
+"fixedline.text"
+msgid "Output"
+msgstr "ಔಟ್‌ಪುಟ್"

@@ -1,0 +1,1652 @@
+#. extracted from dbaccess/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-06-28 13:49+0000\n"
+"Last-Translator: Alan <alan.monfort@free.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1403963354.000000\n"
+
+#: admindialog.ui
+msgctxt ""
+"admindialog.ui\n"
+"AdminDialog\n"
+"title\n"
+"string.text"
+msgid "Database properties"
+msgstr "Perzhioù ar stlennvon"
+
+#: admindialog.ui
+msgctxt ""
+"admindialog.ui\n"
+"advanced\n"
+"label\n"
+"string.text"
+msgid "Advanced Properties"
+msgstr "Perzhioù kempleshoc'h"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"AdvancedSettingsDialog\n"
+"title\n"
+"string.text"
+msgid "Advanced Settings"
+msgstr "Arventennoù kempleshoc'h"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"generated\n"
+"label\n"
+"string.text"
+msgid "Generated Values"
+msgstr "Gwerzhioù ganet"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"special\n"
+"label\n"
+"string.text"
+msgid "Special Settings"
+msgstr "Arventennoù arbennik"
+
+#: applycolpage.ui
+msgctxt ""
+"applycolpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Existing columns"
+msgstr "Bannoù ez eus anezho"
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"ChooseDataSourceDialog\n"
+"title\n"
+"string.text"
+msgid "Data Source"
+msgstr "Tarzh roadennoù"
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"organize\n"
+"label\n"
+"string.text"
+msgid "Or_ganize..."
+msgstr "Ao_zañ..."
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Choose a data source:"
+msgstr "Dibabit un tarzh roadennoù :"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"ColWidthDialog\n"
+"title\n"
+"string.text"
+msgid "Column Width"
+msgstr "Led ar bann"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Width"
+msgstr "_Led"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Emgefreek"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"defdata\n"
+"label\n"
+"string.text"
+msgid "De_finition and data"
+msgstr "_Displegadur ha roadennoù"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"def\n"
+"label\n"
+"string.text"
+msgid "Def_inition"
+msgstr "Disple_gadur"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "A_s table view"
+msgstr "E_vel gwel un daolenn"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"data\n"
+"label\n"
+"string.text"
+msgid "Append _data"
+msgstr "_Ouzhpenn roadennoù"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"firstline\n"
+"label\n"
+"string.text"
+msgid "Use first _line as column names"
+msgstr "Arverañ al _linenn gentañ evel anvioù ar bann"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"primarykey\n"
+"label\n"
+"string.text"
+msgid "Crea_te primary key"
+msgstr "_Krouiñ un alc'hwez kentael"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"keynamelabel\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "Anv"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dibarzhioù"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Ta_ble name"
+msgstr "Anv an d_aolenn"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"DBaseIndexDialog\n"
+"title\n"
+"string.text"
+msgid "Indexes"
+msgstr "Ibilioù"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Table"
+msgstr "_Taolenn"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "T_able indexes"
+msgstr "Ibilioù an d_aolenn"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Free indexes"
+msgstr "_Ibilioù dieub"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Assignment"
+msgstr "Deverkadur"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"DirectSQLDialog\n"
+"title\n"
+"string.text"
+msgid "Execute SQL Statement"
+msgstr "Erounit an ditour SQL"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"sql_label\n"
+"label\n"
+"string.text"
+msgid "_Command to execute"
+msgstr "_Ditour da erounit"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"showoutput\n"
+"label\n"
+"string.text"
+msgid "_Show output of \"select\" statements"
+msgstr "Di_skouez ec'hankad an ditouroù \"Diuzañ\""
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"execute\n"
+"label\n"
+"string.text"
+msgid "_Execute"
+msgstr "_Erounit"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"sqlhistory_label\n"
+"label\n"
+"string.text"
+msgid "_Previous commands"
+msgstr "_Arc'had kent"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "SQL command"
+msgstr "Arc'had SQL"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Stad"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Output"
+msgstr "Ec'hankad"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"FieldDialog\n"
+"title\n"
+"string.text"
+msgid "Field Format"
+msgstr "Mentrezh ar vaezienn"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "Format"
+msgstr "Mentrezh"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Desteudañ"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Table Format"
+msgstr "Mentrezh an daolenn"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"headerText\n"
+"label\n"
+"string.text"
+msgid "Decide how to proceed after saving the database"
+msgstr "Dibabit ar gwezh da erounit war-lerc'h enrolladur ar stlennvon"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"helpText\n"
+"label\n"
+"string.text"
+msgid "Do you want the wizard to register the database in %PRODUCTNAME?"
+msgstr "C'hoant hoc'h eus ma vo marilhet ar stlennvon gant ar skoazeller e %PRODUCTNAME ?"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"yesregister\n"
+"label\n"
+"string.text"
+msgid "_Yes, register the database for me"
+msgstr "_Ya, fellout a ra din ma vo marilhet ar stlennvon gant ar skoazeller."
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"noregister\n"
+"label\n"
+"string.text"
+msgid "N_o, do not register the database"
+msgstr "_Ne fell ket din marilhañ ar stlennvon"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"additionalText\n"
+"label\n"
+"string.text"
+msgid "After the database file has been saved, what do you want to do?"
+msgstr "Enrollet eo bet ar restr stlennvon. Petra a fell deoc'h ober bremañ ?"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"openediting\n"
+"label\n"
+"string.text"
+msgid "Open the database for editing"
+msgstr "Digeriñ ar stlennvon evit an embann"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"usewizard\n"
+"label\n"
+"string.text"
+msgid "Create tables using the table wizard"
+msgstr "Krouiñ taolennoù gant ar skoazeller Taolenn"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"finishText\n"
+"label\n"
+"string.text"
+msgid "Click 'Finish' to save the database."
+msgstr "Da enrollañ ar stlennvon, klikit war 'Echuiñ'."
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypePre\n"
+"label\n"
+"string.text"
+msgid "Select the type of database to which you want to establish a connection."
+msgstr "Diuzit ar rizh stlennvon ma fell deoc'h en em gennaskañ outañ."
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypeLabel\n"
+"label\n"
+"string.text"
+msgid "Database _type:"
+msgstr "_Rizh stlennvon :"
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypeHelp\n"
+"label\n"
+"string.text"
+msgid ""
+"On the following pages, you can make detailed settings for the connection.\n"
+"\n"
+"The new settings you make will overwrite your existing settings."
+msgstr ""
+"Er pajennoù da-heul ez eo ret deoc'h despizañ arventennoù munudet evit ar c'hennask.\n"
+"\n"
+"Amsavet e vo an arventennoù kozh gant ar re nevez."
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"headerText\n"
+"label\n"
+"string.text"
+msgid "Welcome to the %PRODUCTNAME Database Wizard"
+msgstr "Degemer mat e skozeller Stlennvon %PRODUCTNAME"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"helpText\n"
+"label\n"
+"string.text"
+msgid "Use the Database Wizard to create a new database, open an existing database file, or connect to a database stored on a server."
+msgstr "Arverit ar Skoazeller Stlennvon a-benn sevel ur stlennvon nevez, digeriñ ur restr stlennvon ez eus anezhi, pe gennaskañ ouzh ur stlennvon lec'hiet war un dafariad."
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"sourceTypeHeader\n"
+"label\n"
+"string.text"
+msgid "What do you want to do?"
+msgstr "Petra e fell deoc'h d'ober ?"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"createDatabase\n"
+"label\n"
+"string.text"
+msgid "Create a n_ew database"
+msgstr "Krouiñ ur stle_nnvon nevez"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"embeddeddbLabel\n"
+"label\n"
+"string.text"
+msgid "_Embedded Database:"
+msgstr "_Stlennvon enkorfet :"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"openExistingDatabase\n"
+"label\n"
+"string.text"
+msgid "Open an existing database _file"
+msgstr "Digeriñ ur restr _stlennvon ez eus anezhi"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"docListLabel\n"
+"label\n"
+"string.text"
+msgid "_Recently used:"
+msgstr "Arveret _nevez zo :"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"openDatabase\n"
+"label\n"
+"string.text"
+msgid "Open"
+msgstr "Digeriñ"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"connectDatabase\n"
+"label\n"
+"string.text"
+msgid "Connect to an e_xisting database"
+msgstr "Kennaskañ ouzh ur stlennvon ez eus ane_zhañ"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"autoretrieve\n"
+"label\n"
+"string.text"
+msgid "Re_trieve generated values"
+msgstr "Ez_tennañ ar gwerzhioù ganet"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"statementft\n"
+"label\n"
+"string.text"
+msgid "_Auto-increment statement"
+msgstr "Riñ_venn emazvuiadañ"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"queryft\n"
+"label\n"
+"string.text"
+msgid "_Query of generated values"
+msgstr "_Azgoulenn ar gwerzhioù ganet"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Arventennoù"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"JoinDialog\n"
+"title\n"
+"string.text"
+msgid "Join Properties"
+msgstr "Perzhioù ar c'hevre"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables involved"
+msgstr "Taolennoù empleget"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Fields involved"
+msgstr "Maeziennoù empleget"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Type"
+msgstr "_Rizh"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"natural\n"
+"label\n"
+"string.text"
+msgid "Natural"
+msgstr "Naturel"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dibarzhioù"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Inner join"
+msgstr "Kevre diabarzh"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Left join"
+msgstr "Kevre a-gleiz"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right join"
+msgstr "Kevre a-zehou"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Full (outer) join"
+msgstr "Kevre klok (diavaez)"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Cross join"
+msgstr "Kevre kroaz"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Kemmañ ar ger-tremen"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Old p_assword"
+msgstr "Ger-tr_emen kozh"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Password"
+msgstr "_Ger-tremen"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Confirm password"
+msgstr "_Kadarnaat ar ger-tremen"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "User \"$name$:  $\""
+msgstr "Arveriad \"$name$ : $\""
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"QueryFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Standard Filter"
+msgstr "Sil skoueriek"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Niñvader"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Field name"
+msgstr "Anv ar vaezienn"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Diferadenn"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field1\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- tra ebet -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"0\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"1\n"
+"stringlist.text"
+msgid "<>"
+msgstr "<>"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"2\n"
+"stringlist.text"
+msgid "<"
+msgstr "<"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"3\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"4\n"
+"stringlist.text"
+msgid ">"
+msgstr ">"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"5\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"6\n"
+"stringlist.text"
+msgid "like"
+msgstr "heñvel ouzh"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"7\n"
+"stringlist.text"
+msgid "not like"
+msgstr "disheñvel diouzh"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"8\n"
+"stringlist.text"
+msgid "null"
+msgstr "null"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"9\n"
+"stringlist.text"
+msgid "not null"
+msgstr "ket null"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field2\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- tra ebet -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field3\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- tra ebet -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Value"
+msgstr "Gwerzh"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op2\n"
+"0\n"
+"stringlist.text"
+msgid "AND"
+msgstr "HA"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op2\n"
+"1\n"
+"stringlist.text"
+msgid "OR"
+msgstr "PE"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op3\n"
+"0\n"
+"stringlist.text"
+msgid "AND"
+msgstr "HA"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op3\n"
+"1\n"
+"stringlist.text"
+msgid "OR"
+msgstr "PE"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Criteria"
+msgstr "Dezverkoù"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"QueryPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Query Properties"
+msgstr "Perzhioù an azgoulenn"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"distinctvalues\n"
+"label\n"
+"string.text"
+msgid "Distinct Values"
+msgstr "Gwerzhioù disheñvel"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"distinct\n"
+"label\n"
+"string.text"
+msgid "Yes"
+msgstr "Ya"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"nondistinct\n"
+"label\n"
+"string.text"
+msgid "No"
+msgstr "Ket"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"limit-label\n"
+"label\n"
+"string.text"
+msgid "Limit"
+msgstr "Bevenn"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Properties:"
+msgstr "Perzhioù :"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"RelationDialog\n"
+"title\n"
+"string.text"
+msgid "Relations"
+msgstr "Darempredoù"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables involved"
+msgstr "Taolennoù empleget"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Fields involved"
+msgstr "Maeziennoù empleget"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addaction\n"
+"label\n"
+"string.text"
+msgid "_No action"
+msgstr "Gwered e_bet"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addcascade\n"
+"label\n"
+"string.text"
+msgid "_Update cascade"
+msgstr "_Hizivaat a-steudad"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addnull\n"
+"label\n"
+"string.text"
+msgid "_Set null"
+msgstr "Despizañ _Null"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"adddefault\n"
+"label\n"
+"string.text"
+msgid "Set _default"
+msgstr "_Despizañ dre ziouer"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Update options"
+msgstr "Dibarzhioù hizivaat"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delaction\n"
+"label\n"
+"string.text"
+msgid "_No action"
+msgstr "_Gwered ebet"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delcascade\n"
+"label\n"
+"string.text"
+msgid "Delete _cascade"
+msgstr "_Lemel ar skalierad kuit"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delnull\n"
+"label\n"
+"string.text"
+msgid "_Set null"
+msgstr "Despizañ _Null"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"deldefault\n"
+"label\n"
+"string.text"
+msgid "Set _default"
+msgstr "_Despizañ dre ziouer"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Delete options"
+msgstr "Dilemel an dibarzhioù"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Inner join"
+msgstr "Kevre diabarzh"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Left join"
+msgstr "Kevre a-gleiz"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right join"
+msgstr "Kevre a-zehou"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Full (outer) join"
+msgstr "Kevre klok (diavaez)"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Cross join"
+msgstr "Kevre kroaz"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"RowHeightDialog\n"
+"title\n"
+"string.text"
+msgid "Row Height"
+msgstr "Sav ar renk"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Height"
+msgstr "_Sav"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Emgefreek"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"SaveDialog\n"
+"title\n"
+"string.text"
+msgid "Save As"
+msgstr "Enrollañ evel"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"descriptionft\n"
+"label\n"
+"string.text"
+msgid "Please enter a name for the object to be created:"
+msgstr "Enankit un anv evit an ergorenn da grouiñ :"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"catalogft\n"
+"label\n"
+"string.text"
+msgid "_Catalog"
+msgstr "_Katalog"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"schemaft\n"
+"label\n"
+"string.text"
+msgid "_Schema"
+msgstr "_Goulun"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"SortDialog\n"
+"title\n"
+"string.text"
+msgid "Sort Order"
+msgstr "Urzh rummañ"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Niñvader"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "and then"
+msgstr "ha neuze"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "and then"
+msgstr "ha neuze"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Field name"
+msgstr "Anv ar vaezienn"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Order"
+msgstr "Urzh"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value1\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "war-gresk"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value1\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "war-zigresk"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value2\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "war-gresk"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value2\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "war-zigresk"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value3\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "war-gresk"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value3\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "war-zigresk"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Sort order"
+msgstr "Urzh rummañ"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"usesql92\n"
+"label\n"
+"string.text"
+msgid "Use SQL92 naming constraints"
+msgstr "Arverañ an destrizhoù anv mod SQL92"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"append\n"
+"label\n"
+"string.text"
+msgid "Append the table alias name on SELECT statements"
+msgstr "Ouzhpennañ anv aliaz an daolenn d'an ditouroù SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useas\n"
+"label\n"
+"string.text"
+msgid "Use keyword AS before table alias names"
+msgstr "Ober gant ar ger-alc'hwez AS a-raok anvioù aliaz an daolenn"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useoj\n"
+"label\n"
+"string.text"
+msgid "Use Outer Join syntax '{OJ }'"
+msgstr "Arverañ ur c'hevreadur kevre diavaez '{OJ }'"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"ignoreprivs\n"
+"label\n"
+"string.text"
+msgid "Ignore the privileges from the database driver"
+msgstr "Leuskel a-gostez brientoù stur ar stlennvon"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"replaceparams\n"
+"label\n"
+"string.text"
+msgid "Replace named parameters with '?'"
+msgstr "Amsaviñ an arventennoù anvet gant '?'"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"displayver\n"
+"label\n"
+"string.text"
+msgid "Display version columns (when available)"
+msgstr "Skrammañ bannoù an handelvoù (mar hegerz)"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"usecatalogname\n"
+"label\n"
+"string.text"
+msgid "Use catalog name in SELECT statements"
+msgstr "Arverañ anv ar c'hatalog en ditouroù SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useschemaname\n"
+"label\n"
+"string.text"
+msgid "Use schema name in SELECT statements"
+msgstr "Arverañ anv an diervad en ditouroù SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"createindex\n"
+"label\n"
+"string.text"
+msgid "Create index with ASC or DESC statement"
+msgstr "Krouiñ un ibil gant an ditour ASC pe DESC"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"eol\n"
+"label\n"
+"string.text"
+msgid "End text lines with CR+LF"
+msgstr "Echuiñ al linennoù testenn gant CR+LF"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"ignorecurrency\n"
+"label\n"
+"string.text"
+msgid "Ignore currency field information"
+msgstr "Leuskel a-gostez stlennoù maezienn ar moneiz"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"inputchecks\n"
+"label\n"
+"string.text"
+msgid "Form data input checks for required fields"
+msgstr "Enankad ar roadenn furmskrid zo o wiriañ ar maeziennoù goulennet"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useodbcliterals\n"
+"label\n"
+"string.text"
+msgid "Use ODBC conformant date/time literals"
+msgstr "Arverañ skridennadoù an deiziad/an eur kenfurm ouzh ODBC"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"primarykeys\n"
+"label\n"
+"string.text"
+msgid "Supports primary keys"
+msgstr "Skorañ a ra an alc'hwezioù kentael"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"resulttype\n"
+"label\n"
+"string.text"
+msgid "Respect the result set type from the database driver"
+msgstr "Teurel pled eus rizh ar spletoù disoc'hoù a-berzh stur ar stlennvon"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparisonft\n"
+"label\n"
+"string.text"
+msgid "Comparison of Boolean values"
+msgstr "Keñveriadur ar gwerzhioù boolean"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"0\n"
+"stringlist.text"
+msgid "Default"
+msgstr "Dre ziouer"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"1\n"
+"stringlist.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"2\n"
+"stringlist.text"
+msgid "Mixed"
+msgstr "Kemmesket"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"3\n"
+"stringlist.text"
+msgid "MS Access"
+msgstr "MS Access"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"rowsft\n"
+"label\n"
+"string.text"
+msgid "Rows to scan column types"
+msgstr "Renkoù da c'hwilerviñ ar rizhoù bannoù"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dibarzhioù"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"SQLExceptionDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME Base"
+msgstr "%PRODUCTNAME Base"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Error _list:"
+msgstr "Ro_ll ar fazioù :"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Description:"
+msgstr "_Deskrivadur :"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Details"
+msgstr "Munudoù"
+
+#: tablesfilterdialog.ui
+msgctxt ""
+"tablesfilterdialog.ui\n"
+"TablesFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Tables Filter"
+msgstr "Siloù an taolennoù"
+
+#: tablesfilterpage.ui
+msgctxt ""
+"tablesfilterpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Mark the tables that should be visible for the applications."
+msgstr "Merkañ an taolennoù da lakaat da hewel evit an arloadoù."
+
+#: tablesfilterpage.ui
+msgctxt ""
+"tablesfilterpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables and table filter"
+msgstr "Taolennoù ha siloù an taolennoù"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"tables\n"
+"label\n"
+"string.text"
+msgid "Tables"
+msgstr "Taolennoù"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"queries\n"
+"label\n"
+"string.text"
+msgid "Queries"
+msgstr "Azgoulennoù"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "Add Tables"
+msgstr "Ouzhpennañ taolennoù"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Add Table or Query"
+msgstr "Ouzhpennañ un daolenn pe un azgoulenn"
+
+#: useradmindialog.ui
+msgctxt ""
+"useradmindialog.ui\n"
+"UserAdminDialog\n"
+"title\n"
+"string.text"
+msgid "User administration"
+msgstr "Ardeiñ an arveriaded"
+
+#: useradmindialog.ui
+msgctxt ""
+"useradmindialog.ui\n"
+"settings\n"
+"label\n"
+"string.text"
+msgid "User Settings"
+msgstr "Arventennoù an arveriad"

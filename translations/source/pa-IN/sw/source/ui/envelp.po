@@ -1,0 +1,359 @@
+#. extracted from sw/source/ui/envelp
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2012-06-15 09:25+0200\n"
+"Last-Translator: ipunj <punj.inder@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_DATABASE_NOT_OPENED\n"
+"string.text"
+msgid "Database could not be opened."
+msgstr "ਡਾਟਾਬੇਸ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_NO_DRIVERS\n"
+"string.text"
+msgid "No database drivers installed."
+msgstr "ਕੋਈ ਡਾਟਾਬੇਸ ਡਰਾਈਵਰ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ।"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_BTN_NEWDOC\n"
+"string.text"
+msgid "~New Doc."
+msgstr "ਨਵਾਂ ਦਸਤਾ(~N)"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_SENDER_TOKENS\n"
+"string.text"
+msgid "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+msgstr "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_SYNC_BTN\n"
+"BTN_SYNC\n"
+"pushbutton.text"
+msgid "Synchronize Labels"
+msgstr "ਸਮਕਾਲੀ ਲੇਬਲ"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "[User]"
+msgstr "[ਉਪਭੋਗੀ]"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HDIST\n"
+"string.text"
+msgid "H. Pitch"
+msgstr "ਖਿ. ਪਿੱਚ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_VDIST\n"
+"string.text"
+msgid "V. Pitch"
+msgstr "ਲੰ. ਪਿੱਚ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "ਚੌੜਾਈ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "ਉਚਾਈ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left margin"
+msgstr "ਖੱਬਾ ਹਾਸ਼ੀਆ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_UPPER\n"
+"string.text"
+msgid "Top margin"
+msgstr "ਉਪਰ ਹਾਸ਼ੀਆ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_COLS\n"
+"string.text"
+msgid "Columns"
+msgstr "ਕਾਲਮ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_ROWS\n"
+"string.text"
+msgid "Rows"
+msgstr "ਕਤਾਰਾਂ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PWIDTH\n"
+"string.text"
+msgid "Page Width"
+msgstr "ਪੇਜ਼ ਚੋੜਾਈ"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PHEIGHT\n"
+"string.text"
+msgid "Page Height"
+msgstr "ਪੇਜ਼ ਲੰਬਾਈ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"_MAIL_MERGE_STRING_\n"
+"#define.text"
+msgid "Mail Merge"
+msgstr "ਪੱਤਰ ਹਾਸ਼ੀਆ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_ALL\n"
+"radiobutton.text"
+msgid "~All"
+msgstr "ਸਭ(~A)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MARKED\n"
+"radiobutton.text"
+msgid "~Selected records"
+msgstr "ਚੁਣੇ ਰਿਕਾਰਡ(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FROM\n"
+"radiobutton.text"
+msgid "~From:"
+msgstr "ਵੱਲੋਂ(~F):"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_BIS\n"
+"fixedtext.text"
+msgid "~To:"
+msgstr "ਵੱਲ(~T):"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_RECORD\n"
+"fixedline.text"
+msgid "Records"
+msgstr "ਰਿਕਾਰਡ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_PRINTER\n"
+"radiobutton.text"
+msgid "~Printer"
+msgstr "ਪਰਿੰਟਰ(~P)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MAILING\n"
+"radiobutton.text"
+msgid "~Electronic"
+msgstr "ਇਲੈਕਟਰੋਨਿਕ(~E)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FILE\n"
+"radiobutton.text"
+msgid "File"
+msgstr "ਫਾਇਲ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_SINGLE_JOBS\n"
+"checkbox.text"
+msgid "~Single print jobs"
+msgstr "ਇੱਕਲਾ ਛਪਾਈ ਕੰਮ(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_SAVE_MERGED_DOCUMENT\n"
+"fixedline.text"
+msgid "Save merged document"
+msgstr "ਮਿਲਾਨ ਕੀਤਾ ਦਸਤਾਵੇਜ਼ ਸੈਟਿੰਗ ਸੰਭਾਲੋ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_SINGLE_DOC\n"
+"radiobutton.text"
+msgid "S~ave as single document"
+msgstr "ਇੱਕਲੇ ਡੌਕੂਮੈਂਟ ਦੇ ਤੌਰ ਉੱਤੇ ਸੰਭਾਲੋ(~A)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_INDIVIDUAL\n"
+"radiobutton.text"
+msgid "Sa~ve as individual documents"
+msgstr "ਇੱਕਲੇ ਡੌਕੂਮੈਂਟ ਵਾਂਗ ਸੰਭਾਲੋ(~v)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_GENERATE_FROM_DATABASE\n"
+"checkbox.text"
+msgid "Generate file name from ~Database"
+msgstr "ਡਾਟਾਬੇਸ ਤੋਂ ਫਾਇਲ ਨਾਂ ਬਣਾਓ(~D)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_COLUMN\n"
+"fixedtext.text"
+msgid "Field"
+msgstr "ਖੇਤਰ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_PATH\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "ਮਾਰਗ(~P)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FILTER\n"
+"fixedtext.text"
+msgid "F~ile format"
+msgstr "ਫਾਇਲ ਫਾਰਮੈਟ(~i)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "ਵਿਸ਼ਾ(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_ATTACH\n"
+"fixedtext.text"
+msgid "Attachments"
+msgstr "ਨੱਥੀ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Mail Format"
+msgstr "ਪੱਤਰ ਫਾਰਮੈਟ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_HTML\n"
+"checkbox.text"
+msgid "HTM~L"
+msgstr "HTM~L"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_RTF\n"
+"checkbox.text"
+msgid "RT~F"
+msgstr "RT~F"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_SW\n"
+"checkbox.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME ਰਾਇਟਰ"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_DEST\n"
+"fixedline.text"
+msgid "Output"
+msgstr "ਆਉਟਪੁੱਟ"

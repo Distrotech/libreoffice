@@ -1,0 +1,903 @@
+#. extracted from sw/source/ui/dbui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2014-02-08 09:53+0000\n"
+"Last-Translator: fatr <f.rr@mail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1391853185.0\n"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"FI_ADDRESSINFORMATION\n"
+"fixedtext.text"
+msgid "Address Information"
+msgstr "Informata për adresën"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_NEW\n"
+"pushbutton.text"
+msgid "~New"
+msgstr "E re"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_DELETE\n"
+"pushbutton.text"
+msgid "~Delete"
+msgstr "Fshije..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find..."
+msgstr "Gjej..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_CUSTOMIZE\n"
+"pushbutton.text"
+msgid "C~ustomize..."
+msgstr "Përshtate..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"FI_VIEWENTRIES\n"
+"fixedtext.text"
+msgid "Sho~w entry number"
+msgstr "Trego numrin e shënuar"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"ST_FILTERNAME\n"
+"string.text"
+msgid "%PRODUCTNAME Address List (.csv)"
+msgstr "%PRODUCTNAME Lista e adresave (.csv)"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"modaldialog.text"
+msgid "New Address List"
+msgstr "Listë e re e adresave"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"FI_DESCRIPTION\n"
+"fixedtext.text"
+msgid "The list below shows the contents of: %1"
+msgstr "Lista e mëposhtme tregon përmbajtjen e: %1"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"PB_OK\n"
+"okbutton.text"
+msgid "~Close"
+msgstr "Mbylle"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"modaldialog.text"
+msgid "Mail Merge Recipients"
+msgstr "Pranuesit e bashkangjitjes me të dhëna"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Title\n"
+"itemlist.text"
+msgid "Title"
+msgstr "Titulli"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"First Name\n"
+"itemlist.text"
+msgid "First Name"
+msgstr "Emri"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Last Name\n"
+"itemlist.text"
+msgid "Last Name"
+msgstr "Mbiemri"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Company Name\n"
+"itemlist.text"
+msgid "Company Name"
+msgstr "Emri i kompanisë"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Address Line 1\n"
+"itemlist.text"
+msgid "Address Line 1"
+msgstr "Rreshti i adresës 1"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Address Line 2\n"
+"itemlist.text"
+msgid "Address Line 2"
+msgstr "Rreshti i adresës 2"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"City\n"
+"itemlist.text"
+msgid "City"
+msgstr "Qyteti"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"State\n"
+"itemlist.text"
+msgid "State"
+msgstr "Shteti"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"ZIP\n"
+"itemlist.text"
+msgid "ZIP"
+msgstr "Zip "
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Country\n"
+"itemlist.text"
+msgid "Country"
+msgstr "Vendi"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Telephone private\n"
+"itemlist.text"
+msgid "Telephone private"
+msgstr "Telefoni privat"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Telephone business\n"
+"itemlist.text"
+msgid "Telephone business"
+msgstr "Telefoni i punës"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"E-mail Address\n"
+"itemlist.text"
+msgid "E-mail Address"
+msgstr "Adresa e e-mailit"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Gender\n"
+"itemlist.text"
+msgid "Gender"
+msgstr "Gjinia"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_NOTASSIGNED\n"
+"string.text"
+msgid " not yet matched "
+msgstr "' nuk ekziston."
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ALL\n"
+"string.text"
+msgid "All files"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ALL_DATA\n"
+"string.text"
+msgid "Address lists(*.*)"
+msgstr "Lista e adresave (*.*)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_SXB\n"
+"string.text"
+msgid "%PRODUCTNAME Base (*.odb)"
+msgstr "%PRODUCTNAME Base (*.odb)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_SXC\n"
+"string.text"
+msgid "%PRODUCTNAME Calc (*.ods;*.sxc)"
+msgstr "Shto %PRODUCTNAME Kalk Tabelën kalkuluese"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_DBF\n"
+"string.text"
+msgid "dBase (*.dbf)"
+msgstr "dBase (*.dbf)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_XLS\n"
+"string.text"
+msgid "Microsoft Excel (*.xls)"
+msgstr "Microsoft Excel (*.xls)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_TXT\n"
+"string.text"
+msgid "Plain text (*.txt)"
+msgstr "Tekst i thjeshtë (*.txt)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_CSV\n"
+"string.text"
+msgid "Text Comma Separated (*.csv)"
+msgstr "Tekst i ndarë me presje (*.csv)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_MDB\n"
+"string.text"
+msgid "Microsoft Access (*.mdb)"
+msgstr "Diagram: Qasje sekuenciale"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ACCDB\n"
+"string.text"
+msgid "Microsoft Access 2007 (*.accdb)"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SAVESTART\n"
+"string.text"
+msgid "Save ~starting document"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SAVEMERGED\n"
+"string.text"
+msgid "Save merged document"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_PRINT\n"
+"string.text"
+msgid "Print settings"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SENDMAIL\n"
+"string.text"
+msgid "E-Mail settings"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_DEFAULTATTACHMENT\n"
+"string.text"
+msgid "Untitled"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_NOSUBJECT\n"
+"string.text"
+msgid "No subject"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_CONFIGUREMAIL\n"
+"string.text"
+msgid ""
+"In order to be able to send mail merge documents by e-mail, %PRODUCTNAME requires information about the e-mail account to be used.\n"
+"\n"
+"Do you want to enter e-mail account information now?"
+msgstr ""
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_STARTING\n"
+"string.text"
+msgid "Select starting document"
+msgstr "Zgjedh dokumentin fillestar"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_DOCUMETNTYPE\n"
+"string.text"
+msgid "Select document type"
+msgstr "Zgjedh tipin e dokumentit"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_ADDRESSBLOCK\n"
+"string.text"
+msgid "Insert address block"
+msgstr "Shto bllokun e adresave"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_ADDRESSLIST\n"
+"string.text"
+msgid "Select address list"
+msgstr "Zgjedh listën e adresave"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_GREETINGSLINE\n"
+"string.text"
+msgid "Create salutation"
+msgstr "Krijo përshëndetjen"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_LAYOUT\n"
+"string.text"
+msgid "Adjust layout"
+msgstr "Rregullo formëdhënien"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_PREPAREMERGE\n"
+"string.text"
+msgid "Edit document"
+msgstr "Edito dokumentin"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_MERGE\n"
+"string.text"
+msgid "Personalize document"
+msgstr "Personalizo dokumentin"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_OUTPUT\n"
+"string.text"
+msgid "Save, print or send"
+msgstr "Ruaj, shtyp ose dërgo"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "Përfundim"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"modaldialog.text"
+msgid "Mail Merge Wizard"
+msgstr "Magjistari i bashkangjitjes me të dhëna"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"_ST_NONE_LIST\n"
+"< none >\n"
+"stringlist.text"
+msgid "< none >"
+msgstr "<asnje>"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"WORKAROUND\n"
+"#define.text"
+msgid "New Address Block"
+msgstr "Bllok i ri i adresave"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_EDIT\n"
+"string.text"
+msgid "Edit Address Block"
+msgstr "Shto bllokun e adresave"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_MALE\n"
+"string.text"
+msgid "Custom Salutation (Male Recipients)"
+msgstr "Përshëndetje standarde (Pranuesit meshkuj)"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_FEMALE\n"
+"string.text"
+msgid "Custom Salutation (Female Recipients)"
+msgstr "Përshëndetje standarde (Pranuesit femra)"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_SALUTATIONELEMENTS\n"
+"string.text"
+msgid "Salutation e~lements"
+msgstr "Elementet e përshëndetjes"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_INSERTSALUTATIONFIELD\n"
+"string.text"
+msgid "Add to salutation"
+msgstr "Shto në përshëndetje"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_REMOVESALUTATIONFIELD\n"
+"string.text"
+msgid "Remove from salutation"
+msgstr "Largo nga përshëndetja"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_DRAGSALUTATION\n"
+"string.text"
+msgid "1. ~Drag salutation elements into the box below"
+msgstr "1. Tërheq elementet përshëndetëse në kutinë më poshtë"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_SALUTATION\n"
+"string.text"
+msgid "Salutation"
+msgstr "Përshëndetje"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_PUNCTUATION\n"
+"string.text"
+msgid "Punctuation Mark"
+msgstr "Shenjë piksimi"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Dear\n"
+"itemlist.text"
+msgid "Dear"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Hello\n"
+"itemlist.text"
+msgid "Hello"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Hi\n"
+"itemlist.text"
+msgid "Hi"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+",\n"
+"itemlist.text"
+msgid ","
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+":\n"
+"itemlist.text"
+msgid ":"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+"!\n"
+"itemlist.text"
+msgid "!"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+"(none)\n"
+"itemlist.text"
+msgid "(none)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"FI_MATCHING\n"
+"fixedtext.text"
+msgid "Assign the fields from your data source to match the address elements."
+msgstr "Cakto fushat nga burimi juaj i të dhënave që të përputhen me elementet e adresës."
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONMATCHING\n"
+"string.text"
+msgid "Assign the fields from your data source to match the salutation elements."
+msgstr "Cakto fushat nga burimi juaj i të dhënave që të përputhen me elementet përshëndetëse"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"FI_PREVIEW\n"
+"fixedtext.text"
+msgid "Address block preview"
+msgstr "Shikim paraprak i bllokut të adresave"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONPREVIEW\n"
+"string.text"
+msgid "Salutation preview"
+msgstr "Shikim paraprak i përshëndetjes"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_ADDRESSELEMENT\n"
+"string.text"
+msgid "Address elements"
+msgstr "Elementet e adresës"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONELEMENT\n"
+"string.text"
+msgid "Salutation elements"
+msgstr "Elementet e përshëndetjes"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_MATCHESTO\n"
+"string.text"
+msgid "Matches to field:"
+msgstr "Përputh me fushën:"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "Shikim paraprak"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"modaldialog.text"
+msgid "Match Fields"
+msgstr "Përputh fushat"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"_LB_FEMALECOLUMN\n"
+"< not available >\n"
+"stringlist.text"
+msgid "< not available >"
+msgstr "Jo në dispozicion"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"CB_PERSONALIZED\n"
+"checkbox.text"
+msgid "Insert personalized salutation"
+msgstr "Shto përshëndetjet e personalizuara"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALE\n"
+"fixedtext.text"
+msgid "~Female"
+msgstr "Femër"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"PB_FEMALE\n"
+"pushbutton.text"
+msgid "~New..."
+msgstr "E re..."
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_MALE\n"
+"fixedtext.text"
+msgid "~Male"
+msgstr "Mashkull"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"PB_MALE\n"
+"pushbutton.text"
+msgid "N~ew..."
+msgstr "E re"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FI_FEMALE\n"
+"fixedtext.text"
+msgid "Address list field indicating a female recipient"
+msgstr "Fusha e listës së adresave tregon për një pranues femër"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALECOLUMN\n"
+"fixedtext.text"
+msgid "Field name"
+msgstr "Emri i fushës"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALEFIELD\n"
+"fixedtext.text"
+msgid "Field value"
+msgstr "Vlerë e fushës"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_NEUTRAL\n"
+"fixedtext.text"
+msgid "General salutation"
+msgstr "Përshëndetje gjenerale"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"CB_GREETINGLINE\n"
+"checkbox.text"
+msgid "This e-mail should contain a salutation"
+msgstr "Ky e-mail duhet të përmbajë përshëndetje"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"FT_BODY\n"
+"fixedtext.text"
+msgid "Write your message here"
+msgstr "Shkruaje mesazhin tuaj këtu"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"modaldialog.text"
+msgid "E-Mail Message"
+msgstr "Mesazhi i e-mail"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"FI_SELECT\n"
+"fixedtext.text"
+msgid "The file you have selected contains more than one table. Please select the table containing the address list you want to use."
+msgstr "Fajlli të cilin e keni zgjedhur përmban më shumë se një tabelë. Ju lutem zgjedhni një tabelë e cila përmbanë listën e adresave të cilat dëshironi të përdorni."
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"PB_PREVIEW\n"
+"pushbutton.text"
+msgid "~Preview"
+msgstr "Shikim paraprak"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "Emri"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "Tipi"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabelë"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_QUERY\n"
+"string.text"
+msgid "Query"
+msgstr "Pyetësor"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"modaldialog.text"
+msgid "Select Table"
+msgstr "Zgjedh tabelën"

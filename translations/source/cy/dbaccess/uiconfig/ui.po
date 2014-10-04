@@ -1,0 +1,1652 @@
+#. extracted from dbaccess/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-07-24 08:31+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1406190705.000000\n"
+
+#: admindialog.ui
+msgctxt ""
+"admindialog.ui\n"
+"AdminDialog\n"
+"title\n"
+"string.text"
+msgid "Database properties"
+msgstr "Priodweddau cronfa ddata"
+
+#: admindialog.ui
+msgctxt ""
+"admindialog.ui\n"
+"advanced\n"
+"label\n"
+"string.text"
+msgid "Advanced Properties"
+msgstr "Priodweddau Uwch"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"AdvancedSettingsDialog\n"
+"title\n"
+"string.text"
+msgid "Advanced Settings"
+msgstr "Gosodiadau Uwch"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"generated\n"
+"label\n"
+"string.text"
+msgid "Generated Values"
+msgstr "Gwerthoedd a Gynhyrchwyd"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"special\n"
+"label\n"
+"string.text"
+msgid "Special Settings"
+msgstr "Gosodiadau Arbennig"
+
+#: applycolpage.ui
+msgctxt ""
+"applycolpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Existing columns"
+msgstr "Colofnau cyfredol"
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"ChooseDataSourceDialog\n"
+"title\n"
+"string.text"
+msgid "Data Source"
+msgstr "Ffynhonnell Data"
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"organize\n"
+"label\n"
+"string.text"
+msgid "Or_ganize..."
+msgstr "_Trefnu..."
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Choose a data source:"
+msgstr "Dewis ffynhonnell data:"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"ColWidthDialog\n"
+"title\n"
+"string.text"
+msgid "Column Width"
+msgstr "Lled Colofn"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Width"
+msgstr "_Lled"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Awtomatig"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"defdata\n"
+"label\n"
+"string.text"
+msgid "De_finition and data"
+msgstr "_Diffiniad a data"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"def\n"
+"label\n"
+"string.text"
+msgid "Def_inition"
+msgstr "D_iffiniad"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "A_s table view"
+msgstr "_Fel golwg tabl"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"data\n"
+"label\n"
+"string.text"
+msgid "Append _data"
+msgstr "Atodi _data"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"firstline\n"
+"label\n"
+"string.text"
+msgid "Use first _line as column names"
+msgstr "Defnyddio'r _llinell gyntaf fel enwau colofnau"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"primarykey\n"
+"label\n"
+"string.text"
+msgid "Crea_te primary key"
+msgstr "_Creu allwedd gynradd"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"keynamelabel\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "Enw"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dewisiadau"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Ta_ble name"
+msgstr "Enw _tabl"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"DBaseIndexDialog\n"
+"title\n"
+"string.text"
+msgid "Indexes"
+msgstr "Mynegeion"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Table"
+msgstr "_Tabl"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "T_able indexes"
+msgstr "Mynegeion ta_bl"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Free indexes"
+msgstr "Mynegeion _rhydd"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Assignment"
+msgstr "Aseiniad"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"DirectSQLDialog\n"
+"title\n"
+"string.text"
+msgid "Execute SQL Statement"
+msgstr "Gweithredu Datganiad SQL"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"sql_label\n"
+"label\n"
+"string.text"
+msgid "_Command to execute"
+msgstr "_Gorchymyn i'w weithredu"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"showoutput\n"
+"label\n"
+"string.text"
+msgid "_Show output of \"select\" statements"
+msgstr "_Dangos allbwn datganiadau \"select\""
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"execute\n"
+"label\n"
+"string.text"
+msgid "_Execute"
+msgstr "_Gweithredu"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"sqlhistory_label\n"
+"label\n"
+"string.text"
+msgid "_Previous commands"
+msgstr "_Gorchmynion blaenorol"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "SQL command"
+msgstr "Gorchymyn SQL"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Statws"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Output"
+msgstr "Allbwn"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"FieldDialog\n"
+"title\n"
+"string.text"
+msgid "Field Format"
+msgstr "Fformat Maes"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "Format"
+msgstr "Fformat"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Aliniad"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Table Format"
+msgstr "Fformat Tabl"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"headerText\n"
+"label\n"
+"string.text"
+msgid "Decide how to proceed after saving the database"
+msgstr "Pennu sut i barhau ar ôl cadw'r gronfa ddata"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"helpText\n"
+"label\n"
+"string.text"
+msgid "Do you want the wizard to register the database in %PRODUCTNAME?"
+msgstr "Ydych chi am i'r dewin gofrestru'r gronfa ddata yn %PRODUCTNAME?"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"yesregister\n"
+"label\n"
+"string.text"
+msgid "_Yes, register the database for me"
+msgstr "_Iawn, cofrestru'r gronfa ddata i mi"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"noregister\n"
+"label\n"
+"string.text"
+msgid "N_o, do not register the database"
+msgstr "_Na, peidio cofrestru'r gronfa ddata"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"additionalText\n"
+"label\n"
+"string.text"
+msgid "After the database file has been saved, what do you want to do?"
+msgstr "Ar ôl i ffeil y gronfa ddata gael ei chadw, beth hoffech chi ei wneud?"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"openediting\n"
+"label\n"
+"string.text"
+msgid "Open the database for editing"
+msgstr "Agor y gronfa ddata i'w golygu"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"usewizard\n"
+"label\n"
+"string.text"
+msgid "Create tables using the table wizard"
+msgstr "Creu tablau gan ddefnyddio'r dewin tabl"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"finishText\n"
+"label\n"
+"string.text"
+msgid "Click 'Finish' to save the database."
+msgstr "Clicio 'Gorffen' i gadw'r gronfa ddata."
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypePre\n"
+"label\n"
+"string.text"
+msgid "Select the type of database to which you want to establish a connection."
+msgstr "Dewiswch y math o gronfa ddata i greu cysylltiad iddi."
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypeLabel\n"
+"label\n"
+"string.text"
+msgid "Database _type:"
+msgstr "_Math o gronfa ddata:"
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypeHelp\n"
+"label\n"
+"string.text"
+msgid ""
+"On the following pages, you can make detailed settings for the connection.\n"
+"\n"
+"The new settings you make will overwrite your existing settings."
+msgstr ""
+"Ar y tudalennau canlynol, mae modd i chi wneud mân osodiadau ar gyfer y cysylltiad.\n"
+"\n"
+"Bydd y gosodiadau newydd yn tros ysgrifennu eich gosodiadau cyfredol."
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"headerText\n"
+"label\n"
+"string.text"
+msgid "Welcome to the %PRODUCTNAME Database Wizard"
+msgstr "Croeso i Ddewin Cronfa Ddata %PRODUCTNAME"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"helpText\n"
+"label\n"
+"string.text"
+msgid "Use the Database Wizard to create a new database, open an existing database file, or connect to a database stored on a server."
+msgstr "Defnyddiwch y Dewin Cronfa Ddata i greu cronfeydd data newydd, agor ffeiliau cronfa ddata neu gysylltu â chronfa ddata sydd ar weinydd."
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"sourceTypeHeader\n"
+"label\n"
+"string.text"
+msgid "What do you want to do?"
+msgstr "Beth hoffech chi ei wneud?"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"createDatabase\n"
+"label\n"
+"string.text"
+msgid "Create a n_ew database"
+msgstr "Creu cronfa ddata _newydd"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"embeddeddbLabel\n"
+"label\n"
+"string.text"
+msgid "_Embedded Database:"
+msgstr "_Cronfa Ddata Mewnosodedig:"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"openExistingDatabase\n"
+"label\n"
+"string.text"
+msgid "Open an existing database _file"
+msgstr "Agor ffeil cronfa ddata _presennol"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"docListLabel\n"
+"label\n"
+"string.text"
+msgid "_Recently used:"
+msgstr "_Defnyddiwyd yn ddiweddar:"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"openDatabase\n"
+"label\n"
+"string.text"
+msgid "Open"
+msgstr "Agor"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"connectDatabase\n"
+"label\n"
+"string.text"
+msgid "Connect to an e_xisting database"
+msgstr "Cysylltu i gronfa ddata p_resennol"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"autoretrieve\n"
+"label\n"
+"string.text"
+msgid "Re_trieve generated values"
+msgstr "_Adfer gwerthoedd gynhyrchwyd"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"statementft\n"
+"label\n"
+"string.text"
+msgid "_Auto-increment statement"
+msgstr "_Datganiad awto-gynyddiad"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"queryft\n"
+"label\n"
+"string.text"
+msgid "_Query of generated values"
+msgstr "_Ymholiad o werthoedd gynhyrchwyd"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Gosodiadau"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"JoinDialog\n"
+"title\n"
+"string.text"
+msgid "Join Properties"
+msgstr "Uno Priodweddau"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables involved"
+msgstr "Tablau cysylltiedig"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Fields involved"
+msgstr "Meysydd cysylltiedig"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Type"
+msgstr "_Math"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"natural\n"
+"label\n"
+"string.text"
+msgid "Natural"
+msgstr "Naturiol"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dewisiadau"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Inner join"
+msgstr "Uniad mewnol"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Left join"
+msgstr "Uniad chwith"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right join"
+msgstr "Uniad de"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Full (outer) join"
+msgstr "Uniad (allanol) llawn"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Cross join"
+msgstr "Uniad croes"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Newid Cyfrinair"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Old p_assword"
+msgstr "_Hen gyfrinair"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Password"
+msgstr "C_yfrinair"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Confirm password"
+msgstr "C_adarnhau'r cyfrinair"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "User \"$name$:  $\""
+msgstr "Defnyddiwr \"$name$:  $\""
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"QueryFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Standard Filter"
+msgstr "Hidl Safonol"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Gweithredydd"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Field name"
+msgstr "Enw Maes"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Cyflwr"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field1\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- dim -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"0\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"1\n"
+"stringlist.text"
+msgid "<>"
+msgstr "<>"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"2\n"
+"stringlist.text"
+msgid "<"
+msgstr "<"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"3\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"4\n"
+"stringlist.text"
+msgid ">"
+msgstr ">"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"5\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"6\n"
+"stringlist.text"
+msgid "like"
+msgstr "hoffi"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"7\n"
+"stringlist.text"
+msgid "not like"
+msgstr "dim hoffi"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"8\n"
+"stringlist.text"
+msgid "null"
+msgstr "nwl"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"9\n"
+"stringlist.text"
+msgid "not null"
+msgstr "nid nwl"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field2\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- dim -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field3\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- dim -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Value"
+msgstr "Gwerth"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op2\n"
+"0\n"
+"stringlist.text"
+msgid "AND"
+msgstr "AND"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op2\n"
+"1\n"
+"stringlist.text"
+msgid "OR"
+msgstr "OR"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op3\n"
+"0\n"
+"stringlist.text"
+msgid "AND"
+msgstr "AND"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op3\n"
+"1\n"
+"stringlist.text"
+msgid "OR"
+msgstr "OR"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Criteria"
+msgstr "Maen prawf"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"QueryPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Query Properties"
+msgstr "Priodweddau Ymholiad"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"distinctvalues\n"
+"label\n"
+"string.text"
+msgid "Distinct Values"
+msgstr "Gwerthoedd Penodol"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"distinct\n"
+"label\n"
+"string.text"
+msgid "Yes"
+msgstr "Iawn"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"nondistinct\n"
+"label\n"
+"string.text"
+msgid "No"
+msgstr "Na"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"limit-label\n"
+"label\n"
+"string.text"
+msgid "Limit"
+msgstr "Terfyn"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Properties:"
+msgstr "Priodweddau:"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"RelationDialog\n"
+"title\n"
+"string.text"
+msgid "Relations"
+msgstr "Perthnasau"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables involved"
+msgstr "Tablau cysylltiedig"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Fields involved"
+msgstr "Meysydd cysylltiedig"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addaction\n"
+"label\n"
+"string.text"
+msgid "_No action"
+msgstr "_Dim gweithred"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addcascade\n"
+"label\n"
+"string.text"
+msgid "_Update cascade"
+msgstr "_Diweddaru raeadr"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addnull\n"
+"label\n"
+"string.text"
+msgid "_Set null"
+msgstr "Gosod _nwl"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"adddefault\n"
+"label\n"
+"string.text"
+msgid "Set _default"
+msgstr "Gosod _rhagosodiad"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Update options"
+msgstr "Dewisiadau diweddaru"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delaction\n"
+"label\n"
+"string.text"
+msgid "_No action"
+msgstr "_Dim gweithred"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delcascade\n"
+"label\n"
+"string.text"
+msgid "Delete _cascade"
+msgstr "Dileu r_haeadru"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delnull\n"
+"label\n"
+"string.text"
+msgid "_Set null"
+msgstr "Gosod _nwl"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"deldefault\n"
+"label\n"
+"string.text"
+msgid "Set _default"
+msgstr "Gosod _rhagosodiad"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Delete options"
+msgstr "Dileu dewisiadau"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Inner join"
+msgstr "Uniad mewnol"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Left join"
+msgstr "Uniad chwith"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right join"
+msgstr "Uniad de"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Full (outer) join"
+msgstr "Uniad (allanol) llawn"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Cross join"
+msgstr "Uniad croes"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"RowHeightDialog\n"
+"title\n"
+"string.text"
+msgid "Row Height"
+msgstr "Uchder Rhes"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Height"
+msgstr "_Uchder"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Awtomatig"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"SaveDialog\n"
+"title\n"
+"string.text"
+msgid "Save As"
+msgstr "Cadw Fel"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"descriptionft\n"
+"label\n"
+"string.text"
+msgid "Please enter a name for the object to be created:"
+msgstr "Rhowch enw'r gwrthrych i'w greu:"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"catalogft\n"
+"label\n"
+"string.text"
+msgid "_Catalog"
+msgstr "_Catalog"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"schemaft\n"
+"label\n"
+"string.text"
+msgid "_Schema"
+msgstr "_Sgema"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"SortDialog\n"
+"title\n"
+"string.text"
+msgid "Sort Order"
+msgstr "Trefnu Didoli"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Gweithredydd"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "and then"
+msgstr "ac yna"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "and then"
+msgstr "ac yna"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Field name"
+msgstr "Enw Maes"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Order"
+msgstr "Trefn"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value1\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "esgynnol"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value1\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "gostyngol"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value2\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "esgynnol"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value2\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "gostyngol"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value3\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "esgynnol"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value3\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "gostyngol"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Sort order"
+msgstr "Trefnu didoli"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"usesql92\n"
+"label\n"
+"string.text"
+msgid "Use SQL92 naming constraints"
+msgstr "Defnyddio cyfyngiad enwi SQL92"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"append\n"
+"label\n"
+"string.text"
+msgid "Append the table alias name on SELECT statements"
+msgstr "Atodi enw arall y tabl ar ddatganiadau SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useas\n"
+"label\n"
+"string.text"
+msgid "Use keyword AS before table alias names"
+msgstr "Defnyddio allweddair AS cyn enwau eraill tabl"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useoj\n"
+"label\n"
+"string.text"
+msgid "Use Outer Join syntax '{OJ }'"
+msgstr "Defnyddiwch gystrawen Outer Join '{OJ }'"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"ignoreprivs\n"
+"label\n"
+"string.text"
+msgid "Ignore the privileges from the database driver"
+msgstr "Anwybyddu breintiau o yrrwr y gronfa ddata"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"replaceparams\n"
+"label\n"
+"string.text"
+msgid "Replace named parameters with '?'"
+msgstr "Newid y paramedrau enwyd gyda '?'"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"displayver\n"
+"label\n"
+"string.text"
+msgid "Display version columns (when available)"
+msgstr "Dangos fersiwn y colofnau (lle mae ar gael)"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"usecatalogname\n"
+"label\n"
+"string.text"
+msgid "Use catalog name in SELECT statements"
+msgstr "Defnyddio enw catalog mewn datganiadau SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useschemaname\n"
+"label\n"
+"string.text"
+msgid "Use schema name in SELECT statements"
+msgstr "Defnyddio enw sgema mewn datganiadau SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"createindex\n"
+"label\n"
+"string.text"
+msgid "Create index with ASC or DESC statement"
+msgstr "Creu mynegai gyda datganiad ASC neu DESC"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"eol\n"
+"label\n"
+"string.text"
+msgid "End text lines with CR+LF"
+msgstr "Diwedd llinellau testun gyda CR+LF"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"ignorecurrency\n"
+"label\n"
+"string.text"
+msgid "Ignore currency field information"
+msgstr "Anwybyddu gwybodaeth maes arian"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"inputchecks\n"
+"label\n"
+"string.text"
+msgid "Form data input checks for required fields"
+msgstr "Gwiriadau mewnbwn data ffurflen ar gyfer y meysydd angenrheidiol"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useodbcliterals\n"
+"label\n"
+"string.text"
+msgid "Use ODBC conformant date/time literals"
+msgstr "Defnyddio llythrennydd dyddiad/amser cydymffurfiwr ODBC"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"primarykeys\n"
+"label\n"
+"string.text"
+msgid "Supports primary keys"
+msgstr "Cynnal alleddi cynradd"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"resulttype\n"
+"label\n"
+"string.text"
+msgid "Respect the result set type from the database driver"
+msgstr "Parchu'r math gosod canlyniad o yrrwr y gronfa ddata"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparisonft\n"
+"label\n"
+"string.text"
+msgid "Comparison of Boolean values"
+msgstr "Cymhariaeth o werthoedd Booleaidd"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"0\n"
+"stringlist.text"
+msgid "Default"
+msgstr "Rhagosodiad"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"1\n"
+"stringlist.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"2\n"
+"stringlist.text"
+msgid "Mixed"
+msgstr "Cymysg"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"3\n"
+"stringlist.text"
+msgid "MS Access"
+msgstr "MS Access"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"rowsft\n"
+"label\n"
+"string.text"
+msgid "Rows to scan column types"
+msgstr "Rhesi i'w sganio mathau colofnau"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Dewisiadau"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"SQLExceptionDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME Base"
+msgstr "%PRODUCTNAME Base"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Error _list:"
+msgstr "_Rhestr gwall:"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Description:"
+msgstr "_Disgrifiad:"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Details"
+msgstr "Manylion"
+
+#: tablesfilterdialog.ui
+msgctxt ""
+"tablesfilterdialog.ui\n"
+"TablesFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Tables Filter"
+msgstr "Hidl Tablau"
+
+#: tablesfilterpage.ui
+msgctxt ""
+"tablesfilterpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Mark the tables that should be visible for the applications."
+msgstr "Marcio'r tablau ddylai fod yn weladwy ar gyfer rhaglenni."
+
+#: tablesfilterpage.ui
+msgctxt ""
+"tablesfilterpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables and table filter"
+msgstr "Tablau a hidl tabl"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"tables\n"
+"label\n"
+"string.text"
+msgid "Tables"
+msgstr "Tablau"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"queries\n"
+"label\n"
+"string.text"
+msgid "Queries"
+msgstr "Ymholiadau"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "Add Tables"
+msgstr "Ychwanegu Tablau"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Add Table or Query"
+msgstr "Ychwanegu Tabl neu Ymholiad"
+
+#: useradmindialog.ui
+msgctxt ""
+"useradmindialog.ui\n"
+"UserAdminDialog\n"
+"title\n"
+"string.text"
+msgid "User administration"
+msgstr "Gweinyddiaeth defnyddiwr"
+
+#: useradmindialog.ui
+msgctxt ""
+"useradmindialog.ui\n"
+"settings\n"
+"label\n"
+"string.text"
+msgid "User Settings"
+msgstr "Gosodiadau'r Defnyddiwr"

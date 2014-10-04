@@ -1,0 +1,156 @@
+#. extracted from extensions/source/abpilot
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2012-01-12 04:57+0200\n"
+"Last-Translator: khem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: km-KH\n"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_SELECT_ABTYPE\n"
+"string.text"
+msgid "Address book type"
+msgstr "ប្រភេទ​សៀវភៅ​អាសយដ្ឋាន"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_INVOKE_ADMIN_DIALOG\n"
+"string.text"
+msgid "Connection Settings"
+msgstr "​កំណត់ការ​​​​ត​ភ្ជាប់​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_TABLE_SELECTION\n"
+"string.text"
+msgid "Table selection"
+msgstr "ជម្រើស​របស់​​តារាង"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_MANUAL_FIELD_MAPPING\n"
+"string.text"
+msgid "Field Assignment"
+msgstr "ការ​ផ្តល់​តម្លៃ​ឲ្យ​វាល​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_FINAL_CONFIRM\n"
+"string.text"
+msgid "Data Source Title"
+msgstr "​ចំណង​​​ជើង​របស់​​​​ប្រ​ភព​​​ទិន្នន័យ​​​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"modaldialog.text"
+msgid "Address Book Data Source Wizard"
+msgstr "អ្នក​​​ជំនួយ​​​ការ​​​ប្រ​ភព​​​ទិន្នន័យ​​​​សៀវ​​ភៅ​​​អាសយ​​​ដ្ឋាន​​​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_ERR_NEEDTYPESELECTION\n"
+"errorbox.text"
+msgid "Please select a type of address book."
+msgstr "សូម​​ជ្រើស​​ប្រភេទ​​សៀវ​ភៅ​​អាសយ​ដ្ឋាន​​​មួយ ។​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NOTABLES\n"
+"querybox.text"
+msgid ""
+"The data source does not contain any tables.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"ប្រភព​ទិន្នន័យ​មិន​មាន​ផ្ទុក​តារាង​ណាមួយឡើយ ។\n"
+"យ៉ាង​ណាក៏​ដោយ តើ​អ្នក​ចង់​ដំឡើង​វា​ជា​ប្រភព​ទិន្នន័យ​អាសយដ្ឋាន​មួយ​ឬ ?"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NO_EVO_GW\n"
+"querybox.text"
+msgid ""
+"You don't seem to have any GroupWise account configured in Evolution.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"អ្នក​ដូចជា​មិន​មាន​គណនី GroupWise ណាមួយ​ដែល​បាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​ក្នុង Evolution ទេ ។\n"
+"ទោះជា​យ៉ាងណា តើ​អ្នក​ចង់​រៀបចំ​វា​ជា​ប្រភព​ទិន្នន័យ​អាសយដ្ឋាន​ដែរ​ឬទេ ?"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_DEFAULT_NAME\n"
+"string.text"
+msgid "Addresses"
+msgstr "អាសយ​ដ្ឋាន"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_ADMINDIALOGTITLE\n"
+"string.text"
+msgid "Create Address Data Source"
+msgstr "បង្កើត​​ប្រភព​​ទិន្នន័យ​អាសយ​ដ្ឋាន"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOCONNECTION\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "មិន​​អាច​​បង្កើត​​ការ​​តភ្ជាប់​​បាន​​ទេ​ ។"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_PLEASECHECKSETTINGS\n"
+"string.text"
+msgid "Please check the settings made for the data source."
+msgstr "សូម​​​ពិនិត្យ​​​មើល​​​ការ​​​កំណត់​​​ដែល​​​បាន​​​បង្កើត​​​ ​សម្រាប់​​​​ប្រភព​​​​ទិន្នន័យ ​​។​​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_FIELDDIALOGTITLE\n"
+"string.text"
+msgid "Address Data - Field Assignment"
+msgstr "ទិន្នន័យ​​អាសយ​ដ្ឋាន - ​ការ​​ផ្តល់​​​តម្លៃ​​​ឲ្យ​​​វាល​"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOFIELDSASSIGNED\n"
+"string.text"
+msgid ""
+"There are no fields assigned at this time.\n"
+"You can either assign fields now or do so later by first choosing:\n"
+"\"File - Template - Address Book Source...\""
+msgstr ""
+"គ្មាន​​វាល​​​ត្រូវ​​បាន​​ផ្តល់​​​នៅ​​ពេល​​នេះ​ ។ ​\n"
+"​អ្នក​​អាច​​ផ្តល់​​​វាល​​​ឥឡូវនេះ​​ ​ឬ​ពេល​ក្រោយ​ ​ដោយ​​ដំបូងជ្រើស ៖ \n"
+" \"ឯកសារ - ពុម្ព - ប្រភព​សៀវភៅ​អា​សយ​ដ្ឋាន...\" "

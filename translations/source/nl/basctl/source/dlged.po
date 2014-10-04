@@ -1,0 +1,87 @@
+#. extracted from basctl/source/dlged
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-05-17 06:24+0000\n"
+"Last-Translator: kees538 <kees538@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1400307892.000000\n"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr "Eigenschappen:"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "Geen besturingselement"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Meervoudige selectie"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DEF_LANG\n"
+"string.text"
+msgid "[Default Language]"
+msgstr "[Standaardtaal]"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DELETE\n"
+"string.text"
+msgid "~Delete"
+msgstr "~Verwijder"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_CREATE_LANG\n"
+"string.text"
+msgid "<Press 'Add' to create language resources>"
+msgstr "Klik op de knop 'Toevoegen' om taalbronnen creëren"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.text"
+msgid ""
+"You are about to delete the resources for the selected language(s). All user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr ""
+"U staat op het punt om alle hulpmiddelen voor de geselecteerde taal/talen te verwijderen. Alle teksten van de gebruikersinterface voor deze taal/talen zullen worden verwijderd.\n"
+"\n"
+"Wilt u de hulpmiddelen voor de geselecteerde taal/talen verwijderen?"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.title"
+msgid "Delete Language Resources"
+msgstr "Taalresources verwijderen"

@@ -1,0 +1,868 @@
+#. extracted from sd/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-09-06 04:49+0000\n"
+"Last-Translator: soksophea <sksophea@gmail.com>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: km-KH\n"
+"X-POOTLE-MTIME: 1378442952.0\n"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_IMPRESS_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Slide Pane"
+msgstr "ស្លាបព្រិល​ស្លាយ​"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_DRAW_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Page Pane"
+msgstr "ស្លាបព្រិល​ទំព័រ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_FIRST\n"
+"imagebutton.quickhelptext"
+msgid "First Image"
+msgstr "រូបភាព​ទី​មួយ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REVERSE\n"
+"imagebutton.quickhelptext"
+msgid "Backwards"
+msgstr "ថយ​ក្រោយ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_STOP\n"
+"imagebutton.quickhelptext"
+msgid "Stop"
+msgstr "បញ្ឈប់"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_PLAY\n"
+"imagebutton.quickhelptext"
+msgid "Play"
+msgstr "លេង"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_LAST\n"
+"imagebutton.quickhelptext"
+msgid "Last Image"
+msgstr "រូបភាព​ចុង​ក្រោយ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"NUM_FLD_BITMAP\n"
+"numericfield.quickhelptext"
+msgid "Image Number"
+msgstr "លេខ​រូបភាព"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"TIME_FIELD\n"
+"timefield.quickhelptext"
+msgid "Duration"
+msgstr "ថិរវេលា"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"LB_LOOP_COUNT\n"
+"listbox.quickhelptext"
+msgid "Loop Count"
+msgstr "ចំនួន​រង្វិល​ជុំ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1\n"
+"stringlist.text"
+msgid "1"
+msgstr "១"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"2\n"
+"stringlist.text"
+msgid "2"
+msgstr "២"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"3\n"
+"stringlist.text"
+msgid "3"
+msgstr "៣"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"4\n"
+"stringlist.text"
+msgid "4"
+msgstr "៤"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"5\n"
+"stringlist.text"
+msgid "5"
+msgstr "៥"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"6\n"
+"stringlist.text"
+msgid "6"
+msgstr "៦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"7\n"
+"stringlist.text"
+msgid "7"
+msgstr "៧"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"8\n"
+"stringlist.text"
+msgid "8"
+msgstr "៨"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"9\n"
+"stringlist.text"
+msgid "9"
+msgstr "៩"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"10\n"
+"stringlist.text"
+msgid "10"
+msgstr "១០"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"12\n"
+"stringlist.text"
+msgid "12"
+msgstr "១២"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"15\n"
+"stringlist.text"
+msgid "15"
+msgstr "១៥"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"20\n"
+"stringlist.text"
+msgid "20"
+msgstr "២០"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"25\n"
+"stringlist.text"
+msgid "25"
+msgstr "២៥"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"50\n"
+"stringlist.text"
+msgid "50"
+msgstr "៥០"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"100\n"
+"stringlist.text"
+msgid "100"
+msgstr "១០០"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"500\n"
+"stringlist.text"
+msgid "500"
+msgstr "៥០០"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1000\n"
+"stringlist.text"
+msgid "1000"
+msgstr "១០០០"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"Max.\n"
+"stringlist.text"
+msgid "Max."
+msgstr "អតិបរមា"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ONE_OBJECT\n"
+"imagebutton.quickhelptext"
+msgid "Apply Object"
+msgstr "អនុវត្ត​វត្ថុ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ALL_OBJECTS\n"
+"imagebutton.quickhelptext"
+msgid "Apply Objects Individually"
+msgstr "អនុវត្ត​វត្ថុ​ដាច់​ដោយ​ឡែក​ពី​គ្នា "
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_BITMAP\n"
+"imagebutton.quickhelptext"
+msgid "Delete Current Image"
+msgstr "លុប​រូបភាព​បច្ចុប្បន្ន"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_ALL\n"
+"imagebutton.quickhelptext"
+msgid "Delete All Images"
+msgstr "លុប​រូបភាព​ទាំងអស់"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_COUNT\n"
+"fixedtext.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_BITMAP\n"
+"fixedline.text"
+msgid "Image"
+msgstr "រូបភាព"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_GROUP\n"
+"radiobutton.text"
+msgid "Group object"
+msgstr "​វត្ថុ​​ក្រុម"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_BITMAP\n"
+"radiobutton.text"
+msgid "Bitmap object"
+msgstr "វត្ថុ​រូបភាព"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_ADJUSTMENT\n"
+"fixedtext.text"
+msgid "Alignment"
+msgstr "តម្រឹម"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Left\n"
+"stringlist.text"
+msgid "Top Left"
+msgstr "កំពូល ​ឆ្វេង"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Left\n"
+"stringlist.text"
+msgid "Left"
+msgstr "ឆ្វេង"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Left\n"
+"stringlist.text"
+msgid "Bottom Left"
+msgstr "បាត ​ឆ្វេង"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top\n"
+"stringlist.text"
+msgid "Top"
+msgstr "កំពូល"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Centered\n"
+"stringlist.text"
+msgid "Centered"
+msgstr "កណ្តាល"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "បាត"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Right\n"
+"stringlist.text"
+msgid "Top Right"
+msgstr "កំពូល ​ស្តាំ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Right\n"
+"stringlist.text"
+msgid "Right"
+msgstr "​ស្តាំ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Right\n"
+"stringlist.text"
+msgid "Bottom Right"
+msgstr "បាត ​ស្តាំ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_CREATE_GROUP\n"
+"pushbutton.text"
+msgid "Create"
+msgstr "បង្កើត"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_ANIMATION_GROUP\n"
+"fixedline.text"
+msgid "Animation group"
+msgstr "ក្រុម​ចលនា"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"STR_DISPLAY\n"
+"string.text"
+msgid "Preview"
+msgstr "មើល​ជាមុន"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"dockingwindow.text"
+msgid "Animation"
+msgstr "ចលនា"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PREVIEW\n"
+"checkbox.text"
+msgid "Previe~w"
+msgstr "មើល​ជា​​​មុន "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_STARTWITH\n"
+"checkbox.text"
+msgid "~Do not show this wizard again"
+msgstr "កុំ​បង្ហាញ​អ្នក​ជំនួយការ​នេះ​ម្តង​ទៀត "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE1_ARTGROUP\n"
+"fixedline.text"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_EMPTY\n"
+"radiobutton.text"
+msgid "~Empty presentation"
+msgstr "ការ​បង្ហាញ​ទទេ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_TEMPLATE\n"
+"radiobutton.text"
+msgid "~From template"
+msgstr "ពី​ពុម្ព "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_OPEN\n"
+"radiobutton.text"
+msgid "O~pen existing presentation"
+msgstr "បើក​ការ​បង្ហាញ​ដែល​មាន​ស្រាប់ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_LAYOUT\n"
+"fixedline.text"
+msgid "~Select a slide design"
+msgstr "ជ្រើស​ការ​រចនា​ស្លាយ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_OUTPUTTYPES\n"
+"fixedline.text"
+msgid "Select an output medium"
+msgstr "ជ្រើស​​ឧបករណ៍​បង្ហាញ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM5\n"
+"radiobutton.text"
+msgid "~Original"
+msgstr "ដើម "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM1\n"
+"radiobutton.text"
+msgid "Sc~reen"
+msgstr "អេក្រង់ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM2\n"
+"radiobutton.text"
+msgid "Sli~de"
+msgstr "ស្លាយ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM3\n"
+"radiobutton.text"
+msgid "O~verhead sheet"
+msgstr "ក្រដាស​ស្លាយ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM4\n"
+"radiobutton.text"
+msgid "P~aper"
+msgstr "ក្រដាស "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM6\n"
+"radiobutton.text"
+msgid "W~idescreen"
+msgstr "ពេញ​អេក្រង់"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_EFFECT\n"
+"fixedline.text"
+msgid "Select a slide transition"
+msgstr "ជ្រើស​ដំណើរ​ផ្លាស់ប្តូរ​ស្លាយ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_EFFECT\n"
+"fixedtext.text"
+msgid "~Effect"
+msgstr "បែបផែន "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_SPEED\n"
+"fixedtext.text"
+msgid "~Speed"
+msgstr "ល្បឿន "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_PRESTYPE\n"
+"fixedline.text"
+msgid "Select the presentation type"
+msgstr "ជ្រើស​ប្រភេទ​ការ​បង្ហាញ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_LIVE\n"
+"radiobutton.text"
+msgid "~Default"
+msgstr "លំនាំ​ដើម "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_KIOSK\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "ស្វ័យប្រវត្តិ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_TIME\n"
+"fixedtext.text"
+msgid "D~uration of page"
+msgstr "ថិរវេលា​នៃ​ទំព័រ "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_BREAK\n"
+"fixedtext.text"
+msgid "Du~ration of pause"
+msgstr "ថិរវេលា​ផ្អាក "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE3_LOGO\n"
+"checkbox.text"
+msgid "Sh~ow logo"
+msgstr "បង្ហាញ​រូប​សញ្ញា "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE4_PERSONAL\n"
+"fixedline.text"
+msgid "Describe your basic ideas"
+msgstr "ពណ៌នា​អំពី​គោល​គំនិត​របស់​អ្នក"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKNAME\n"
+"fixedtext.text"
+msgid "What is your name or the name of your company?"
+msgstr "តើ​អ្នក ឬ​ ក្រុមហ៊ុន​របស់​អ្នក​ឈ្មោះ​អ្វី ?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKTOPIC\n"
+"fixedtext.text"
+msgid "What is the subject of your presentation?"
+msgstr "តើ​អ្វី​ទៅ​​ជា​ប្រធានបទ ​នៃ​ការ​បង្ហាញ​របស់​អ្នក ?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKINFORMATION\n"
+"fixedtext.text"
+msgid "Further ideas to be presented?"
+msgstr "គំនិត​ផ្សេង​ៗ ដែល​ត្រូវ​បង្ហាញ ?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE5_PAGELIST\n"
+"fixedtext.text"
+msgid "Ch~oose your pages"
+msgstr "ជ្រើស​​​ទំព័រ​របស់​អ្នក "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE5_SUMMARY\n"
+"checkbox.text"
+msgid "C~reate summary"
+msgstr "បង្កើត​សេចក្តី​សង្ខេប "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_LAST\n"
+"pushbutton.text"
+msgid "<< ~Back"
+msgstr "<< ថយ​​ក្រោយ​  "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_NEXT\n"
+"pushbutton.text"
+msgid "~Next >>"
+msgstr "បន្ទាប់​ >>"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_FINISH\n"
+"okbutton.text"
+msgid "~Create"
+msgstr "បង្កើត "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "បើក "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_CREATE\n"
+"string.text"
+msgid "~Create"
+msgstr "បង្កើត "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"modaldialog.text"
+msgid "Presentation Wizard"
+msgstr "អ្នក​ជំនួយការ​បង្ហាញ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PEN\n"
+"toolboxitem.text"
+msgid "Pointer"
+msgstr "ទ្រនិច"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_FIRST\n"
+"toolboxitem.text"
+msgid "First Slide"
+msgstr "ស្លាយ​ដំបូង"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PREVIOUS\n"
+"toolboxitem.text"
+msgid "Previous Slide"
+msgstr "ស្លាយ​មុន"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_NEXT\n"
+"toolboxitem.text"
+msgid "Next Slide"
+msgstr "ស្លាយ​បន្ទាប់"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_LAST\n"
+"toolboxitem.text"
+msgid "Last Slide"
+msgstr "ស្លាយ​ចុងក្រោយ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_DRAGTYPE\n"
+"toolboxitem.text"
+msgid "Drag Mode"
+msgstr "របៀប​អូស"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_SHAPE_FILTER\n"
+"toolboxitem.text"
+msgid "Show Shapes"
+msgstr "បង្ហាញ​រូបរាង"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR\n"
+"LB_DOCS\n"
+"listbox.quickhelptext"
+msgid "Documents"
+msgstr "ឯកសារ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"STR_OBJECTS_TREE\n"
+"string.text"
+msgid "Page Tree"
+msgstr "មែកធាង​ទំព័រ"

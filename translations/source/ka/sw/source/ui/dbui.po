@@ -1,0 +1,903 @@
+#. extracted from sw/source/ui/dbui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2012-12-26 10:29+0000\n"
+"Last-Translator: Luka <mail@luka.ge>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356517780.0\n"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"FI_ADDRESSINFORMATION\n"
+"fixedtext.text"
+msgid "Address Information"
+msgstr "ინფორმაცია მისამართის შესახებ"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_NEW\n"
+"pushbutton.text"
+msgid "~New"
+msgstr "ა~ხალი"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_DELETE\n"
+"pushbutton.text"
+msgid "~Delete"
+msgstr "~წაშლა"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find..."
+msgstr "~ძებნა..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_CUSTOMIZE\n"
+"pushbutton.text"
+msgid "C~ustomize..."
+msgstr "მო~რგება..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"FI_VIEWENTRIES\n"
+"fixedtext.text"
+msgid "Sho~w entry number"
+msgstr "ჩანაწერის ნომრის ~ჩვენება"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"ST_FILTERNAME\n"
+"string.text"
+msgid "%PRODUCTNAME Address List (.csv)"
+msgstr "%PRODUCTNAME მისამართების სია (.csv)"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"modaldialog.text"
+msgid "New Address List"
+msgstr "მისამართების ახალი სია"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"FI_DESCRIPTION\n"
+"fixedtext.text"
+msgid "The list below shows the contents of: %1"
+msgstr "მოცემული სია აჩვენებს შემდეგის შიგთავსს: %1"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"PB_OK\n"
+"okbutton.text"
+msgid "~Close"
+msgstr "~დახურვა"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"modaldialog.text"
+msgid "Mail Merge Recipients"
+msgstr "ელფოსტასთან შერწყმული მიმღებები"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Title\n"
+"itemlist.text"
+msgid "Title"
+msgstr "სათაური"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"First Name\n"
+"itemlist.text"
+msgid "First Name"
+msgstr "სახელი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Last Name\n"
+"itemlist.text"
+msgid "Last Name"
+msgstr "გვარი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Company Name\n"
+"itemlist.text"
+msgid "Company Name"
+msgstr "კომპანიის დასახელება"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Address Line 1\n"
+"itemlist.text"
+msgid "Address Line 1"
+msgstr "მისამართის სტრიქონი 1"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Address Line 2\n"
+"itemlist.text"
+msgid "Address Line 2"
+msgstr "მისამართის სტრიქონი 2"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"City\n"
+"itemlist.text"
+msgid "City"
+msgstr "ქალაქი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"State\n"
+"itemlist.text"
+msgid "State"
+msgstr "შტატი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"ZIP\n"
+"itemlist.text"
+msgid "ZIP"
+msgstr "ZIP კოდი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Country\n"
+"itemlist.text"
+msgid "Country"
+msgstr "ქვეყანა"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Telephone private\n"
+"itemlist.text"
+msgid "Telephone private"
+msgstr "კერძო ტელეფონი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Telephone business\n"
+"itemlist.text"
+msgid "Telephone business"
+msgstr "ბიზნეს-ტელეფონი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"E-mail Address\n"
+"itemlist.text"
+msgid "E-mail Address"
+msgstr "ელფოსტის მისამართი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Gender\n"
+"itemlist.text"
+msgid "Gender"
+msgstr "სქესი"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_NOTASSIGNED\n"
+"string.text"
+msgid " not yet matched "
+msgstr " დამთხვევა ჯერ არ არის"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ALL\n"
+"string.text"
+msgid "All files"
+msgstr "ყველა ფაილები"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ALL_DATA\n"
+"string.text"
+msgid "Address lists(*.*)"
+msgstr "მისამართების სიები(*.*)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_SXB\n"
+"string.text"
+msgid "%PRODUCTNAME Base (*.odb)"
+msgstr "%PRODUCTNAME Base (*.odb)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_SXC\n"
+"string.text"
+msgid "%PRODUCTNAME Calc (*.ods;*.sxc)"
+msgstr "%PRODUCTNAME Calc (*.ods;*.sxc)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_DBF\n"
+"string.text"
+msgid "dBase (*.dbf)"
+msgstr "dBase (*.dbf)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_XLS\n"
+"string.text"
+msgid "Microsoft Excel (*.xls)"
+msgstr "Microsoft-სი Excel (*.xls)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_TXT\n"
+"string.text"
+msgid "Plain text (*.txt)"
+msgstr "ჩვეულებრივი ტექსტი (*.txt)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_CSV\n"
+"string.text"
+msgid "Text Comma Separated (*.csv)"
+msgstr "ტექსტი მძიმით გამოყოფილი მნიშვნელობებით (*.csv)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_MDB\n"
+"string.text"
+msgid "Microsoft Access (*.mdb)"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ACCDB\n"
+"string.text"
+msgid "Microsoft Access 2007 (*.accdb)"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SAVESTART\n"
+"string.text"
+msgid "Save ~starting document"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SAVEMERGED\n"
+"string.text"
+msgid "Save merged document"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_PRINT\n"
+"string.text"
+msgid "Print settings"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SENDMAIL\n"
+"string.text"
+msgid "E-Mail settings"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_DEFAULTATTACHMENT\n"
+"string.text"
+msgid "Untitled"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_NOSUBJECT\n"
+"string.text"
+msgid "No subject"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_CONFIGUREMAIL\n"
+"string.text"
+msgid ""
+"In order to be able to send mail merge documents by e-mail, %PRODUCTNAME requires information about the e-mail account to be used.\n"
+"\n"
+"Do you want to enter e-mail account information now?"
+msgstr ""
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_STARTING\n"
+"string.text"
+msgid "Select starting document"
+msgstr "აირჩიეთ საწყისი დოკუმენტი"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_DOCUMETNTYPE\n"
+"string.text"
+msgid "Select document type"
+msgstr "აირჩიეთ დოკუმენტის ტიპი"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_ADDRESSBLOCK\n"
+"string.text"
+msgid "Insert address block"
+msgstr "მისამართების ბლოკის ჩასმა"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_ADDRESSLIST\n"
+"string.text"
+msgid "Select address list"
+msgstr "აირჩიეთ მისამართების სია"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_GREETINGSLINE\n"
+"string.text"
+msgid "Create salutation"
+msgstr "მისალმების შექმნა"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_LAYOUT\n"
+"string.text"
+msgid "Adjust layout"
+msgstr "განლაგების მორგება"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_PREPAREMERGE\n"
+"string.text"
+msgid "Edit document"
+msgstr "დოკუმენტის რედაქტირება"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_MERGE\n"
+"string.text"
+msgid "Personalize document"
+msgstr "დოკუმენტის პერსონალიზება"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_OUTPUT\n"
+"string.text"
+msgid "Save, print or send"
+msgstr "შენახვა, დაბეჭდვა ან გაგზავნა"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "და~სრულება"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"modaldialog.text"
+msgid "Mail Merge Wizard"
+msgstr "წერილების შეერთების ოსტატი"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"_ST_NONE_LIST\n"
+"< none >\n"
+"stringlist.text"
+msgid "< none >"
+msgstr "<არაფერი>"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"WORKAROUND\n"
+"#define.text"
+msgid "New Address Block"
+msgstr "მისამართების ახალი ბლოკი"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_EDIT\n"
+"string.text"
+msgid "Edit Address Block"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_MALE\n"
+"string.text"
+msgid "Custom Salutation (Male Recipients)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_FEMALE\n"
+"string.text"
+msgid "Custom Salutation (Female Recipients)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_SALUTATIONELEMENTS\n"
+"string.text"
+msgid "Salutation e~lements"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_INSERTSALUTATIONFIELD\n"
+"string.text"
+msgid "Add to salutation"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_REMOVESALUTATIONFIELD\n"
+"string.text"
+msgid "Remove from salutation"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_DRAGSALUTATION\n"
+"string.text"
+msgid "1. ~Drag salutation elements into the box below"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_SALUTATION\n"
+"string.text"
+msgid "Salutation"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_PUNCTUATION\n"
+"string.text"
+msgid "Punctuation Mark"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Dear\n"
+"itemlist.text"
+msgid "Dear"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Hello\n"
+"itemlist.text"
+msgid "Hello"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Hi\n"
+"itemlist.text"
+msgid "Hi"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+",\n"
+"itemlist.text"
+msgid ","
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+":\n"
+"itemlist.text"
+msgid ":"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+"!\n"
+"itemlist.text"
+msgid "!"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+"(none)\n"
+"itemlist.text"
+msgid "(none)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"FI_MATCHING\n"
+"fixedtext.text"
+msgid "Assign the fields from your data source to match the address elements."
+msgstr "მიუსადაგეთ ველები თქვენი მონაცემთა წყაროდან მისამართების ელემენტებს. "
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONMATCHING\n"
+"string.text"
+msgid "Assign the fields from your data source to match the salutation elements."
+msgstr "მიუსადაგეთ ველები თქვენი მონაცემთა წყაროდან მისალმების ელემენტებს. "
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"FI_PREVIEW\n"
+"fixedtext.text"
+msgid "Address block preview"
+msgstr "მისამართების ბლოკის ესკიზი"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONPREVIEW\n"
+"string.text"
+msgid "Salutation preview"
+msgstr "მისალმების ესკიზი"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_ADDRESSELEMENT\n"
+"string.text"
+msgid "Address elements"
+msgstr "მისამართის ელემენტები"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONELEMENT\n"
+"string.text"
+msgid "Salutation elements"
+msgstr "მისალმების ელემენტები"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_MATCHESTO\n"
+"string.text"
+msgid "Matches to field:"
+msgstr "ემთხვევა ველებს:"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "გადახედვა"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"modaldialog.text"
+msgid "Match Fields"
+msgstr "ემთხვევა ველევს"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"_LB_FEMALECOLUMN\n"
+"< not available >\n"
+"stringlist.text"
+msgid "< not available >"
+msgstr ""
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"CB_PERSONALIZED\n"
+"checkbox.text"
+msgid "Insert personalized salutation"
+msgstr "პერსონალიზებული მისალმების ჩასმა"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALE\n"
+"fixedtext.text"
+msgid "~Female"
+msgstr "მ~დედრობითი"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"PB_FEMALE\n"
+"pushbutton.text"
+msgid "~New..."
+msgstr "~ახალი..."
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_MALE\n"
+"fixedtext.text"
+msgid "~Male"
+msgstr "~მამრობითი"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"PB_MALE\n"
+"pushbutton.text"
+msgid "N~ew..."
+msgstr "ახა~ლი..."
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FI_FEMALE\n"
+"fixedtext.text"
+msgid "Address list field indicating a female recipient"
+msgstr "მდედრობითი სქესის მიმღების მაჩვენებელი მისამართების სიის ველი"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALECOLUMN\n"
+"fixedtext.text"
+msgid "Field name"
+msgstr "ველის დასახელება"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALEFIELD\n"
+"fixedtext.text"
+msgid "Field value"
+msgstr "ველის მნიშვნელობა"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_NEUTRAL\n"
+"fixedtext.text"
+msgid "General salutation"
+msgstr "ძირითადი მისალმება"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"CB_GREETINGLINE\n"
+"checkbox.text"
+msgid "This e-mail should contain a salutation"
+msgstr "ეს წერილი უნდა შეიცავდეს მისალმებას"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"FT_BODY\n"
+"fixedtext.text"
+msgid "Write your message here"
+msgstr "დაწერეთ თქვენი შეტყობინება აქ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"modaldialog.text"
+msgid "E-Mail Message"
+msgstr "ელფოსტის შეტყობინება"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"FI_SELECT\n"
+"fixedtext.text"
+msgid "The file you have selected contains more than one table. Please select the table containing the address list you want to use."
+msgstr "თქვენს მიერ არჩეული ფაილი შეიცავს ერთზე მეტ ცხრილს. გთხოვთ აირჩიოთ სვეტი რომელიც შეიცავს თქვენთვის საჭირო მისამართების სიას."
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"PB_PREVIEW\n"
+"pushbutton.text"
+msgid "~Preview"
+msgstr "ესკი~ზი"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "სახელი"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "ტიპი"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "ცხრილი"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_QUERY\n"
+"string.text"
+msgid "Query"
+msgstr "მოთხოვნა"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"modaldialog.text"
+msgid "Select Table"
+msgstr "ცხრილის არჩევა"

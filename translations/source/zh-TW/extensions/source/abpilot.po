@@ -1,0 +1,155 @@
+#. extracted from extensions/source/abpilot
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2012-02-06 04:54+0200\n"
+"Last-Translator: 漢昌 <esperanza@ms94.url.com.tw>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_SELECT_ABTYPE\n"
+"string.text"
+msgid "Address book type"
+msgstr "通訊錄類型"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_INVOKE_ADMIN_DIALOG\n"
+"string.text"
+msgid "Connection Settings"
+msgstr "連線設定"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_TABLE_SELECTION\n"
+"string.text"
+msgid "Table selection"
+msgstr "表格選取範圍"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_MANUAL_FIELD_MAPPING\n"
+"string.text"
+msgid "Field Assignment"
+msgstr "欄位指定"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_FINAL_CONFIRM\n"
+"string.text"
+msgid "Data Source Title"
+msgstr "資料來源標題"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"modaldialog.text"
+msgid "Address Book Data Source Wizard"
+msgstr "通訊錄資料來源精靈"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_ERR_NEEDTYPESELECTION\n"
+"errorbox.text"
+msgid "Please select a type of address book."
+msgstr "請選擇一個合適的通訊錄類型。"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NOTABLES\n"
+"querybox.text"
+msgid ""
+"The data source does not contain any tables.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"這個資料來源沒有任何的資料表格。\n"
+"還是要建立這個通訊錄資料來源？"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NO_EVO_GW\n"
+"querybox.text"
+msgid ""
+"You don't seem to have any GroupWise account configured in Evolution.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"您似乎沒有在 Evolution 中設定 GroupWise 帳號。\n"
+"無論如何您都想要將它設置為地址資料來源嗎？"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_DEFAULT_NAME\n"
+"string.text"
+msgid "Addresses"
+msgstr "地址"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_ADMINDIALOGTITLE\n"
+"string.text"
+msgid "Create Address Data Source"
+msgstr "建立地址資料來源"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOCONNECTION\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "無法連線到資料來源。"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_PLEASECHECKSETTINGS\n"
+"string.text"
+msgid "Please check the settings made for the data source."
+msgstr "請檢查資料來源的設定。"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_FIELDDIALOGTITLE\n"
+"string.text"
+msgid "Address Data - Field Assignment"
+msgstr "通訊錄資料 - 指定欄位"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOFIELDSASSIGNED\n"
+"string.text"
+msgid ""
+"There are no fields assigned at this time.\n"
+"You can either assign fields now or do so later by first choosing:\n"
+"\"File - Template - Address Book Source...\""
+msgstr ""
+"至今還未指定任何欄位。\n"
+"如果現在不指定欄位，也可以以後再做這個設定：\n"
+"按功能表 [檔案] - [範本] - [通訊錄資料來源...]。"

@@ -1,0 +1,360 @@
+#. extracted from sw/source/ui/envelp
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-06-09 22:23+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_DATABASE_NOT_OPENED\n"
+"string.text"
+msgid "Database could not be opened."
+msgstr "無法開啟資料庫。"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_NO_DRIVERS\n"
+"string.text"
+msgid "No database drivers installed."
+msgstr "沒有安裝資料庫驅動程式。"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_BTN_NEWDOC\n"
+"string.text"
+msgid "~New Doc."
+msgstr "新增文件(~N)"
+
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_SENDER_TOKENS\n"
+"string.text"
+msgid "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+msgstr "COMPANY;CR;FIRSTNAME;;LASTNAME;CR;ADDRESS;CR;CITY;;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_SYNC_BTN\n"
+"BTN_SYNC\n"
+"pushbutton.text"
+msgid "Synchronize Labels"
+msgstr "標籤同步化"
+
+#: label.src
+msgctxt ""
+"label.src\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "[User]"
+msgstr "[使用者]"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HDIST\n"
+"string.text"
+msgid "H. Pitch"
+msgstr "水平間隔"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_VDIST\n"
+"string.text"
+msgid "V. Pitch"
+msgstr "垂直間隔"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "寬度"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "高度"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left margin"
+msgstr "左邊框"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_UPPER\n"
+"string.text"
+msgid "Top margin"
+msgstr "上邊框"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_COLS\n"
+"string.text"
+msgid "Columns"
+msgstr "欄"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_ROWS\n"
+"string.text"
+msgid "Rows"
+msgstr "列"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PWIDTH\n"
+"string.text"
+msgid "Page Width"
+msgstr "頁寬"
+
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PHEIGHT\n"
+"string.text"
+msgid "Page Height"
+msgstr "頁高"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"_MAIL_MERGE_STRING_\n"
+"#define.text"
+msgid "Mail Merge"
+msgstr "合併列印"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_ALL\n"
+"radiobutton.text"
+msgid "~All"
+msgstr "全部(~A)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MARKED\n"
+"radiobutton.text"
+msgid "~Selected records"
+msgstr "選取的資料條目(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FROM\n"
+"radiobutton.text"
+msgid "~From:"
+msgstr "從(~F)："
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_BIS\n"
+"fixedtext.text"
+msgid "~To:"
+msgstr "至(~T)："
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_RECORD\n"
+"fixedline.text"
+msgid "Records"
+msgstr "資料條目"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_PRINTER\n"
+"radiobutton.text"
+msgid "~Printer"
+msgstr "印表機(~P)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MAILING\n"
+"radiobutton.text"
+msgid "~Electronic"
+msgstr "電子郵件(~E)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FILE\n"
+"radiobutton.text"
+msgid "File"
+msgstr "檔案"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_SINGLE_JOBS\n"
+"checkbox.text"
+msgid "~Single print jobs"
+msgstr "產生單項列印作業(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_SAVE_MERGED_DOCUMENT\n"
+"fixedline.text"
+msgid "Save merged document"
+msgstr "儲存合併的文件"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_SINGLE_DOC\n"
+"radiobutton.text"
+msgid "S~ave as single document"
+msgstr "儲存為單一文件(~A)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_INDIVIDUAL\n"
+"radiobutton.text"
+msgid "Sa~ve as individual documents"
+msgstr "另存為個別文件(~V)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_GENERATE_FROM_DATABASE\n"
+"checkbox.text"
+msgid "Generate file name from ~Database"
+msgstr "從資料庫產生檔案名稱(~D)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_COLUMN\n"
+"fixedtext.text"
+msgid "Field"
+msgstr "欄位"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_PATH\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "路徑(~P)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FILTER\n"
+"fixedtext.text"
+msgid "F~ile format"
+msgstr "檔案格式(~I)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "主旨(~S)"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_ATTACH\n"
+"fixedtext.text"
+msgid "Attachments"
+msgstr "附加檔案"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Mail Format"
+msgstr "郵件格式"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_HTML\n"
+"checkbox.text"
+msgid "HTM~L"
+msgstr "HTM~L"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_RTF\n"
+"checkbox.text"
+msgid "RT~F"
+msgstr "RT~F"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_SW\n"
+"checkbox.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME Writer"
+
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_DEST\n"
+"fixedline.text"
+msgid "Output"
+msgstr "匯出"

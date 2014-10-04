@@ -1,0 +1,81 @@
+#. extracted from sw/source/ui/dochdl
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-12-01 11:30+0000\n"
+"Last-Translator: sophie <gautier.sophie@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1385897411.0\n"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_NOGLOS\n"
+"string.text"
+msgid "AutoText for Shortcut '%1' not found."
+msgstr "L'AutoTexte pour le raccourci '%1' est introuvable."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_NO_TABLE\n"
+"string.text"
+msgid "A table cannot be inserted into another table. However, you can paste the data into the document when the cursor is not in a table."
+msgstr "Impossible d'insérer un tableau dans un autre tableau ! Vous pouvez toutefois coller les données lorsque le curseur ne se trouve pas dans un tableau."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"MSG_ERR_INSERT_GLOS\n"
+"infobox.text"
+msgid "AutoText could not be created."
+msgstr "Impossible de créer l'AutoTexte."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"MSG_CLPBRD_FORMAT_ERROR\n"
+"infobox.text"
+msgid "Requested clipboard format is not available."
+msgstr "Le format de presse-papiers souhaité n'est pas disponible."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATETEXT\n"
+"string.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME Writer"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATEGRAPHIC\n"
+"string.text"
+msgid "Image [%PRODUCTNAME Writer]"
+msgstr "Image [%PRODUCTNAME Writer]"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATEOLE\n"
+"string.text"
+msgid "Object [%PRODUCTNAME Writer]"
+msgstr "Objet [%PRODUCTNAME Writer]"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_DDEFORMAT\n"
+"string.text"
+msgid "DDE link"
+msgstr "Lien DDE"

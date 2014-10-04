@@ -1,0 +1,600 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2011-04-05 23:50+0200\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kmr-Latn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "Hilbijartina qadê:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Tablo;Lêpirsîn;Sql;Sql [Native]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "Danegira Çavkanîkî"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "Tu dixwazî stûnan sererast bike?"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"GB_MAPPING\n"
+"fixedline.text"
+msgid "Column names"
+msgstr "Navê stûnê"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"ST_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<none>"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"modaldialog.text"
+msgid "Column Layout for Table %1"
+msgstr "Ji bo tabloya %1 duzena stûnê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr "Ev navên stûnan nehate tayînkirin:\n"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "Gotar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "Pirtûk"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "Broşur"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Rapora civînê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "Beşa pirtûka"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "Bêşa pirtûkên bisernav"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Rapora civînê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr "Kovar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr "Belgeyên teknîkî"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "Angaşt (tez)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "Curbecur"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "Xebata angaştiyê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Rapora civînê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "Rapora lêkolînê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "Nehatiyê weşandin"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "e-mail"
+msgstr "e-peyam"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "Belgeya WWW"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "Cureyê bikarhêner1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr "Cureyê bikarhêner2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr "Cureyê bikarhêner3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr "Cureyê bikarhêner4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr "Cureyê bikarhêner5"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"tabpage.text"
+msgid "General"
+msgstr "Giştî"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_IDENTIFIER\n"
+"string.text"
+msgid "~Short name"
+msgstr "~Kurtenav"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHTYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "~Cure"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_YEAR\n"
+"string.text"
+msgid "~Year"
+msgstr "~Sal"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHOR\n"
+"string.text"
+msgid "Author(s)"
+msgstr "Nivîskar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TITLE\n"
+"string.text"
+msgid "Tit~le"
+msgstr "Ser~nivîs"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PUBLISHER\n"
+"string.text"
+msgid "~Publisher"
+msgstr "~Weşankar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ADDRESS\n"
+"string.text"
+msgid "A~ddress"
+msgstr "~Navnîşan"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ISBN\n"
+"string.text"
+msgid "~ISBN"
+msgstr "~ISBN"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CHAPTER\n"
+"string.text"
+msgid "~Chapter"
+msgstr "~Beş"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PAGE\n"
+"string.text"
+msgid "Pa~ge(s)"
+msgstr "~Rûpel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITOR\n"
+"string.text"
+msgid "Editor"
+msgstr "Weşanger"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITION\n"
+"string.text"
+msgid "Ed~ition"
+msgstr "~Weşan"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_BOOKTITLE\n"
+"string.text"
+msgid "~Book title"
+msgstr "~Sernavê pirtûkê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_VOLUME\n"
+"string.text"
+msgid "Volume"
+msgstr "Cîld"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_HOWPUBLISHED\n"
+"string.text"
+msgid "Publication t~ype"
+msgstr "~Cureyê weşanê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ORGANIZATION\n"
+"string.text"
+msgid "Organi~zation"
+msgstr "Organî~zasyon"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_INSTITUTION\n"
+"string.text"
+msgid "Instit~ution"
+msgstr "~Sazî"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SCHOOL\n"
+"string.text"
+msgid "University"
+msgstr "Zanîngeh"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_REPORT\n"
+"string.text"
+msgid "Type of re~port"
+msgstr "Cureyê ~raporê"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_MONTH\n"
+"string.text"
+msgid "~Month"
+msgstr "~Meh"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_JOURNAL\n"
+"string.text"
+msgid "~Journal"
+msgstr "~Kovar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NUMBER\n"
+"string.text"
+msgid "Numb~er"
+msgstr "~Hejmar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SERIES\n"
+"string.text"
+msgid "Se~ries"
+msgstr "~Rêze"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ANNOTE\n"
+"string.text"
+msgid "Ann~otation"
+msgstr "~Rave"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NOTE\n"
+"string.text"
+msgid "~Note"
+msgstr "~Têbinî"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM1\n"
+"string.text"
+msgid "User-defined field ~1"
+msgstr "Qada ku bi bikarhêner hatiye ravekirin ~1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM2\n"
+"string.text"
+msgid "User-defined field ~2"
+msgstr "Qada ku bi bikarhêner hatiye ravekirin ~2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM3\n"
+"string.text"
+msgid "User-defined field ~3"
+msgstr "Qada ku bi bikarhêner hatiye ravekirin ~3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM4\n"
+"string.text"
+msgid "User-defined field ~4"
+msgstr "Qada ku bi bikarhêner hatiye ravekirin ~4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM5\n"
+"string.text"
+msgid "User-defined field ~5"
+msgstr "Qada ku bi bikarhêner hatiye ravekirin ~5"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "Tablo"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "Mifteya Lêgerînê"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "ParzûnaBixweber"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr "Parzûna Standard"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr ""
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "Duzena Stûnê"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "Çavkaniya Daneyan"

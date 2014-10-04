@@ -1,0 +1,87 @@
+#. extracted from basctl/source/dlged
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2012-09-07 15:05+0000\n"
+"Last-Translator: runab <runa.misc@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1347030304.0\n"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr "বিবিধ বৈশিষ্ট্য: "
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "কোনো কন্ট্রোল চিহ্নিত করা হয়নি"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "একাধিক-নির্বাচন"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DEF_LANG\n"
+"string.text"
+msgid "[Default Language]"
+msgstr ""
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DELETE\n"
+"string.text"
+msgid "~Delete"
+msgstr ""
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_CREATE_LANG\n"
+"string.text"
+msgid "<Press 'Add' to create language resources>"
+msgstr ""
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.text"
+msgid ""
+"You are about to delete the resources for the selected language(s). All user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr ""
+"নির্বাচিত ভাষা(গুলির) রিসোর্স মুছে ফেলতে চলেছেন। এই ভাষা(গুলির) জন্য ব্যবহৃত সকল ইউজার ইন্টারফেসের পংক্তি এর ফলে মুছে ফেলা হবে।\n"
+"\n"
+"নির্বাচিত ভাষা(গুলির) রিসোর্স মুছে ফেলা হবে কি?"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.title"
+msgid "Delete Language Resources"
+msgstr "ভাষা রিসোর্স মুছে ফেলা হবে"

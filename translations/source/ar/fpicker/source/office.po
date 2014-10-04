@@ -1,0 +1,372 @@
+#. extracted from fpicker/source/office
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:01+0200\n"
+"PO-Revision-Date: 2013-03-08 18:08+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1362766120.0\n"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "ام~تداد اسم ملف تلقائي"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_PASSWORD\n"
+"string.text"
+msgid "Save with pass~word"
+msgstr "احفظ بكلمة ~سر"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_FILTER_OPTIONS\n"
+"string.text"
+msgid "~Edit filter settings"
+msgstr "~تحرير إعدادات التصفية"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "للق~راءة فقط"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "الارتبا~ط"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "م~عاينة"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "~تشغيل"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "الإ~صدار:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_TEMPLATES\n"
+"string.text"
+msgid "S~tyles:"
+msgstr "الأن~ماط:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "النمط:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "ال~تحديد"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_FILTER_TITLE\n"
+"string.text"
+msgid "File ~type:"
+msgstr "نوع المل~ف:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FOLDERPICKER_DEFAULT_TITLE\n"
+"string.text"
+msgid "Select Path"
+msgstr "تحديد المسار"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION\n"
+"string.text"
+msgid "Please select a folder."
+msgstr "الرجاء تحديد مجلد."
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_NEWFOLDER\n"
+"imagebutton.quickhelptext"
+msgid "Create New Folder"
+msgstr "إنشاء مجلد جديد"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_UP\n"
+"menubutton.quickhelptext"
+msgid "Up One Level"
+msgstr "مستوى واحد لأعلى"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_CONNECT_TO_SERVER\n"
+"pushbutton.text"
+msgid "Servers..."
+msgstr ""
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_CONNECT_TO_SERVER\n"
+"pushbutton.quickhelptext"
+msgid "Connect To Server"
+msgstr "اتصل بخادوم"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"FT_EXPLORERFILE_FILENAME\n"
+"fixedtext.text"
+msgid "File ~name:"
+msgstr "اسم ال~ملف:"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"FT_EXPLORERFILE_FILETYPE\n"
+"fixedtext.text"
+msgid "File ~type:"
+msgstr "نوع المل~ف:"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_EXPLORERFILE_READONLY\n"
+"checkbox.text"
+msgid "~Read-only"
+msgstr "للق~راءة فقط"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_EXPLORERFILE_PASSWORD\n"
+"checkbox.text"
+msgid "Save with password"
+msgstr "احفظ مع كلمة سر"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_AUTO_EXTENSION\n"
+"checkbox.text"
+msgid "~Automatic file name extension"
+msgstr "ام~تداد اسم ملف تلقائي"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_OPTIONS\n"
+"checkbox.text"
+msgid "Edit ~filter settings"
+msgstr "تحرير إ~عدادات عامل التصفية"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_OPEN\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr "~فتح"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_OPEN\n"
+"string.text"
+msgid "Open"
+msgstr "فتح"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_SAVE\n"
+"string.text"
+msgid "Save as"
+msgstr "حفظ باسم"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_BUTTONSAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "حف~ظ"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PATHNAME\n"
+"string.text"
+msgid "~Path:"
+msgstr "الم~سار:"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PATHSELECT\n"
+"string.text"
+msgid "Select path"
+msgstr "تحديد المسار"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_BUTTONSELECT\n"
+"string.text"
+msgid "~Select"
+msgstr "~تحديد"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "الإصدار الحالي"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PREVIEW\n"
+"string.text"
+msgid "File Preview"
+msgstr "معاينة الملف"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_DEFAULT_DIRECTORY\n"
+"string.text"
+msgid "My Documents"
+msgstr "المستندات"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PLACES_TITLE\n"
+"string.text"
+msgid "Places"
+msgstr "الأماكن"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"RID_FILEOPEN_NOTEXISTENTFILE\n"
+"string.text"
+msgid ""
+"The file $name$ does not exist.\n"
+"Make sure you have entered the correct file name."
+msgstr ""
+"الملف $name$ غير موجود.\n"
+"الرجاء التأكد من إدخال اسم الملف الصحيح."
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_FILTERNAME_ALL\n"
+"string.text"
+msgid "All files"
+msgstr "كل الملفات"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid ""
+"A file named \"$filename$\" already exists.\n"
+"\n"
+"Do you want to replace it?"
+msgstr ""
+"يوجد ملف باسم \"$filename$\".\n"
+"\n"
+"هل تريد استبداله؟"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_NEW_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "المجلد"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_NOREMOVABLEDEVICE\n"
+"string.text"
+msgid ""
+"No removable storage device detected.\n"
+"Make sure it is plugged in properly and try again."
+msgstr ""
+"لم يتم اكتشاف أي جهاز تخزين متنقل.\n"
+"تأكد من توصيله بشكل صحيح، ثم حاول مرة أخرى."

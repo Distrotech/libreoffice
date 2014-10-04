@@ -1,0 +1,55 @@
+#. extracted from avmedia/source/viewer
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2011-04-06 15:03+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sw_TZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_INSERTMEDIA_DLG\n"
+"string.text"
+msgid "Insert Movie and Sound"
+msgstr "Insert Movie and Sound"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_OPENMEDIA_DLG\n"
+"string.text"
+msgid "Open Movie and Sound"
+msgstr "Open Movie and Sound"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_ALL_MEDIAFILES\n"
+"string.text"
+msgid "All movie and sound files"
+msgstr "All movie and sound files"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_STR_ALL_FILES\n"
+"string.text"
+msgid "All files"
+msgstr "All files"
+
+#: mediawindow.src
+msgctxt ""
+"mediawindow.src\n"
+"AVMEDIA_ERR_URL\n"
+"errorbox.text"
+msgid "The format of the selected file is not supported."
+msgstr "The format of the selected file is not supported."

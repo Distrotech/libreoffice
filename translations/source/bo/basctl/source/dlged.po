@@ -1,0 +1,83 @@
+#. extracted from basctl/source/dlged
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2011-04-05 19:01+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr "གཏོགས་གཤིས།:"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "ཚོད་འཛིན་གྱི་སྡེ་ཚན་བདམས་མེད་པ།"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "གདམ་ག་མང་ལྡན།"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DEF_LANG\n"
+"string.text"
+msgid "[Default Language]"
+msgstr ""
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DELETE\n"
+"string.text"
+msgid "~Delete"
+msgstr ""
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_CREATE_LANG\n"
+"string.text"
+msgid "<Press 'Add' to create language resources>"
+msgstr ""
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.text"
+msgid ""
+"You are about to delete the resources for the selected language(s). All user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr "ཁྱེད་ཀྱིས་བདམས་ཟིན་པའི་སྐད་ཡིག་ཐོན་ཁུངས་དེ་སུབ་ན་སྐད་ཡིག་དེའི་སྤྱོད་མཁན་གྱི་ཡིག་རྟགས་ཕྲེང་ཡོངས་རྫོགས་སུབ་ཀྱི་རེད། བདམས་ཟིན་པའི་སྐད་ཡིག་ཐོན་ཁུངས་དེ་སུབ་ཀྱི་ཡིན་ནམ། སྐད་ཡིག་ཐོན་ཁུངས་དེ་སུབ་ཀྱི་ཡིན།"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.title"
+msgid "Delete Language Resources"
+msgstr "Delete Language Resources"

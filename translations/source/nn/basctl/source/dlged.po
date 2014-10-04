@@ -1,0 +1,87 @@
+#. extracted from basctl/source/dlged
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-05-21 20:53+0000\n"
+"Last-Translator: Kolbjørn <kolbjoern@stuestoel.no>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1400705638.000000\n"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr "Eigenskapar: "
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "Ingen funksjon er vald"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Fleirmerking"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DEF_LANG\n"
+"string.text"
+msgid "[Default Language]"
+msgstr "[Standardspråk]"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DELETE\n"
+"string.text"
+msgid "~Delete"
+msgstr "~Slett"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_CREATE_LANG\n"
+"string.text"
+msgid "<Press 'Add' to create language resources>"
+msgstr "<Trykk på «Legg til» for å laga ein språkressurs>"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.text"
+msgid ""
+"You are about to delete the resources for the selected language(s). All user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr ""
+"Du er i ferd med å sletta ressursane til dei valde språka. Alle omsetjingane til desse språka vert sletta.\n"
+"\n"
+"Vil du sletta ressursane til dei valde språka?"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.title"
+msgid "Delete Language Resources"
+msgstr "Slett språkressursar"

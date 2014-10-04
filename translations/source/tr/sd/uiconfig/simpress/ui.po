@@ -1,0 +1,2411 @@
+#. extracted from sd/uiconfig/simpress/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:04+0200\n"
+"PO-Revision-Date: 2014-07-08 07:44+0000\n"
+"Last-Translator: Necdet <necdetyucel@gmail.com>\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1404805449.000000\n"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"entrance\n"
+"label\n"
+"string.text"
+msgid "Entrance"
+msgstr "Giriş"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"emphasis\n"
+"label\n"
+"string.text"
+msgid "Emphasis"
+msgstr "Vurgu"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"exit\n"
+"label\n"
+"string.text"
+msgid "Exit"
+msgstr "Çık"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"motion_paths\n"
+"label\n"
+"string.text"
+msgid "Motion Paths"
+msgstr "Hareket Yolları"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"misc_effects\n"
+"label\n"
+"string.text"
+msgid "Misc Effects"
+msgstr "Çeşitli Efektler"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"effect_speed_label\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "_Hız:"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "_Automatic preview"
+msgstr "_Otomatik önizleme"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"prop_label1\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "_Yön:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_start\n"
+"label\n"
+"string.text"
+msgid "Accelerated start"
+msgstr "Hızlandırılmış başlatma"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_end\n"
+"label\n"
+"string.text"
+msgid "Decelerated end"
+msgstr "Yavaşlatılmış bitiş"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_label\n"
+"label\n"
+"string.text"
+msgid "A_fter animation:"
+msgstr "Canlandırmadan _sonra:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "_Sound:"
+msgstr "_Ses:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_label\n"
+"label\n"
+"string.text"
+msgid "_Text animation:"
+msgstr "_Metin canlandırması:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"dim_color_label\n"
+"label\n"
+"string.text"
+msgid "Di_m color:"
+msgstr "Re_ngi karart:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_delay_label\n"
+"label\n"
+"string.text"
+msgid "delay between characters"
+msgstr "karakterler arasındaki gecikme"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"0\n"
+"stringlist.text"
+msgid "Don't dim"
+msgstr "Karartma"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"1\n"
+"stringlist.text"
+msgid "Dim with color"
+msgstr "Renk ile karart"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"2\n"
+"stringlist.text"
+msgid "Hide after animation"
+msgstr "Canlandırmadan sonra gizle"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"3\n"
+"stringlist.text"
+msgid "Hide on next animation"
+msgstr "Sonraki canlandırmada gizle"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"0\n"
+"stringlist.text"
+msgid "All at once"
+msgstr "Tümü birden"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"1\n"
+"stringlist.text"
+msgid "Word by word"
+msgstr "Kelime kelime"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"2\n"
+"stringlist.text"
+msgid "Letter by letter"
+msgstr "Harf harf"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Enhancement"
+msgstr "İyileştirme"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"CustomAnimationProperties\n"
+"title\n"
+"string.text"
+msgid "Effect Options"
+msgstr "Efekt Seçenekleri"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"effect\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efekt"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"timing\n"
+"label\n"
+"string.text"
+msgid "Timing"
+msgstr "Zamanlama"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"textanim\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Metin Canlandırması"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"add_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add Effect"
+msgstr "Efekt Ekle"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"remove_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Effect"
+msgstr "Efekti Kaldır"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"change_effect\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Modify Effect"
+msgstr "Efekti Değiştir"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_up\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Up"
+msgstr "Yukarı Taşı"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_down\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Down"
+msgstr "Aşağı Taşı"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"play\n"
+"tooltip_text\n"
+"string.text"
+msgid "Preview Effect"
+msgstr "Efekti Önizle"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "Başlat"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_property\n"
+"label\n"
+"string.text"
+msgid "_Direction"
+msgstr "_Yön"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_speed\n"
+"label\n"
+"string.text"
+msgid "Sp_eed"
+msgstr "_Hız"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Tıklamada"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Öncekiyle"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Öncekinden sonra"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"more_properties\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_label\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efekt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic pre_view"
+msgstr "Otomatik ön_izleme"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_label\n"
+"label\n"
+"string.text"
+msgid "_Group text:"
+msgstr "_Metni grupla:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"auto_after\n"
+"label\n"
+"string.text"
+msgid "_Automatically after:"
+msgstr "_Otomatik olarak sonra:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"0\n"
+"stringlist.text"
+msgid "As one object"
+msgstr "Bir nesne olarak"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"1\n"
+"stringlist.text"
+msgid "All paragraphs at once"
+msgstr "Bir defada tüm paragraf"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"2\n"
+"stringlist.text"
+msgid "By 1st level paragraphs"
+msgstr "1. düzey paragraflara göre"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"3\n"
+"stringlist.text"
+msgid "By 2nd level paragraphs"
+msgstr "2'nci düzey paragrafıyla"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"4\n"
+"stringlist.text"
+msgid "By 3rd level paragraphs"
+msgstr "3'üncü düzey paragrafıyla"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"5\n"
+"stringlist.text"
+msgid "By 4th level paragraphs"
+msgstr "4'üncü düzey paragrafıyla"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"6\n"
+"stringlist.text"
+msgid "By 5th level paragraphs"
+msgstr "5'inci düzey paragrafıyla"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"animate_shape\n"
+"label\n"
+"string.text"
+msgid "Animate attached _shape"
+msgstr "Ekli şekli _canlandır"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"reverse_order\n"
+"label\n"
+"string.text"
+msgid "_In reverse order"
+msgstr "_ters sırada"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_label\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Başlat:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"delay_label\n"
+"label\n"
+"string.text"
+msgid "_Delay:"
+msgstr "_Gecikme:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"duration_label\n"
+"label\n"
+"string.text"
+msgid "S_peed:"
+msgstr "_Hız:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"repeat_label\n"
+"label\n"
+"string.text"
+msgid "_Repeat:"
+msgstr "_Tekrarla:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Tıklamada"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Öncekiyle"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Öncekinden sonra"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rewind\n"
+"label\n"
+"string.text"
+msgid "Rewind _when done playing"
+msgstr "Oynatma _bittiğinde başa sar"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_click_sequence\n"
+"label\n"
+"string.text"
+msgid "_Animate as part of click sequence"
+msgstr "_Bir tıklama sıralamasına dahil ederek canlandır"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_interactive\n"
+"label\n"
+"string.text"
+msgid "Start _effect on click of"
+msgstr "Tıklamada başlatma _efekti"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Trigger"
+msgstr "Tetikleyici"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"CustomSlideShows\n"
+"title\n"
+"string.text"
+msgid "Custom Slide Shows"
+msgstr "Özel Slayt Gösterisi"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"copy\n"
+"label\n"
+"string.text"
+msgid "Cop_y"
+msgstr "Kopyala"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"startshow\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "Başlat"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"usecustomshows\n"
+"label\n"
+"string.text"
+msgid "_Use Custom Slide Show"
+msgstr "Özel Slayt Gösterisi _Kullan"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"DefineCustomSlideShow\n"
+"title\n"
+"string.text"
+msgid "Define Custom Slide Show"
+msgstr "Özel Slayt Gösterisi Tanımla"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Ad:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Existing slides"
+msgstr "_Mevcut slaytlar"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Selected slides"
+msgstr "_Seçili slaytlar"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid ">>"
+msgstr ">>"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "<<"
+msgstr "<<"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"EditFieldsDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Field"
+msgstr "Alanı Düzenle"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"fixedRB\n"
+"label\n"
+"string.text"
+msgid "_Fixed"
+msgstr "_Sabit"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"varRB\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Değişken"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Field type"
+msgstr "Alan türü"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "_Dil"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "F_ormat"
+msgstr "Biçi_m"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"apply_all\n"
+"label\n"
+"string.text"
+msgid "Appl_y to All"
+msgstr "Tümüne _Cevapla"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"slides\n"
+"label\n"
+"string.text"
+msgid "Slides"
+msgstr "Slaytlar"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes and Handouts"
+msgstr "Notlar ve Dinleyici Kopyaları"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_cb\n"
+"label\n"
+"string.text"
+msgid "Heade_r"
+msgstr "Başlı_k"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_label\n"
+"label\n"
+"string.text"
+msgid "Header _text:"
+msgstr "Başlık me_tni:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"datetime_cb\n"
+"label\n"
+"string.text"
+msgid "_Date and time"
+msgstr "_Tarih ve saat"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_fixed\n"
+"label\n"
+"string.text"
+msgid "Fi_xed"
+msgstr "Sabit_lenmiş"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_auto\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Değişken"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "_Dil"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label1\n"
+"label\n"
+"string.text"
+msgid "_Format"
+msgstr "_Biçim"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_cb\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "_Altbilgi"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_label\n"
+"label\n"
+"string.text"
+msgid "F_ooter text:"
+msgstr "Altb_ilgi metni:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"slide_number\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "_Slayt numarası"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"include_label\n"
+"label\n"
+"string.text"
+msgid "Include on slide"
+msgstr "Slayta dahil et"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"not_on_title\n"
+"label\n"
+"string.text"
+msgid "Do _not show on the first slide"
+msgstr "İlk slaytta göster_me"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_a\n"
+"label\n"
+"string.text"
+msgid "_Page Number"
+msgstr "_Sayfa Numarası"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_b\n"
+"label\n"
+"string.text"
+msgid "Include on page"
+msgstr "Sayfaya dahil et"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"InsertSlidesDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Slayt Ekle"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "_Önce"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "So_nra"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Konum"
+
+#: interactiondialog.ui
+msgctxt ""
+"interactiondialog.ui\n"
+"InteractionDialog\n"
+"title\n"
+"string.text"
+msgid "Interaction"
+msgstr "Etkileşim"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Action at mouse click"
+msgstr "Fare tıklamasında yapılacak işlem"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"fttree\n"
+"label\n"
+"string.text"
+msgid "Target"
+msgstr "Hedef"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Interaction"
+msgstr "Etkileşim"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Gözat..."
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "_Bul"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"sound-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Path Name"
+msgstr "Yol Adı"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"MasterLayoutDialog\n"
+"title\n"
+"string.text"
+msgid "Master Elements"
+msgstr "Ana Öğeler"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"header\n"
+"label\n"
+"string.text"
+msgid "_Header"
+msgstr "_Başlık"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "_Date/time"
+msgstr "_Tarih/saat"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"footer\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "_Alt bilgi"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"pagenumber\n"
+"label\n"
+"string.text"
+msgid "_Page number"
+msgstr "_Sayfa numarası"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"slidenumber\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Slayt _numarası"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"Placeholders\n"
+"label\n"
+"string.text"
+msgid "Placeholders"
+msgstr "Yer tutucular"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"qickedit\n"
+"label\n"
+"string.text"
+msgid "Allow quick editing"
+msgstr "Hızlı düzenlemeye izin ver"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"textselected\n"
+"label\n"
+"string.text"
+msgid "Only text area selected"
+msgstr "Sadece metin alanı seçildi"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Text objects"
+msgstr "Metin nesneleri"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"startwithwizard\n"
+"label\n"
+"string.text"
+msgid "Start with _wizard"
+msgstr "_Sihirbaz ile başlat"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"newdoclbl\n"
+"label\n"
+"string.text"
+msgid "New document"
+msgstr "Yeni belge"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"copywhenmove\n"
+"label\n"
+"string.text"
+msgid "Copy when moving"
+msgstr "Taşırken kopyala"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Unit of _measurement"
+msgstr "_Ölçü birimi"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"tapstoplabel\n"
+"label\n"
+"string.text"
+msgid "Ta_b stops"
+msgstr "Sekme _durakları"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"objalwymov\n"
+"label\n"
+"string.text"
+msgid "Objects always moveable"
+msgstr "Nesneler hep taşınabilir"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"distrotcb\n"
+"label\n"
+"string.text"
+msgid "Do not distort objects in curve"
+msgstr "Eğride nesnelerin biçimini bozma"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"backgroundback\n"
+"label\n"
+"string.text"
+msgid "Use background cache"
+msgstr "Arkaplan önbelleğini kullan"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enremotcont\n"
+"label\n"
+"string.text"
+msgid "Enable remote control"
+msgstr "Uzaktan kontrolü etkinleştir"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enprsntcons\n"
+"label\n"
+"string.text"
+msgid "Enable Presenter Console"
+msgstr "Sunum Konsolunu Etkinleştir"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Presentation"
+msgstr "Sunum"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Drawing scale"
+msgstr "_Çizim ölçeği"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"widthlbl\n"
+"label\n"
+"string.text"
+msgid "Page _width"
+msgstr "Sayfa _genişliği"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"heightlbl\n"
+"label\n"
+"string.text"
+msgid "Page _height"
+msgstr "Sayfa _yüksekliği"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Scale"
+msgstr "Ölçekle"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"printermetrics\n"
+"label\n"
+"string.text"
+msgid "Us_e printer metrics for document formatting"
+msgstr "B_elge biçimlendirme için yazıcının ölçü birimlerini kullan"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"cbCompatibility\n"
+"label\n"
+"string.text"
+msgid "Add _spacing between paragraphs and tables (in current document)"
+msgstr "Paragraf ve tablolar arasına boşluk ekle (geçerli belgede)"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compatibility"
+msgstr "Uyumluluk"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"PhotoAlbumCreatorDialog\n"
+"title\n"
+"string.text"
+msgid "Create Photo Album"
+msgstr "Fotoğraf Albümü Oluştur"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"create_btn\n"
+"label\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Slayt Ekle"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Görüntüyü Listeden Çıkart"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Görüntüyü Listeden Çıkart"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Görüntüyü Yukarı Taşı"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Görüntüyü Yukarı Taşı"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Görüntüyü Aşağı Taşı"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Görüntüyü Aşağı Taşı"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Önizleme"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Slide Layout"
+msgstr "Slayt Düzeni"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"asr_check\n"
+"label\n"
+"string.text"
+msgid "Keep Aspect Ratio"
+msgstr "En-Boy Oranını Koru"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "1 Image"
+msgstr "1 Görüntü"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "2 Images"
+msgstr "2 Görüntü"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "4 Images"
+msgstr "4 Görüntü"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"PresentationDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Slayt Gösterisi"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from\n"
+"label\n"
+"string.text"
+msgid "_From:"
+msgstr "Başlangıç:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from_cb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Starting slide"
+msgstr "Başlangıç slaytı"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allslides\n"
+"label\n"
+"string.text"
+msgid "All _slides"
+msgstr "Tüm _slaytlar"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"customslideshow\n"
+"label\n"
+"string.text"
+msgid "_Custom Slide Show:"
+msgstr "_Özel Slayt Gösterisi:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Range"
+msgstr "Aralık"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"presdisplay_label\n"
+"label\n"
+"string.text"
+msgid "P_resentation display:"
+msgstr "S_unum ekranı:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"externalmonitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1 (external)"
+msgstr "%1'nı göster (harici)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"monitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1"
+msgstr "Ekran %1"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allmonitors_str\n"
+"label\n"
+"string.text"
+msgid "All displays"
+msgstr "Bütün ekranlar"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"external_str\n"
+"label\n"
+"string.text"
+msgid "Auto External (Display %1)"
+msgstr "Otomatik Harici (Monitör %1)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Multiple displays"
+msgstr "Çoklu ekran"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "Varsayılan"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"window\n"
+"label\n"
+"string.text"
+msgid "_Window"
+msgstr "Pencere"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "Otomatik"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"showlogo\n"
+"label\n"
+"string.text"
+msgid "Show _logo"
+msgstr "Logoyu göster"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"tooltip_text\n"
+"string.text"
+msgid "Duration of pause"
+msgstr "Duraklama süresi"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Pause Duration"
+msgstr "Bekleme Süresi"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Tür"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"manualslides\n"
+"label\n"
+"string.text"
+msgid "Change slides _manually"
+msgstr "_Slaytları elle değiştir"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointervisible\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer _visible"
+msgstr "Fare okunu görüntüle"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointeraspen\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer as _pen"
+msgstr "Kalem biçiminde fare oku"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"navigatorvisible\n"
+"label\n"
+"string.text"
+msgid "_Navigator visible"
+msgstr "Gezgin görünür"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"animationsallowed\n"
+"label\n"
+"string.text"
+msgid "_Animations allowed"
+msgstr "Canlandırmaya izin ver"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"changeslidesbyclick\n"
+"label\n"
+"string.text"
+msgid "Change slides by clic_king on background"
+msgstr "Arkaplana tıklayınca slaytı değiştir"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"alwaysontop\n"
+"label\n"
+"string.text"
+msgid "Presentation always _on top"
+msgstr "Sunumu hep önde göster"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Seçenekler"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printname\n"
+"label\n"
+"string.text"
+msgid "Slide name"
+msgstr "Slayt adı"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printdatetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "Tarih ve saat"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printhidden\n"
+"label\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "Gizli sayfalar"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "İçerikler"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalcolors\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Özgün boyut"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"grayscale\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Gri tonlama"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"blackandwhite\n"
+"label\n"
+"string.text"
+msgid "Black & white"
+msgstr "Siyah & beyaz"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Renk"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalsize\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Özgün boyut"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"fittoprintable\n"
+"label\n"
+"string.text"
+msgid "Fit to printable page"
+msgstr "Yazdırılabilir sayfaya sığdır"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"distributeonmultiple\n"
+"label\n"
+"string.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Birden çok sayfaya dağıt"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"tilesheet\n"
+"label\n"
+"string.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "Tekrar edilen slaytların kağıtlarını yan yana koy"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Boyut"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagenmcb\n"
+"label\n"
+"string.text"
+msgid "_Page name"
+msgstr "_Sayfa adı"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"datecb\n"
+"label\n"
+"string.text"
+msgid "D_ate"
+msgstr "T_arih"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"timecb\n"
+"label\n"
+"string.text"
+msgid "Ti_me"
+msgstr "Za_man"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"hiddenpgcb\n"
+"label\n"
+"string.text"
+msgid "H_idden pages"
+msgstr "G_izli sayfalar"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"printlbl\n"
+"label\n"
+"string.text"
+msgid "Print"
+msgstr "Yazdır"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagedefaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Varsayılan"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"fittopgrb\n"
+"label\n"
+"string.text"
+msgid "_Fit to page"
+msgstr "Say_faya sığdır"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"tilepgrb\n"
+"label\n"
+"string.text"
+msgid "_Tile pages"
+msgstr "_Sayfaları döşe"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"brouchrb\n"
+"label\n"
+"string.text"
+msgid "B_rochure"
+msgstr "B_roşür"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"papertryfrmprntrcb\n"
+"label\n"
+"string.text"
+msgid "Paper tray from printer s_ettings"
+msgstr "Yazıcı ayarlarından kağıt t_epsisi"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"frontcb\n"
+"label\n"
+"string.text"
+msgid "Fr_ont"
+msgstr "Ö_n"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"backcb\n"
+"label\n"
+"string.text"
+msgid "Ba_ck"
+msgstr "Ge_ri"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Page options"
+msgstr "Sayfa seçenekleri"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"drawingcb\n"
+"label\n"
+"string.text"
+msgid "Drawing"
+msgstr "Çizim"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"notecb\n"
+"label\n"
+"string.text"
+msgid "Notes"
+msgstr "Notlar"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"handoutcb\n"
+"label\n"
+"string.text"
+msgid "Handouts"
+msgstr "Katılımcı nüshaları"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "Anahat"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"contentlbl\n"
+"label\n"
+"string.text"
+msgid "Content"
+msgstr "İçerik"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"defaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Varsayılan"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"grayscalerb\n"
+"label\n"
+"string.text"
+msgid "Gra_yscale"
+msgstr "Gri _tonlama"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"blackwhiterb\n"
+"label\n"
+"string.text"
+msgid "Black & _white"
+msgstr "Siyah & _beyaz"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "Kalite"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"RemoteDialog\n"
+"title\n"
+"string.text"
+msgid "Impress Remote"
+msgstr "Impress Uzaktan Kumanda"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"ruler\n"
+"label\n"
+"string.text"
+msgid "_Rulers visible"
+msgstr "_Cetveller görünür"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"dragstripes\n"
+"label\n"
+"string.text"
+msgid "_Snap Lines when moving"
+msgstr "_Taşırken Kavrama Çizgileri"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"handlesbezier\n"
+"label\n"
+"string.text"
+msgid "_All control points in Bezier editor"
+msgstr "_Bezier düzenleyicisindeki tüm denetim noktaları"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"moveoutline\n"
+"label\n"
+"string.text"
+msgid "_Contour of each individual object"
+msgstr "_Her bağımsız nesnenin konturu"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Display"
+msgstr "Görünüm"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"SlideDesignDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Design"
+msgstr "Slayt Tasarımı"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"masterpage\n"
+"label\n"
+"string.text"
+msgid "_Exchange background page"
+msgstr "_Arka plan sayfasını değiştir"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"checkmasters\n"
+"label\n"
+"string.text"
+msgid "_Delete unused backgrounds"
+msgstr "_Kullanılmayan arka planları sil"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a slide design"
+msgstr "Bir slayt tasarımı seçin"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"load\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "_Yükle..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Apply to selected slides"
+msgstr "Seçilen slaytlara uygula"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_label\n"
+"label\n"
+"string.text"
+msgid "Speed:"
+msgstr "Hız:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"0\n"
+"stringlist.text"
+msgid "Slow"
+msgstr "Yavaş"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"1\n"
+"stringlist.text"
+msgid "Medium"
+msgstr "Orta"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"2\n"
+"stringlist.text"
+msgid "Fast"
+msgstr "Hızlı"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "Sound:"
+msgstr "Ses:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"0\n"
+"stringlist.text"
+msgid "No Sound"
+msgstr "Ses yok"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"1\n"
+"stringlist.text"
+msgid "Stop Previous Sound"
+msgstr "Önceki Sesi Durdur"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"2\n"
+"stringlist.text"
+msgid "Other Sound..."
+msgstr "Diğer Ses..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"loop_sound\n"
+"label\n"
+"string.text"
+msgid "Loop until next sound"
+msgstr "Sonraki sese kadar döndür"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify transition"
+msgstr "Geçişi değiştir"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_mouse_click\n"
+"label\n"
+"string.text"
+msgid "On mouse click"
+msgstr "Fare tıklamasında"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_auto_after\n"
+"label\n"
+"string.text"
+msgid "Automatically after"
+msgstr "Sonra otomatik olarak"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Advance slide"
+msgstr "Slayt ilerlemesi"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"apply_to_all\n"
+"label\n"
+"string.text"
+msgid "Apply to All Slides"
+msgstr "Tüm slaytlara uygula"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"play\n"
+"label\n"
+"string.text"
+msgid "Play"
+msgstr "Oynat"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"slide_show\n"
+"label\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Slayt Gösterisi"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic preview"
+msgstr "Otomatik önizleme"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Header Row"
+msgstr "_Üstbilgi Satırı"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastRowStyle\n"
+"label\n"
+"string.text"
+msgid "Tot_al Row"
+msgstr "Top_lam Satır"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Banded Rows"
+msgstr "_Gruplandırılmış Satırlar"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Fi_rst Column"
+msgstr "İl_k Sütun"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastColumnStyle\n"
+"label\n"
+"string.text"
+msgid "_Last Column"
+msgstr "_Son Sütun"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Ba_nded Columns"
+msgstr "Gr_uplandırılmış Sütunlar"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Image Styles"
+msgstr "Resim Biçemleri"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "_Standard"
+msgstr "_Standart"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"organizer\n"
+"label\n"
+"string.text"
+msgid "Organizer"
+msgstr "Düzenleyici"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"line\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "Çizgi"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"area\n"
+"label\n"
+"string.text"
+msgid "Area"
+msgstr "Alan"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"shadowing\n"
+"label\n"
+"string.text"
+msgid "Shadowing"
+msgstr "Gölgeleme"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"transparency\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "Şeffaflık"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Yazıtipi"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"fonteffect\n"
+"label\n"
+"string.text"
+msgid "Font Effect"
+msgstr "Yazı tipi efekti"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"indents\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Girintiler ve Aralıklar"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Metin"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"animation\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Metin Canlandırması"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"dimensioning\n"
+"label\n"
+"string.text"
+msgid "Dimensioning"
+msgstr "Boyutlandırma"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"connector\n"
+"label\n"
+"string.text"
+msgid "Connector"
+msgstr "Bağlayıcı"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Hizalama"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"asiantypo\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Asya Baskı Düzeni"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"tabs\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Sekmeler"

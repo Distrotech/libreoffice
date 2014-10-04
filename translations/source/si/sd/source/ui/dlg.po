@@ -1,0 +1,867 @@
+#. extracted from sd/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2012-12-26 11:13+0000\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356520387.0\n"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_IMPRESS_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Slide Pane"
+msgstr "ස්ලයිඩ පුවරුව"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_DRAW_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Page Pane"
+msgstr "පිටු පුවරුව"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_FIRST\n"
+"imagebutton.quickhelptext"
+msgid "First Image"
+msgstr "පළමු පිළිබිඹුව"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REVERSE\n"
+"imagebutton.quickhelptext"
+msgid "Backwards"
+msgstr "පසුපසට "
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_STOP\n"
+"imagebutton.quickhelptext"
+msgid "Stop"
+msgstr "නවතන්න"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_PLAY\n"
+"imagebutton.quickhelptext"
+msgid "Play"
+msgstr "ධාවනය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_LAST\n"
+"imagebutton.quickhelptext"
+msgid "Last Image"
+msgstr "අවසන් පිංතූරය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"NUM_FLD_BITMAP\n"
+"numericfield.quickhelptext"
+msgid "Image Number"
+msgstr "පිළිබිඹු අංකය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"TIME_FIELD\n"
+"timefield.quickhelptext"
+msgid "Duration"
+msgstr "කාලසීමාව"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"LB_LOOP_COUNT\n"
+"listbox.quickhelptext"
+msgid "Loop Count"
+msgstr "ලූපය ගණනය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1\n"
+"stringlist.text"
+msgid "1"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"2\n"
+"stringlist.text"
+msgid "2"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"3\n"
+"stringlist.text"
+msgid "3"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"4\n"
+"stringlist.text"
+msgid "4"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"5\n"
+"stringlist.text"
+msgid "5"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"6\n"
+"stringlist.text"
+msgid "6"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"7\n"
+"stringlist.text"
+msgid "7"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"8\n"
+"stringlist.text"
+msgid "8"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"9\n"
+"stringlist.text"
+msgid "9"
+msgstr ""
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"10\n"
+"stringlist.text"
+msgid "10"
+msgstr "10"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"12\n"
+"stringlist.text"
+msgid "12"
+msgstr "12"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"15\n"
+"stringlist.text"
+msgid "15"
+msgstr "15"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"20\n"
+"stringlist.text"
+msgid "20"
+msgstr "20"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"25\n"
+"stringlist.text"
+msgid "25"
+msgstr "25"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"50\n"
+"stringlist.text"
+msgid "50"
+msgstr "50"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"100\n"
+"stringlist.text"
+msgid "100"
+msgstr "100"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"500\n"
+"stringlist.text"
+msgid "500"
+msgstr "500"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1000\n"
+"stringlist.text"
+msgid "1000"
+msgstr "1000"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"Max.\n"
+"stringlist.text"
+msgid "Max."
+msgstr "උපරිම"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ONE_OBJECT\n"
+"imagebutton.quickhelptext"
+msgid "Apply Object"
+msgstr "වස්තුව යොදන්න"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ALL_OBJECTS\n"
+"imagebutton.quickhelptext"
+msgid "Apply Objects Individually"
+msgstr "වස්තු තනිතනිව යොදන්න"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_BITMAP\n"
+"imagebutton.quickhelptext"
+msgid "Delete Current Image"
+msgstr "වර්තමාන පිලළිබිඹුව මක්න්න"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_ALL\n"
+"imagebutton.quickhelptext"
+msgid "Delete All Images"
+msgstr "සියළු පිළිබ්ඹු මකන්න"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_COUNT\n"
+"fixedtext.text"
+msgid "Number"
+msgstr "අංකය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_BITMAP\n"
+"fixedline.text"
+msgid "Image"
+msgstr "පිළිබිඹුව"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_GROUP\n"
+"radiobutton.text"
+msgid "Group object"
+msgstr "සමූහ වස්තුව"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_BITMAP\n"
+"radiobutton.text"
+msgid "Bitmap object"
+msgstr "Bitmap වස්තුව"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_ADJUSTMENT\n"
+"fixedtext.text"
+msgid "Alignment"
+msgstr "පෙළ ගැස්ම"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Left\n"
+"stringlist.text"
+msgid "Top Left"
+msgstr "ඉහල වම"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Left\n"
+"stringlist.text"
+msgid "Left"
+msgstr "වම"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Left\n"
+"stringlist.text"
+msgid "Bottom Left"
+msgstr "පහල වම"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top\n"
+"stringlist.text"
+msgid "Top"
+msgstr "ඉහල"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Centered\n"
+"stringlist.text"
+msgid "Centered"
+msgstr "මැද"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "පහල"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Right\n"
+"stringlist.text"
+msgid "Top Right"
+msgstr "ඉහල දකුණ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Right\n"
+"stringlist.text"
+msgid "Right"
+msgstr "දකුණ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Right\n"
+"stringlist.text"
+msgid "Bottom Right"
+msgstr "පහල දකුණ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_CREATE_GROUP\n"
+"pushbutton.text"
+msgid "Create"
+msgstr "නිර්මාණය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_ANIMATION_GROUP\n"
+"fixedline.text"
+msgid "Animation group"
+msgstr "පණගැන්වුම් සමූහය"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"STR_DISPLAY\n"
+"string.text"
+msgid "Preview"
+msgstr "පෙරදසුන"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"dockingwindow.text"
+msgid "Animation"
+msgstr "පණගැන්වුම"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PREVIEW\n"
+"checkbox.text"
+msgid "Previe~w"
+msgstr "පෙරදසුන (~w)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_STARTWITH\n"
+"checkbox.text"
+msgid "~Do not show this wizard again"
+msgstr "මෙම විශාරදයා නැවත නොපෙන්නන්න.(~D)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE1_ARTGROUP\n"
+"fixedline.text"
+msgid "Type"
+msgstr "වර්‍ගය"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_EMPTY\n"
+"radiobutton.text"
+msgid "~Empty presentation"
+msgstr "හිස් ඉදිරිපත් කිරීමක්(~E)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_TEMPLATE\n"
+"radiobutton.text"
+msgid "~From template"
+msgstr "අච්චුවක් මගින්(~F)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_OPEN\n"
+"radiobutton.text"
+msgid "O~pen existing presentation"
+msgstr "පවතින ඉදිරිපත් කිරීමක් විවෘත කරන්න(~p)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_LAYOUT\n"
+"fixedline.text"
+msgid "~Select a slide design"
+msgstr "ස්ලයිඩ රටාවක් තෝරන්න(~S)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_OUTPUTTYPES\n"
+"fixedline.text"
+msgid "Select an output medium"
+msgstr "ප්‍රතිදාන මාධ්‍යයක් තෝරන්න"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM5\n"
+"radiobutton.text"
+msgid "~Original"
+msgstr "නියම (~O)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM1\n"
+"radiobutton.text"
+msgid "Sc~reen"
+msgstr "තිරය (~r)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM2\n"
+"radiobutton.text"
+msgid "Sli~de"
+msgstr "කදාව (~d)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM3\n"
+"radiobutton.text"
+msgid "O~verhead sheet"
+msgstr "ඉහලින් වූ පත්‍රය(~V)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM4\n"
+"radiobutton.text"
+msgid "P~aper"
+msgstr "කොලය (~P)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM6\n"
+"radiobutton.text"
+msgid "W~idescreen"
+msgstr ""
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_EFFECT\n"
+"fixedline.text"
+msgid "Select a slide transition"
+msgstr "ස්ලයිඩ සංක්‍රාංතිය තෝරන්න"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_EFFECT\n"
+"fixedtext.text"
+msgid "~Effect"
+msgstr "රංගප්‍රයෝග (~E)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_SPEED\n"
+"fixedtext.text"
+msgid "~Speed"
+msgstr "වේගය (~S)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_PRESTYPE\n"
+"fixedline.text"
+msgid "Select the presentation type"
+msgstr "ඉදිරිපත් කිරීමේ ආකාරය තෝරන්න"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_LIVE\n"
+"radiobutton.text"
+msgid "~Default"
+msgstr "පෙරනිමිය (~D)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_KIOSK\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "ස්වයංක්‍රීය (~A)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_TIME\n"
+"fixedtext.text"
+msgid "D~uration of page"
+msgstr "පිටුව පවතින කාලය (~D)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_BREAK\n"
+"fixedtext.text"
+msgid "Du~ration of pause"
+msgstr "විරාමය පවතින කාලය (~r)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE3_LOGO\n"
+"checkbox.text"
+msgid "Sh~ow logo"
+msgstr "ලාංඡනය පෙන්වන්න (~o)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE4_PERSONAL\n"
+"fixedline.text"
+msgid "Describe your basic ideas"
+msgstr "ඔබගේ මූලික අදහස විස්තර කරන්න"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKNAME\n"
+"fixedtext.text"
+msgid "What is your name or the name of your company?"
+msgstr "ඔබගේ හෝ ඔබගේ ආයතනයේ නම කුමක්ද?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKTOPIC\n"
+"fixedtext.text"
+msgid "What is the subject of your presentation?"
+msgstr "ඔබගේ ඉදිරිපත් කිරීමෙහි විෂය කුමක්ද? "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKINFORMATION\n"
+"fixedtext.text"
+msgid "Further ideas to be presented?"
+msgstr "ඉදිරිපත් කිරීමට ඇති වැඩිදුර අදහස්?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE5_PAGELIST\n"
+"fixedtext.text"
+msgid "Ch~oose your pages"
+msgstr "ඔබේ පිටු තෝරන්න (~o)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE5_SUMMARY\n"
+"checkbox.text"
+msgid "C~reate summary"
+msgstr "සාරාංශය තනන්න (~r)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_LAST\n"
+"pushbutton.text"
+msgid "<< ~Back"
+msgstr "<< පසුපසට (~B)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_NEXT\n"
+"pushbutton.text"
+msgid "~Next >>"
+msgstr "මීළඟ (~N) >>"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_FINISH\n"
+"okbutton.text"
+msgid "~Create"
+msgstr "තනන්න (~C)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "විවෘත කරන්න (~O)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_CREATE\n"
+"string.text"
+msgid "~Create"
+msgstr "තනන්න (~C)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"modaldialog.text"
+msgid "Presentation Wizard"
+msgstr "ඉදිරිපත් කිරීමේ විශාරද"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PEN\n"
+"toolboxitem.text"
+msgid "Pointer"
+msgstr "දර්ෂකය"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_FIRST\n"
+"toolboxitem.text"
+msgid "First Slide"
+msgstr "මුල් ස්ලයිඩය"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PREVIOUS\n"
+"toolboxitem.text"
+msgid "Previous Slide"
+msgstr "පෙර ස්ලයිඩය"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_NEXT\n"
+"toolboxitem.text"
+msgid "Next Slide"
+msgstr "ඊලග ස්ලයිඩය"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_LAST\n"
+"toolboxitem.text"
+msgid "Last Slide"
+msgstr "අවසන් ස්ලයිඩය"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_DRAGTYPE\n"
+"toolboxitem.text"
+msgid "Drag Mode"
+msgstr "අදින ආකාරය"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_SHAPE_FILTER\n"
+"toolboxitem.text"
+msgid "Show Shapes"
+msgstr "හැඩ පෙන්වන්න"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR\n"
+"LB_DOCS\n"
+"listbox.quickhelptext"
+msgid "Documents"
+msgstr "ලේඛණ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"STR_OBJECTS_TREE\n"
+"string.text"
+msgid "Page Tree"
+msgstr "පිටුවේ දසුන"

@@ -1,0 +1,519 @@
+#. extracted from extensions/source/dbpilots
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2012-09-07 15:05+0000\n"
+"Last-Translator: runab <runa.misc@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1347030304.0\n"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FL_DATA\n"
+"fixedline.text"
+msgid "Data"
+msgstr "ডাটা"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_EXPLANATION\n"
+"fixedtext.text"
+msgid ""
+"Currently, the form the control belongs to is not (or not completely) bound to a data source.\n"
+"\n"
+"Please choose a data source and a table.\n"
+"\n"
+"\n"
+"Please note that the settings made on this page will take effect immediately upon leaving the page."
+msgstr ""
+"বর্তমানে, কন্ট্রোলটি যে ফর্মে রয়েছে তা কোনো ডাটা উৎসে আবদ্ধ নয় (বা সম্পূর্ণভাবে নয়)।\n"
+"\n"
+"অনুগ্রহ করে একটি ডাটা উৎস ও টেবিল নির্বাচন করুন।\n"
+"\n"
+"\n"
+"মনে রাখবেন, এই পৃষ্ঠাটির উপর প্রয়োগকৃত সেটিংসমূহ, পৃষ্ঠাটি ত্যাগ করা মাত্রই কার্যকর হবে।"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_DATASOURCE\n"
+"fixedtext.text"
+msgid "~Data source:"
+msgstr "ডাটা উৎস: (~D)"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"PB_FORMDATASOURCE\n"
+"pushbutton.text"
+msgid "~..."
+msgstr "~..."
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_TABLE\n"
+"fixedtext.text"
+msgid "~Table / Query:"
+msgstr "টেবিল / কোয়েরি: (~T)"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"tabpage.text"
+msgid "Data"
+msgstr "ডাটা"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"FT_DATABASEFIELD_QUEST\n"
+"fixedtext.text"
+msgid "Do you want to save the value in a database field?"
+msgstr "আপনি কি মানটি ডাটাবেস ক্ষেত্রে সংরক্ষণ করতে চান?"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"RB_STOREINFIELD_YES\n"
+"radiobutton.text"
+msgid "~Yes, I want to save it in the following database field:"
+msgstr "হ্যাঁ, আমি এটা নিম্নোক্ত ডাটাবেস ক্ষেত্রে সংরক্ষণ করতে চাই: (~Y)"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"RB_STOREINFIELD_NO\n"
+"radiobutton.text"
+msgid "~No, I only want to save the value in the form."
+msgstr "না, আমি মানটি শুধুমাত্র ফর্মে সংরক্ষণ করতে চাই। (~N)"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"tabpage.text"
+msgid "Database Field"
+msgstr "ডাটাবেস ক্ষেত্র"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FL_FORMSETINGS\n"
+"fixedline.text"
+msgid "Form"
+msgstr "ফর্ম"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMDATASOURCELABEL\n"
+"fixedtext.text"
+msgid "Data source"
+msgstr "ডাটা উৎস"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMCONTENTTYPELABEL\n"
+"fixedtext.text"
+msgid "Content type"
+msgstr "বিষয়বস্তুর ধরন"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMTABLELABEL\n"
+"fixedtext.text"
+msgid "Content"
+msgstr "বিষয়বস্তু"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "টেবিল"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_QUERY\n"
+"string.text"
+msgid "Query"
+msgstr "কোয়েরি"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_COMMAND\n"
+"string.text"
+msgid "SQL command"
+msgstr "SQL কমান্ড"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_DLG_GROUPBOXWIZARD\n"
+"modaldialog.text"
+msgid "Group Element Wizard"
+msgstr "গ্রুপ উপকরণের উইজার্ড"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_DLG_GRIDWIZARD\n"
+"modaldialog.text"
+msgid "Table Element Wizard"
+msgstr "টেবিল উপকরণের উইজার্ড"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_LISTWIZARD_TITLE\n"
+"string.text"
+msgid "List Box Wizard"
+msgstr "তালিকা বাক্স উইজার্ড"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_COMBOWIZARD_TITLE\n"
+"string.text"
+msgid "Combo Box Wizard"
+msgstr "কম্বো বাক্স উইজার্ড"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_COULDNOTOPENTABLE\n"
+"string.text"
+msgid "The table connection to the data source could not be established."
+msgstr "ডাটা উৎসের সাথে টেবিলের সংযোগ স্থাপন করা যায়নি।"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Table element"
+msgstr "টেবিলের উপকরণ"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FT_EXISTING_FIELDS\n"
+"fixedtext.text"
+msgid "Existing fields"
+msgstr "বিদ্যমান ক্ষেত্রসমূহ"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FT_SELECTED_FIELDS\n"
+"fixedtext.text"
+msgid "Selected fields"
+msgstr "নির্বাচিত ক্ষেত্রসমূহ"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"tabpage.text"
+msgid "Field Selection"
+msgstr "ক্ষেত্র নির্বাচন"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_STR_DATEPOSTFIX\n"
+"string.text"
+msgid " (Date)"
+msgstr "(তারিখ)"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_STR_TIMEPOSTFIX\n"
+"string.text"
+msgid " (Time)"
+msgstr "(সময়)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"FT_RADIOLABELS\n"
+"fixedtext.text"
+msgid "Which ~names do you want to give the option fields?"
+msgstr "আপনি অপশন ক্ষেত্রসমূহে কোন নামগুলো দিতে চান? (~n)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"FT_RADIOBUTTONS\n"
+"fixedtext.text"
+msgid "~Option fields"
+msgstr "অপশন ক্ষেত্রসমূহ (~O)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"tabpage.text"
+msgid "Data"
+msgstr "ডাটা"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"FT_DEFAULTSELECTION\n"
+"fixedtext.text"
+msgid "Should one option field be selected as a default?"
+msgstr "একটি অপশন ক্ষেত্র পূর্বনির্ধারিত হিসেবে নির্বাচন করা উচিত কি?"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"RB_DEFSELECTION_YES\n"
+"radiobutton.text"
+msgid "~Yes, the following:"
+msgstr "হ্যাঁ, নিম্নবর্ণিত: (~Y)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"RB_DEFSELECTION_NO\n"
+"radiobutton.text"
+msgid "No, one particular field is not going to be selected."
+msgstr "না, একটি নির্দিষ্ট ক্ষেত্র নির্বাচন করা যাচ্ছে না।"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"tabpage.text"
+msgid "Default Field Selection"
+msgstr "পূর্বনির্ধারিত ক্ষেত্র নির্বাচন"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_OPTIONVALUES_EXPL\n"
+"fixedtext.text"
+msgid "When you select an option, the option group is given a specific value."
+msgstr "আপনি কোনো অপশন নির্বাচন করার পর, অপশন গ্রুপকে একটি সুনির্দিষ্ট মান দেয়া হয়।"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_OPTIONVALUES\n"
+"fixedtext.text"
+msgid "Which ~value do you want to assign to each option?"
+msgstr "প্রতিটি অপশনে আপনি কোন মান বরাদ্দ করতে চান? (~v)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_RADIOBUTTONS\n"
+"fixedtext.text"
+msgid "~Option fields"
+msgstr "অপশন ক্ষেত্রসমূহ (~O)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"tabpage.text"
+msgid "Field Values"
+msgstr "ক্ষেত্রের মানসমূহ"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"FT_NAMEIT\n"
+"fixedtext.text"
+msgid "Which ~caption is to be given to your option group?"
+msgstr "আপনার অপশন গ্রুপে কোন ক্যাপশন দিতে চান? (~c)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"FT_THATSALL\n"
+"fixedtext.text"
+msgid "These were all details needed to create the option group."
+msgstr "অপশন গ্রুপ তৈরি করার জন্য এই বিবরণগুলোই প্রয়োজন ছিল।"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"tabpage.text"
+msgid "Create Option Group"
+msgstr "অপশন গ্রুপ তৈরি"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_STR_GROUPWIZ_DBFIELD\n"
+"string.text"
+msgid "You can either save the value of the option group in a database field or use it for a later action."
+msgstr "আপনি অপশন গ্রুপের মানটি ডাটাবেস ক্ষেত্রে সংরক্ষণ করতে পারেন বা পরবর্তী কোনো কাজে এটি ব্যবহার করতে পারেন।"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Control"
+msgstr "কন্ট্রোল"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"FT_SELECTTABLE_LABEL\n"
+"fixedtext.text"
+msgid ""
+"On the right side, you see all the tables from the data source of the form.\n"
+"\n"
+"\n"
+"Choose the table from which the data should be used as basis for the list content:"
+msgstr ""
+"ডান পার্শ্বে, আপনি ফর্মের ডাটা উৎস থেকে সব টেবিল দেখছেন।\n"
+"\n"
+"\n"
+"কোন টেবিল থেকে ডাটা ব্যবহার করা হবে তালিকার বিষয়বস্তুর উপর ভিত্তি করে তা নির্বাচন করুন:"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"tabpage.text"
+msgid "Table Selection"
+msgstr "টেবিল নির্বাচন"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"FT_TABLEFIELDS\n"
+"fixedtext.text"
+msgid "Existing fields"
+msgstr "বিদ্যমান ক্ষেত্রসমূহ"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"FT_DISPLAYEDFIELD\n"
+"fixedtext.text"
+msgid "Display field"
+msgstr "প্রদর্শনের ক্ষেত্র"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"STR_FIELDINFO_COMBOBOX\n"
+"string.text"
+msgid "The contents of the field selected will be shown in the combo box list."
+msgstr "ক্ষেত্রটির নির্বাচিত বিষয়বস্তুসমূহ কম্বো বাক্স তালিকায় প্রদর্শিত হবে।"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"STR_FIELDINFO_LISTBOX\n"
+"string.text"
+msgid "The contents of the selected field will be shown in the list box if the linked fields are identical."
+msgstr "নির্বাচিত ক্ষেত্রটির বিষয়বস্তুসমূহ তালিকা বাক্সে প্রদর্শিত হবে যদি সংযোগকৃত ক্ষেত্রসমূহ অভিন্ন হয়।"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"tabpage.text"
+msgid "Field Selection"
+msgstr "ক্ষেত্র নির্বাচন"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_FIELDLINK_DESC\n"
+"fixedtext.text"
+msgid "This is where you select fields with matching contents so that the value from the display field will be shown."
+msgstr "আপনি এখানে সমতুল্য বিষয়বস্তুর ক্ষেত্রসমূহ নির্বাচন করতে পারেন যার ফলে প্রদর্শন ক্ষেত্র থেকে মানটি প্রদর্শিত হবে।"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_VALUELISTFIELD\n"
+"fixedtext.text"
+msgid "Field from the ~Value Table"
+msgstr "মান টেবিল থেকে ক্ষেত্র (~V)"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_TABLEFIELD\n"
+"fixedtext.text"
+msgid "Field from the ~List Table"
+msgstr "তালিকা টেবিল থেকে ক্ষেত্র (~L)"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"tabpage.text"
+msgid "Field Link"
+msgstr "ক্ষেত্রের লিংক"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_STR_COMBOWIZ_DBFIELD\n"
+"string.text"
+msgid "You can either save the value of the combo box in a database field or use it for display purposes."
+msgstr "আপনি কম্বো বাক্সের মানটি ডাটাবেস ক্ষেত্রে সংরক্ষণ করতে পারেন বা প্রদর্শনের উদ্দেশ্যে ব্যবহার করতে পারেন।"

@@ -1,0 +1,415 @@
+#. extracted from svtools/source/contnr
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2011-04-06 13:51+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mni\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "মিংথোল"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_SIZE\n"
+"string.text"
+msgid "Size"
+msgstr "অচৌ-অপিক"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_DATE\n"
+"string.text"
+msgid "Date modified"
+msgstr "শেমদোক্লবা তারিখ"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "মখল"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_ERR_MAKEFOLDER\n"
+"string.text"
+msgid "Could not create the folder %1."
+msgstr "%1 ফোল্দর নৌনা শেম্বা ঙমদ্রে."
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_BYTES\n"
+"string.text"
+msgid "Bytes"
+msgstr "বাইতস"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_KB\n"
+"string.text"
+msgid "KB"
+msgstr "KB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_MB\n"
+"string.text"
+msgid "MB"
+msgstr "MB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_GB\n"
+"string.text"
+msgid "GB"
+msgstr "GB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "মুত্থত্পা"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~নৌনা মিং থোনবা"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_TABLISTBOX\n"
+"string.text"
+msgid "Row: %1, Column: %2"
+msgstr "পরিং: %1, কলম: %2"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILEVIEW\n"
+"string.text"
+msgid ", Type: %1, URL: %2"
+msgstr ",মখল: %1, URL: %2"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "ফোল্দর"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILE\n"
+"string.text"
+msgid "File"
+msgstr "ফাইল"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_EMPTY_FIELD\n"
+"string.text"
+msgid "Empty Field"
+msgstr "অহাংবা ফিল্দ "
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_NEWDOC\n"
+"string.text"
+msgid "New Document"
+msgstr "অনৌবা দোকুমেন্ত"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_MYDOCS\n"
+"string.text"
+msgid "My Documents"
+msgstr "ঐগী দোকুমেন্তশিং"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_TEMPLATES\n"
+"string.text"
+msgid "Templates"
+msgstr "নোমুনাশিং"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_SAMPLES\n"
+"string.text"
+msgid "Samples"
+msgstr "নোমুনাশিং(খুদমশিং)"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_BACK\n"
+"toolboxitem.text"
+msgid "Back"
+msgstr "মতুং"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_PREV\n"
+"toolboxitem.text"
+msgid "Up One Level"
+msgstr "মথক্কী থাক অমা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_PRINT\n"
+"toolboxitem.text"
+msgid "Print"
+msgstr "নম্বা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FRAMEWIN\n"
+"TI_DOCTEMPLATE_DOCINFO\n"
+"toolboxitem.text"
+msgid "Document Properties"
+msgstr "দোকুমেন্ত মগুনশিং"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FRAMEWIN\n"
+"TI_DOCTEMPLATE_PREVIEW\n"
+"toolboxitem.text"
+msgid "Preview"
+msgstr "হান্না য়েংশিনবা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"FT_DOCTEMPLATE_LINK\n"
+"fixedtext.text"
+msgid "~Get more templates online..."
+msgstr ""
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_PACKAGE\n"
+"pushbutton.text"
+msgid "Install Template Pack"
+msgstr ""
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_MANAGE\n"
+"pushbutton.text"
+msgid "Organi~ze..."
+msgstr "পুনশিন্নবা তৌবা..."
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_EDIT\n"
+"pushbutton.text"
+msgid "~Edit"
+msgstr "~শেমদোক-শাদোকপা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_OPEN\n"
+"okbutton.text"
+msgid "~Open"
+msgstr "~হাংবা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"modaldialog.text"
+msgid "Templates and Documents"
+msgstr "নোমুনাশিং অমশুং দোকুমেন্তশিং"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Title\n"
+"itemlist.text"
+msgid "Title"
+msgstr "মিংথোল"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"By\n"
+"itemlist.text"
+msgid "By"
+msgstr "না"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Date\n"
+"itemlist.text"
+msgid "Date"
+msgstr "তারিখ"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Keywords\n"
+"itemlist.text"
+msgid "Keywords"
+msgstr "মরুওইবা ৱাহৈশিং"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Description\n"
+"itemlist.text"
+msgid "Description"
+msgstr "শন্দোকনা তাকপা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Type\n"
+"itemlist.text"
+msgid "Type"
+msgstr "মখল"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Modified on\n"
+"itemlist.text"
+msgid "Modified on"
+msgstr "-দা শেমদোক্লবা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Modified by\n"
+"itemlist.text"
+msgid "Modified by"
+msgstr "-না শেমদোক্লবা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Printed on\n"
+"itemlist.text"
+msgid "Printed on"
+msgstr "-দা নমথোকপা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Printed by\n"
+"itemlist.text"
+msgid "Printed by"
+msgstr "-না নমথোকপা"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Subject\n"
+"itemlist.text"
+msgid "Subject"
+msgstr "হীরম"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Size\n"
+"itemlist.text"
+msgid "Size"
+msgstr "অচৌ-অপিক"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_NEWDOC_HELP\n"
+"string.text"
+msgid "Click here to create new documents."
+msgstr "অনৌবা দোকুমেন্তশিং শেম্নবা মফম অসিদা ক্লিক তৌ."
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_MYDOCS_HELP\n"
+"string.text"
+msgid "Contains your letters, reports and other documents"
+msgstr "অদোমগী চিঠিশিং, রিপোর্তশিং অমশুং অতোপ্পা দোকুমেন্তশিং য়াওই"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_TEMPLATES_HELP\n"
+"string.text"
+msgid "Contains templates for creating new documents"
+msgstr "অনৌবা দোকুমেন্ত শেম্ননবগীদমক নোমুনাশিং য়াওই"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_SAMPLES_HELP\n"
+"string.text"
+msgid "Contains a selection of sample letters, reports and other documents"
+msgstr "নোমুনা চিঠিশিং, রিপোৰ্তশিং অমশুং অতোপ্পা দোকুমেন্তশিংগী খনগত্পা অমা য়াওই"

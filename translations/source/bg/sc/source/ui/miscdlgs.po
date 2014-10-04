@@ -1,0 +1,503 @@
+#. extracted from sc/source/ui/miscdlgs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2012-11-18 16:12+0000\n"
+"Last-Translator: Hristo <h.hristov@icobgr.info>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353255138.0\n"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_COLS\n"
+"string.text"
+msgid "Column inserted"
+msgstr "Вмъкната колона"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_ROWS\n"
+"string.text"
+msgid "Row inserted "
+msgstr "Вмъкнат ред "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_TABS\n"
+"string.text"
+msgid "Sheet inserted "
+msgstr "Вмъкнат лист "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_COLS\n"
+"string.text"
+msgid "Column deleted"
+msgstr "Изтрита колона"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_ROWS\n"
+"string.text"
+msgid "Row deleted"
+msgstr "Изтрит ред"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_TABS\n"
+"string.text"
+msgid "Sheet deleted"
+msgstr "Изтрит лист"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_MOVE\n"
+"string.text"
+msgid "Range moved"
+msgstr "Преместена област"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CONTENT\n"
+"string.text"
+msgid "Changed contents"
+msgstr "Променено съдържание"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CONTENT_WITH_CHILD\n"
+"string.text"
+msgid "Changed contents"
+msgstr "Променено съдържание"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CHILD_CONTENT\n"
+"string.text"
+msgid "Changed to "
+msgstr "Променено на "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CHILD_ORGCONTENT\n"
+"string.text"
+msgid "Original"
+msgstr "Оригинал"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_REJECT\n"
+"string.text"
+msgid "Changes rejected"
+msgstr "Отхвърлени промени"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_ACCEPTED\n"
+"string.text"
+msgid "Accepted"
+msgstr "Прието"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_REJECTED\n"
+"string.text"
+msgid "Rejected"
+msgstr "Отхвърлено"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_NO_ENTRY\n"
+"string.text"
+msgid "No Entry"
+msgstr "Няма запис"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_EMPTY\n"
+"string.text"
+msgid "<empty>"
+msgstr "<празно>"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES\n"
+"SC_CHANGES_COMMENT\n"
+"menuitem.text"
+msgid "Edit Comment..."
+msgstr "Редактиране на коментар..."
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_ACTION\n"
+"menuitem.text"
+msgid "Action"
+msgstr "Действие"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_POSITION\n"
+"menuitem.text"
+msgid "Position"
+msgstr "Позиция"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_AUTHOR\n"
+"menuitem.text"
+msgid "Author"
+msgstr "Автор"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_DATE\n"
+"menuitem.text"
+msgid "Date"
+msgstr "Дата"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_COMMENT\n"
+"menuitem.text"
+msgid "Description"
+msgstr "Описание"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES\n"
+"SC_SUB_SORT\n"
+"menuitem.text"
+msgid "Sorting"
+msgstr "Сортиране"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"FT_CONFLICTS\n"
+"fixedtext.text"
+msgid "There are conflicting changes in this shared spreadsheet. Conflicts must be resolved before saving the spreadsheet. Keep either own or other changes."
+msgstr "В тази споделена електронна таблица има противоречиви промени. Конфликтите трябва да бъдат разрешени преди съхраняването й. Запазете своите или чуждите промени."
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPMINE\n"
+"pushbutton.text"
+msgid "Keep ~Mine"
+msgstr "Запазване - ~моя"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPOTHER\n"
+"pushbutton.text"
+msgid "Keep ~Other"
+msgstr "Запазване - ~чужда"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPALLMINE\n"
+"pushbutton.text"
+msgid "~Keep All Mine"
+msgstr "~Запазване - всички мои"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPALLOTHERS\n"
+"pushbutton.text"
+msgid "Keep ~All Others"
+msgstr "Запазване - ~всички чужди"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_CONFLICT\n"
+"string.text"
+msgid "Conflict"
+msgstr "Конфликт"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_AUTHOR\n"
+"string.text"
+msgid "Author"
+msgstr "Автор"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Дата"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_UNKNOWN_USER\n"
+"string.text"
+msgid "Unknown User"
+msgstr "Непознат потребител"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"modaldialog.text"
+msgid "Resolve Conflicts"
+msgstr "Разрешаване на конфликти"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_DESC\n"
+"fixedtext.text"
+msgid "The document you are about to export has one or more protected items with password that cannot be exported. Please re-type your password to be able to export your document."
+msgstr "Експортираният документ съдържа елементи, защитени с парола, които не могат да бъдат експортирани. Моля, въведете отново паролата, за да експортирате документа."
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FL_DOCUMENT\n"
+"fixedline.text"
+msgid "Document protection"
+msgstr "Защита на документ"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_DOCSTATUS\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Неясно състояние"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_DOC\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Въвеждане отново"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FL_SHEET\n"
+"fixedline.text"
+msgid "Sheet protection"
+msgstr "Защита на лист"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME1\n"
+"fixedtext.text"
+msgid "Sheet1 has a really long name"
+msgstr "Лист1 има много дълго име"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS1\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Неясно състояние"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET1\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Въвеждане отново"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME2\n"
+"fixedtext.text"
+msgid "Sheet2"
+msgstr "Лист2"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS2\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Неясно състояние"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET2\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Въвеждане отново"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME3\n"
+"fixedtext.text"
+msgid "Sheet3"
+msgstr "Лист3"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS3\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Неясно състояние"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET3\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Въвеждане отново"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME4\n"
+"fixedtext.text"
+msgid "Sheet4"
+msgstr "Лист4"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS4\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "Неясно състояние"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET4\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "Въвеждане отново"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_NOT_PROTECTED\n"
+"string.text"
+msgid "Not protected"
+msgstr "Не е защитен"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_NOT_PASS_PROTECTED\n"
+"string.text"
+msgid "Not password-protected"
+msgstr "Не е защитен с парола"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_BAD\n"
+"string.text"
+msgid "Hash incompatible"
+msgstr "Несъвместим хеш"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_GOOD\n"
+"string.text"
+msgid "Hash compatible"
+msgstr "Съвместим хеш"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_REGENERATED\n"
+"string.text"
+msgid "Hash re-generated"
+msgstr "Регенериран хеш"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"modaldialog.text"
+msgid "Re-type Password"
+msgstr "Въведете паролата отново"

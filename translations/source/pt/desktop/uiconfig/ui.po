@@ -1,0 +1,287 @@
+#. extracted from desktop/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-05-31 15:56+0000\n"
+"Last-Translator: Sérgio <smarquespt@gmail.com>\n"
+"Language-Team: none\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1401551765.000000\n"
+
+#: cmdlinehelp.ui
+msgctxt ""
+"cmdlinehelp.ui\n"
+"CmdLineHelp\n"
+"title\n"
+"string.text"
+msgid "Help Message"
+msgstr "Mensagem de ajuda"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"ExtensionManagerDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Manager"
+msgstr "Gestor de extensões"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "Add..."
+msgstr "Adicionar..."
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"update\n"
+"label\n"
+"string.text"
+msgid "Check for updates..."
+msgstr "Procurar atualizações..."
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"shared\n"
+"label\n"
+"string.text"
+msgid "Shared"
+msgstr "Partilhadas"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"user\n"
+"label\n"
+"string.text"
+msgid "User"
+msgstr "Utilizador"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"bundled\n"
+"label\n"
+"string.text"
+msgid "Installation"
+msgstr "Instalação"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Type of Extension"
+msgstr "Tipo de extensão"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"progressft\n"
+"label\n"
+"string.text"
+msgid "Adding %EXTENSION_NAME"
+msgstr "Adicionar %EXTENSION_NAME"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"getextensions\n"
+"label\n"
+"string.text"
+msgid "Get more extensions online..."
+msgstr "Obter mais extensões..."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"LicenseDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Software License Agreement"
+msgstr "Contrato de licenciamento da extensão"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "Accept"
+msgstr "Aceitar"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"decline\n"
+"label\n"
+"string.text"
+msgid "Decline"
+msgstr "Recusar"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"head\n"
+"label\n"
+"string.text"
+msgid "Please follow these steps to proceed with the installation of the extension:"
+msgstr "Siga estas etapas para continuar a instalação da extensão:"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "1."
+msgstr "1."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "2."
+msgstr "2."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Read the complete License Agreement. Use the scroll bar or the 'Scroll Down' button in this dialog to view the entire license text.\""
+msgstr "Leia o contrato de licenciamento na íntegra. Utilize a barra de deslocação ou o botão 'Mover para baixo' nesta caixa de diálogo para ver o texto da licença."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Accept the License Agreement for the extension by pressing the 'Accept' button."
+msgstr "Aceite o contrato de licenciamento da extensão premindo o botão 'Aceitar'."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"down\n"
+"label\n"
+"string.text"
+msgid "_Scroll Down"
+msgstr "Mover para _baixo"
+
+#: showlicensedialog.ui
+msgctxt ""
+"showlicensedialog.ui\n"
+"ShowLicenseDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Software License Agreement"
+msgstr "Contrato de licenciamento da extensão"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UpdateDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Update"
+msgstr "Atualização de extensões"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"INSTALL\n"
+"label\n"
+"string.text"
+msgid "_Install"
+msgstr "_Instalar"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UPDATE_LABEL\n"
+"label\n"
+"string.text"
+msgid "_Available extension updates"
+msgstr "_Atualizações disponíveis"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UPDATE_CHECKING\n"
+"label\n"
+"string.text"
+msgid "Checking..."
+msgstr "A procurar..."
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UPDATE_ALL\n"
+"label\n"
+"string.text"
+msgid "_Show all updates"
+msgstr "Mo_strar todas as atualizações"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"DESCRIPTION_LABEL\n"
+"label\n"
+"string.text"
+msgid "Description"
+msgstr "Descrição"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"PUBLISHER_LABEL\n"
+"label\n"
+"string.text"
+msgid "Publisher:"
+msgstr "Publicador:"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"PUBLISHER_LINK\n"
+"label\n"
+"string.text"
+msgid "button"
+msgstr "botão"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"RELEASE_NOTES_LABEL\n"
+"label\n"
+"string.text"
+msgid "What is new:"
+msgstr "Novidades:"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"RELEASE_NOTES_LINK\n"
+"label\n"
+"string.text"
+msgid "Release notes"
+msgstr "Notas da versão"

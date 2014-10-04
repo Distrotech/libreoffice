@@ -1,0 +1,1898 @@
+#. extracted from dbaccess/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-01-25 14:54+0530\n"
+"Last-Translator: Ani Peter <peter.ani@gmail.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_DBASE_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the dBASE files"
+msgstr "dBASE ഫയലിലേക്കുള്ള മാര്ഗ്ഗം"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_FLAT_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the text files"
+msgstr "ടെക്സ്റ്റ് ഫയലിലേക്കുള്ള മാര്ഗ്ഗം"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_CALC_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the spreadsheet document"
+msgstr "സ്പ്രഡ്ഷീറ്റ് ഡോക്കുമെന്റിലേക്കുള്ള മാര്ഗ്ഗം"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_NAME_OF_ODBC_DATASOURCE\n"
+"string.text"
+msgid "Name of the ODBC data source on your system"
+msgstr "താങ്കളുടെ സിസ്റ്റത്തിലെ ODBC  ഡേറ്റാ ഉറവിടത്തിന്റെ പേര‍്"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MYSQL_DATABASE_NAME\n"
+"string.text"
+msgid "Name of the MySQL database"
+msgstr "MySQL ഡേറ്റാബേസിന്റെ പേര‍്"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ORACLE_DATABASE_NAME\n"
+"string.text"
+msgid "Name of the Oracle database"
+msgstr " Oracle ഡേറ്റാബേസിന്റെ പേര‍്"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MSACCESS_MDB_FILE\n"
+"string.text"
+msgid "Microsoft Access database file"
+msgstr "മൈക്രോസോഫ്റ്റ് അക്സസ് ഡേറ്റാബേസ് ഫയല്"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_NO_ADDITIONAL_SETTINGS\n"
+"string.text"
+msgid "No more settings are necessary. To verify that the connection is working, click the '%test' button."
+msgstr "കൂടുതല് സജ്ജീകരണങ്ങള് ആവശ്യമില്ല. കണക്ഷന് പ്രവര്ത്തിക്കുന്നുവെന്ന് അറിയണമെങ്കില് %test' ബട്ടണ് ക്ലിക് ചെയ്യുക"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_COMMONURL\n"
+"string.text"
+msgid "Datasource URL"
+msgstr "ഡേറ്റാ ഉറവിട URL"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_HOSTNAME\n"
+"string.text"
+msgid "~Host name"
+msgstr "~ഹോസ്റ്റ് നാമം"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MOZILLA_PROFILE_NAME\n"
+"string.text"
+msgid "~Mozilla profile name"
+msgstr "മോസില്ലാ ജീവചരിത്ര ലഘുലേഖനത്തിന്റെ പേര‍്"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_THUNDERBIRD_PROFILE_NAME\n"
+"string.text"
+msgid "~Thunderbird profile name"
+msgstr "തണ്ടര്ബേഡ് ജീവചരിത്ര ലഘുലേഖനത്തിന്റെ പേര‍്"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ADD_TABLES\n"
+"string.text"
+msgid "Add Tables"
+msgstr ""
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ADD_TABLE_OR_QUERY\n"
+"string.text"
+msgid "Add Table or Query"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BROWSECONTROLGROUP( AUTO_X, AUTO_Y, AUTOPAGE_X, AUTO_HID, AUTO_HID2)\n"
+"PB_AUTOBROWSEURL\n"
+"pushbutton.text"
+msgid "Browse"
+msgstr "ബ്രൌസ്"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BROWSECONTROLGROUP( AUTO_X, AUTO_Y, AUTOPAGE_X, AUTO_HID, AUTO_HID2)\n"
+"PB_CREATEDB\n"
+"pushbutton.text"
+msgid "Create New"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_NAMECONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTODATABASENAME\n"
+"fixedtext.text"
+msgid "Database name"
+msgstr "ഡേറ്റാബെയിസ് നാമം"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_HOSTCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOHOSTNAME\n"
+"fixedtext.text"
+msgid "Server"
+msgstr "സര്‍വര്‍"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BASEDNCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOBASEDN\n"
+"fixedtext.text"
+msgid "Base ~DN"
+msgstr "അടിസ്ഥാന DN"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_PORTCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOPORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "പോര്ട്ട് സംഖ്യ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_CHARSET( AUTO_Y, AUTOPAGE_X )\n"
+"FL_DATACONVERT\n"
+"fixedline.text"
+msgid "Data conversion"
+msgstr "ഡേറ്റാ വേര്‍തിരിക്കല്‍"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_CHARSET( AUTO_Y, AUTOPAGE_X )\n"
+"FT_CHARSET\n"
+"fixedtext.text"
+msgid "~Character set"
+msgstr "~ക്യാരക്ടര്‍ സെറ്റ്"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOEXTENSIONHEADER\n"
+"fixedtext.text"
+msgid "Specify the type of files you want to access"
+msgstr "പ്രവേശിക്കേണ്ട ഫയല് വിഭാഗം വ്യക്തമാക്കുക"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSCTEXTFILES\n"
+"radiobutton.text"
+msgid "Plain text files (*.txt)"
+msgstr "സ്പഷ്ടമായ ടെക്സ്റ്റ് ഫയലുകള്(*.TXT)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSCCSVFILES\n"
+"radiobutton.text"
+msgid "'Comma separated value' files (*.csv)"
+msgstr "'അല്പവിരാമചിഹ്നം കൊണ്ട് വേര്തിരിച്ചമൂല്യ 'ഫയലുകള് (*.csv)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSOTHERS\n"
+"radiobutton.text"
+msgid "Custom:"
+msgstr "അംഗീകൃതം:"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOOWNEXTENSIONAPPENDIX\n"
+"fixedtext.text"
+msgid "Custom: *.abc"
+msgstr "അംഗീകൃതം: *.abc"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FL_AUTOSEPARATOR2\n"
+"fixedline.text"
+msgid "Row Format"
+msgstr "നിരയുടെ രൂപരേഖ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOFIELDSEPARATOR\n"
+"fixedtext.text"
+msgid "Field separator"
+msgstr " മണ്ഡലം വേര്തിരിക്കുന്നത്"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOTEXTSEPARATOR\n"
+"fixedtext.text"
+msgid "Text separator"
+msgstr "ടെക്സ്റ്റ് വേര്തിരിക്കുന്ന"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTODECIMALSEPARATOR\n"
+"fixedtext.text"
+msgid "Decimal separator"
+msgstr "ദശാംശം മാറ്റിഎടുക്കുന്ന"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"FT_AUTOTHOUSANDSSEPARATOR\n"
+"fixedtext.text"
+msgid "Thousands separator"
+msgstr "അയിരക്കണക്കിന‍് വേര്തിരിക്കുന്നത്"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"CB_AUTOHEADER\n"
+"checkbox.text"
+msgid "~Text contains headers"
+msgstr "~പദാവലിയില്‍ ഹെഡറുകളുണ്ടു്"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTOTEXT_FIELD_SEP_NONE\n"
+"string.text"
+msgid "{None}"
+msgstr "{ഒന്നുമില്ല}"
+
+#. EM Dec 2002: 'Space' refers to what you get when you hit the space bar on your keyboard.
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTOFIELDSEPARATORLIST\n"
+"string.text"
+msgid ";\t59\t,\t44\t:\t58\t{Tab}\t9\t{Space}\t32"
+msgstr ";\t59\t,\t44\t:\t58\t{Tab}\t9\t{Space}\t32"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTODELIMITER_MISSING\n"
+"string.text"
+msgid "#1 must be set."
+msgstr "#1 must be set."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTODELIMITER_MUST_DIFFER\n"
+"string.text"
+msgid "#1 and #2 must be different."
+msgstr "#1 and #2 must be different."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTONO_WILDCARDS\n"
+"string.text"
+msgid "Wildcards such as ?,* are not allowed in #1."
+msgstr "ഇങ്ങനെയുള്ള   ?,* വൈല്ട് കാര്ട് അനുവദനീയമല്ല #1 ഇവിടെ."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_JDBCDRIVERCLASSGROUP(AUTO_Y, AUTO_HID, AUTO_HID2)\n"
+"FT_AUTOJDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "JDBC d~river class"
+msgstr "JDBC ഡ്രൈവര്‍ വിഭാഗം"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_JDBCDRIVERCLASSGROUP(AUTO_Y, AUTO_HID, AUTO_HID2)\n"
+"PB_AUTOTESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "ടെസ്റ്റ് ക്ലാസ്സ്"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SOCKETCONTROLGROUP(AUTO_Y)\n"
+"FT_SOCKET\n"
+"fixedtext.text"
+msgid "Socket"
+msgstr "സോക്കറ്റ്"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_NEWFOLDER\n"
+"imagebutton.quickhelptext"
+msgid "Create New Directory"
+msgstr "പുതിയ ഡയറക്ട്രി സൃഷ്ടിക്കുക"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_UP\n"
+"imagebutton.quickhelptext"
+msgid "Up One Level"
+msgstr "ഒരു തലത്തില് മാത്രം"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"FT_EXPLORERFILE_FILENAME\n"
+"fixedtext.text"
+msgid "File ~name:"
+msgstr "ഫയല് നാമം"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_SAVE\n"
+"pushbutton.text"
+msgid "Save"
+msgstr "സംഭരിക്കുക"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"STR_PATHNAME\n"
+"string.text"
+msgid "~Path:"
+msgstr "മാര്ഗ്ഗം:"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"modaldialog.text"
+msgid "Save"
+msgstr "സംഭരിക്കുക"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"STR_NEW_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "ഫോള്ഡര്"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "ഫയല് നിലവിലുണ്ട്. തിരുത്തി എഴുതണോ ?"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "General"
+msgstr "പൊതുവായ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Host name"
+msgstr "~ഹോസ്റ്റ് നാമം"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "User authentication"
+msgstr "ഉപഭോക്താവിന്റെ ആധികാരികത"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "ഉപഭോക്തൃ നാമം"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"CB_PASSWORD_REQUIRED\n"
+"checkbox.text"
+msgid "Password required"
+msgstr "സങ്കേതപദം ആവശ്യമാണ‌്"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR3\n"
+"fixedline.text"
+msgid "JDBC properties"
+msgstr "JDBC സവിശേഷതകള്"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "~JDBC driver class"
+msgstr "JDBC ഡ്രൈവര് വിഭാഗം"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test Class"
+msgstr "പരീക്ഷണവിഭാഗം"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"PB_TESTCONNECTION\n"
+"pushbutton.text"
+msgid "Test Connection"
+msgstr "പരിക്ഷണ കണക്ഷന്"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_TEST\n"
+"string.text"
+msgid "Connection Test"
+msgstr "കണക്ഷന് പരീക്ഷണം"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_SUCCESS\n"
+"string.text"
+msgid "The connection was established successfully."
+msgstr "കണക്ഷന് വിജയകരമായി സ്ഥാപിച്ചു."
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_NO_SUCCESS\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "കണക്ഷന് സ്ഥാപിക്കുന്നതില് പരാജയപ്പെട്ടു"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_JDBCDRIVER_SUCCESS\n"
+"string.text"
+msgid "The JDBC driver was loaded successfully."
+msgstr "JDBC  ഡ്രൈവര് വിജയകരമായി ലോഡുചെയ്തു"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_JDBCDRIVER_NO_SUCCESS\n"
+"string.text"
+msgid "The JDBC driver could not be loaded."
+msgstr "JDBC  ഡ്രൈവര് ലോഡുചെയ്തില്ല"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_MSACCESS_FILTERNAME\n"
+"string.text"
+msgid "MS Access file"
+msgstr "MS  അക്സസ് ഫയല്"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_MSACCESS_2007_FILTERNAME\n"
+"string.text"
+msgid "MS Access 2007 file"
+msgstr "MS ആക്സസ്സ് 2007 ഫയല്‍"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_FIREBIRD_FILTERNAME\n"
+"string.text"
+msgid "Firebird Database"
+msgstr ""
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FL_USER\n"
+"fixedline.text"
+msgid "User selection"
+msgstr "ഉപഭോക്താവിനെ തിരഞ്ഞെടുക്കുക"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FT_USER\n"
+"fixedtext.text"
+msgid "Us~er:"
+msgstr "ഉപഭോക്താവ്"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_NEWUSER\n"
+"pushbutton.text"
+msgid "~Add User..."
+msgstr "ഉപഭോക്താവിനെ ചേര്ക്കുക"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_CHANGEPWD\n"
+"pushbutton.text"
+msgid "Change ~Password..."
+msgstr "സങ്കേതപദം മാറ്റുക..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_DELETEUSER\n"
+"pushbutton.text"
+msgid "~Delete User..."
+msgstr "ഉപഭോക്താവിനെ  നീക്കം ചെയ്യുക"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FL_TABLE_GRANTS\n"
+"fixedline.text"
+msgid "Access rights for selected user"
+msgstr "തിരഞ്ഞെടുത്ത ഉപഭോക്താവിന്റെ പ്രവേശന അവകാശം "
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"QUERY_USERADMIN_DELETE_USER\n"
+"querybox.text"
+msgid "Do you really want to delete the user?"
+msgstr "താങ്കള് തികച്ചും ഉപഭോക്താവിനെ നീക്കം ചെയ്യാന് ആഗ്രഹിക്കുന്നോ?"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"STR_USERADMIN_NOT_AVAILABLE\n"
+"string.text"
+msgid "The database does not support user administration."
+msgstr "ഉപഭോക്തൃ കാര്യാന്വേഷണം ഡേറ്റാബേസ് പിന്താങ്ങുന്നില്ല."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"STR_ERROR_PASSWORDS_NOT_IDENTICAL\n"
+"string.text"
+msgid "The passwords do not match. Please enter the password again."
+msgstr "സങ്കേതപദം സമാനമല്ല. ദയവയി വീണ്ടും സങ്കേതപദം നല്കുക."
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_MYSQL_DATABASE_NAME\n"
+"fixedtext.text"
+msgid "~Database name"
+msgstr "~ഡേറ്റാബെയിസ് നാമം"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_HOST_PORT\n"
+"radiobutton.text"
+msgid "Se~rver / Port"
+msgstr "സര്‍~വര്‍ / പോര്‍ട്ട്"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_HOST_NAME\n"
+"fixedtext.text"
+msgid "~Server"
+msgstr "~സര്‍വര്‍"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_PORT\n"
+"fixedtext.text"
+msgid "~Port"
+msgstr "~പോര്‍ട്ട്"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_PORT_DEFAULT\n"
+"fixedtext.text"
+msgid "Default: 3306"
+msgstr "സംസ്ഥാപിതം: 3306"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_SOCKET\n"
+"radiobutton.text"
+msgid "So~cket"
+msgstr "സോ~ക്കറ്റ്"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_NAMED_PIPE\n"
+"radiobutton.text"
+msgid "Named p~ipe"
+msgstr "നെയിമിഡ് ~പൈപ്പ്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_USECATALOG(AUTO_Y)\n"
+"CB_USECATALOG\n"
+"checkbox.text"
+msgid "Use catalog for file-based databases"
+msgstr "ഫയല് അടിസ്ഥാനമായ ഡേറ്റാബേസില് നാമാവലി ഉപയോഗിക്കുക"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_FIXEDLINE_CONNSETTINGS(AUTO_Y)\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Connection Settings"
+msgstr "കണക്ഷനുള്ള സജ്ജീകരണങ്ങള്‍"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_HOST_AND_PORT(AUTO_Y)\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Host name"
+msgstr "~ഹോസ്റ്റ് നാമം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_HOST_AND_PORT(AUTO_Y)\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "പോര്ട്ട് സംഖ്യ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"DLG_DATABASE_TYPE_CHANGE\n"
+"modaldialog.text"
+msgid "Database properties"
+msgstr "ഡേറ്റാബേസ് സവിശേഷതകള്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Optional settings"
+msgstr "ഐച്ഛിക സജ്ജീകരണങ്ങല്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"CB_SHOWDELETEDROWS\n"
+"checkbox.text"
+msgid "Display deleted records as well"
+msgstr "നീക്കം ചെയ്ത റിക്കേര്ഡുകള് നന്നായി പ്രകാശിപ്പിക്കുക"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"FT_SPECIAL_MESSAGE\n"
+"fixedtext.text"
+msgid "Note: When deleted, and thus inactive, records are displayed, you will not be able to delete records from the data source."
+msgstr "കുറിപ്പ്: നീക്കം ചെയ്യുമ്പോള്‍,  നിഷ്ക്രിയമാവുകയും, റിക്കോര്‍ഡുകള്‍ പ്രദര്‍ശിപ്പിക്കുകയും ചെയ്യുന്നു, താങ്കള്‍ക്കു് ഡേറ്റ ഉറവിടത്തില്‍ നിന്നും റിക്കോര്‍ഡുകള്‍ നീക്കം ചെയ്യുവാന്‍ കഴിയുകയില്ല."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"PB_INDICIES\n"
+"pushbutton.text"
+msgid "Indexes..."
+msgstr "അനുക്രമണിക..."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ODBC\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Optional Settings"
+msgstr "ഐച്ഛിക സജ്ജീകരണങ്ങള്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ODBC\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "ODBC ~options"
+msgstr "ODBC ഐച്ഛികം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_JDBC\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "MySQL JDBC d~river class"
+msgstr "MySQL JDBC ഡ്രൈവര് വകഭേദം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_JDBC\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "ടെസ്റ്റ് ക്ലാസ്സ്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "User authentication"
+msgstr "ഉപഭോക്താവിന്റെ ആധികാരികത"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "ഉപഭോക്തൃ നാമം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"CB_PASSWORD_REQUIRED\n"
+"checkbox.text"
+msgid "Password required"
+msgstr "സങ്കേതപദം ആവശ്യമാണ‌്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ORACLE_JDBC\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "Oracle JDBC d~river class"
+msgstr "ഒറാക്കിള് JDBC  ഡ്രൈവര് വകഭേദം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ORACLE_JDBC\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "ടെസ്റ്റ് ക്ലാസ്സ്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Connection Settings"
+msgstr "കണക്ഷനുള്ള സജ്ജീകരണങ്ങള്‍"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_BASEDN\n"
+"fixedtext.text"
+msgid "~Base DN"
+msgstr "അടിസ്ഥാന  DN"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"CB_USESSL\n"
+"checkbox.text"
+msgid "Use secure connection (SSL)"
+msgstr "സുരക്ഷിതമായ കണക്ഷന്‍ ഉപയോഗിക്കുക (എസ്എസ്എല്‍)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "പോര്ട്ട് സംഖ്യ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_LDAPROWCOUNT\n"
+"fixedtext.text"
+msgid "Maximum number of ~records"
+msgstr "പരമാവധി റിക്കോര്ഡുകളുടെ എണ്ണം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Hostname"
+msgstr "അതിഥേയ നാമം"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "പോര്ട്ട് സംഖ്യ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "~Driver settings"
+msgstr "ഡ്രൈവര് സജ്ജീകരണങ്ങള്"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_PARENTTITLE_GENERAL\n"
+"string.text"
+msgid "Data Source Properties: #"
+msgstr "ഡേറ്റാ ഉറവിട സവിശേഷതകള്: #"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_ERR_USE_CONNECT_TO\n"
+"string.text"
+msgid "Please choose 'Connect to an existing database' to connect to an existing database instead."
+msgstr "നിലവിലുള്ള ഒരു ഡേറ്റാബെയിസിലേക്ക് കണക്ട് ചെയ്യുന്നതിനായി ദയവായി 'നിലവിലുള്ളൊരു ഡേറ്റാബെയിസിലേക്ക് കണക്ട് ചെയ്യുക' തെരഞ്ഞെടുക്കുക."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_COULD_NOT_LOAD_ODBC_LIB\n"
+"string.text"
+msgid "Could not load the program library #lib# or it is corrupted. The ODBC data source selection is not available."
+msgstr "ക്രിയാക്രമ ഗ്രന്ഥശായ ലോഡ് ചെയ്യാന് കഴിഞ്ഞില്ല #lib# അല്ലെങ്കില് അതിന‍്  നാശനഷ്ടം സംഭവിച്ചു. ODBC ഡേറ്റ ഉറവിടം തെരഞ്ഞെടുപ്പ് ലഭ്യമല്ല."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_UNSUPPORTED_DATASOURCE_TYPE\n"
+"string.text"
+msgid ""
+"This kind of data source is not supported on this platform.\n"
+"You are allowed to change the settings, but you probably will not be able to connect to the database."
+msgstr ""
+"ഇത്തരത്തിലുള്ള ഡേറ്റ ഉറവിടം ഈ പ്ളാറ്റ്ഫോം പിന്താങ്ങുന്നില്ല.\n"
+"താങ്കള്ക്ക് സജ്ജീകരണങ്ങള് മാറ്റുവാന് കഴിയും, പക്ഷെ ചിലപ്പോള് ഡേറ്റാബേസ് കണക്ട് ചെയ്യാന് കഴിയാതെ വരാം."
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_ENTER_CONNECTION_PASSWORD\n"
+"string.text"
+msgid "A password is needed to connect to the data source \"$name$\"."
+msgstr "ഡേറ്റാ ഉറവിടത്തിലേക്ക് കണക്ട് ചെയ്യാന് സങ്കേതപദം ആവശ്യമാണ‍് \"$name$\"."
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_ASK_FOR_DIRECTORY_CREATION\n"
+"string.text"
+msgid ""
+"The directory\n"
+"\n"
+"$path$\n"
+"\n"
+"does not exist. Should it be created?"
+msgstr ""
+"ഡയറക്ട്റി\n"
+"\n"
+"$path$\n"
+"\n"
+"നിലവിലില്ല. സൃഷ്ടിക്കണോ?"
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_COULD_NOT_CREATE_DIRECTORY\n"
+"string.text"
+msgid "The directory $name$ could not be created."
+msgstr "ഡയറക്ട്റി $name$  സൃഷ്ടിക്കാന് സാദ്ധ്യമല്ല."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_DBWIZARDTITLE\n"
+"string.text"
+msgid "Database Wizard"
+msgstr "ഡേറ്റാബേസ് വിസാര്ഡ്"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_INTROPAGE\n"
+"string.text"
+msgid "Select database"
+msgstr "ഡേറ്റാബേസ് തിരഞ്ഞെടുക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_DBASE\n"
+"string.text"
+msgid "Set up dBASE connection"
+msgstr "dBASE  കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_TEXT\n"
+"string.text"
+msgid "Set up a connection to text files"
+msgstr "വാചക ഫയലുകള്‍ക്കുള്ള കണക്ഷന്‍ സജ്ജമാക്കകു"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MSACCESS\n"
+"string.text"
+msgid "Set up Microsoft Access connection"
+msgstr "മൈക്രസോഫ്റ്റ് അക്സസ് കണക്ഷന് സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_LDAP\n"
+"string.text"
+msgid "Set up LDAP connection"
+msgstr " LDAP  കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ADO\n"
+"string.text"
+msgid "Set up ADO connection"
+msgstr "ADO കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_JDBC\n"
+"string.text"
+msgid "Set up JDBC connection"
+msgstr "JDBC കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ORACLE\n"
+"string.text"
+msgid "Set up Oracle database connection"
+msgstr "ഒറാക്കിള് ഡേറ്റാബേസ് കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MYSQL\n"
+"string.text"
+msgid "Set up MySQL connection"
+msgstr "MySQL കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ODBC\n"
+"string.text"
+msgid "Set up ODBC connection"
+msgstr "ODBC  കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_SPREADSHEET\n"
+"string.text"
+msgid "Set up Spreadsheet connection"
+msgstr "സ്പ്രെഡ് ഷീറ്റ് കണക്ഷന്  സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_AUTHENTIFICATION\n"
+"string.text"
+msgid "Set up user authentication"
+msgstr "ഉഭോക്താവിന്റെ  ആധികാരിക സജ്ജീകരണം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MYSQL_NATIVE\n"
+"string.text"
+msgid "Set up MySQL server data"
+msgstr "MySQL സര്‍വര്‍ ഡേറ്റാ സജ്ജമാക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_FINAL\n"
+"string.text"
+msgid "Save and proceed"
+msgstr "സംഭരിച്ചിട്ട് പ്രവര്ത്തനം നടത്തുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"modaldialog.text"
+msgid "Database Wizard"
+msgstr "ഡേറ്റാബേസ് വിസാര്ഡ്"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"STR_DATABASEDEFAULTNAME\n"
+"string.text"
+msgid "New Database"
+msgstr "പുതിയ ഡേറ്റാബേസ്"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQL_HEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up a connection to a MySQL database"
+msgstr " MySQL ഡേറ്റാബേസിലേക്ക് കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQL_HELPTEXT\n"
+"fixedtext.text"
+msgid ""
+"You can connect to a MySQL database using either ODBC or JDBC.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ODBC അഥവാ JDBC ഉപയോഗിച്ച് താങ്കള്ക്ക്  MySQL ഡേറ്റാബേസിലേക്ക് കണക്ട് ചെയ്യാം. \n"
+" എന്തെങ്കിലും സംശയമുണ്ടെങ്കില് സിസ്റ്റം കാര്യകര്ത്താവിനെ സമീപിക്കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQLCONNECTIONMODE\n"
+"fixedtext.text"
+msgid "How do you want to connect to your MySQL database?"
+msgstr "താങ്കള് എങ്ങനെയാണ‍് താങ്കളുടെ MySQL ഡേറ്റാബേസിലേക്ക് കണക്ട് ചെയ്യേണ്ടത്?"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIAODBC\n"
+"radiobutton.text"
+msgid "Connect using ODBC (Open Database Connectivity)"
+msgstr "ODBC  (ഓപ്പണ് ഡേറ്റാബേസ് കണക്റ്റിവിറ്റി) ഉപയോഗിച്ച് കണക്ട് ചെയ്യുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIAJDBC\n"
+"radiobutton.text"
+msgid "Connect using JDBC (Java Database Connectivity)"
+msgstr " JDBC  (ജാവാ ഡേറ്റാബേസ് കണക്റ്റിവിറ്റി) ഉപയോഗിച്ച് കണക്ട് ചെയ്യുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIANATIVE\n"
+"radiobutton.text"
+msgid "Connect directly"
+msgstr "നേരിട്ട് കണക്ട് ചെയ്യുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_AUTHENTIFICATIONHEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up the user authentication"
+msgstr "ഉപഭോക്തൃ ആധികാരിക സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_AUTHENTIFICATIONHELPTEXT\n"
+"fixedtext.text"
+msgid "Some databases require you to enter a user name."
+msgstr "ചില ഡേറ്റാബേസുകള്ക്ക് ഉപഭാക്തൃനാമം നല്കേണ്ടത് ആവശ്യമാണ‍്‍."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_GENERALUSERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "ഉപഭോക്തൃ നാമം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"CB_GENERALPASSWORDREQUIRED\n"
+"checkbox.text"
+msgid "Password re~quired"
+msgstr "സങ്കേതപദം ആവശ്യമാണ‍്"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"PB_TESTCONNECTION\n"
+"pushbutton.text"
+msgid "~Test Connection"
+msgstr "പരീക്ഷണ കണക്ഷന്"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQLJDBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up connection to a MySQL database using JDBC"
+msgstr " JDBC ഉപയോഗിച്ച് MySQL ഡേറ്റാബേസ് കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQLJDBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to a MySQL database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ദയവായി  JDBC ഉപയോഗിച്ച് MySQL ഡേറ്റാബേസ് കണക്ഷന‍് ആവശ്യമായ  വിവരങ്ങള് നല്കുക. JDBC ഡ്രൈവര് ക്ലാസ്സ് താങ്കളുടെ സിസ്റ്റത്തില് സ്ഥാപിക്കുകയും അത് രജിസ്റ്റര് %PRODUCTNAME.\n"
+" ചെയ്യേണ്ടതുമാണ‍്. തുടര്ന്നുള്ള സജ്ജീകരണങ്ങള് വ്യക്തമായി അറിയുകയില്ലെങ്കില് സിസ്റ്റം അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQL_DRIVERCLASSTEXT\n"
+"string.text"
+msgid "MySQL JDBC d~river class:"
+msgstr "MySQL JDBC ഡ്രൈവര് ക്ലാസ്:"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQL_DEFAULT\n"
+"string.text"
+msgid "Default: 3306"
+msgstr "സംസ്ഥാപിതം: 3306"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_NATIVE\n"
+"FT_SETUP_WIZARD_HEADER\n"
+"fixedtext.text"
+msgid "Set up connection to a MySQL database"
+msgstr " MySQL ഡേറ്റാബേസിലേക്ക് കണക്ഷന്‍ സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_NATIVE\n"
+"FT_SETUP_WIZARD_HELP\n"
+"fixedtext.text"
+msgid "Please enter the required information to connect to a MySQL database."
+msgstr "ദയവായി ഒരു MySQL ഡേറ്റാബെയിസിലേക്ക് കണക്ട് ചെയ്യുന്നതിനാവശ്യമുള്ള വിവരങ്ങള്‍ നല്‍കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_DBASE\n"
+"STR_DBASE_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to dBASE files"
+msgstr " dBASE ഫയലിലേക്ക് കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_DBASE\n"
+"STR_DBASE_HELPTEXT\n"
+"string.text"
+msgid "Select the folder where the dBASE files are stored."
+msgstr "dBASE ഫയലുകള്  സംഭരിച്ചിരിക്കുന്ന ഫോള്ഡര് തിരഞ്ഞെടുക്കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to text files"
+msgstr "വാചക ഫയലുകള്‍ക്കുള്ള കണക്ഷന്‍ സജ്ജമാക്കകു"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_HELPTEXT\n"
+"string.text"
+msgid "Select the folder where the CSV (Comma Separated Values) text files are stored. %PRODUCTNAME Base will open these files in read-only mode."
+msgstr " CSV (കോമാകൊണ്ടു വേര്തിരിച്ച മൂല്യം)  ഫയലുകള്  സംഭരിച്ചിരിക്കുന്ന ഫോള്ഡര് തിരഞ്ഞെടുക്കുക. ഈ ഫയലിനെ  %PODUCTNAME അടിസ്ഥാനത്തില് വായിക്കാന് മാത്രമെന്ന രീതിയില് തുറക്കാന് കഴിയും"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to text files"
+msgstr "ടെക്സ്റ്റ് ഫയലിലേക്കുള്ള മാര്ഗ്ഗം"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MSACCESS\n"
+"STR_MSACCESS_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to a Microsoft Access database"
+msgstr "മൈക്രസോഫ്റ്റ് അക്സസ് ഡാറ്റാബോസിലേക്ക് കണക്ഷന്  സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MSACCESS\n"
+"STR_MSACCESS_HELPTEXT\n"
+"string.text"
+msgid "Please select the Microsoft Access file you want to access."
+msgstr "ദയവായി മൈക്രസോഫ്റ്റ് അക്സസ് ഫയല് പ്രവേശിക്കാന് വേണ്ടി തിരഞ്ഞെടുക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"FT_LDAP_HEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up a connection to an LDAP directory"
+msgstr "LDAP ഡയറക്ടച്രിയിലേക്ക് ഒരു കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"FT_LDAP_HELPTEXT\n"
+"fixedtext.text"
+msgid ""
+"Please enter the required information to connect to an LDAP directory.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"LDAP ഡയറക്ട്രിയിലേക്ക് ദയവായി കണക്ഷന്‍ ആവശ്യമായ വിവരങ്ങള് പ്രവേശിപ്പിക്കുക. \n"
+" എന്തെങ്കിലും സംശയമുണ്ടെങ്കില് സിസ്റ്റം കാര്യകര്ത്താവിനെ സമീപിക്കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"STR_LDAP_DEFAULT\n"
+"string.text"
+msgid "Default: 389"
+msgstr "സംസ്ഥാപിത: 389"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"CB_WIZ_USESSL\n"
+"checkbox.text"
+msgid "Use ~secure connection (SSL)"
+msgstr "~സുരക്ഷിതമായ കണക്ഷന്‍ ഉപയോഗിക്കുക (SSL)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ADO\n"
+"STR_ADO_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an ADO database"
+msgstr "ADO ഡേറ്റാബേസിലേക്ക് കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ADO\n"
+"STR_ADO_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the URL of the ADO data source you want to connect to.\n"
+"Click 'Browse' to configure provider-specific settings.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr "താങ്കള്ക്ക്കണക്ട് ചെയ്യേണ്ട  ADO ഡേറ്റാബേസ് ഉറവിടത്തിന്റെ  URLല് നല്കുക. ബ്രൌസ് ക്ലിക് ചെയ്ത് ദാതാവിന്റെ സജ്ജീകരണ രൂപരേഖ ശരിയാക്കുക. എന്തെങ്കിലും സംശയമുണ്ടെങ്കില് താങ്കളുടെ സിസ്റ്റം കാര്യകര്ത്താവിനെ സമീപിക്കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ODBC\n"
+"STR_ODBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an ODBC database"
+msgstr "ODBC  ഡേറ്റാബേസിലേക്ക് കണക്ഷന്  സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ODBC\n"
+"STR_ODBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Enter the name of the ODBC database you want to connect to.\n"
+"Click 'Browse...' to select an ODBC database that is already registered in %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr "താങ്കള്ക്ക് കണക്ട് ചെയ്യേണ്ട ODBC ഡാറ്റാബേസിന്റെ പേര‍് നല്കുക. നേരത്തെ തന്നെ %PRODUCTNAME രജിസ്റ്റര് ചെയ്ത ബ്രൌസ് ക്ലിക് ചെയ്ത് ODBC തിരഞ്ഞെടുക്കുക. എന്തെങ്കിലും സംശയമുണ്ടെങ്കില് താങ്കളുടെ സിസ്റ്റം കാര്യകര്ത്താവിനെ സമീപിക്കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_JDBC\n"
+"STR_JDBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to a JDBC database"
+msgstr "JDBC ഡേറ്റാബേസിലേക്ക് കണക്ഷന്  സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_JDBC\n"
+"STR_JDBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to a JDBC database.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"JDBC ഡേറ്റാബേസ് കണക്ട് ചെയ്യുവാന് ആവശ്യമായ വിവരങ്ങള്  ദയവായി നല്കുക. \n"
+"  എന്തെങ്കിലും സംശയമുണ്ടെങ്കില് ദയവായി താങ്കളുടെ സിസ്റ്റം കാര്യകര്ത്താവിനെ സമീപിക്കുക."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an Oracle database"
+msgstr "ഒറാക്കിള് ഡേറ്റാബേസിലേക്ക് ഒരു കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_DEFAULT\n"
+"string.text"
+msgid "Default: 1521"
+msgstr "സംസ്ഥാപിതം: 1521"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_DRIVERCLASSTEXT\n"
+"string.text"
+msgid "Oracle JDBC ~driver class"
+msgstr "ഒറാക്കിള്  JDBC ഡ്രൈവര് ക്ലാസ്"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to an Oracle database. Note that a JDBC Driver Class must be installed on your system and registered with %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEET_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to spreadsheets"
+msgstr "സ്പ്രെഡ് ഷീറ്റിലേക്ക് ഒരു കണക്ഷന് സജ്ജീകരിക്കുക"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEET_HELPTEXT\n"
+"string.text"
+msgid ""
+"Click 'Browse...' to select a %PRODUCTNAME spreadsheet or Microsoft Excel workbook.\n"
+"%PRODUCTNAME will open this file in read-only mode."
+msgstr ""
+"ബ്രൌസ് ക്ലിക് ചെയ്തു %PRODUCTNAME  സ്പ്രെഡ്ഷീറ്റ് അഥവാ മൈക്രോസോഫ്ട് എക്സല് വര്ക്ക്ബുക്ക് തിരഞ്ഞെടുക്കുക. \n"
+" %PRODUCTNAME വായിക്കാന് മാത്രമായി ഫയല് തുറക്കും."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEETPATH\n"
+"string.text"
+msgid "~Location and file name"
+msgstr "ലോക്കേഷനും ഫയല് നാമവും"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"CB_SPREADSHEETPASSWORDREQUIRED\n"
+"checkbox.text"
+msgid "~Password required"
+msgstr "സങ്കതപദം ആവശ്യമാണ‍്"
+
+#: directsql.src
+msgctxt ""
+"directsql.src\n"
+"STR_COMMAND_EXECUTED_SUCCESSFULLY\n"
+"string.text"
+msgid "Command successfully executed."
+msgstr "നിര്ദ്ദേശം വിജയകരമായി നിര്‍വ്വഹിച്ചു"
+
+#: directsql.src
+msgctxt ""
+"directsql.src\n"
+"STR_DIRECTSQL_CONNECTIONLOST\n"
+"string.text"
+msgid "The connection to the database has been lost. This dialog will be closed."
+msgstr "ഡേറ്റാബേസിലേക്കുള്ള കണക്ഷന് നഷ്ടമായി. ഈ സംഭാഷണം അടയ്ക്കപ്പെടും."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_NEW\n"
+"toolboxitem.text"
+msgid "New Index"
+msgstr "പുതിയ അനുക്രമണിക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_DROP\n"
+"toolboxitem.text"
+msgid "Delete Current Index"
+msgstr "നിലവിലുള്ള അനുക്രമണിക  നീക്കം ചെയ്യുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_RENAME\n"
+"toolboxitem.text"
+msgid "Rename Current Index"
+msgstr "നിലവിലുള്ള അനുക്രമണിക  പുനഃനാമകരണം ചെയ്യുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_SAVE\n"
+"toolboxitem.text"
+msgid "Save Current Index"
+msgstr "നിലവിലുള്ള രേഖ സംഭരിക്കുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_RESET\n"
+"toolboxitem.text"
+msgid "Reset Current Index"
+msgstr " നിലവിലുള്ള അനുക്രമണിക റീസെറ്റ് ചെയ്യുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FL_INDEXDETAILS\n"
+"fixedline.text"
+msgid "Index details"
+msgstr "അനുക്രമണിക വിവരങ്ങള് "
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FT_DESC_LABEL\n"
+"fixedtext.text"
+msgid "Index identifier:"
+msgstr "അനുക്രമണിക ഐഡന്റിഫൈയര്"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"CB_UNIQUE\n"
+"checkbox.text"
+msgid "~Unique"
+msgstr "അപൂര്‍വ്വം"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FT_FIELDS\n"
+"fixedtext.text"
+msgid "Fields"
+msgstr "മണ്ഡലം"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"PB_CLOSE\n"
+"pushbutton.text"
+msgid "~Close"
+msgstr "~അടയ്ക്കുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"modaldialog.text"
+msgid "Indexes"
+msgstr "സൂചികകള്‍"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_TAB_INDEX_SORTORDER\n"
+"string.text"
+msgid "Sort order"
+msgstr "ക്രമീകരിക്കുവാനുള്ള ക്രമം"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_TAB_INDEX_FIELD\n"
+"string.text"
+msgid "Index field"
+msgstr "അനുക്രമണിക മണ്ഡലം"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_ORDER_ASCENDING\n"
+"string.text"
+msgid "Ascending"
+msgstr "അവരോഹണക്രമം"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_ORDER_DESCENDING\n"
+"string.text"
+msgid "Descending"
+msgstr "ആരോഹണക്രമം"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_CONFIRM_DROP_INDEX\n"
+"string.text"
+msgid "Do you really want to delete the index '$name$'?"
+msgstr "അനുക്രമണിക നീക്കം ചെയ്യണമെന്ന് തീര്ച്ചയാണോ'$name$'?"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_LOGICAL_INDEX_NAME\n"
+"string.text"
+msgid "index"
+msgstr "അനുക്രമണിക  "
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"ERR_NEED_INDEX_FIELDS\n"
+"errorbox.text"
+msgid "The index must contain at least one field."
+msgstr "അനുക്രമണികയില്ല കുറഞ്ഞത് ഒരു മണ്ഡലമെങ്കിലും ആവശ്യമാണ‍്."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"ERR_NEED_INDEX_FIELDS\n"
+"errorbox.title"
+msgid "Save Index"
+msgstr "അനുക്രമണിക സംഭരിക്കുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"QUERY_SAVE_CURRENT_INDEX\n"
+"querybox.text"
+msgid "Do you want to save the changes made to the current index?"
+msgstr "നിലവിലുള്ള അനുക്രമണികയില് വരുത്തിയ മാറ്റങ്ങള് സംഭരിക്കണോ?"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"QUERY_SAVE_CURRENT_INDEX\n"
+"querybox.title"
+msgid "Exit Index Design"
+msgstr "അനുക്രമണിക ഡിസൈന് എഡിറ്റ് ചെയ്യുക"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_INDEX_NAME_ALREADY_USED\n"
+"string.text"
+msgid "There is already another index named \"$name$\"."
+msgstr "ഈ നാമത്തില് മറ്റൊരു അനുക്രമണിക നിലവിലുണ്ട്\"$name$\"."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_INDEXDESIGN_DOUBLE_COLUMN_NAME\n"
+"string.text"
+msgid "In an index definition, no table column may occur more than once. However, you have entered column \"$name$\" twice."
+msgstr "ഒരു അനുക്രമണിക നിര്‍വ്വചനത്തില്, ഒന്നില് കൂടുതല് പട്ടിക സ്തംഭം വരുന്നതല്ല.  പക്ഷെ, താങ്കള് സ്തംഭം രണ്ട് പ്രാവശ്യം  \"$name$\" നല്കിയിരിക്കുന്നു."
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"FL_PARAMS\n"
+"fixedline.text"
+msgid "~Parameters"
+msgstr "പരാമീറ്ററുകള്"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"FT_VALUE\n"
+"fixedtext.text"
+msgid "~Value"
+msgstr "മൂല്യം"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"BT_TRAVELNEXT\n"
+"pushbutton.text"
+msgid "~Next"
+msgstr "അടുത്ത"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"STR_COULD_NOT_CONVERT_PARAM\n"
+"string.text"
+msgid "The entry could not be converted to a valid value for the \"$name$\"column"
+msgstr "ഇത് സ്തംഭത്തിന്റെ ന്യായമായ മൂല്യത്തിലേക്ക് പരിവര്ത്തനം ചെയ്യാന്  \"$name$\" സാദ്ധ്യമല്ല."
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"modaldialog.text"
+msgid "Parameter Input"
+msgstr "പരാമീറ്റര് ഇന്‍പുട്ട്"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_STATUS\n"
+"string.text"
+msgid "SQL Status"
+msgstr ""
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_ERRORCODE\n"
+"string.text"
+msgid "Error code"
+msgstr ""
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXPLAN_STRINGCONVERSION_ERROR\n"
+"string.text"
+msgid "A frequent reason for this error is an inappropriate character set setting for the language of your database. Check the setting by choosing Edit - Database - Properties."
+msgstr "ഈ തെറ്റുണ്ടാവാനുള്ള സ്ഥിരമായ കാരണം താങ്കളുടെ ഡേറ്റാബേസ് ഭാഷയ്ക്ക് വേണ്ടി അനുയോജ്യമല്ലാത്ത അക്ഷരങ്ങളുടെ സെറ്റ്സജ്ജീകരിച്ചിരിക്കുന്നു. എഡിറ്റ്-ഡേറ്റാബേസ്-സവിശേഷതകള് ഉപയോഗിച്ച് സജ്ജീകരണങ്ങള് പരിശോധിക്കുക."
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "പിശക്"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr "മുന്നറിയിപ്പു്"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_INFO\n"
+"string.text"
+msgid "Information"
+msgstr "വിവരം"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_DETAILS\n"
+"string.text"
+msgid "Details"
+msgstr "വിശദാംശങ്ങള്‍"
+
+#: textconnectionsettings.src
+msgctxt ""
+"textconnectionsettings.src\n"
+"DLG_TEXT_CONNECTION_SETTINGS\n"
+"modaldialog.text"
+msgid "Text Connection Settings"
+msgstr "പദാവലി കണക്ഷനുള്ള സജ്ജീകരണങ്ങള്‍"

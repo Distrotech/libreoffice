@@ -1,0 +1,502 @@
+#. extracted from sc/source/ui/miscdlgs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2013-01-25 16:30+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_COLS\n"
+"string.text"
+msgid "Column inserted"
+msgstr "欄已插入"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_ROWS\n"
+"string.text"
+msgid "Row inserted "
+msgstr "列已插入"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_INSERT_TABS\n"
+"string.text"
+msgid "Sheet inserted "
+msgstr "工作表已插入"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_COLS\n"
+"string.text"
+msgid "Column deleted"
+msgstr "欄已刪除"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_ROWS\n"
+"string.text"
+msgid "Row deleted"
+msgstr "列已刪除"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_DELETE_TABS\n"
+"string.text"
+msgid "Sheet deleted"
+msgstr "工作表已刪除"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_MOVE\n"
+"string.text"
+msgid "Range moved"
+msgstr "範圍已移動"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CONTENT\n"
+"string.text"
+msgid "Changed contents"
+msgstr "已變更內容"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CONTENT_WITH_CHILD\n"
+"string.text"
+msgid "Changed contents"
+msgstr "已變更內容"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CHILD_CONTENT\n"
+"string.text"
+msgid "Changed to "
+msgstr "已變更為 "
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_CHILD_ORGCONTENT\n"
+"string.text"
+msgid "Original"
+msgstr "原始"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_REJECT\n"
+"string.text"
+msgid "Changes rejected"
+msgstr "更動已捨棄"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_ACCEPTED\n"
+"string.text"
+msgid "Accepted"
+msgstr "已接受"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_REJECTED\n"
+"string.text"
+msgid "Rejected"
+msgstr "已捨棄"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_NO_ENTRY\n"
+"string.text"
+msgid "No Entry"
+msgstr "無條目"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"STR_CHG_EMPTY\n"
+"string.text"
+msgid "<empty>"
+msgstr "<空缺>"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES\n"
+"SC_CHANGES_COMMENT\n"
+"menuitem.text"
+msgid "Edit Comment..."
+msgstr "編輯備註..."
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_ACTION\n"
+"menuitem.text"
+msgid "Action"
+msgstr "動作"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_POSITION\n"
+"menuitem.text"
+msgid "Position"
+msgstr "位置"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_AUTHOR\n"
+"menuitem.text"
+msgid "Author"
+msgstr "作者"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_DATE\n"
+"menuitem.text"
+msgid "Date"
+msgstr "日期"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES.SC_SUB_SORT\n"
+"SC_SORT_COMMENT\n"
+"menuitem.text"
+msgid "Description"
+msgstr "描述"
+
+#: acredlin.src
+msgctxt ""
+"acredlin.src\n"
+"RID_POPUP_CHANGES\n"
+"SC_SUB_SORT\n"
+"menuitem.text"
+msgid "Sorting"
+msgstr "排序"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"FT_CONFLICTS\n"
+"fixedtext.text"
+msgid "There are conflicting changes in this shared spreadsheet. Conflicts must be resolved before saving the spreadsheet. Keep either own or other changes."
+msgstr "這份共用的試算表中有相衝突的變更。必須先解決衝突問題才能儲存試算表。請保留自己的或其他人的變更。"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPMINE\n"
+"pushbutton.text"
+msgid "Keep ~Mine"
+msgstr "保留我的變更(~M)"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPOTHER\n"
+"pushbutton.text"
+msgid "Keep ~Other"
+msgstr "保留其他人的變更(~O)"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPALLMINE\n"
+"pushbutton.text"
+msgid "~Keep All Mine"
+msgstr "保留所有我的變更(~K)"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"BTN_KEEPALLOTHERS\n"
+"pushbutton.text"
+msgid "Keep ~All Others"
+msgstr "保留所有其他人的變更(~A)"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_CONFLICT\n"
+"string.text"
+msgid "Conflict"
+msgstr "衝突"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_AUTHOR\n"
+"string.text"
+msgid "Author"
+msgstr "作者"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_TITLE_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "日期"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"STR_UNKNOWN_USER\n"
+"string.text"
+msgid "Unknown User"
+msgstr "不明的使用者"
+
+#: conflictsdlg.src
+msgctxt ""
+"conflictsdlg.src\n"
+"RID_SCDLG_CONFLICTS\n"
+"modaldialog.text"
+msgid "Resolve Conflicts"
+msgstr "解決衝突"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_DESC\n"
+"fixedtext.text"
+msgid "The document you are about to export has one or more protected items with password that cannot be exported. Please re-type your password to be able to export your document."
+msgstr "您要匯出的文件有一項或多項受密碼保護的項目而無法匯出。請重新輸入您的密碼以匯出您的文件。"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FL_DOCUMENT\n"
+"fixedline.text"
+msgid "Document protection"
+msgstr "文件保護"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_DOCSTATUS\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "狀態不明"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_DOC\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "重新輸入"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FL_SHEET\n"
+"fixedline.text"
+msgid "Sheet protection"
+msgstr "工作表保護"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME1\n"
+"fixedtext.text"
+msgid "Sheet1 has a really long name"
+msgstr "工作表1 有很長的名稱"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS1\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "狀態不明"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET1\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "重新輸入"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME2\n"
+"fixedtext.text"
+msgid "Sheet2"
+msgstr "工作表2"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS2\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "狀態不明"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET2\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "重新輸入"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME3\n"
+"fixedtext.text"
+msgid "Sheet3"
+msgstr "工作表3"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS3\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "狀態不明"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET3\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "重新輸入"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETNAME4\n"
+"fixedtext.text"
+msgid "Sheet4"
+msgstr "工作表4"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"FT_SHEETSTATUS4\n"
+"fixedtext.text"
+msgid "Status unknown"
+msgstr "狀態不明"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"BTN_RETYPE_SHEET4\n"
+"pushbutton.text"
+msgid "Re-type"
+msgstr "重新輸入"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_NOT_PROTECTED\n"
+"string.text"
+msgid "Not protected"
+msgstr "未受保護"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_NOT_PASS_PROTECTED\n"
+"string.text"
+msgid "Not password-protected"
+msgstr "未受密碼保護"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_BAD\n"
+"string.text"
+msgid "Hash incompatible"
+msgstr "雜湊不相容"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_GOOD\n"
+"string.text"
+msgid "Hash compatible"
+msgstr "雜湊相容"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"STR_HASH_REGENERATED\n"
+"string.text"
+msgid "Hash re-generated"
+msgstr "雜湊已重新產生"
+
+#: retypepassdlg.src
+msgctxt ""
+"retypepassdlg.src\n"
+"RID_SCDLG_RETYPEPASS\n"
+"modaldialog.text"
+msgid "Re-type Password"
+msgstr "重新輸入密碼"

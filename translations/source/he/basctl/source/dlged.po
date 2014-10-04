@@ -1,0 +1,87 @@
+#. extracted from basctl/source/dlged
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-06-18 13:46+0000\n"
+"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1403099181.000000\n"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr "מאפיינים: "
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "שום פקד מסומן"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "רשימת רב בחירה"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DEF_LANG\n"
+"string.text"
+msgid "[Default Language]"
+msgstr "[שפת בררת מחדל]"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_DELETE\n"
+"string.text"
+msgid "~Delete"
+msgstr "מ~חיקה"
+
+#: dlgresid.src
+msgctxt ""
+"dlgresid.src\n"
+"RID_STR_CREATE_LANG\n"
+"string.text"
+msgid "<Press 'Add' to create language resources>"
+msgstr "<נא ללחוץ על 'הוספה' כדי ליצור משאבי שפה>"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.text"
+msgid ""
+"You are about to delete the resources for the selected language(s). All user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr ""
+"פעולה זו תמחק את המשאבים של השפה או השפות הנבחרת או הנבחרות. כל מחרוזות המנשק של השפה או השפות תימחקנה.\n"
+"\n"
+"‏האם למחוק את משאבי השפה או השפות הנבחרת או הנבחרות?"
+
+#: managelang.src
+msgctxt ""
+"managelang.src\n"
+"RID_QRYBOX_LANGUAGE\n"
+"querybox.title"
+msgid "Delete Language Resources"
+msgstr "מחיקת משאבי שפה"

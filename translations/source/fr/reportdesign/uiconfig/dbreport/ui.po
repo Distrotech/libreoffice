@@ -1,0 +1,287 @@
+#. extracted from reportdesign/uiconfig/dbreport/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-05-08 15:40+0200\n"
+"Last-Translator: sophie <gautier.sophie@gmail.com>\n"
+"Language-Team: ll.org\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+
+#: backgrounddialog.ui
+msgctxt ""
+"backgrounddialog.ui\n"
+"BackgroundDialog\n"
+"title\n"
+"string.text"
+msgid "Section Setup"
+msgstr "Mise en page de la section"
+
+#: backgrounddialog.ui
+msgctxt ""
+"backgrounddialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"CharDialog\n"
+"title\n"
+"string.text"
+msgid "Character Settings"
+msgstr "Paramètres des caractères"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Police"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Effets de caractère"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Position"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"asianlayout\n"
+"label\n"
+"string.text"
+msgid "Asian Layout"
+msgstr "Mise en page asiatique"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Alignement"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"DateTimeDialog\n"
+"title\n"
+"string.text"
+msgid "Date and Time"
+msgstr "Date et Heure"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Include Date"
+msgstr "_Inclure la date"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"datelistbox_label\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Formater :"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"time\n"
+"label\n"
+"string.text"
+msgid "Include _Time"
+msgstr "Inclure l'_heure"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"timelistbox_label\n"
+"label\n"
+"string.text"
+msgid "Fo_rmat:"
+msgstr "Fo_rmater :"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"PageDialog\n"
+"title\n"
+"string.text"
+msgid "Page Setup"
+msgstr "Mise en page"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"page\n"
+"label\n"
+"string.text"
+msgid "Page"
+msgstr "Page"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"PageNumberDialog\n"
+"title\n"
+"string.text"
+msgid "Page Numbers"
+msgstr "Numéros de page"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"pagen\n"
+"label\n"
+"string.text"
+msgid "_Page N"
+msgstr "_Page N"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"pagenofm\n"
+"label\n"
+"string.text"
+msgid "Page _N of M"
+msgstr "Page _N de M"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Format"
+msgstr "Formater"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"toppage\n"
+"label\n"
+"string.text"
+msgid "_Top of Page (Header)"
+msgstr "_Haut de la page (en-tête)"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"bottompage\n"
+"label\n"
+"string.text"
+msgid "_Bottom of Page (Footer)"
+msgstr "_Bas de la page (pied de page)"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Position"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Gauche"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Centre"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Droite"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment_label\n"
+"label\n"
+"string.text"
+msgid "_Alignment:"
+msgstr "_Alignement :"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"shownumberonfirstpage\n"
+"label\n"
+"string.text"
+msgid "Show Number on First Page"
+msgstr "Afficher le numéro sur la première page"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "General"
+msgstr "Général"

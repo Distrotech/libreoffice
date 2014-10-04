@@ -1,0 +1,435 @@
+#. extracted from xmlsecurity/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2013-06-16 17:43+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1371404625.0\n"
+
+#: certpage.ui
+msgctxt ""
+"certpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Certification path"
+msgstr ""
+
+#: certpage.ui
+msgctxt ""
+"certpage.ui\n"
+"viewcert\n"
+"label\n"
+"string.text"
+msgid "View Certificate..."
+msgstr ""
+
+#: certpage.ui
+msgctxt ""
+"certpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Certification status"
+msgstr ""
+
+#: certpage.ui
+msgctxt ""
+"certpage.ui\n"
+"certok\n"
+"label\n"
+"string.text"
+msgid "The certificate is OK."
+msgstr ""
+
+#: certpage.ui
+msgctxt ""
+"certpage.ui\n"
+"certnotok\n"
+"label\n"
+"string.text"
+msgid "The certificate could not be validated."
+msgstr ""
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"DigitalSignaturesDialog\n"
+"title\n"
+"string.text"
+msgid "Digital Signatures"
+msgstr "التواقيع الرقميّة"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"dochint\n"
+"label\n"
+"string.text"
+msgid "The following have signed the document content: "
+msgstr "وقّعت الجهات التالية على محتويات المستند: "
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "View Certificate..."
+msgstr "عرض الشهادة..."
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"sign\n"
+"label\n"
+"string.text"
+msgid "Sign Document..."
+msgstr "توقيع المستند..."
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "Remove"
+msgstr "إزالة"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"signed\n"
+"label\n"
+"string.text"
+msgid "Signed by "
+msgstr "وقّعه "
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"issued\n"
+"label\n"
+"string.text"
+msgid "Digital ID issued by "
+msgstr ""
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Date"
+msgstr "التاريخ"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"macrohint\n"
+"label\n"
+"string.text"
+msgid "The following have signed the document macro:"
+msgstr "وقعت الجهات التالية على ماكرو المستند:"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"packagehint\n"
+"label\n"
+"string.text"
+msgid "The following have signed this package:"
+msgstr "وقعت الجهات التالية على هذه الحزمة:"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"validft\n"
+"label\n"
+"string.text"
+msgid "The signatures in this document are valid"
+msgstr "التواقيع التي يحتويها هذا المستند صالحة"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"invalidft\n"
+"label\n"
+"string.text"
+msgid "The signatures in this document are invalid"
+msgstr "التواقيع الموجودة في هذا المستند غير صالحة"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"oldsignatureft\n"
+"label\n"
+"string.text"
+msgid "Not all parts of the document are signed"
+msgstr "ليست جميع أجزاء المستند موقّعة"
+
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"notvalidatedft\n"
+"label\n"
+"string.text"
+msgid "Certificate could not be validated"
+msgstr "تعذر التحقق من صحة الشهادة"
+
+#: macrosecuritydialog.ui
+msgctxt ""
+"macrosecuritydialog.ui\n"
+"MacroSecurityDialog\n"
+"title\n"
+"string.text"
+msgid "Macro Security"
+msgstr "أمان الماكرو"
+
+#: macrosecuritydialog.ui
+msgctxt ""
+"macrosecuritydialog.ui\n"
+"SecurityLevelPage\n"
+"label\n"
+"string.text"
+msgid "Security Level"
+msgstr "درجة الأمان"
+
+#: macrosecuritydialog.ui
+msgctxt ""
+"macrosecuritydialog.ui\n"
+"SecurityTrustPage\n"
+"label\n"
+"string.text"
+msgid "Trusted Sources"
+msgstr "مصادر موثوقة"
+
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"low\n"
+"label\n"
+"string.text"
+msgid ""
+"_Low (not recommended).\n"
+"All macros will be executed without confirmation.\n"
+"Use this setting only if you are certain that all documents that will be opened are safe."
+msgstr ""
+"م_نخفض (غير مستحسن).\n"
+"جميع وحدات الماكرو يتم تنفيذها دون توكيد.\n"
+"استخدم هذا الإعداد فقط إن كنت متأكدًا أن جميع المستندات التي سيتم فتحها آمنة."
+
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"med\n"
+"label\n"
+"string.text"
+msgid ""
+"_Medium.\n"
+"Confirmation required before executing macros from untrusted sources."
+msgstr ""
+"_متوسّط.\n"
+"التوكيد مطلوب قبل تنفيذ وحدات الماكرو من المصادر غير الموثوقة."
+
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"high\n"
+"label\n"
+"string.text"
+msgid ""
+"H_igh.\n"
+"Only signed macros from trusted sources are allowed to run.\n"
+"Unsigned macros are disabled."
+msgstr ""
+"م_رتفع.\n"
+"يسمح فقط للماكرو الموقعة من قبل المصادر الموثوقة بالعمل.\n"
+"لماكرو غير الموقّعة معطّلة."
+
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"vhigh\n"
+"label\n"
+"string.text"
+msgid ""
+"_Very high.\n"
+"Only macros from trusted file locations are allowed to run.\n"
+"All other macros, regardless whether signed or not, are disabled."
+msgstr ""
+"مرتفع _جدًا.\n"
+"فقط وحدات الماكرو الموجودة في أماكن الملفات الموثوقة يسمح لها بالعمل.\n"
+"جميع وحدات الماكرو الأخرى، بغض النظر إذا كانت موقعة أو ليست كذلك، يتم تعطيلها."
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"viewcert\n"
+"label\n"
+"string.text"
+msgid "_View..."
+msgstr "_عرض..."
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"to\n"
+"label\n"
+"string.text"
+msgid "Issued to"
+msgstr "مُصْدَرة إلى"
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"by\n"
+"label\n"
+"string.text"
+msgid "Issued by"
+msgstr "أصدرها"
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Expiration date"
+msgstr "تاريخ الإنتهاء"
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Trusted certificates"
+msgstr "الشهادات الموثوقة"
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Document macros are always executed if they have been opened from one of the following locations."
+msgstr "وحدات ماكرو المستند يتم تنفيذها دائمًا إن تم فتحها من أي من الأماكن التالية."
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"addfile\n"
+"label\n"
+"string.text"
+msgid "A_dd..."
+msgstr "إ_ضافة..."
+
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Trusted file locations"
+msgstr "مواقع الملفّات الموثوقة"
+
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"SelectCertificateDialog\n"
+"title\n"
+"string.text"
+msgid "Select Certificate"
+msgstr "اختيار شهادة"
+
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"issuedto\n"
+"label\n"
+"string.text"
+msgid "Issued to  "
+msgstr "مُصْدَرة إلى  "
+
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"issuedby\n"
+"label\n"
+"string.text"
+msgid "Issued by"
+msgstr "أصدرها"
+
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"expiration\n"
+"label\n"
+"string.text"
+msgid "Expiration date"
+msgstr "تاريخ الإنتهاء"
+
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select the certificate you want to use for signing "
+msgstr "اختر الشهادة التي تريد استخدامها لتوقيع "
+
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"viewcert\n"
+"label\n"
+"string.text"
+msgid "View Certificate..."
+msgstr "عرض الشهادة..."
+
+#: viewcertdialog.ui
+msgctxt ""
+"viewcertdialog.ui\n"
+"ViewCertDialog\n"
+"title\n"
+"string.text"
+msgid "View Certificate"
+msgstr ""
+
+#: viewcertdialog.ui
+msgctxt ""
+"viewcertdialog.ui\n"
+"general\n"
+"label\n"
+"string.text"
+msgid "General"
+msgstr ""
+
+#: viewcertdialog.ui
+msgctxt ""
+"viewcertdialog.ui\n"
+"details\n"
+"label\n"
+"string.text"
+msgid "Details"
+msgstr ""
+
+#: viewcertdialog.ui
+msgctxt ""
+"viewcertdialog.ui\n"
+"path\n"
+"label\n"
+"string.text"
+msgid "Certification Path"
+msgstr ""

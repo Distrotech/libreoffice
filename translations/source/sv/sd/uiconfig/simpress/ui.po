@@ -1,0 +1,2411 @@
+#. extracted from sd/uiconfig/simpress/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:04+0200\n"
+"PO-Revision-Date: 2014-05-19 14:14+0000\n"
+"Last-Translator: Niklas <sleeping.pillow@gmail.com>\n"
+"Language-Team: none\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1400508862.000000\n"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"entrance\n"
+"label\n"
+"string.text"
+msgid "Entrance"
+msgstr "Ingång"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"emphasis\n"
+"label\n"
+"string.text"
+msgid "Emphasis"
+msgstr "Betoning"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"exit\n"
+"label\n"
+"string.text"
+msgid "Exit"
+msgstr "Avsluta"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"motion_paths\n"
+"label\n"
+"string.text"
+msgid "Motion Paths"
+msgstr "Rörelsebanor"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"misc_effects\n"
+"label\n"
+"string.text"
+msgid "Misc Effects"
+msgstr "Diverse effekter"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"effect_speed_label\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "Hastighet:"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "_Automatic preview"
+msgstr "Automatisk förhandsgranskning"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"prop_label1\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "Riktning:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_start\n"
+"label\n"
+"string.text"
+msgid "Accelerated start"
+msgstr "Accelererad start"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_end\n"
+"label\n"
+"string.text"
+msgid "Decelerated end"
+msgstr "Inbromsande slut"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Inställningar"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_label\n"
+"label\n"
+"string.text"
+msgid "A_fter animation:"
+msgstr "Efter animation:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "_Sound:"
+msgstr "Ljud:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_label\n"
+"label\n"
+"string.text"
+msgid "_Text animation:"
+msgstr "Animerad text:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"dim_color_label\n"
+"label\n"
+"string.text"
+msgid "Di_m color:"
+msgstr "Nedtoningsfärg:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_delay_label\n"
+"label\n"
+"string.text"
+msgid "delay between characters"
+msgstr "fördröjning mellan tecken"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"0\n"
+"stringlist.text"
+msgid "Don't dim"
+msgstr "Dämpa inte"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"1\n"
+"stringlist.text"
+msgid "Dim with color"
+msgstr "Tona ned med färg"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"2\n"
+"stringlist.text"
+msgid "Hide after animation"
+msgstr "Dölj efter animation"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"3\n"
+"stringlist.text"
+msgid "Hide on next animation"
+msgstr "Dölj vid nästa animation"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"0\n"
+"stringlist.text"
+msgid "All at once"
+msgstr "Alla på en gång"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"1\n"
+"stringlist.text"
+msgid "Word by word"
+msgstr "Ord för ord"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"2\n"
+"stringlist.text"
+msgid "Letter by letter"
+msgstr "Bokstav för bokstav"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Enhancement"
+msgstr "Förbättring"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"CustomAnimationProperties\n"
+"title\n"
+"string.text"
+msgid "Effect Options"
+msgstr "Effektalternativ"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"effect\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Effekt"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"timing\n"
+"label\n"
+"string.text"
+msgid "Timing"
+msgstr "Tidtagning"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"textanim\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Animerad text"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"add_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add Effect"
+msgstr "Lägg till effekt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"remove_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Effect"
+msgstr "Ta bort effekt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"change_effect\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Modify Effect"
+msgstr "Ändra effekt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_up\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Up"
+msgstr "Flytta uppåt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_down\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Down"
+msgstr "Flytta nedåt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"play\n"
+"tooltip_text\n"
+"string.text"
+msgid "Preview Effect"
+msgstr "Förhandsgranska effekt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "_Börja"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_property\n"
+"label\n"
+"string.text"
+msgid "_Direction"
+msgstr "_Riktning"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_speed\n"
+"label\n"
+"string.text"
+msgid "Sp_eed"
+msgstr "Hastighet"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Vid klick"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Med föregående"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Efter föregående"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"more_properties\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_label\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Effekt"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic pre_view"
+msgstr "Automatisk förhandsgranskning"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_label\n"
+"label\n"
+"string.text"
+msgid "_Group text:"
+msgstr "Gruppera text:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"auto_after\n"
+"label\n"
+"string.text"
+msgid "_Automatically after:"
+msgstr "Automatiskt efter:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"0\n"
+"stringlist.text"
+msgid "As one object"
+msgstr "Som ett objekt"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"1\n"
+"stringlist.text"
+msgid "All paragraphs at once"
+msgstr "Alla stycken samtidigt"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"2\n"
+"stringlist.text"
+msgid "By 1st level paragraphs"
+msgstr "Efter stycken på nivå 1"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"3\n"
+"stringlist.text"
+msgid "By 2nd level paragraphs"
+msgstr "Efter stycken på nivå 2"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"4\n"
+"stringlist.text"
+msgid "By 3rd level paragraphs"
+msgstr "Efter stycken på nivå 3"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"5\n"
+"stringlist.text"
+msgid "By 4th level paragraphs"
+msgstr "Efter stycken på nivå 4"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"6\n"
+"stringlist.text"
+msgid "By 5th level paragraphs"
+msgstr "Efter stycken på nivå 5"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"animate_shape\n"
+"label\n"
+"string.text"
+msgid "Animate attached _shape"
+msgstr "Animera fäst figur"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"reverse_order\n"
+"label\n"
+"string.text"
+msgid "_In reverse order"
+msgstr "I omvänd ordning"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_label\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Börja:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"delay_label\n"
+"label\n"
+"string.text"
+msgid "_Delay:"
+msgstr "_Fördröjning:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"duration_label\n"
+"label\n"
+"string.text"
+msgid "S_peed:"
+msgstr "Hastighet:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"repeat_label\n"
+"label\n"
+"string.text"
+msgid "_Repeat:"
+msgstr "_Upprepa:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Vid klick"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Med föregående"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Efter föregående"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rewind\n"
+"label\n"
+"string.text"
+msgid "Rewind _when done playing"
+msgstr "Spola tillbaka efter uppspelning"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_click_sequence\n"
+"label\n"
+"string.text"
+msgid "_Animate as part of click sequence"
+msgstr "Animera som del av klicksekvens"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_interactive\n"
+"label\n"
+"string.text"
+msgid "Start _effect on click of"
+msgstr "Starta effekt vid klick på"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Trigger"
+msgstr "Utlösare"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"CustomSlideShows\n"
+"title\n"
+"string.text"
+msgid "Custom Slide Shows"
+msgstr "Anpassade bildskärmspresentationer"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"copy\n"
+"label\n"
+"string.text"
+msgid "Cop_y"
+msgstr "_Kopiera"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"startshow\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "_Börja"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"usecustomshows\n"
+"label\n"
+"string.text"
+msgid "_Use Custom Slide Show"
+msgstr "Använd _anpassad presentation"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"DefineCustomSlideShow\n"
+"title\n"
+"string.text"
+msgid "Define Custom Slide Show"
+msgstr "Definiera anpassad presentation"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Namn:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Existing slides"
+msgstr "_Befintliga bilder"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Selected slides"
+msgstr "_Valda bilder"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid ">>"
+msgstr ">>"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "<<"
+msgstr "<<"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"EditFieldsDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Field"
+msgstr "Redigera fält"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"fixedRB\n"
+"label\n"
+"string.text"
+msgid "_Fixed"
+msgstr "Fast"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"varRB\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "Variabel"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Field type"
+msgstr "Fälttyp"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "_Språk"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "F_ormat"
+msgstr "Format"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"apply_all\n"
+"label\n"
+"string.text"
+msgid "Appl_y to All"
+msgstr "Använd på alla"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"slides\n"
+"label\n"
+"string.text"
+msgid "Slides"
+msgstr "Presentationsbilder"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes and Handouts"
+msgstr "Anteckningar och åhörarkopior"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_cb\n"
+"label\n"
+"string.text"
+msgid "Heade_r"
+msgstr "Sidhuvud"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_label\n"
+"label\n"
+"string.text"
+msgid "Header _text:"
+msgstr "Sidhuvudstext:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"datetime_cb\n"
+"label\n"
+"string.text"
+msgid "_Date and time"
+msgstr "Datum och tid"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_fixed\n"
+"label\n"
+"string.text"
+msgid "Fi_xed"
+msgstr "Fast"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_auto\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "Variabel"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "Språk"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label1\n"
+"label\n"
+"string.text"
+msgid "_Format"
+msgstr "Format"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_cb\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "Sidfot"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_label\n"
+"label\n"
+"string.text"
+msgid "F_ooter text:"
+msgstr "Sidfotstext:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"slide_number\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Bildnummer"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"include_label\n"
+"label\n"
+"string.text"
+msgid "Include on slide"
+msgstr "Ta med på presentationsbilden"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"not_on_title\n"
+"label\n"
+"string.text"
+msgid "Do _not show on the first slide"
+msgstr "Visa inte på första bilden"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_a\n"
+"label\n"
+"string.text"
+msgid "_Page Number"
+msgstr "Sidnummer"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_b\n"
+"label\n"
+"string.text"
+msgid "Include on page"
+msgstr "Ta med på sidan"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"InsertSlidesDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Infoga bilder"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "Före"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "Efter"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Position"
+
+#: interactiondialog.ui
+msgctxt ""
+"interactiondialog.ui\n"
+"InteractionDialog\n"
+"title\n"
+"string.text"
+msgid "Interaction"
+msgstr "Interaktion"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Action at mouse click"
+msgstr "Åtgärd vid musklick"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"fttree\n"
+"label\n"
+"string.text"
+msgid "Target"
+msgstr "Mål"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Interaction"
+msgstr "Interaktion"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Bläddra..."
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "_Sök"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"sound-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Path Name"
+msgstr "Sökväg"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"MasterLayoutDialog\n"
+"title\n"
+"string.text"
+msgid "Master Elements"
+msgstr "Bildbakgrundselement"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"header\n"
+"label\n"
+"string.text"
+msgid "_Header"
+msgstr "Sidhuvud"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "_Date/time"
+msgstr "Datum/tid"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"footer\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "Sidfot"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"pagenumber\n"
+"label\n"
+"string.text"
+msgid "_Page number"
+msgstr "Sidnummer"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"slidenumber\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Bildnummer"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"Placeholders\n"
+"label\n"
+"string.text"
+msgid "Placeholders"
+msgstr "Platshållare"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"qickedit\n"
+"label\n"
+"string.text"
+msgid "Allow quick editing"
+msgstr "Tillåt snabbredigering"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"textselected\n"
+"label\n"
+"string.text"
+msgid "Only text area selected"
+msgstr "Bara textområde kan markeras"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Text objects"
+msgstr "Textobjekt"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"startwithwizard\n"
+"label\n"
+"string.text"
+msgid "Start with _wizard"
+msgstr "Starta med presentationsguiden"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"newdoclbl\n"
+"label\n"
+"string.text"
+msgid "New document"
+msgstr "Nytt dokument"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"copywhenmove\n"
+"label\n"
+"string.text"
+msgid "Copy when moving"
+msgstr "Kopiera vid förflyttning"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Unit of _measurement"
+msgstr "Måttenhet"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"tapstoplabel\n"
+"label\n"
+"string.text"
+msgid "Ta_b stops"
+msgstr "Tabbavstånd"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"objalwymov\n"
+"label\n"
+"string.text"
+msgid "Objects always moveable"
+msgstr "Objekt är alltid flyttbara"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"distrotcb\n"
+"label\n"
+"string.text"
+msgid "Do not distort objects in curve"
+msgstr "Förvräng inte objekt i kurva"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"backgroundback\n"
+"label\n"
+"string.text"
+msgid "Use background cache"
+msgstr "Använd cache för bakgrund"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Inställningar"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enremotcont\n"
+"label\n"
+"string.text"
+msgid "Enable remote control"
+msgstr "Aktivera fjärrkontroll"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enprsntcons\n"
+"label\n"
+"string.text"
+msgid "Enable Presenter Console"
+msgstr "Aktivera presentationskonsol"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Presentation"
+msgstr "Presentation"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Drawing scale"
+msgstr "Teckningsskala"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"widthlbl\n"
+"label\n"
+"string.text"
+msgid "Page _width"
+msgstr "Sid_bredd"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"heightlbl\n"
+"label\n"
+"string.text"
+msgid "Page _height"
+msgstr "Sid_höjd"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Scale"
+msgstr "Skala"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"printermetrics\n"
+"label\n"
+"string.text"
+msgid "Us_e printer metrics for document formatting"
+msgstr "An_vänd skrivarmått för dokumentformatering"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"cbCompatibility\n"
+"label\n"
+"string.text"
+msgid "Add _spacing between paragraphs and tables (in current document)"
+msgstr "Lägg till avstånd mellan stycken och tabeller (i aktuellt dokument)"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compatibility"
+msgstr "Kompatibilitet"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"PhotoAlbumCreatorDialog\n"
+"title\n"
+"string.text"
+msgid "Create Photo Album"
+msgstr "Skapa fotoalbum"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"create_btn\n"
+"label\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Infoga bilder"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Ta bort bild från listan"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Ta bort bild från listan"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Flytta bild uppåt"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Flytta bild uppåt"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Flytta bild nedåt"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Flytta bild nedåt"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Förhandsgranskning"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Slide Layout"
+msgstr "Bildlayout"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"asr_check\n"
+"label\n"
+"string.text"
+msgid "Keep Aspect Ratio"
+msgstr "Behåll proportioner"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "1 Image"
+msgstr "1 bild"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "2 Images"
+msgstr "2 bilder"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "4 Images"
+msgstr "4 bilder"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"PresentationDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Bildskärmspresentation"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from\n"
+"label\n"
+"string.text"
+msgid "_From:"
+msgstr "Från _bild"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from_cb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Starting slide"
+msgstr "Startbild"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allslides\n"
+"label\n"
+"string.text"
+msgid "All _slides"
+msgstr "_Alla bilder"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"customslideshow\n"
+"label\n"
+"string.text"
+msgid "_Custom Slide Show:"
+msgstr "Anpassad presentation:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Range"
+msgstr "Omfång"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"presdisplay_label\n"
+"label\n"
+"string.text"
+msgid "P_resentation display:"
+msgstr "P_resentationsskärm:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"externalmonitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1 (external)"
+msgstr "Skärm %1 (extern)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"monitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1"
+msgstr "Skärm %1"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allmonitors_str\n"
+"label\n"
+"string.text"
+msgid "All displays"
+msgstr "Alla skärmar"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"external_str\n"
+"label\n"
+"string.text"
+msgid "Auto External (Display %1)"
+msgstr "Automatiskt extern (skärm %1)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Multiple displays"
+msgstr "Flera skärmar"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "Standar_d"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"window\n"
+"label\n"
+"string.text"
+msgid "_Window"
+msgstr "_Fönster"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "A_uto"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"showlogo\n"
+"label\n"
+"string.text"
+msgid "Show _logo"
+msgstr "Visa _logotyp"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"tooltip_text\n"
+"string.text"
+msgid "Duration of pause"
+msgstr "Pausens längd"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Pause Duration"
+msgstr "Pausens längd"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Typ"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"manualslides\n"
+"label\n"
+"string.text"
+msgid "Change slides _manually"
+msgstr "Byt bilder _manuellt"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointervisible\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer _visible"
+msgstr "Visa mus_pekare"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointeraspen\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer as _pen"
+msgstr "Muspekare _som penna"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"navigatorvisible\n"
+"label\n"
+"string.text"
+msgid "_Navigator visible"
+msgstr "_Navigator synlig"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"animationsallowed\n"
+"label\n"
+"string.text"
+msgid "_Animations allowed"
+msgstr "Tillåt animati_oner"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"changeslidesbyclick\n"
+"label\n"
+"string.text"
+msgid "Change slides by clic_king on background"
+msgstr "Diaväxling vid _klick på bakgrunden"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"alwaysontop\n"
+"label\n"
+"string.text"
+msgid "Presentation always _on top"
+msgstr "Presentation alltid i förgrunden"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Alternativ"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printname\n"
+"label\n"
+"string.text"
+msgid "Slide name"
+msgstr "~Bildnamn"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printdatetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "Datum och tid"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printhidden\n"
+"label\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "Dolda sidor"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "Innehåll"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalcolors\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Originalstorlek"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"grayscale\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Gråskalor"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"blackandwhite\n"
+"label\n"
+"string.text"
+msgid "Black & white"
+msgstr "Svartvitt"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Färg"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalsize\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Originalstorlek"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"fittoprintable\n"
+"label\n"
+"string.text"
+msgid "Fit to printable page"
+msgstr "Anpassa till utskrivbar sidstorlek"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"distributeonmultiple\n"
+"label\n"
+"string.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Fördela på flera utskriftsidor"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"tilesheet\n"
+"label\n"
+"string.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "Placera upprepade bilder sida vid sida på en utskriftsida"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Storlek"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagenmcb\n"
+"label\n"
+"string.text"
+msgid "_Page name"
+msgstr "Sidnamn"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"datecb\n"
+"label\n"
+"string.text"
+msgid "D_ate"
+msgstr "Datum"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"timecb\n"
+"label\n"
+"string.text"
+msgid "Ti_me"
+msgstr "Tid"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"hiddenpgcb\n"
+"label\n"
+"string.text"
+msgid "H_idden pages"
+msgstr "Dolda sidor"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"printlbl\n"
+"label\n"
+"string.text"
+msgid "Print"
+msgstr "Skriv ut"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagedefaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Standard"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"fittopgrb\n"
+"label\n"
+"string.text"
+msgid "_Fit to page"
+msgstr "Anpassa till sidstorlek"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"tilepgrb\n"
+"label\n"
+"string.text"
+msgid "_Tile pages"
+msgstr "Sidor sida vid sida"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"brouchrb\n"
+"label\n"
+"string.text"
+msgid "B_rochure"
+msgstr "Broschyr"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"papertryfrmprntrcb\n"
+"label\n"
+"string.text"
+msgid "Paper tray from printer s_ettings"
+msgstr "Pappersfack från skrivarinställning"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"frontcb\n"
+"label\n"
+"string.text"
+msgid "Fr_ont"
+msgstr "Framsida"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"backcb\n"
+"label\n"
+"string.text"
+msgid "Ba_ck"
+msgstr "Baksida"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Page options"
+msgstr "Sidalternativ"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"drawingcb\n"
+"label\n"
+"string.text"
+msgid "Drawing"
+msgstr "Teckning"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"notecb\n"
+"label\n"
+"string.text"
+msgid "Notes"
+msgstr "Anteckningar"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"handoutcb\n"
+"label\n"
+"string.text"
+msgid "Handouts"
+msgstr "Flygblad"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "Disposition"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"contentlbl\n"
+"label\n"
+"string.text"
+msgid "Content"
+msgstr "Innehåll"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"defaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Standard"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"grayscalerb\n"
+"label\n"
+"string.text"
+msgid "Gra_yscale"
+msgstr "Gråskala"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"blackwhiterb\n"
+"label\n"
+"string.text"
+msgid "Black & _white"
+msgstr "Svartvitt"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "Kvalité"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"RemoteDialog\n"
+"title\n"
+"string.text"
+msgid "Impress Remote"
+msgstr "Impress fjärrkontroll"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"ruler\n"
+"label\n"
+"string.text"
+msgid "_Rulers visible"
+msgstr "Linjaler synliga"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"dragstripes\n"
+"label\n"
+"string.text"
+msgid "_Snap Lines when moving"
+msgstr "Stödlinjer vid förflyttning"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"handlesbezier\n"
+"label\n"
+"string.text"
+msgid "_All control points in Bezier editor"
+msgstr "~Alla kontrollpunkter i bézier-redigeraren"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"moveoutline\n"
+"label\n"
+"string.text"
+msgid "_Contour of each individual object"
+msgstr "Kontur för varje enskilt objekt"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Display"
+msgstr "Visa"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"SlideDesignDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Design"
+msgstr "Bilddesign"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"masterpage\n"
+"label\n"
+"string.text"
+msgid "_Exchange background page"
+msgstr "Byt bakgrundssida"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"checkmasters\n"
+"label\n"
+"string.text"
+msgid "_Delete unused backgrounds"
+msgstr "Ta bort oanvända bakgrunder"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a slide design"
+msgstr "Välj en bilddesign"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"load\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "_Ladda..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Apply to selected slides"
+msgstr "Använd i markerade bilder"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_label\n"
+"label\n"
+"string.text"
+msgid "Speed:"
+msgstr "Hastighet:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"0\n"
+"stringlist.text"
+msgid "Slow"
+msgstr "Långsam"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"1\n"
+"stringlist.text"
+msgid "Medium"
+msgstr "Medel"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"2\n"
+"stringlist.text"
+msgid "Fast"
+msgstr "Snabb"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "Sound:"
+msgstr "Ljud:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"0\n"
+"stringlist.text"
+msgid "No Sound"
+msgstr "Inget ljud"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"1\n"
+"stringlist.text"
+msgid "Stop Previous Sound"
+msgstr "Stoppa föregående ljud"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"2\n"
+"stringlist.text"
+msgid "Other Sound..."
+msgstr "Annat ljud..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"loop_sound\n"
+"label\n"
+"string.text"
+msgid "Loop until next sound"
+msgstr "Loopa tills nästa ljud"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify transition"
+msgstr "Ändra bildväxling"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_mouse_click\n"
+"label\n"
+"string.text"
+msgid "On mouse click"
+msgstr "Vid musklick"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_auto_after\n"
+"label\n"
+"string.text"
+msgid "Automatically after"
+msgstr "Automatiskt efter"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Advance slide"
+msgstr "Bildväxling"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"apply_to_all\n"
+"label\n"
+"string.text"
+msgid "Apply to All Slides"
+msgstr "Använd i alla bilder"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"play\n"
+"label\n"
+"string.text"
+msgid "Play"
+msgstr "Spela upp"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"slide_show\n"
+"label\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Presentation"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic preview"
+msgstr "Automatisk förhandsgranskning"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Header Row"
+msgstr "Rubrikrad"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastRowStyle\n"
+"label\n"
+"string.text"
+msgid "Tot_al Row"
+msgstr "Summeringsrad"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Banded Rows"
+msgstr "Olikfärgade rader"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Fi_rst Column"
+msgstr "Första kolumnen"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastColumnStyle\n"
+"label\n"
+"string.text"
+msgid "_Last Column"
+msgstr "Sista kolumnen"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Ba_nded Columns"
+msgstr "Olikfärgade kolumner"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Image Styles"
+msgstr "Bildformat"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "_Standard"
+msgstr "Standard"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"organizer\n"
+"label\n"
+"string.text"
+msgid "Organizer"
+msgstr "Administrera"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"line\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "Linje"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"area\n"
+"label\n"
+"string.text"
+msgid "Area"
+msgstr "Yta"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"shadowing\n"
+"label\n"
+"string.text"
+msgid "Shadowing"
+msgstr "Skugga"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"transparency\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "Transparens"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Teckensnitt"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"fonteffect\n"
+"label\n"
+"string.text"
+msgid "Font Effect"
+msgstr "Teckeneffekt"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"indents\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Indrag och avstånd"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Text"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"animation\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Animerad text"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"dimensioning\n"
+"label\n"
+"string.text"
+msgid "Dimensioning"
+msgstr "Måttlinje"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"connector\n"
+"label\n"
+"string.text"
+msgid "Connector"
+msgstr "Förbindelse"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Anpassning"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"asiantypo\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Asiatisk typografi"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"tabs\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabbar"

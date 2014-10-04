@@ -1,0 +1,417 @@
+#. extracted from svtools/source/contnr
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2014-08-01 14:39+0000\n"
+"Last-Translator: Elanjelian <tamiliam@gmail.com>\n"
+"Language-Team: Tamil <>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1406903983.000000\n"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_SIZE\n"
+"string.text"
+msgid "Size"
+msgstr "அளவு"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_DATE\n"
+"string.text"
+msgid "Date modified"
+msgstr "மாற்றியமைத்த தேதி"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "வகை"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_ERR_MAKEFOLDER\n"
+"string.text"
+msgid "Could not create the folder %1."
+msgstr "அடைவு %1 உருவாக்க இயலவில்லை."
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_BYTES\n"
+"string.text"
+msgid "Bytes"
+msgstr "பைட்டுகள்"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_KB\n"
+"string.text"
+msgid "KB"
+msgstr "KB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_MB\n"
+"string.text"
+msgid "MB"
+msgstr "MB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_GB\n"
+"string.text"
+msgid "GB"
+msgstr "GB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "அழி"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~வேறுபெயரிடுக"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_TABLISTBOX\n"
+"string.text"
+msgid "Row: %1, Column: %2"
+msgstr "நிரை: %1, நிரல்: %2"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILEVIEW\n"
+"string.text"
+msgid ", Type: %1, URL: %2"
+msgstr ", வகை: %1, URL: %2"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "அடைவு"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILE\n"
+"string.text"
+msgid "File"
+msgstr "கோப்பு"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_EMPTY_FIELD\n"
+"string.text"
+msgid "Empty Field"
+msgstr "காலி புலம்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_NEWDOC\n"
+"string.text"
+msgid "New Document"
+msgstr "புதிய ஆவணம்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_MYDOCS\n"
+"string.text"
+msgid "My Documents"
+msgstr "என் ஆவணங்கள்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_TEMPLATES\n"
+"string.text"
+msgid "Templates"
+msgstr "வார்ப்புருக்கள்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_SAMPLES\n"
+"string.text"
+msgid "Samples"
+msgstr "எடுத்துக்காட்டுகள்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_BACK\n"
+"toolboxitem.text"
+msgid "Back"
+msgstr "பின்வாங்கு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_PREV\n"
+"toolboxitem.text"
+msgid "Up One Level"
+msgstr "மேல் ஒரு நிலைக்கு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_PRINT\n"
+"toolboxitem.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FRAMEWIN\n"
+"TI_DOCTEMPLATE_DOCINFO\n"
+"toolboxitem.text"
+msgid "Document Properties"
+msgstr "ஆவணத் தன்மைகள்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FRAMEWIN\n"
+"TI_DOCTEMPLATE_PREVIEW\n"
+"toolboxitem.text"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"FT_DOCTEMPLATE_LINK\n"
+"fixedtext.text"
+msgid "~Get more templates online..."
+msgstr "கூடுதல் வார்ப்புருக்களை இணையத்தில் பெறு..."
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_PACKAGE\n"
+"pushbutton.text"
+msgid "Install Template Pack"
+msgstr "வார்ப்புரு பொதியை நிறுவு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_MANAGE\n"
+"pushbutton.text"
+msgid "Organi~ze..."
+msgstr "ஒருங்~கிணை..."
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_EDIT\n"
+"pushbutton.text"
+msgid "~Edit"
+msgstr "தொகு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_OPEN\n"
+"okbutton.text"
+msgid "~Open"
+msgstr "~திற"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"modaldialog.text"
+msgid "Templates and Documents"
+msgstr "வார்ப்புருக்களும் ஆவணங்களும்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Title\n"
+"itemlist.text"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"By\n"
+"itemlist.text"
+msgid "By"
+msgstr "ஆல்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Date\n"
+"itemlist.text"
+msgid "Date"
+msgstr "நாள்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Keywords\n"
+"itemlist.text"
+msgid "Keywords"
+msgstr "முக்கியச்சொற்கள்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Description\n"
+"itemlist.text"
+msgid "Description"
+msgstr "விளக்கம்"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Type\n"
+"itemlist.text"
+msgid "Type"
+msgstr "வகை"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Modified on\n"
+"itemlist.text"
+msgid "Modified on"
+msgstr "மாற்றப்பட்டது"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Modified by\n"
+"itemlist.text"
+msgid "Modified by"
+msgstr "மாற்றியது"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Printed on\n"
+"itemlist.text"
+msgid "Printed on"
+msgstr "அச்சடிக்கப்பட்டது"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Printed by\n"
+"itemlist.text"
+msgid "Printed by"
+msgstr "அச்சடித்தது"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Subject\n"
+"itemlist.text"
+msgid "Subject"
+msgstr "தலைப்பு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Size\n"
+"itemlist.text"
+msgid "Size"
+msgstr "அளவு"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_NEWDOC_HELP\n"
+"string.text"
+msgid "Click here to create new documents."
+msgstr "புதிய ஆவணத்தை உருவாக இங்கே கிளிக் செய்யவும்."
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_MYDOCS_HELP\n"
+"string.text"
+msgid "Contains your letters, reports and other documents"
+msgstr "உங்கள் கடிதங்கள், அறிக்கைகள், மற்றும் பிற ஆவணங்களைக் கொண்டிருக்கிறது"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_TEMPLATES_HELP\n"
+"string.text"
+msgid "Contains templates for creating new documents"
+msgstr "புதிய ஆவணங்களை உருவாக்குவதற்கான வார்ப்புருகளைக் கொண்டிருக்கிறது"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_SAMPLES_HELP\n"
+"string.text"
+msgid "Contains a selection of sample letters, reports and other documents"
+msgstr "மாதிரி கடிதங்கள், அறிக்கைகள் மற்றும் இதர ஆவணத் தேர்வைக் கொண்டுள்ளது"

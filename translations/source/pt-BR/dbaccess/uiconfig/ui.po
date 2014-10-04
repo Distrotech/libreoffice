@@ -1,0 +1,1652 @@
+#. extracted from dbaccess/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-05-31 15:41+0000\n"
+"Last-Translator: Olivier <olivier.hallot@documentfoundation.org>\n"
+"Language-Team: Brazilian Portuguese <l10n@global.libreoffice.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1401550897.000000\n"
+
+#: admindialog.ui
+msgctxt ""
+"admindialog.ui\n"
+"AdminDialog\n"
+"title\n"
+"string.text"
+msgid "Database properties"
+msgstr "Propriedades do banco de dados"
+
+#: admindialog.ui
+msgctxt ""
+"admindialog.ui\n"
+"advanced\n"
+"label\n"
+"string.text"
+msgid "Advanced Properties"
+msgstr "Propriedades avançadas"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"AdvancedSettingsDialog\n"
+"title\n"
+"string.text"
+msgid "Advanced Settings"
+msgstr "Configurações avançadas"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"generated\n"
+"label\n"
+"string.text"
+msgid "Generated Values"
+msgstr "Valores gerados"
+
+#: advancedsettingsdialog.ui
+msgctxt ""
+"advancedsettingsdialog.ui\n"
+"special\n"
+"label\n"
+"string.text"
+msgid "Special Settings"
+msgstr "Configurações especiais"
+
+#: applycolpage.ui
+msgctxt ""
+"applycolpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Existing columns"
+msgstr "Colunas existentes"
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"ChooseDataSourceDialog\n"
+"title\n"
+"string.text"
+msgid "Data Source"
+msgstr "Fonte de dados"
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"organize\n"
+"label\n"
+"string.text"
+msgid "Or_ganize..."
+msgstr "Or_ganizar..."
+
+#: choosedatasourcedialog.ui
+msgctxt ""
+"choosedatasourcedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Choose a data source:"
+msgstr "Escolher uma fonte de dados:"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"ColWidthDialog\n"
+"title\n"
+"string.text"
+msgid "Column Width"
+msgstr "Largura da coluna"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Width"
+msgstr "_Largura"
+
+#: colwidthdialog.ui
+msgctxt ""
+"colwidthdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automático"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"defdata\n"
+"label\n"
+"string.text"
+msgid "De_finition and data"
+msgstr "De_finição e dados"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"def\n"
+"label\n"
+"string.text"
+msgid "Def_inition"
+msgstr "De_finição"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "A_s table view"
+msgstr "Como visualização e_stável"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"data\n"
+"label\n"
+"string.text"
+msgid "Append _data"
+msgstr "Anexar _dados"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"firstline\n"
+"label\n"
+"string.text"
+msgid "Use first _line as column names"
+msgstr "Utilize a primeira _linha para nomes de coluna"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"primarykey\n"
+"label\n"
+"string.text"
+msgid "Crea_te primary key"
+msgstr "Criar c_have primária"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"keynamelabel\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "Nome"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opções"
+
+#: copytablepage.ui
+msgctxt ""
+"copytablepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Ta_ble name"
+msgstr "Nome da ta_bela"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"DBaseIndexDialog\n"
+"title\n"
+"string.text"
+msgid "Indexes"
+msgstr "Índices"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Table"
+msgstr "_Tabela"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "T_able indexes"
+msgstr "Índices de t_abela"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Free indexes"
+msgstr "Índices _livres"
+
+#: dbaseindexdialog.ui
+msgctxt ""
+"dbaseindexdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Assignment"
+msgstr "Atribuição"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"DirectSQLDialog\n"
+"title\n"
+"string.text"
+msgid "Execute SQL Statement"
+msgstr "Executar instrução SQL"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"sql_label\n"
+"label\n"
+"string.text"
+msgid "_Command to execute"
+msgstr "_Comando a executar"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"showoutput\n"
+"label\n"
+"string.text"
+msgid "_Show output of \"select\" statements"
+msgstr "Mo_strar saída das instruções \"SELECT\""
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"execute\n"
+"label\n"
+"string.text"
+msgid "_Execute"
+msgstr "_Executar"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"sqlhistory_label\n"
+"label\n"
+"string.text"
+msgid "_Previous commands"
+msgstr "C_omandos anteriores"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "SQL command"
+msgstr "Comando SQL"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Status"
+
+#: directsqldialog.ui
+msgctxt ""
+"directsqldialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Output"
+msgstr "Saída"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"FieldDialog\n"
+"title\n"
+"string.text"
+msgid "Field Format"
+msgstr "Formato de campo"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "Format"
+msgstr "Formato"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: fielddialog.ui
+msgctxt ""
+"fielddialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Table Format"
+msgstr "Formato de tabela"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"headerText\n"
+"label\n"
+"string.text"
+msgid "Decide how to proceed after saving the database"
+msgstr "Decida como proceder após salvar o banco de dados"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"helpText\n"
+"label\n"
+"string.text"
+msgid "Do you want the wizard to register the database in %PRODUCTNAME?"
+msgstr "Deseja que o Assistente registre o banco de dados no %PRODUCTNAME?"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"yesregister\n"
+"label\n"
+"string.text"
+msgid "_Yes, register the database for me"
+msgstr "_Sim, registre o banco de dados para mim"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"noregister\n"
+"label\n"
+"string.text"
+msgid "N_o, do not register the database"
+msgstr "_Não, não registre o banco de dados."
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"additionalText\n"
+"label\n"
+"string.text"
+msgid "After the database file has been saved, what do you want to do?"
+msgstr "Após salvar o arquivo de banco de dados, o que deseja fazer?"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"openediting\n"
+"label\n"
+"string.text"
+msgid "Open the database for editing"
+msgstr "Abrir o banco de dados para edição"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"usewizard\n"
+"label\n"
+"string.text"
+msgid "Create tables using the table wizard"
+msgstr "Criar tabelas utilizando o assistente de tabelas"
+
+#: finalpagewizard.ui
+msgctxt ""
+"finalpagewizard.ui\n"
+"finishText\n"
+"label\n"
+"string.text"
+msgid "Click 'Finish' to save the database."
+msgstr "Para salvar o banco de dados, clique em 'Concluir'."
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypePre\n"
+"label\n"
+"string.text"
+msgid "Select the type of database to which you want to establish a connection."
+msgstr "Selecione o tipo de banco de dados ao qual deseja estabelecer uma conexão."
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypeLabel\n"
+"label\n"
+"string.text"
+msgid "Database _type:"
+msgstr "_Tipo de banco de dados:"
+
+#: generalpagedialog.ui
+msgctxt ""
+"generalpagedialog.ui\n"
+"datasourceTypeHelp\n"
+"label\n"
+"string.text"
+msgid ""
+"On the following pages, you can make detailed settings for the connection.\n"
+"\n"
+"The new settings you make will overwrite your existing settings."
+msgstr ""
+"Nas páginas seguintes, especifique os detalhes da conexão.\n"
+"\n"
+"As novas definições substituirão as existentes."
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"headerText\n"
+"label\n"
+"string.text"
+msgid "Welcome to the %PRODUCTNAME Database Wizard"
+msgstr "Bem-vindo ao assistente de banco de dados do %PRODUCTNAME"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"helpText\n"
+"label\n"
+"string.text"
+msgid "Use the Database Wizard to create a new database, open an existing database file, or connect to a database stored on a server."
+msgstr "Utilize o Assistente de banco de dados para criar um novo banco de dados, para abrir um arquivo de banco de dados existente ou para conectar-se a um banco de dados armazenado em um servidor."
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"sourceTypeHeader\n"
+"label\n"
+"string.text"
+msgid "What do you want to do?"
+msgstr "O que deseja fazer?"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"createDatabase\n"
+"label\n"
+"string.text"
+msgid "Create a n_ew database"
+msgstr "Criar um novo banco d_e dados"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"embeddeddbLabel\n"
+"label\n"
+"string.text"
+msgid "_Embedded Database:"
+msgstr "Banco d_e dados incorporado:"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"openExistingDatabase\n"
+"label\n"
+"string.text"
+msgid "Open an existing database _file"
+msgstr "Abrir um _arquivo de banco de dados existente"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"docListLabel\n"
+"label\n"
+"string.text"
+msgid "_Recently used:"
+msgstr "Usado _recentemente:"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"openDatabase\n"
+"label\n"
+"string.text"
+msgid "Open"
+msgstr "Abrir"
+
+#: generalpagewizard.ui
+msgctxt ""
+"generalpagewizard.ui\n"
+"connectDatabase\n"
+"label\n"
+"string.text"
+msgid "Connect to an e_xisting database"
+msgstr "Conectar a um banco de dados e_xistente"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"autoretrieve\n"
+"label\n"
+"string.text"
+msgid "Re_trieve generated values"
+msgstr "Obter dados gerados"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"statementft\n"
+"label\n"
+"string.text"
+msgid "_Auto-increment statement"
+msgstr "Instrução de _autoincremento"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"queryft\n"
+"label\n"
+"string.text"
+msgid "_Query of generated values"
+msgstr "Cons_ulta dos valores gerados"
+
+#: generatedvaluespage.ui
+msgctxt ""
+"generatedvaluespage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Configurações"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"JoinDialog\n"
+"title\n"
+"string.text"
+msgid "Join Properties"
+msgstr "Propriedades do Join "
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables involved"
+msgstr "Tabelas envolvidas"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Fields involved"
+msgstr "Campos envolvidos"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Type"
+msgstr "_Tipo"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"natural\n"
+"label\n"
+"string.text"
+msgid "Natural"
+msgstr "Natural"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opções"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Inner join"
+msgstr "Inner join"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Left join"
+msgstr "Left join"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right join"
+msgstr "Right join"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Full (outer) join"
+msgstr "Full (outer) join"
+
+#: joindialog.ui
+msgctxt ""
+"joindialog.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Cross join"
+msgstr "Cross join"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Alterar senha"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Old p_assword"
+msgstr "Senha _anterior"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Password"
+msgstr "_Senha"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Confirm password"
+msgstr "_Confirme a senha"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "User \"$name$:  $\""
+msgstr "Usuário \"$name$:  $\""
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"QueryFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Standard Filter"
+msgstr "Filtro padrão"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Operador"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Field name"
+msgstr "Nome do campo"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Condição"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field1\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- nenhum -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"0\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"1\n"
+"stringlist.text"
+msgid "<>"
+msgstr "<>"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"2\n"
+"stringlist.text"
+msgid "<"
+msgstr "<"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"3\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"4\n"
+"stringlist.text"
+msgid ">"
+msgstr ">"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"5\n"
+"stringlist.text"
+msgid "="
+msgstr "="
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"6\n"
+"stringlist.text"
+msgid "like"
+msgstr "like"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"7\n"
+"stringlist.text"
+msgid "not like"
+msgstr "not like"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"8\n"
+"stringlist.text"
+msgid "null"
+msgstr "null"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"cond1\n"
+"9\n"
+"stringlist.text"
+msgid "not null"
+msgstr "not null"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field2\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- nenhum -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"field3\n"
+"0\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- nenhum -"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Value"
+msgstr "Valor"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op2\n"
+"0\n"
+"stringlist.text"
+msgid "AND"
+msgstr "E"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op2\n"
+"1\n"
+"stringlist.text"
+msgid "OR"
+msgstr "OU"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op3\n"
+"0\n"
+"stringlist.text"
+msgid "AND"
+msgstr "E"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"op3\n"
+"1\n"
+"stringlist.text"
+msgid "OR"
+msgstr "OU"
+
+#: queryfilterdialog.ui
+msgctxt ""
+"queryfilterdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Criteria"
+msgstr "Critérios"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"QueryPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Query Properties"
+msgstr "Propriedades da consulta"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"distinctvalues\n"
+"label\n"
+"string.text"
+msgid "Distinct Values"
+msgstr "Valores distintos"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"distinct\n"
+"label\n"
+"string.text"
+msgid "Yes"
+msgstr "Sim"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"nondistinct\n"
+"label\n"
+"string.text"
+msgid "No"
+msgstr "Não"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"limit-label\n"
+"label\n"
+"string.text"
+msgid "Limit"
+msgstr "Limite"
+
+#: querypropertiesdialog.ui
+msgctxt ""
+"querypropertiesdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Properties:"
+msgstr "Propriedades:"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"RelationDialog\n"
+"title\n"
+"string.text"
+msgid "Relations"
+msgstr "Relações"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables involved"
+msgstr "Tabelas envolvidas"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Fields involved"
+msgstr "Campos envolvidos"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addaction\n"
+"label\n"
+"string.text"
+msgid "_No action"
+msgstr "_Sem ação"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addcascade\n"
+"label\n"
+"string.text"
+msgid "_Update cascade"
+msgstr "At_ualizar em cascata"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"addnull\n"
+"label\n"
+"string.text"
+msgid "_Set null"
+msgstr "Definir como _nulo"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"adddefault\n"
+"label\n"
+"string.text"
+msgid "Set _default"
+msgstr "_Definir como padrão"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Update options"
+msgstr "Opções de atualização"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delaction\n"
+"label\n"
+"string.text"
+msgid "_No action"
+msgstr "_Sem ação"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delcascade\n"
+"label\n"
+"string.text"
+msgid "Delete _cascade"
+msgstr "Excluir em _cascata"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"delnull\n"
+"label\n"
+"string.text"
+msgid "_Set null"
+msgstr "Definir como _nulo"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"deldefault\n"
+"label\n"
+"string.text"
+msgid "Set _default"
+msgstr "_Definir como padrão"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Delete options"
+msgstr "Excluir opções"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Inner join"
+msgstr "Inner join"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Left join"
+msgstr "Left join"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right join"
+msgstr "Right join"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Full (outer) join"
+msgstr "Full (outer) join"
+
+#: relationdialog.ui
+msgctxt ""
+"relationdialog.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Cross join"
+msgstr "Cross join"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"RowHeightDialog\n"
+"title\n"
+"string.text"
+msgid "Row Height"
+msgstr "Altura da linha"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Height"
+msgstr "_Altura"
+
+#: rowheightdialog.ui
+msgctxt ""
+"rowheightdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "Au_tomático"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"SaveDialog\n"
+"title\n"
+"string.text"
+msgid "Save As"
+msgstr "Salvar como"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"descriptionft\n"
+"label\n"
+"string.text"
+msgid "Please enter a name for the object to be created:"
+msgstr "Insira um nome para o objeto a criar:"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"catalogft\n"
+"label\n"
+"string.text"
+msgid "_Catalog"
+msgstr "_Catálogo"
+
+#: savedialog.ui
+msgctxt ""
+"savedialog.ui\n"
+"schemaft\n"
+"label\n"
+"string.text"
+msgid "_Schema"
+msgstr "E_squema"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"SortDialog\n"
+"title\n"
+"string.text"
+msgid "Sort Order"
+msgstr "Ordenação"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Operador"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "and then"
+msgstr "e em seguida"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "and then"
+msgstr "e em seguida"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Field name"
+msgstr "Nome do campo"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Order"
+msgstr "Ordem"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value1\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "crescente"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value1\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "decrescente"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value2\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "crescente"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value2\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "decrescente"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value3\n"
+"0\n"
+"stringlist.text"
+msgid "ascending"
+msgstr "crescente"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"value3\n"
+"1\n"
+"stringlist.text"
+msgid "descending"
+msgstr "decrescente"
+
+#: sortdialog.ui
+msgctxt ""
+"sortdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Sort order"
+msgstr "Ordenação"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"usesql92\n"
+"label\n"
+"string.text"
+msgid "Use SQL92 naming constraints"
+msgstr "Utilizar restrições de nomes do SQL92"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"append\n"
+"label\n"
+"string.text"
+msgid "Append the table alias name on SELECT statements"
+msgstr "Acrescentar nome do alias da tabela às instruções SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useas\n"
+"label\n"
+"string.text"
+msgid "Use keyword AS before table alias names"
+msgstr "Utilizar a palavra-chave AS antes dos nomes de alias das tabelas"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useoj\n"
+"label\n"
+"string.text"
+msgid "Use Outer Join syntax '{OJ }'"
+msgstr "Utilizar sintaxe de Outer Join '{OJ }'"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"ignoreprivs\n"
+"label\n"
+"string.text"
+msgid "Ignore the privileges from the database driver"
+msgstr "Ignorar os privilégios do driver de banco de dados"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"replaceparams\n"
+"label\n"
+"string.text"
+msgid "Replace named parameters with '?'"
+msgstr "Substituir parâmetros nomeados por '?'"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"displayver\n"
+"label\n"
+"string.text"
+msgid "Display version columns (when available)"
+msgstr "Exibir colunas de versão (quando disponível)"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"usecatalogname\n"
+"label\n"
+"string.text"
+msgid "Use catalog name in SELECT statements"
+msgstr "Utilizar nome do catálogo nas instruções SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useschemaname\n"
+"label\n"
+"string.text"
+msgid "Use schema name in SELECT statements"
+msgstr "Utilizar nome do esquema nas instruções SELECT"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"createindex\n"
+"label\n"
+"string.text"
+msgid "Create index with ASC or DESC statement"
+msgstr "Criar índice com as instruções ASC ou DESC"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"eol\n"
+"label\n"
+"string.text"
+msgid "End text lines with CR+LF"
+msgstr "Terminar linhas de texto com CR+LF"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"ignorecurrency\n"
+"label\n"
+"string.text"
+msgid "Ignore currency field information"
+msgstr "Ignorar informação de moeda do campo"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"inputchecks\n"
+"label\n"
+"string.text"
+msgid "Form data input checks for required fields"
+msgstr "O formulário de entrada de dados verifica os campos obrigatórios"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"useodbcliterals\n"
+"label\n"
+"string.text"
+msgid "Use ODBC conformant date/time literals"
+msgstr "Utilizar literais de data/hora conformes ao ODBC"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"primarykeys\n"
+"label\n"
+"string.text"
+msgid "Supports primary keys"
+msgstr "Suporta chaves primárias"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"resulttype\n"
+"label\n"
+"string.text"
+msgid "Respect the result set type from the database driver"
+msgstr "Respeitar o tipo do conjunto de resultados oriundo do driver do banco de dados"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparisonft\n"
+"label\n"
+"string.text"
+msgid "Comparison of Boolean values"
+msgstr "Comparação de valores booleanos"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"0\n"
+"stringlist.text"
+msgid "Default"
+msgstr "Padrão"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"1\n"
+"stringlist.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"2\n"
+"stringlist.text"
+msgid "Mixed"
+msgstr "Misturado"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"comparison\n"
+"3\n"
+"stringlist.text"
+msgid "MS Access"
+msgstr "MS Access"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"rowsft\n"
+"label\n"
+"string.text"
+msgid "Rows to scan column types"
+msgstr "Linhas a percorrer para obter os tipos das colunas"
+
+#: specialsettingspage.ui
+msgctxt ""
+"specialsettingspage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opções"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"SQLExceptionDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME Base"
+msgstr "%PRODUCTNAME Base"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Error _list:"
+msgstr "_Lista de erros:"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Description:"
+msgstr "_Descrição:"
+
+#: sqlexception.ui
+msgctxt ""
+"sqlexception.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Details"
+msgstr "Detalhes"
+
+#: tablesfilterdialog.ui
+msgctxt ""
+"tablesfilterdialog.ui\n"
+"TablesFilterDialog\n"
+"title\n"
+"string.text"
+msgid "Tables Filter"
+msgstr "Filtros de tabelas"
+
+#: tablesfilterpage.ui
+msgctxt ""
+"tablesfilterpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Mark the tables that should be visible for the applications."
+msgstr "Marcar as tabelas que devem estar visíveis para os aplicativos."
+
+#: tablesfilterpage.ui
+msgctxt ""
+"tablesfilterpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Tables and table filter"
+msgstr "Tabelas e filtros de tabelas"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"tables\n"
+"label\n"
+"string.text"
+msgid "Tables"
+msgstr "Tabelas"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"queries\n"
+"label\n"
+"string.text"
+msgid "Queries"
+msgstr "Consultas"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "Add Tables"
+msgstr "Adicionar tabelas"
+
+#: tablesjoindialog.ui
+msgctxt ""
+"tablesjoindialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Add Table or Query"
+msgstr "Adicionar tabela ou consulta"
+
+#: useradmindialog.ui
+msgctxt ""
+"useradmindialog.ui\n"
+"UserAdminDialog\n"
+"title\n"
+"string.text"
+msgid "User administration"
+msgstr "Administração de usuário"
+
+#: useradmindialog.ui
+msgctxt ""
+"useradmindialog.ui\n"
+"settings\n"
+"label\n"
+"string.text"
+msgid "User Settings"
+msgstr "Configurações do usuário"

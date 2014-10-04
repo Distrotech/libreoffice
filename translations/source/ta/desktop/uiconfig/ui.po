@@ -1,0 +1,287 @@
+#. extracted from desktop/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-07-31 19:30+0000\n"
+"Last-Translator: Elanjelian <tamiliam@gmail.com>\n"
+"Language-Team: Tamil <>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1406835026.000000\n"
+
+#: cmdlinehelp.ui
+msgctxt ""
+"cmdlinehelp.ui\n"
+"CmdLineHelp\n"
+"title\n"
+"string.text"
+msgid "Help Message"
+msgstr "உதவி செய்தி"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"ExtensionManagerDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Manager"
+msgstr "நீட்சி மேலாளர்"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "Add..."
+msgstr "சேர்..."
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"update\n"
+"label\n"
+"string.text"
+msgid "Check for updates..."
+msgstr "புதுப்பிப்புகளைத் தேடிப் பார்..."
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"shared\n"
+"label\n"
+"string.text"
+msgid "Shared"
+msgstr "பகிரப்பட்டது"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"user\n"
+"label\n"
+"string.text"
+msgid "User"
+msgstr "பகிரப்பட்ட"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"bundled\n"
+"label\n"
+"string.text"
+msgid "Installation"
+msgstr "நிறுவல்"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Type of Extension"
+msgstr "நீட்சி வகை"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"progressft\n"
+"label\n"
+"string.text"
+msgid "Adding %EXTENSION_NAME"
+msgstr "%EXTENSION_NAME ஐச் சேர்க்கிறது"
+
+#: extensionmanager.ui
+msgctxt ""
+"extensionmanager.ui\n"
+"getextensions\n"
+"label\n"
+"string.text"
+msgid "Get more extensions online..."
+msgstr "கூடுதல் நீட்சிகளை இணையத்தில் பெறு..."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"LicenseDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Software License Agreement"
+msgstr "நீட்சி மென்பொருள் உரிம ஒப்பந்தம்"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "Accept"
+msgstr "ஏற்றுக்கொள்"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"decline\n"
+"label\n"
+"string.text"
+msgid "Decline"
+msgstr "நிராகரி"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"head\n"
+"label\n"
+"string.text"
+msgid "Please follow these steps to proceed with the installation of the extension:"
+msgstr "நீட்சியின் நிறுவலைத் தொடர இப்படிகளைப் பின்பற்றவும்:"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "1."
+msgstr "1."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "2."
+msgstr "2."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Read the complete License Agreement. Use the scroll bar or the 'Scroll Down' button in this dialog to view the entire license text.\""
+msgstr "முழு உரிம ஒப்பந்தத்தையும் வாசிக்கவும். உரிம ஒப்பந்தத்தின் முழு உரையையும் காண இந்த உரையாடலிலுள்ள உருள் பட்டையை அல்லது 'கீழே உருட்டு' பொத்தானைப் பயன்படுத்துக.\""
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Accept the License Agreement for the extension by pressing the 'Accept' button."
+msgstr "'ஏற்றுக்கொள்' பொத்தானை அழுத்தி நீட்சி உரிம ஒப்பந்தத்தை ஏற்கவும்."
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"down\n"
+"label\n"
+"string.text"
+msgid "_Scroll Down"
+msgstr "கீழே உருட்டு"
+
+#: showlicensedialog.ui
+msgctxt ""
+"showlicensedialog.ui\n"
+"ShowLicenseDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Software License Agreement"
+msgstr "நீட்சி மென்பொருள் உரிம ஒப்பந்தம்"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UpdateDialog\n"
+"title\n"
+"string.text"
+msgid "Extension Update"
+msgstr "நீட்சி புதுப்பித்தல்"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"INSTALL\n"
+"label\n"
+"string.text"
+msgid "_Install"
+msgstr "நிறுவு"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UPDATE_LABEL\n"
+"label\n"
+"string.text"
+msgid "_Available extension updates"
+msgstr "உள்ள நீட்சி புதுப்பித்தல்கள்"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UPDATE_CHECKING\n"
+"label\n"
+"string.text"
+msgid "Checking..."
+msgstr "சரிபார்க்கிறது..."
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"UPDATE_ALL\n"
+"label\n"
+"string.text"
+msgid "_Show all updates"
+msgstr "அனைத்து புதுப்பித்தல்களையும் காட்டு"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"DESCRIPTION_LABEL\n"
+"label\n"
+"string.text"
+msgid "Description"
+msgstr "விவரம்"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"PUBLISHER_LABEL\n"
+"label\n"
+"string.text"
+msgid "Publisher:"
+msgstr "பதிப்பாளர்:"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"PUBLISHER_LINK\n"
+"label\n"
+"string.text"
+msgid "button"
+msgstr "பொத்தான்"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"RELEASE_NOTES_LABEL\n"
+"label\n"
+"string.text"
+msgid "What is new:"
+msgstr "எது புதிது:"
+
+#: updatedialog.ui
+msgctxt ""
+"updatedialog.ui\n"
+"RELEASE_NOTES_LINK\n"
+"label\n"
+"string.text"
+msgid "Release notes"
+msgstr "வெளியீட்டு குறிப்புகள்"

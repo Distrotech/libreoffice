@@ -1,0 +1,287 @@
+#. extracted from reportdesign/uiconfig/dbreport/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-07-06 21:34+0000\n"
+"Last-Translator: Ayhan <ayhanyalcinsoy@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1404682463.000000\n"
+
+#: backgrounddialog.ui
+msgctxt ""
+"backgrounddialog.ui\n"
+"BackgroundDialog\n"
+"title\n"
+"string.text"
+msgid "Section Setup"
+msgstr "Bölüm Kurulumu"
+
+#: backgrounddialog.ui
+msgctxt ""
+"backgrounddialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Arkaplan"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"CharDialog\n"
+"title\n"
+"string.text"
+msgid "Character Settings"
+msgstr "Karakter Ayarları"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Yazı Tipi"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Yazı Tipi Efektleri"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Konum"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"asianlayout\n"
+"label\n"
+"string.text"
+msgid "Asian Layout"
+msgstr "Asya Düzeni"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Arkaplan"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Hizalama"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"DateTimeDialog\n"
+"title\n"
+"string.text"
+msgid "Date and Time"
+msgstr "Tarih ve Saat"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Include Date"
+msgstr "_Tarihi İçer"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"datelistbox_label\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Biçim:"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"time\n"
+"label\n"
+"string.text"
+msgid "Include _Time"
+msgstr "_Zamanı İçer"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"timelistbox_label\n"
+"label\n"
+"string.text"
+msgid "Fo_rmat:"
+msgstr "_Biçim:"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"PageDialog\n"
+"title\n"
+"string.text"
+msgid "Page Setup"
+msgstr "Sayfa Ayarı"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"page\n"
+"label\n"
+"string.text"
+msgid "Page"
+msgstr "Sayfa"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Arkaplan"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"PageNumberDialog\n"
+"title\n"
+"string.text"
+msgid "Page Numbers"
+msgstr "Sayfa Numaraları"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"pagen\n"
+"label\n"
+"string.text"
+msgid "_Page N"
+msgstr "_Sayfa N"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"pagenofm\n"
+"label\n"
+"string.text"
+msgid "Page _N of M"
+msgstr "Sayfa _N / M"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Format"
+msgstr "Biçim"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"toppage\n"
+"label\n"
+"string.text"
+msgid "_Top of Page (Header)"
+msgstr "_Sayfanın Başı(Üst Bilgi)"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"bottompage\n"
+"label\n"
+"string.text"
+msgid "_Bottom of Page (Footer)"
+msgstr "_Sayfanın Sonu (Alt Bilgi)"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Konum"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Sol"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Ortala"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Sağ"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment_label\n"
+"label\n"
+"string.text"
+msgid "_Alignment:"
+msgstr "_Hizalama:"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"shownumberonfirstpage\n"
+"label\n"
+"string.text"
+msgid "Show Number on First Page"
+msgstr "İlk Sayfada Numaralama Göster"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "General"
+msgstr "Genel"

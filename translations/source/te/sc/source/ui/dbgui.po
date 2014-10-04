@@ -1,0 +1,195 @@
+#. extracted from sc/source/ui/dbgui
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-01-08 14:07+0000\n"
+"Last-Translator: Krishnababu <krisnababu@gmail.com>\n"
+"Language-Team: Telugu <Fedora-trans-te@redhat.com>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1357654065.0\n"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_SERVICE\n"
+"fixedtext.text"
+msgid "~Service"
+msgstr "సేవిక(~S)"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_SOURCE\n"
+"fixedtext.text"
+msgid "So~urce"
+msgstr "వనరు(~u)"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_NAME\n"
+"fixedtext.text"
+msgid "~Name"
+msgstr "పేరు(~N)"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_USER\n"
+"fixedtext.text"
+msgid "Us~er"
+msgstr "వాడుకరి(~e)"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_PASSWD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr "సంకేతపదం(~P)"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Selection"
+msgstr "ఎంపిక"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"modaldialog.text"
+msgid "External Source"
+msgstr "బాహ్యవనరు"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Sum\n"
+"itemlist.text"
+msgid "Sum"
+msgstr "మొత్తము"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Count\n"
+"itemlist.text"
+msgid "Count"
+msgstr "లెక్క"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Average\n"
+"itemlist.text"
+msgid "Average"
+msgstr "సగటు"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Max\n"
+"itemlist.text"
+msgid "Max"
+msgstr "గరిష్ట"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Min\n"
+"itemlist.text"
+msgid "Min"
+msgstr "కనిష్ట"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Product\n"
+"itemlist.text"
+msgid "Product"
+msgstr "లబ్దము"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Count (Numbers only)\n"
+"itemlist.text"
+msgid "Count (Numbers only)"
+msgstr "లెక్కించు (సంఖ్యలు మాత్రమే)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"StDev (Sample)\n"
+"itemlist.text"
+msgid "StDev (Sample)"
+msgstr "క్రమవిచలనము(శాంపుల్ )"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"StDevP (Population)\n"
+"itemlist.text"
+msgid "StDevP (Population)"
+msgstr "క్రమవిచలనముP(జనాభా)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Var (Sample)\n"
+"itemlist.text"
+msgid "Var (Sample)"
+msgstr "విస్తృతి (శాంపుల్ )"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"VarP (Population)\n"
+"itemlist.text"
+msgid "VarP (Population)"
+msgstr "విస్తృతిP(జనాభా)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"RID_SCDLG_DPSHOWDETAIL\n"
+"FT_DIMS\n"
+"fixedtext.text"
+msgid "~Choose the field containing the detail you want to show"
+msgstr "నీవు కనబర్చాలనుకుంటున్న వివరాలను కలిగియున్న క్షేత్రమును ఎన్నుకో(~C)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"RID_SCDLG_DPSHOWDETAIL\n"
+"modaldialog.text"
+msgid "Show Detail"
+msgstr "వివరాలను కనబర్చు"

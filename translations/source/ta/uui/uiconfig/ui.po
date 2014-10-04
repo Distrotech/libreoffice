@@ -1,0 +1,268 @@
+#. extracted from uui/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:07+0200\n"
+"PO-Revision-Date: 2014-07-20 03:21+0000\n"
+"Last-Translator: Elanjelian <tamiliam@gmail.com>\n"
+"Language-Team: Tamil <>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1405826494.000000\n"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"LoginDialog\n"
+"title\n"
+"string.text"
+msgid "Authentication Required"
+msgstr "அங்கீகாரம் தேவை"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"syscreds\n"
+"label\n"
+"string.text"
+msgid "_Use system credentials"
+msgstr "கட்டக அறிமுகச்சான்றைப் பயன்படுத்து"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"remember\n"
+"label\n"
+"string.text"
+msgid "_Remember password"
+msgstr "கடவுச்சொல்லை நினைவில் கொள்"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"accountft\n"
+"label\n"
+"string.text"
+msgid "A_ccount"
+msgstr "கணக்கு"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"passwordft\n"
+"label\n"
+"string.text"
+msgid "Pass_word"
+msgstr "கடவுச்சொல்"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_User name"
+msgstr "பயனர் பெயர்"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"pathft\n"
+"label\n"
+"string.text"
+msgid "_Path"
+msgstr "பாதை"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"pathbtn\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "உலாவு..."
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"loginrealm\n"
+"label\n"
+"string.text"
+msgid ""
+"Enter user name and password for:\n"
+"\"%2\" on %1"
+msgstr ""
+"இதன் பயனர்பெயரையும் கடவுச்சொல்லையும் உள்ளிடுக:\n"
+"%1 இல் \"%2\""
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"requestinfo\n"
+"label\n"
+"string.text"
+msgid ""
+"Enter user name and password for:\n"
+"%1"
+msgstr ""
+"இதன் பயனர்பெயரையும் கடவுச்சொல்லையும் உள்ளிடுக: \n"
+"%1"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"errorft\n"
+"label\n"
+"string.text"
+msgid "Message from server:"
+msgstr "சேவையகத்திலிருந்து செய்தி:"
+
+#: masterpassworddlg.ui
+msgctxt ""
+"masterpassworddlg.ui\n"
+"MasterPasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Enter Master Password"
+msgstr "பிரதான கடவுச்சொல்லை உள்ளிடவும்"
+
+#: masterpassworddlg.ui
+msgctxt ""
+"masterpassworddlg.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Enter password"
+msgstr "கடவுச்சொல்லை உள்ளிடு"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Set Password"
+msgstr "கடவுச்சொல்லை அமை"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"SetMasterPasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Set Master Password"
+msgstr "பிரதான கடவுச்சொல்லை அமைக்கவும்"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Passwords for web connections are protected by a master password. You will be asked to enter it once per session, if %PRODUCTNAME retrieves a password from the protected password list."
+msgstr "வலை இணைப்புகளுக்கான கடவுச்சொற்கள் ஒரு பிரதான கடவுச்சொல்லால் பாதுகாக்கப்பட்டிருக்கும். ஒவ்வொரு அமர்வின் போதும் ஒரு முறை பாதுகாக்கப்பட்ட கடவுச்சொற்களின் பட்டியலில் இருந்து ஒரு கடவுச்சொல்லை %PRODUCTNAME மீட்டெடுத்தால் நீங்கள் அதை உள்ளிடுமாறு கேட்கப்படும்."
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Enter password:"
+msgstr "கடவுச்சொல்லை உள்ளிடுக:"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Reenter password:"
+msgstr "கடவுச்சொல்லை மீண்டும் உள்ளிடுக:"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Caution: If you forget the master password, you will be unable to access any of the information protected by it. Passwords are case sensitive."
+msgstr "எச்சரிக்கை: நீங்கள் பிரதான கடவுச்சொல்லை மறந்துவிட்டால், அதைக் கொண்டு பாதுகாக்கப்பட்ட தகவல் எதையும் நீங்கள் பிறகு அணுக முடியாது. கடவுச்சொற்கள் எழுத்துவகை உணர்வுள்ளவை."
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"SSLWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Security Warning: "
+msgstr "பாதுகாப்பு எச்சரிக்கை: "
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "Continue"
+msgstr "தொடர்"
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Cancel Connection"
+msgstr "இணைப்பை ரத்துசெய்"
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "View Certificate"
+msgstr "இணைப்பை ரத்துசெய்"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"UnknownAuthDialog\n"
+"title\n"
+"string.text"
+msgid "Website Certified by an Unknown Authority"
+msgstr "வலைத்தளம் தெரியாத ஓர் ஆணையத்தால் சான்றிடப்பட்டுள்ளது"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "Accept this certificate temporarily for this session"
+msgstr "இச்சான்றிதழை இவ்வேளையில் தற்காலிகமாக ஏற்றுக்கொள்"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"reject\n"
+"label\n"
+"string.text"
+msgid "Do not accept this certificate and do not connect to this Web site"
+msgstr "இச்சான்றிதழை ஏற்காதே, வலைத்தளத்துடனும் இணையாதே"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"examine\n"
+"label\n"
+"string.text"
+msgid "Examine Certificate..."
+msgstr "சான்றிதழைப் பரிசோதி..."

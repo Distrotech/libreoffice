@@ -1,0 +1,605 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2011-04-05 23:57+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "ເລືອກບ່ອນໄວ້ຂໍ້ມູນ:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Table;Query;Sql;Sql [Native]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "ຖານຂໍ້ມູນຊີວະປະຫວັດສອງ​ອັນ"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "ທ່ານຕ້ອງການແກ້ໄຂການຈັດແຖວບໍ່?"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"GB_MAPPING\n"
+"fixedline.text"
+msgid "Column names"
+msgstr "ຊື່ແຖວ"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"ST_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<none>"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"modaldialog.text"
+msgid "Column Layout for Table %1"
+msgstr "ຮູບແບບແຖວສຳລັບຕາຕະລາງ %1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr "ຊື່ແຖວ​ຕໍ່ໄປນີ້​ບໍ່ສາມາດ​ກຳນົດໄດ້:\n"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "ຫົວຂໍ້"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "ປຶ້ມ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "ແຜ່ນພັບ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "ການປະຕິບັດການປະຊຸມ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "ປຶ້ມບົດຄວາມສັ້ນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "ຫົວຂໍ້ປຶ້ມບົດຄວາມສັ້ນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "ການປະຕິບັດການປະຊຸມ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr "ວາລະສານ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr "ເອກະສານດ້ານເຕັກນິກ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "ວິທະຍານິພົນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "ສ່ວນປີກຍ່ອຍ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "ປາຖະກະຖາທາງວິຊາການ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "ການປະຕິບັດການປະຊຸມ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "ບົດຄົ້ນຄວ້າ/ງານວິໃຈ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "ບໍ່ເປີດເຜີຍ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "e-mail"
+msgstr "ສົ່ງຈົດໝາຍອີເລັກໂຕຼນິກ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "ເອກະສານ WWW"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "ຜູ້ໃຊ້-ກຳນົດ1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr "ຜູ້ໃຊ້-ກຳນົດ2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr "ຜູ້ໃຊ້-ກຳນົດ3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr "ຜູ້ໃຊ້-ກຳນົດ4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr "ຜູ້ໃຊ້-ກຳນົດ5"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"tabpage.text"
+msgid "General"
+msgstr "ທົ່ວໄປ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_IDENTIFIER\n"
+"string.text"
+msgid "~Short name"
+msgstr "~ຊື່ສັ້ນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHTYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "~ຊະນິດ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_YEAR\n"
+"string.text"
+msgid "~Year"
+msgstr "~ປີ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHOR\n"
+"string.text"
+msgid "Author(s)"
+msgstr "ຜູ້ຂຽນ(s)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TITLE\n"
+"string.text"
+msgid "Tit~le"
+msgstr "ຫົວເລື່ອງ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PUBLISHER\n"
+"string.text"
+msgid "~Publisher"
+msgstr "~ຜູ້ພິມຈຳໜ່າຍ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ADDRESS\n"
+"string.text"
+msgid "A~ddress"
+msgstr "ທີ່ຢູ່"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ISBN\n"
+"string.text"
+msgid "~ISBN"
+msgstr "~ISBN"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CHAPTER\n"
+"string.text"
+msgid "~Chapter"
+msgstr "~ບົດ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PAGE\n"
+"string.text"
+msgid "Pa~ge(s)"
+msgstr "ໜ້າ(s)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITOR\n"
+"string.text"
+msgid "Editor"
+msgstr "ບັນນາທິການ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITION\n"
+"string.text"
+msgid "Ed~ition"
+msgstr "ຈຳນວນຄັ້ງພິມ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_BOOKTITLE\n"
+"string.text"
+msgid "~Book title"
+msgstr "~ຫົວເລື່ອງປຶ້ມ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_VOLUME\n"
+"string.text"
+msgid "Volume"
+msgstr "ລະດັບ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_HOWPUBLISHED\n"
+"string.text"
+msgid "Publication t~ype"
+msgstr "ຊະນິດສີ່ງພິມອອກມາ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ORGANIZATION\n"
+"string.text"
+msgid "Organi~zation"
+msgstr "ອົງການ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_INSTITUTION\n"
+"string.text"
+msgid "Instit~ution"
+msgstr "ສະຖາບັນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SCHOOL\n"
+"string.text"
+msgid "University"
+msgstr "ມະຫາວິທະຍາໄລ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_REPORT\n"
+"string.text"
+msgid "Type of re~port"
+msgstr "ຊະນິດຂອງບົດລາຍງານ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_MONTH\n"
+"string.text"
+msgid "~Month"
+msgstr "~ເດືອນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_JOURNAL\n"
+"string.text"
+msgid "~Journal"
+msgstr "~ວາລະສານ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NUMBER\n"
+"string.text"
+msgid "Numb~er"
+msgstr "ເລກ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SERIES\n"
+"string.text"
+msgid "Se~ries"
+msgstr "ລຳດັບ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ANNOTE\n"
+"string.text"
+msgid "Ann~otation"
+msgstr "ການບັນທຶກຄວາມເຫັນ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NOTE\n"
+"string.text"
+msgid "~Note"
+msgstr "~ບັນທຶກ"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM1\n"
+"string.text"
+msgid "User-defined field ~1"
+msgstr "ຜູ້ໃຊ້-ກຳນົດພື້ນທີ່ໄວ້ຂໍ້ມູນ ~1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM2\n"
+"string.text"
+msgid "User-defined field ~2"
+msgstr "ຜູ້ໃຊ້-ກຳນົດພື້ນທີ່ໄວ້ຂໍ້ມູນ ~2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM3\n"
+"string.text"
+msgid "User-defined field ~3"
+msgstr "ຜູ້ໃຊ້-ກຳນົດພື້ນທີ່ໄວ້ຂໍ້ມູນ ~3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM4\n"
+"string.text"
+msgid "User-defined field ~4"
+msgstr "ຜູ້ໃຊ້-ກຳນົດພື້ນທີ່ໄວ້ຂໍ້ມູນ ~4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM5\n"
+"string.text"
+msgid "User-defined field ~5"
+msgstr "ຜູ້ໃຊ້-ກຳນົດພື້ນທີ່ໄວ້ຂໍ້ມູນ ~5"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "ຕາຕະລາງ"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "ຄຳສັບຫັຼກໃນການຄົ້ນຫາ"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "ເຄື່ອງກັ່ນຕອງອັດຕະໂນມັດ"
+
+#: toolbar.src
+#, fuzzy
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ມາດຕະຖານຕົວກັ່ນກອງ\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ມາດຕະຖານຕົວກອງ"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr ""
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "ການຈັດແຖວ"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "ແຫລ່ງຂໍ້ມູນ"

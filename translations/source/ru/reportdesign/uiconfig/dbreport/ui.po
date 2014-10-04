@@ -1,0 +1,287 @@
+#. extracted from reportdesign/uiconfig/dbreport/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: ui\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-07-03 18:43+0000\n"
+"Last-Translator: bormant <bormant@mail.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1404413024.000000\n"
+
+#: backgrounddialog.ui
+msgctxt ""
+"backgrounddialog.ui\n"
+"BackgroundDialog\n"
+"title\n"
+"string.text"
+msgid "Section Setup"
+msgstr "Параметры раздела"
+
+#: backgrounddialog.ui
+msgctxt ""
+"backgrounddialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Фон"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"CharDialog\n"
+"title\n"
+"string.text"
+msgid "Character Settings"
+msgstr "Параметры символов"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Шрифт"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Эффекты шрифта"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Положение"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"asianlayout\n"
+"label\n"
+"string.text"
+msgid "Asian Layout"
+msgstr "Разметка восточноазиатского текста"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Фон"
+
+#: chardialog.ui
+msgctxt ""
+"chardialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"DateTimeDialog\n"
+"title\n"
+"string.text"
+msgid "Date and Time"
+msgstr "Дата и время"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Include Date"
+msgstr "Включая дату"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"datelistbox_label\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Формат:"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"time\n"
+"label\n"
+"string.text"
+msgid "Include _Time"
+msgstr "Включая время"
+
+#: datetimedialog.ui
+msgctxt ""
+"datetimedialog.ui\n"
+"timelistbox_label\n"
+"label\n"
+"string.text"
+msgid "Fo_rmat:"
+msgstr "_Формат:"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"PageDialog\n"
+"title\n"
+"string.text"
+msgid "Page Setup"
+msgstr "Параметры страницы"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"page\n"
+"label\n"
+"string.text"
+msgid "Page"
+msgstr "Страница"
+
+#: pagedialog.ui
+msgctxt ""
+"pagedialog.ui\n"
+"background\n"
+"label\n"
+"string.text"
+msgid "Background"
+msgstr "Фон"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"PageNumberDialog\n"
+"title\n"
+"string.text"
+msgid "Page Numbers"
+msgstr "Номера страниц"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"pagen\n"
+"label\n"
+"string.text"
+msgid "_Page N"
+msgstr "Страница N"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"pagenofm\n"
+"label\n"
+"string.text"
+msgid "Page _N of M"
+msgstr "Страница N из M"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Format"
+msgstr "Формат"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"toppage\n"
+"label\n"
+"string.text"
+msgid "_Top of Page (Header)"
+msgstr "Верхний колонтитул страницы"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"bottompage\n"
+"label\n"
+"string.text"
+msgid "_Bottom of Page (Footer)"
+msgstr "Нижний колонтитул страницы"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Положение"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Слева"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "По центру"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Справа"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"alignment_label\n"
+"label\n"
+"string.text"
+msgid "_Alignment:"
+msgstr "Выравнивание:"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"shownumberonfirstpage\n"
+"label\n"
+"string.text"
+msgid "Show Number on First Page"
+msgstr "Отображать номер на первой странице"
+
+#: pagenumberdialog.ui
+msgctxt ""
+"pagenumberdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "General"
+msgstr "Общие"

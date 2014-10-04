@@ -1,0 +1,156 @@
+#. extracted from extensions/source/abpilot
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-06-20 13:01+0000\n"
+"Last-Translator: ngoswami <ngoswami@redhat.com>\n"
+"Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1371733272.0\n"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_SELECT_ABTYPE\n"
+"string.text"
+msgid "Address book type"
+msgstr "ঠিকনা বহীৰ ধৰণ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_INVOKE_ADMIN_DIALOG\n"
+"string.text"
+msgid "Connection Settings"
+msgstr "সংযোগ ছেটিংছ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_TABLE_SELECTION\n"
+"string.text"
+msgid "Table selection"
+msgstr "টেবুল নিৰ্বাচন"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_MANUAL_FIELD_MAPPING\n"
+"string.text"
+msgid "Field Assignment"
+msgstr "ফিল্ড এছাইনমেন্ট"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_FINAL_CONFIRM\n"
+"string.text"
+msgid "Data Source Title"
+msgstr "ডাটা উত্স শিৰোনাম"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"modaldialog.text"
+msgid "Address Book Data Source Wizard"
+msgstr "ঠিকনা বহী ডাটা উত্স উইজাৰ্ড"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_ERR_NEEDTYPESELECTION\n"
+"errorbox.text"
+msgid "Please select a type of address book."
+msgstr "অনুগ্ৰহ কৰি এক প্ৰকাৰৰ ঠিকনা বহী নিৰ্বাচন কৰক."
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NOTABLES\n"
+"querybox.text"
+msgid ""
+"The data source does not contain any tables.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"ডাটা উত্সটোৱে কোনো টেবুল ধাৰণ নকৰে.\n"
+"আপুনি যিকোনো উপায়ে এইটোক এটা ঠিকনা ডাটা উত্স হিচাপে ছেট আপ কৰিবলৈ বিচাৰেনেকি?"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NO_EVO_GW\n"
+"querybox.text"
+msgid ""
+"You don't seem to have any GroupWise account configured in Evolution.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"সম্ভবত আপোনাৰ Evolution ত এটা দলভিত্তিয় একাওন্ট নাই।\n"
+"তথাপিও, আপুনি ইয়াক এটা ঠিকনা তথ্য উৎস হিচাপে স্থাপন কৰিব বিচাৰে নে?"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_DEFAULT_NAME\n"
+"string.text"
+msgid "Addresses"
+msgstr "ঠিকনাবোৰ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_ADMINDIALOGTITLE\n"
+"string.text"
+msgid "Create Address Data Source"
+msgstr "ঠিকনা ডাটা উত্স সৃষ্টি কৰক"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOCONNECTION\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "সংযোগটো প্ৰতিষ্ঠা কৰিব পৰা নগ'ল."
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_PLEASECHECKSETTINGS\n"
+"string.text"
+msgid "Please check the settings made for the data source."
+msgstr "ডাটা উত্সটোৰ কাৰণে বনোৱা ছেটিংছটো পৰীক্ষা কৰক."
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_FIELDDIALOGTITLE\n"
+"string.text"
+msgid "Address Data - Field Assignment"
+msgstr "ঠিকনা ডাটা - ফিল্ড এছাইনমেন্ট"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOFIELDSASSIGNED\n"
+"string.text"
+msgid ""
+"There are no fields assigned at this time.\n"
+"You can either assign fields now or do so later by first choosing:\n"
+"\"File - Template - Address Book Source...\""
+msgstr ""
+"এই নামটোত কোনো ফিল্ড নিৰ্ধাৰণ কৰা নাই।\n"
+"আপুনি এতিয়াই ফিল্ড নিৰ্ধাৰণ কৰিব পাৰে বা প্ৰথম বাছনীৰ দ্বাৰা পাছতো সেইটো কৰিব পাৰে:\n"
+"\"ফাইল - নমুনা - ঠিকনা বহী উৎস...\""

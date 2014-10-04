@@ -1,0 +1,372 @@
+#. extracted from fpicker/source/office
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:01+0200\n"
+"PO-Revision-Date: 2014-05-13 19:19+0000\n"
+"Last-Translator: Stanislav <stanislav.horacek@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1400008770.000000\n"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "Automatická přípona názvu souboru"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_PASSWORD\n"
+"string.text"
+msgid "Save with pass~word"
+msgstr "Uložit s heslem"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_FILTER_OPTIONS\n"
+"string.text"
+msgid "~Edit filter settings"
+msgstr "Upravit nastavení filtru"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "Jen pro čtení"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "Odkaz"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "Náhled"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "Přehrát"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "Verze:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_TEMPLATES\n"
+"string.text"
+msgid "S~tyles:"
+msgstr "Styly:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "Styl:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "Výběr"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_FILTER_TITLE\n"
+"string.text"
+msgid "File ~type:"
+msgstr "Typ souboru:"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FOLDERPICKER_DEFAULT_TITLE\n"
+"string.text"
+msgid "Select Path"
+msgstr "Vyberte cestu"
+
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION\n"
+"string.text"
+msgid "Please select a folder."
+msgstr "Vyberte složku."
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_NEWFOLDER\n"
+"imagebutton.quickhelptext"
+msgid "Create New Folder"
+msgstr "Vytvořit novou složku"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_UP\n"
+"menubutton.quickhelptext"
+msgid "Up One Level"
+msgstr "O úroveň výše"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_CONNECT_TO_SERVER\n"
+"pushbutton.text"
+msgid "Servers..."
+msgstr "Servery..."
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_CONNECT_TO_SERVER\n"
+"pushbutton.quickhelptext"
+msgid "Connect To Server"
+msgstr "Připojit k serveru"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"FT_EXPLORERFILE_FILENAME\n"
+"fixedtext.text"
+msgid "File ~name:"
+msgstr "Název souboru:"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"FT_EXPLORERFILE_FILETYPE\n"
+"fixedtext.text"
+msgid "File ~type:"
+msgstr "Typ souboru:"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_EXPLORERFILE_READONLY\n"
+"checkbox.text"
+msgid "~Read-only"
+msgstr "Jen pro čtení"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_EXPLORERFILE_PASSWORD\n"
+"checkbox.text"
+msgid "Save with password"
+msgstr "Uložit s heslem"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_AUTO_EXTENSION\n"
+"checkbox.text"
+msgid "~Automatic file name extension"
+msgstr "Automatická přípona názvu souboru"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_OPTIONS\n"
+"checkbox.text"
+msgid "Edit ~filter settings"
+msgstr "Upravit nastavení filtru"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_OPEN\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr "Otevřít"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_OPEN\n"
+"string.text"
+msgid "Open"
+msgstr "Otevřít"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_SAVE\n"
+"string.text"
+msgid "Save as"
+msgstr "Uložit jako"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_BUTTONSAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "Uložit"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PATHNAME\n"
+"string.text"
+msgid "~Path:"
+msgstr "Cesta:"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PATHSELECT\n"
+"string.text"
+msgid "Select path"
+msgstr "Vybrat cestu"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_BUTTONSELECT\n"
+"string.text"
+msgid "~Select"
+msgstr "Vybrat"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "Aktuální verze"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PREVIEW\n"
+"string.text"
+msgid "File Preview"
+msgstr "Náhled souboru"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_DEFAULT_DIRECTORY\n"
+"string.text"
+msgid "My Documents"
+msgstr "Dokumenty"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PLACES_TITLE\n"
+"string.text"
+msgid "Places"
+msgstr "Místa"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"RID_FILEOPEN_NOTEXISTENTFILE\n"
+"string.text"
+msgid ""
+"The file $name$ does not exist.\n"
+"Make sure you have entered the correct file name."
+msgstr ""
+"Soubor $name$ neexistuje.\n"
+"Ujistěte se, že jste zadali správný název souboru."
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_FILTERNAME_ALL\n"
+"string.text"
+msgid "All files"
+msgstr "Všechny soubory"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid ""
+"A file named \"$filename$\" already exists.\n"
+"\n"
+"Do you want to replace it?"
+msgstr ""
+"Soubor s názvem \"$filename$\" již existuje.\n"
+"\n"
+"Chcete ho přepsat?"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_NEW_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "Složka"
+
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_NOREMOVABLEDEVICE\n"
+"string.text"
+msgid ""
+"No removable storage device detected.\n"
+"Make sure it is plugged in properly and try again."
+msgstr ""
+"Žádné přenosné úložné zařízení nebylo nalezeno.\n"
+"Ujistěte se, že je správně připojeno, a zkuste to znovu."

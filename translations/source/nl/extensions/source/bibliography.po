@@ -1,0 +1,601 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2013-12-30 12:02+0000\n"
+"Last-Translator: kees538 <kees538@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1388404956.0\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "Veldselectie:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Tabel;Query;Sql;Sql [Native]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "Literatuurlijstdatabase"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "Wilt u de kolomindeling bewerken?"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"GB_MAPPING\n"
+"fixedline.text"
+msgid "Column names"
+msgstr "Kolomnamen"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"ST_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<geen>"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"modaldialog.text"
+msgid "Column Layout for Table %1"
+msgstr "Kolomindeling voor tabel %1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr "De volgende kolomnamen kunnen niet worden toegewezen:\n"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "Artikel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "Boek"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "Brochures"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Conferentierapport"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "Uittreksel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "Uittreksel met titel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Conferentierapport"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr "Tijdschrift"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr "Techn. documentatie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "Scriptie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "Dissertatie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Conferentierapport"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "Onderzoeksrapport"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "Niet gepubliceerd"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "e-mail"
+msgstr "e-mail"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "WWW-document"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "Gebruikerstype1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr "Gebruikerstype2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr "Gebruikerstype3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr "Gebruikerstype4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr "Gebruikerstype5"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"tabpage.text"
+msgid "General"
+msgstr "Algemeen"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_IDENTIFIER\n"
+"string.text"
+msgid "~Short name"
+msgstr "~Beknopte aanduiding"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHTYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "~Type"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_YEAR\n"
+"string.text"
+msgid "~Year"
+msgstr "~Jaar"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHOR\n"
+"string.text"
+msgid "Author(s)"
+msgstr "Auteur(s)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TITLE\n"
+"string.text"
+msgid "Tit~le"
+msgstr "~Titel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PUBLISHER\n"
+"string.text"
+msgid "~Publisher"
+msgstr "~Uitgeverij"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ADDRESS\n"
+"string.text"
+msgid "A~ddress"
+msgstr "A~dres"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ISBN\n"
+"string.text"
+msgid "~ISBN"
+msgstr "~ISBN"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CHAPTER\n"
+"string.text"
+msgid "~Chapter"
+msgstr "~Hoofdstuk"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PAGE\n"
+"string.text"
+msgid "Pa~ge(s)"
+msgstr "~Pagina('s)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITOR\n"
+"string.text"
+msgid "Editor"
+msgstr "Uitgever"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITION\n"
+"string.text"
+msgid "Ed~ition"
+msgstr "E~ditie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_BOOKTITLE\n"
+"string.text"
+msgid "~Book title"
+msgstr "Bo~ektitel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_VOLUME\n"
+"string.text"
+msgid "Volume"
+msgstr "Omvang"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_HOWPUBLISHED\n"
+"string.text"
+msgid "Publication t~ype"
+msgstr "Wijze van ~publiceren"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ORGANIZATION\n"
+"string.text"
+msgid "Organi~zation"
+msgstr "~Organisatie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_INSTITUTION\n"
+"string.text"
+msgid "Instit~ution"
+msgstr "~Instelling"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SCHOOL\n"
+"string.text"
+msgid "University"
+msgstr "Hogeschool/Universiteit"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_REPORT\n"
+"string.text"
+msgid "Type of re~port"
+msgstr "Soort ra~pport"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_MONTH\n"
+"string.text"
+msgid "~Month"
+msgstr "~Maand"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_JOURNAL\n"
+"string.text"
+msgid "~Journal"
+msgstr "~Tijdschrift"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NUMBER\n"
+"string.text"
+msgid "Numb~er"
+msgstr "~Nummer"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SERIES\n"
+"string.text"
+msgid "Se~ries"
+msgstr "~Serie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ANNOTE\n"
+"string.text"
+msgid "Ann~otation"
+msgstr "~Opmerkingen"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NOTE\n"
+"string.text"
+msgid "~Note"
+msgstr "~Notitie"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM1\n"
+"string.text"
+msgid "User-defined field ~1"
+msgstr "Gebruikersveld ~1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM2\n"
+"string.text"
+msgid "User-defined field ~2"
+msgstr "Gebruikersveld ~2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM3\n"
+"string.text"
+msgid "User-defined field ~3"
+msgstr "Gebruikersveld ~3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM4\n"
+"string.text"
+msgid "User-defined field ~4"
+msgstr "Gebruikersveld ~4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM5\n"
+"string.text"
+msgid "User-defined field ~5"
+msgstr "Gebruikersveld ~5"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "Tabel"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "Zoekbegrip"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "AutoFilter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr "Standaardfilter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr "Reset filter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "Kolomindeling"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "Gegevensbron"

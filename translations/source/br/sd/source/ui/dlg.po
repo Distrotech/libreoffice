@@ -1,0 +1,867 @@
+#. extracted from sd/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-08-22 18:00+0000\n"
+"Last-Translator: Alan <alan.monfort@free.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1377194407.0\n"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_IMPRESS_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Slide Pane"
+msgstr "Panellad an treyonennoù"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_DRAW_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Page Pane"
+msgstr "Panellad ar pajennoù"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_FIRST\n"
+"imagebutton.quickhelptext"
+msgid "First Image"
+msgstr "Skeudenn gentañ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REVERSE\n"
+"imagebutton.quickhelptext"
+msgid "Backwards"
+msgstr "War-gil"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_STOP\n"
+"imagebutton.quickhelptext"
+msgid "Stop"
+msgstr "Arsaviñ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_PLAY\n"
+"imagebutton.quickhelptext"
+msgid "Play"
+msgstr "Lenn"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_LAST\n"
+"imagebutton.quickhelptext"
+msgid "Last Image"
+msgstr "Skeudenn diwezhañ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"NUM_FLD_BITMAP\n"
+"numericfield.quickhelptext"
+msgid "Image Number"
+msgstr "Niverenn ar skeudenn"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"TIME_FIELD\n"
+"timefield.quickhelptext"
+msgid "Duration"
+msgstr "Pad"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"LB_LOOP_COUNT\n"
+"listbox.quickhelptext"
+msgid "Loop Count"
+msgstr "Kont an dolioù"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1\n"
+"stringlist.text"
+msgid "1"
+msgstr "1"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"2\n"
+"stringlist.text"
+msgid "2"
+msgstr "2"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"3\n"
+"stringlist.text"
+msgid "3"
+msgstr "3"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"4\n"
+"stringlist.text"
+msgid "4"
+msgstr "4"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"5\n"
+"stringlist.text"
+msgid "5"
+msgstr "5"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"6\n"
+"stringlist.text"
+msgid "6"
+msgstr "6"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"7\n"
+"stringlist.text"
+msgid "7"
+msgstr "7"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"8\n"
+"stringlist.text"
+msgid "8"
+msgstr "8"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"9\n"
+"stringlist.text"
+msgid "9"
+msgstr "9"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"10\n"
+"stringlist.text"
+msgid "10"
+msgstr "10"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"12\n"
+"stringlist.text"
+msgid "12"
+msgstr "12"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"15\n"
+"stringlist.text"
+msgid "15"
+msgstr "15"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"20\n"
+"stringlist.text"
+msgid "20"
+msgstr "20"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"25\n"
+"stringlist.text"
+msgid "25"
+msgstr "25"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"50\n"
+"stringlist.text"
+msgid "50"
+msgstr "50"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"100\n"
+"stringlist.text"
+msgid "100"
+msgstr "100"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"500\n"
+"stringlist.text"
+msgid "500"
+msgstr "500"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1000\n"
+"stringlist.text"
+msgid "1000"
+msgstr "1000"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"Max.\n"
+"stringlist.text"
+msgid "Max."
+msgstr "Uc'hek"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ONE_OBJECT\n"
+"imagebutton.quickhelptext"
+msgid "Apply Object"
+msgstr "Arloañ an ergorenn"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ALL_OBJECTS\n"
+"imagebutton.quickhelptext"
+msgid "Apply Objects Individually"
+msgstr "Arloañ an ergorenn an eil war-lerc'h eben"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_BITMAP\n"
+"imagebutton.quickhelptext"
+msgid "Delete Current Image"
+msgstr "Dilemel ar skeudenn vremanel"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_ALL\n"
+"imagebutton.quickhelptext"
+msgid "Delete All Images"
+msgstr "Dilemel an holl skeudennoù"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_COUNT\n"
+"fixedtext.text"
+msgid "Number"
+msgstr "Niver"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_BITMAP\n"
+"fixedline.text"
+msgid "Image"
+msgstr "Skeudenn"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_GROUP\n"
+"radiobutton.text"
+msgid "Group object"
+msgstr "Ergorenn ar strollad"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_BITMAP\n"
+"radiobutton.text"
+msgid "Bitmap object"
+msgstr "Ergorenn mod bitmap"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_ADJUSTMENT\n"
+"fixedtext.text"
+msgid "Alignment"
+msgstr "Steudadur"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Left\n"
+"stringlist.text"
+msgid "Top Left"
+msgstr "A-gleiz, e-krec'h"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Left\n"
+"stringlist.text"
+msgid "Left"
+msgstr "A-gleiz"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Left\n"
+"stringlist.text"
+msgid "Bottom Left"
+msgstr "A-gleiz, en traoñ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top\n"
+"stringlist.text"
+msgid "Top"
+msgstr "E-krec'h"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Centered\n"
+"stringlist.text"
+msgid "Centered"
+msgstr "Kreizet"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "En traoñ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Right\n"
+"stringlist.text"
+msgid "Top Right"
+msgstr "A-zehou, e-krec'h"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Right\n"
+"stringlist.text"
+msgid "Right"
+msgstr "A-zehou"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Right\n"
+"stringlist.text"
+msgid "Bottom Right"
+msgstr "A-zehou, en traoñ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_CREATE_GROUP\n"
+"pushbutton.text"
+msgid "Create"
+msgstr "Krouiñ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_ANIMATION_GROUP\n"
+"fixedline.text"
+msgid "Animation group"
+msgstr "Strollad an dresadenn fiñv"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"STR_DISPLAY\n"
+"string.text"
+msgid "Preview"
+msgstr "Alberz"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"dockingwindow.text"
+msgid "Animation"
+msgstr "Tresadenn fiñv"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PREVIEW\n"
+"checkbox.text"
+msgid "Previe~w"
+msgstr "Alber~z"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_STARTWITH\n"
+"checkbox.text"
+msgid "~Do not show this wizard again"
+msgstr "~Na skrammañ ar skoazeller-mañ ken"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE1_ARTGROUP\n"
+"fixedline.text"
+msgid "Type"
+msgstr "Rizh"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_EMPTY\n"
+"radiobutton.text"
+msgid "~Empty presentation"
+msgstr "Kinnigadenn ~c'houllo"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_TEMPLATE\n"
+"radiobutton.text"
+msgid "~From template"
+msgstr "~Diwar ur patrom"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_OPEN\n"
+"radiobutton.text"
+msgid "O~pen existing presentation"
+msgstr "~Digeriñ ur ginnigadenn ez eus anezhi"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_LAYOUT\n"
+"fixedline.text"
+msgid "~Select a slide design"
+msgstr "Diuzañ un ~neuz treyonenn "
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_OUTPUTTYPES\n"
+"fixedline.text"
+msgid "Select an output medium"
+msgstr "Diuzañ ur media ec'hankañ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM5\n"
+"radiobutton.text"
+msgid "~Original"
+msgstr "~Orin"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM1\n"
+"radiobutton.text"
+msgid "Sc~reen"
+msgstr "~Skramm"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM2\n"
+"radiobutton.text"
+msgid "Sli~de"
+msgstr "Tre~yonenn"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM3\n"
+"radiobutton.text"
+msgid "O~verhead sheet"
+msgstr "~Boullbaperenn"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM4\n"
+"radiobutton.text"
+msgid "P~aper"
+msgstr "P~aper"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM6\n"
+"radiobutton.text"
+msgid "W~idescreen"
+msgstr "~Skrammad a-bezh"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_EFFECT\n"
+"fixedline.text"
+msgid "Select a slide transition"
+msgstr "Ardreuzad etre an treyonennoù"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_EFFECT\n"
+"fixedtext.text"
+msgid "~Effect"
+msgstr "~Efed"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_SPEED\n"
+"fixedtext.text"
+msgid "~Speed"
+msgstr "Ti~zh"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_PRESTYPE\n"
+"fixedline.text"
+msgid "Select the presentation type"
+msgstr "Diuzañ rizh ar ginnigadenn"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_LIVE\n"
+"radiobutton.text"
+msgid "~Default"
+msgstr "~Dre ziouer"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_KIOSK\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "~Emgefreek"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_TIME\n"
+"fixedtext.text"
+msgid "D~uration of page"
+msgstr "~Pad ar skrammañ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_BREAK\n"
+"fixedtext.text"
+msgid "Du~ration of pause"
+msgstr "Pa~d an ehan"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE3_LOGO\n"
+"checkbox.text"
+msgid "Sh~ow logo"
+msgstr "Skrammañ ar sie~ll"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE4_PERSONAL\n"
+"fixedline.text"
+msgid "Describe your basic ideas"
+msgstr "Ho mennozhioù diazez"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKNAME\n"
+"fixedtext.text"
+msgid "What is your name or the name of your company?"
+msgstr "Petra eo hoc'h anv pe hini hoc'h embregerezh ?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKTOPIC\n"
+"fixedtext.text"
+msgid "What is the subject of your presentation?"
+msgstr "Petra eo danvez ar ginnigadenn ?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKINFORMATION\n"
+"fixedtext.text"
+msgid "Further ideas to be presented?"
+msgstr "Mennozhioù all da ginnig ?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE5_PAGELIST\n"
+"fixedtext.text"
+msgid "Ch~oose your pages"
+msgstr "Diuzit ar pajennoù c'~hoantaet."
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE5_SUMMARY\n"
+"checkbox.text"
+msgid "C~reate summary"
+msgstr "K~rouiñ ur c'hrennva"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_LAST\n"
+"pushbutton.text"
+msgid "<< ~Back"
+msgstr "<< ~Kent"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_NEXT\n"
+"pushbutton.text"
+msgid "~Next >>"
+msgstr "~War-lerc'h >>"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_FINISH\n"
+"okbutton.text"
+msgid "~Create"
+msgstr "~Krouiñ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "~Digeriñ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_CREATE\n"
+"string.text"
+msgid "~Create"
+msgstr "~Krouiñ"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"modaldialog.text"
+msgid "Presentation Wizard"
+msgstr "Skoazeller evit ar ginnigadenn"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PEN\n"
+"toolboxitem.text"
+msgid "Pointer"
+msgstr "Biz"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_FIRST\n"
+"toolboxitem.text"
+msgid "First Slide"
+msgstr "Treyonenn gentañ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PREVIOUS\n"
+"toolboxitem.text"
+msgid "Previous Slide"
+msgstr "Treyonenn gent"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_NEXT\n"
+"toolboxitem.text"
+msgid "Next Slide"
+msgstr "Treyonenn da-heul"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_LAST\n"
+"toolboxitem.text"
+msgid "Last Slide"
+msgstr "Treyonenn diwezhañ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_DRAGTYPE\n"
+"toolboxitem.text"
+msgid "Drag Mode"
+msgstr "Mod Riklañ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_SHAPE_FILTER\n"
+"toolboxitem.text"
+msgid "Show Shapes"
+msgstr "Diskouez ar stummoù"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR\n"
+"LB_DOCS\n"
+"listbox.quickhelptext"
+msgid "Documents"
+msgstr "Teulioù"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"STR_OBJECTS_TREE\n"
+"string.text"
+msgid "Page Tree"
+msgstr "Gwezennad ar bajennad"

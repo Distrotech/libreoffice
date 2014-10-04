@@ -1,0 +1,1931 @@
+#. extracted from dbaccess/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2011-12-15 14:48+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_DBASE_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the dBASE files"
+msgstr "ເສັ້ນທາງ​ສູ່ແຟ້ມ dBASE"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_FLAT_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the text files"
+msgstr "ເສັ້ນທາງສູ່ແຟ້ມເອກະສານ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_CALC_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to the spreadsheet document"
+msgstr "ເສັ້ນທາງສູ່ເອກະສານການຄຳນວນ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_NAME_OF_ODBC_DATASOURCE\n"
+"string.text"
+msgid "Name of the ODBC data source on your system"
+msgstr "ຊື່ແຫຼ່ງຂໍ້ມູນ ODBC ຢູ່ໃນ​ຄອມພິວເຕີຂອງທ່ານ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MYSQL_DATABASE_NAME\n"
+"string.text"
+msgid "Name of the MySQL database"
+msgstr "ຊື່ຖານຂໍ້ມູນ MySQL"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ORACLE_DATABASE_NAME\n"
+"string.text"
+msgid "Name of the Oracle database"
+msgstr "ຊື່ຖານຂໍ້ມູນ Oracle "
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MSACCESS_MDB_FILE\n"
+"string.text"
+msgid "Microsoft Access database file"
+msgstr "ແຟ້ມ​ຖານຂໍ້ມູນ Microsoft Access"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_NO_ADDITIONAL_SETTINGS\n"
+"string.text"
+msgid "No more settings are necessary. To verify that the connection is working, click the '%test' button."
+msgstr "ບໍ່ຈຳເປັນຕ້ອງຕັ້ງຄ່າເພີ່ມໃດໆ ເພື່ອການກວດກາເຖີງ​ການທຳງານ​ຂອງການເຊື່ອມຕໍ່ ກົດປຸ່ມ '%test' "
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_COMMONURL\n"
+"string.text"
+msgid "Datasource URL"
+msgstr "ແຫ່ຼງຂໍ້ມູນ URL"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_HOSTNAME\n"
+"string.text"
+msgid "~Host name"
+msgstr "~ຊື່ເຄືອຂ່າຍ"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_MOZILLA_PROFILE_NAME\n"
+"string.text"
+msgid "~Mozilla profile name"
+msgstr "ຊື່ແຟ້ມເກັບຂໍ້ມູນໃນ Mozilla"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_THUNDERBIRD_PROFILE_NAME\n"
+"string.text"
+msgid "~Thunderbird profile name"
+msgstr "~ຊື່ແຟ້ມເກັບຂໍ້ມູນໃນ Thunderbird"
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ADD_TABLES\n"
+"string.text"
+msgid "Add Tables"
+msgstr ""
+
+#: AutoControls.src
+msgctxt ""
+"AutoControls.src\n"
+"STR_ADD_TABLE_OR_QUERY\n"
+"string.text"
+msgid "Add Table or Query"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BROWSECONTROLGROUP( AUTO_X, AUTO_Y, AUTOPAGE_X, AUTO_HID, AUTO_HID2)\n"
+"PB_AUTOBROWSEURL\n"
+"pushbutton.text"
+msgid "Browse"
+msgstr "ຕົວຊອກ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BROWSECONTROLGROUP( AUTO_X, AUTO_Y, AUTOPAGE_X, AUTO_HID, AUTO_HID2)\n"
+"PB_CREATEDB\n"
+"pushbutton.text"
+msgid "Create New"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_NAMECONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTODATABASENAME\n"
+"fixedtext.text"
+msgid "Database name"
+msgstr "ຊື່ຖານຂໍ້ມູນ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_HOSTCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOHOSTNAME\n"
+"fixedtext.text"
+msgid "Server"
+msgstr "ຕົວບໍລິການ ~URL"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_BASEDNCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOBASEDN\n"
+"fixedtext.text"
+msgid "Base ~DN"
+msgstr "ອີງຕາມ ~DN"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_PORTCONTROLGROUP(AUTO_Y, AUTO_HID)\n"
+"FT_AUTOPORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "~ຊ່ອງທາງເລກທີ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_CHARSET( AUTO_Y, AUTOPAGE_X )\n"
+"FL_DATACONVERT\n"
+"fixedline.text"
+msgid "Data conversion"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+#, fuzzy
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_CHARSET( AUTO_Y, AUTOPAGE_X )\n"
+"FT_CHARSET\n"
+"fixedtext.text"
+msgid "~Character set"
+msgstr ""
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~ຕິດຕັ້ງຕົວອັກສອນ\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~ການຕັ້ງຕົວອັກສອນ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOEXTENSIONHEADER\n"
+"fixedtext.text"
+msgid "Specify the type of files you want to access"
+msgstr "ລະບຸຊະນິດຂອງແຟ້ມທີ່ທ່ານຕ້ອງການເຂົ້າເຖີງ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSCTEXTFILES\n"
+"radiobutton.text"
+msgid "Plain text files (*.txt)"
+msgstr "ແຟ້ມທຳມະດາ  (*.txt)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSCCSVFILES\n"
+"radiobutton.text"
+msgid "'Comma separated value' files (*.csv)"
+msgstr "ແຟ້ມ 'ຈຸດແຍກຄ່າ' (*.csv)"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"RB_AUTOACCESSOTHERS\n"
+"radiobutton.text"
+msgid "Custom:"
+msgstr "ລູກຄ້າ:"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOOWNEXTENSIONAPPENDIX\n"
+"fixedtext.text"
+msgid "Custom: *.abc"
+msgstr "ລູກຄ້າ: *.abc"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FL_AUTOSEPARATOR2\n"
+"fixedline.text"
+msgid "Row Format"
+msgstr "ຮູບແບບແຖວ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOFIELDSEPARATOR\n"
+"fixedtext.text"
+msgid "Field separator"
+msgstr "ຕົວແຍກພື້ນທີ່"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTOTEXTSEPARATOR\n"
+"fixedtext.text"
+msgid "Text separator"
+msgstr "ຕົວແຍກເອກະສານ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SEPARATORCONTROLGROUP(AUTO_Y,AUTOPAGE_X)\n"
+"FT_AUTODECIMALSEPARATOR\n"
+"fixedtext.text"
+msgid "Decimal separator"
+msgstr "ຕົວແຍກຫຼັງຈຸດ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"FT_AUTOTHOUSANDSSEPARATOR\n"
+"fixedtext.text"
+msgid "Thousands separator"
+msgstr "ຕົວແຍກຫົວໜ່ວຍພັນ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"CB_AUTOHEADER\n"
+"checkbox.text"
+msgid "~Text contains headers"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTOTEXT_FIELD_SEP_NONE\n"
+"string.text"
+msgid "{None}"
+msgstr "{ບໍ່ມີ}"
+
+#. EM Dec 2002: 'Space' refers to what you get when you hit the space bar on your keyboard.
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTOFIELDSEPARATORLIST\n"
+"string.text"
+msgid ";\t59\t,\t44\t:\t58\t{Tab}\t9\t{Space}\t32"
+msgstr ""
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTODELIMITER_MISSING\n"
+"string.text"
+msgid "#1 must be set."
+msgstr "#1 ຕ້ອງຖືກກຳນົດ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTODELIMITER_MUST_DIFFER\n"
+"string.text"
+msgid "#1 and #2 must be different."
+msgstr "#1 ແລະ #2 ຕ້ອງຕ່າງກັນ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"STR_AUTONO_WILDCARDS\n"
+"string.text"
+msgid "Wildcards such as ?,* are not allowed in #1."
+msgstr "ແທນຕົວອັກສອນຫຼືເຄື່ອງໝາຍອັນໃດກໍ່ໄດ້ເຊັ່ນ ?,* ບໍ່ຖືກອະນຸຍາດໃນ #1."
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_JDBCDRIVERCLASSGROUP(AUTO_Y, AUTO_HID, AUTO_HID2)\n"
+"FT_AUTOJDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "JDBC d~river class"
+msgstr "ຫ້ອງໂປຼແກຼມພິເສດ JDBC~"
+
+#: AutoControls_tmpl.hrc
+#, fuzzy
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_JDBCDRIVERCLASSGROUP(AUTO_Y, AUTO_HID, AUTO_HID2)\n"
+"PB_AUTOTESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "ຫ້ອງທົດລອງ"
+
+#: AutoControls_tmpl.hrc
+msgctxt ""
+"AutoControls_tmpl.hrc\n"
+"AUTO_SOCKETCONTROLGROUP(AUTO_Y)\n"
+"FT_SOCKET\n"
+"fixedtext.text"
+msgid "Socket"
+msgstr ""
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_NEWFOLDER\n"
+"imagebutton.quickhelptext"
+msgid "Create New Directory"
+msgstr "ສ້າງ​ທີ່ເກັບຂໍ້ມູນໃໝ່"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_UP\n"
+"imagebutton.quickhelptext"
+msgid "Up One Level"
+msgstr "ເຖີງ​ລະດັບໜື່ງ"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"FT_EXPLORERFILE_FILENAME\n"
+"fixedtext.text"
+msgid "File ~name:"
+msgstr "ຊື່~ແຟ້ມ:"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"BTN_EXPLORERFILE_SAVE\n"
+"pushbutton.text"
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"STR_PATHNAME\n"
+"string.text"
+msgid "~Path:"
+msgstr "~ເສັ້ນທາງ:"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"DLG_COLLECTION_VIEW\n"
+"modaldialog.text"
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"STR_NEW_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "ທີ່ເກັບຂໍ້ມູນ"
+
+#: CollectionView.src
+msgctxt ""
+"CollectionView.src\n"
+"STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "ແຟ້ມ​ມີ​ແລ້ວ​. ຂຽນທັບບໍ່?"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "General"
+msgstr "ໂດຍທົ່ວໄປ"
+
+#: ConnectionPage.src
+#, fuzzy
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Host name"
+msgstr "~ຊື່ເຄືອຂ່າຍ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "User authentication"
+msgstr "ຜູ້ໃຊ້ກວດສອບສີ່ງທີ່ສົ່ງໄປ"
+
+#: ConnectionPage.src
+#, fuzzy
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "~ຊື່ຜູ້ໃຊ້"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"CB_PASSWORD_REQUIRED\n"
+"checkbox.text"
+msgid "Password required"
+msgstr "ຕ້ອງການລະຫັດຜ່ານ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FL_SEPARATOR3\n"
+"fixedline.text"
+msgid "JDBC properties"
+msgstr "ຄຸນສົມບັດ JDBC"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "~JDBC driver class"
+msgstr "~ກຸ່ມໂປຼແກຼມພິເສດ JDBC "
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test Class"
+msgstr "ກຸ່ມທົດສອບ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"PAGE_CONNECTION\n"
+"PB_TESTCONNECTION\n"
+"pushbutton.text"
+msgid "Test Connection"
+msgstr "ທົດສອບການເຊື່ອມຕໍ່"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_TEST\n"
+"string.text"
+msgid "Connection Test"
+msgstr "ທົດສອບການເຊື່ອມຕໍ່"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_SUCCESS\n"
+"string.text"
+msgid "The connection was established successfully."
+msgstr "ສ້າງການເຊື່ອມຕໍ່ສຳເລັດ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_CONNECTION_NO_SUCCESS\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "ສ້າງການເຊື່ອມຕໍ່ບໍ່ສຳເລັດ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_JDBCDRIVER_SUCCESS\n"
+"string.text"
+msgid "The JDBC driver was loaded successfully."
+msgstr "ດືງໂປຼແກຼມພິເສດ JDBC​ ສຳເລັດ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_JDBCDRIVER_NO_SUCCESS\n"
+"string.text"
+msgid "The JDBC driver could not be loaded."
+msgstr "ດືງໂປຼແກຼມພິເສດ JDBC ບໍ່ສຳເລັດ"
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_MSACCESS_FILTERNAME\n"
+"string.text"
+msgid "MS Access file"
+msgstr "ແຟ້ມ MS Access "
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_MSACCESS_2007_FILTERNAME\n"
+"string.text"
+msgid "MS Access 2007 file"
+msgstr ""
+
+#: ConnectionPage.src
+msgctxt ""
+"ConnectionPage.src\n"
+"STR_FIREBIRD_FILTERNAME\n"
+"string.text"
+msgid "Firebird Database"
+msgstr ""
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FL_USER\n"
+"fixedline.text"
+msgid "User selection"
+msgstr "ຜູ້ໃຊ້ເລືອກ"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FT_USER\n"
+"fixedtext.text"
+msgid "Us~er:"
+msgstr "~ຜູ້ໃຊ້:"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_NEWUSER\n"
+"pushbutton.text"
+msgid "~Add User..."
+msgstr "~ເພີ່ມຜູ້ໃຊ້..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_CHANGEPWD\n"
+"pushbutton.text"
+msgid "Change ~Password..."
+msgstr "ປ່ຽນແປງ~ລະຫັດຜ່ານ..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"PB_DELETEUSER\n"
+"pushbutton.text"
+msgid "~Delete User..."
+msgstr "~ລຶບຜູ້ໃຊ້..."
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"TAB_PAGE_USERADMIN\n"
+"FL_TABLE_GRANTS\n"
+"fixedline.text"
+msgid "Access rights for selected user"
+msgstr "ສິດການເຂົ້າເຖີງສຳລັບເລືອກຜູ້ໃຊ້"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"QUERY_USERADMIN_DELETE_USER\n"
+"querybox.text"
+msgid "Do you really want to delete the user?"
+msgstr "ທ່ານຕ້ອງການລຶບຜູ້ໃຊ້ບໍ່?"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"STR_USERADMIN_NOT_AVAILABLE\n"
+"string.text"
+msgid "The database does not support user administration."
+msgstr "ຖານຂໍ້ມູນບໍ່ຮອງຮັບຕົວບໍລິການຜູ້ໃຊ້"
+
+#: UserAdmin.src
+msgctxt ""
+"UserAdmin.src\n"
+"STR_ERROR_PASSWORDS_NOT_IDENTICAL\n"
+"string.text"
+msgid "The passwords do not match. Please enter the password again."
+msgstr "ລະຫັດຜ່ານບໍ່ກົງກັນ​ກະລຸນາພິມລະຫັດຜ່ານອີກຄັ້ງ"
+
+#: admincontrols.src
+#, fuzzy
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_MYSQL_DATABASE_NAME\n"
+"fixedtext.text"
+msgid "~Database name"
+msgstr "ຊື່ຖານຂໍ້ມູນ"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_HOST_PORT\n"
+"radiobutton.text"
+msgid "Se~rver / Port"
+msgstr ""
+
+#: admincontrols.src
+#, fuzzy
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_HOST_NAME\n"
+"fixedtext.text"
+msgid "~Server"
+msgstr "ຕົວບໍລິການ ~URL"
+
+#: admincontrols.src
+#, fuzzy
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_PORT\n"
+"fixedtext.text"
+msgid "~Port"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~ພອດ\n"
+"#-#-#-#-#  all.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~ຊ່ອງ"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"FT_COMMON_PORT_DEFAULT\n"
+"fixedtext.text"
+msgid "Default: 3306"
+msgstr "ຄ່າທີ່ກຳນົດໄວ້ໃຫ້ແລ້ວ : 3306"
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_SOCKET\n"
+"radiobutton.text"
+msgid "So~cket"
+msgstr ""
+
+#: admincontrols.src
+msgctxt ""
+"admincontrols.src\n"
+"RID_MYSQL_NATIVE_SETTINGS\n"
+"RB_MYSQL_NAMED_PIPE\n"
+"radiobutton.text"
+msgid "Named p~ipe"
+msgstr ""
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_USECATALOG(AUTO_Y)\n"
+"CB_USECATALOG\n"
+"checkbox.text"
+msgid "Use catalog for file-based databases"
+msgstr "ນຳໃຊ້ລາຍຊື່ສຳລັບຖານຂໍ້ມູນແຟ້ມພື້ນຖານ"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_FIXEDLINE_CONNSETTINGS(AUTO_Y)\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Connection Settings"
+msgstr "ກຳນົດຄ່າການເຊື່ອມຕໍ່"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_HOST_AND_PORT(AUTO_Y)\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Host name"
+msgstr "~ຊື່ເຄືອຂ່າຍ"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"AUTO_HOST_AND_PORT(AUTO_Y)\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "~ຊ່ອງທາງເລກທີ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"DLG_DATABASE_TYPE_CHANGE\n"
+"modaldialog.text"
+msgid "Database properties"
+msgstr "ຄຸນສົມບັດຖານຂໍ້ມູນ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Optional settings"
+msgstr "ເລືອກກຳນົດຄ່າ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"CB_SHOWDELETEDROWS\n"
+"checkbox.text"
+msgid "Display deleted records as well"
+msgstr "ເປີດການບັນທຶກການລຶບນຳ"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"FT_SPECIAL_MESSAGE\n"
+"fixedtext.text"
+msgid "Note: When deleted, and thus inactive, records are displayed, you will not be able to delete records from the data source."
+msgstr "ໝາຍເຫດ: ເມື່ອລຶບ, ແລະ ສະແດງວ່າບໍ່ທຳງານ, ການບັນທຶກຖືກເປີດ, ທ່ານຈະບໍ່ສາມາດລຶບການບັນທຶກຈາກແຫຼ່ງຂໍ້ມູນ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_DBASE\n"
+"PB_INDICIES\n"
+"pushbutton.text"
+msgid "Indexes..."
+msgstr "ດັດສະນີ..."
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ODBC\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Optional Settings"
+msgstr "ກຳນົດຄ່າທາງເລືອກ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ODBC\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "ODBC ~options"
+msgstr "ທາງເລືອກ ODBC ~"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_JDBC\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "MySQL JDBC d~river class"
+msgstr "ຫ້ອງໂປຼແກຼມພິເສດ~ MySQL JDBC "
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_JDBC\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "ຫ້ອງທົດລອງ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "User authentication"
+msgstr "ຜູ້ໃຊ້ກວດສອບສີ່ງທີ່ສົ່ງໄປ"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"FT_USERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "~ຊື່ຜູ້ໃຊ້"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_MYSQL_NATIVE\n"
+"CB_PASSWORD_REQUIRED\n"
+"checkbox.text"
+msgid "Password required"
+msgstr "ຕ້ອງການລະຫັດຜ່ານ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ORACLE_JDBC\n"
+"FT_JDBCDRIVERCLASS\n"
+"fixedtext.text"
+msgid "Oracle JDBC d~river class"
+msgstr "ຫ້ອງໂປຼແກຼມພິເສດ JDBC ~"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_ORACLE_JDBC\n"
+"PB_TESTDRIVERCLASS\n"
+"pushbutton.text"
+msgid "Test class"
+msgstr "ຫ້ອງທົດລອງ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Connection Settings"
+msgstr "ກຳນົດຄ່າການເຊື່ອມຕໍ່"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_BASEDN\n"
+"fixedtext.text"
+msgid "~Base DN"
+msgstr "~ຖານ DN"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"CB_USESSL\n"
+"checkbox.text"
+msgid "Use secure connection (SSL)"
+msgstr "ນຳໃຊ້ການເຊື່ອມຕໍ່ທີ່ປອດໄພ (SSL)"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "~ຊ່ອງທາງເລກທີ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_LDAP\n"
+"FT_LDAPROWCOUNT\n"
+"fixedtext.text"
+msgid "Maximum number of ~records"
+msgstr "ຈຳນວນທີ່ບັນທຶກໄດ້ສູງສຸດ~"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_HOSTNAME\n"
+"fixedtext.text"
+msgid "~Hostname"
+msgstr "~ຊື່ແມ່ເຄືອຂ່າຍ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_PORTNUMBER\n"
+"fixedtext.text"
+msgid "~Port number"
+msgstr "~ຊ່ອງທາງເລກທີ"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"PAGE_USERDRIVER\n"
+"FT_OPTIONS\n"
+"fixedtext.text"
+msgid "~Driver settings"
+msgstr "~ກຳນົດຄ່າໂປຼແກຼມພິເສດ"
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"STR_PARENTTITLE_GENERAL\n"
+"string.text"
+msgid "Data Source Properties: #"
+msgstr "ຄຸນສົມບັດແຫຼ່ງຂໍ້ມູນ: #"
+
+#: dbadmin.src
+msgctxt ""
+"dbadmin.src\n"
+"STR_ERR_USE_CONNECT_TO\n"
+"string.text"
+msgid "Please choose 'Connect to an existing database' to connect to an existing database instead."
+msgstr ""
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"STR_COULD_NOT_LOAD_ODBC_LIB\n"
+"string.text"
+msgid "Could not load the program library #lib# or it is corrupted. The ODBC data source selection is not available."
+msgstr "ບໍ່ສາມາດດຶງໂປຼແກຼມຮວບຮວມຂໍ້ມູນ #lib# ຫຼື ໂປຼແກຼມຖືກລົບກວນ. ບໍ່ສາມາດເລືອກແຫ່ຼງຂໍ້ມູນ ODBC "
+
+#: dbadmin.src
+#, fuzzy
+msgctxt ""
+"dbadmin.src\n"
+"STR_UNSUPPORTED_DATASOURCE_TYPE\n"
+"string.text"
+msgid ""
+"This kind of data source is not supported on this platform.\n"
+"You are allowed to change the settings, but you probably will not be able to connect to the database."
+msgstr ""
+"ແຫຼ່ງຂໍ້ມູນຊະນິດນີ້ນຳໃຊ້ບໍ່ໄດ້ກັບຮູບແບບນີ້ .\n"
+"ທ່ານໄດ້ຮັບອະນຸຍາດໃຫ້ປ່ຽນການກຳນົດຄ່າ, ແຕ່ທ່ານອາດຈະບໍ່ສາມາດເຊື່ອມຕໍ່ເຂົ້າຫາຖານຂໍ້ມູນ"
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_ENTER_CONNECTION_PASSWORD\n"
+"string.text"
+msgid "A password is needed to connect to the data source \"$name$\"."
+msgstr "ຕ້ອງການລະຫັດຜ່ານເພື່ອເຊື່ອມຕໍ່ເຂົ້າຫາແຫ່ຼງຂໍ້ມູນ \"$name$\"."
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_ASK_FOR_DIRECTORY_CREATION\n"
+"string.text"
+msgid ""
+"The directory\n"
+"\n"
+"$path$\n"
+"\n"
+"does not exist. Should it be created?"
+msgstr ""
+"ບ່ອນເກັບຂໍ້ມູນ \n"
+"\n"
+"$path$\n"
+"\n"
+"ບໍ່ມີຂໍ້ມູນ. ຄວນ​ສ້າງບໍ່?"
+
+#: dbadmin2.src
+msgctxt ""
+"dbadmin2.src\n"
+"STR_COULD_NOT_CREATE_DIRECTORY\n"
+"string.text"
+msgid "The directory $name$ could not be created."
+msgstr "ບ່ອນເກັບຂໍ້ມູນ $name$ ບໍ່ສາມາດສ້າງໄດ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_DBWIZARDTITLE\n"
+"string.text"
+msgid "Database Wizard"
+msgstr "ຖານຂໍ້ມູນຜູ້ຊ່ຽວຊານ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_INTROPAGE\n"
+"string.text"
+msgid "Select database"
+msgstr "ເລືອກຖານຂໍ້ມູນ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_DBASE\n"
+"string.text"
+msgid "Set up dBASE connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ dBASE"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_TEXT\n"
+"string.text"
+msgid "Set up a connection to text files"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ເຖີງແຟ້ມເອກະສານ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MSACCESS\n"
+"string.text"
+msgid "Set up Microsoft Access connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ Microsoft Access"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_LDAP\n"
+"string.text"
+msgid "Set up LDAP connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ LDAP"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ADO\n"
+"string.text"
+msgid "Set up ADO connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່​ ADO"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_JDBC\n"
+"string.text"
+msgid "Set up JDBC connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່​ JDBC "
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ORACLE\n"
+"string.text"
+msgid "Set up Oracle database connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່​ຖານຂໍ້ມູນໂອຣາເຄີ (Oracle)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MYSQL\n"
+"string.text"
+msgid "Set up MySQL connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ MySQL"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_ODBC\n"
+"string.text"
+msgid "Set up ODBC connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່  ODBC"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_SPREADSHEET\n"
+"string.text"
+msgid "Set up Spreadsheet connection"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ ໂປຼແກຼມຄິດໄລ່"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_AUTHENTIFICATION\n"
+"string.text"
+msgid "Set up user authentication"
+msgstr "ຕິດຕັ້ງການຮັບຮອງຜູ້ໃຊ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_MYSQL_NATIVE\n"
+"string.text"
+msgid "Set up MySQL server data"
+msgstr ""
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"STR_PAGETITLE_FINAL\n"
+"string.text"
+msgid "Save and proceed"
+msgstr "ບັນທຶກແລະເຮັດຕໍ່ໄປ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"DLG_DATABASE_WIZARD\n"
+"modaldialog.text"
+msgid "Database Wizard"
+msgstr "ຖານຂໍ້ມູນຜູ້ຊ່ຽວຊານ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"STR_DATABASEDEFAULTNAME\n"
+"string.text"
+msgid "New Database"
+msgstr "ຖານຂໍ້ມູນໃໝ່"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQL_HEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up a connection to a MySQL database"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ ເຖີງ ຖານຂໍ້ມູນ MySQL"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQL_HELPTEXT\n"
+"fixedtext.text"
+msgid ""
+"You can connect to a MySQL database using either ODBC or JDBC.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ທ່ານສາມາດເຊື່ອມຕໍ່ເຖີງ ຖານຂໍ້ມູນ MySQL ໂດຍນຳໃຊ້ ODBC ຫຼື JDBC.\n"
+"ກະລຸນາຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການຂອງທ່ານ ຖ້າ​ທ່ານບໍ່ໝັ້ນໃຈກ່ຽວກັບການຕິດຕັ້ງດັ່ງຕໍ່ໄປນີ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"FT_MYSQLCONNECTIONMODE\n"
+"fixedtext.text"
+msgid "How do you want to connect to your MySQL database?"
+msgstr "ທ່ານຕ້ອງການເຊື່ອມຕໍ່ຖານຂໍ້ມູນ MySQL ແບບໃດ?"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIAODBC\n"
+"radiobutton.text"
+msgid "Connect using ODBC (Open Database Connectivity)"
+msgstr "ເຊື່ອມຕໍ່ໂດຍນຳໃຊ້  ODBC (ເປີດການເຊື່ອມຕໍ່ຖານຂໍ້ມູນ)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIAJDBC\n"
+"radiobutton.text"
+msgid "Connect using JDBC (Java Database Connectivity)"
+msgstr "ເຊື່ອມຕໍ່ໂດຍນຳໃຊ້  JDBC (ເປີດການເຊື່ອມຕໍ່ຖານຂໍ້ມູນ)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_INTRO\n"
+"RB_CONNECTVIANATIVE\n"
+"radiobutton.text"
+msgid "Connect directly"
+msgstr ""
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_AUTHENTIFICATIONHEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up the user authentication"
+msgstr "ຕິດຕັ້ງການຮັບຮອງຜູ້ໃຊ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_AUTHENTIFICATIONHELPTEXT\n"
+"fixedtext.text"
+msgid "Some databases require you to enter a user name."
+msgstr "ຖານຂໍ້ມູນບາງອັນຕ້ອງການໃຫ້ທ່ານໃສ່ຊື່ຜູ້ນຳໃຊ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"FT_GENERALUSERNAME\n"
+"fixedtext.text"
+msgid "~User name"
+msgstr "ຊື່ຜູ້ໃຊ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"CB_GENERALPASSWORDREQUIRED\n"
+"checkbox.text"
+msgid "Password re~quired"
+msgstr "ຕ້ອງການລະຫັດຜ່ານ~"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_AUTHENTIFICATION\n"
+"PB_TESTCONNECTION\n"
+"pushbutton.text"
+msgid "~Test Connection"
+msgstr "~ທົດສອບການເຊື່ອມຕໍ່"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQLJDBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up connection to a MySQL database using JDBC"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ເຖີງ ຖານຂໍ້ມູນ MySQL ໂດຍນຳໃຊ້ JDBC"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQLJDBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to a MySQL database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ກະລຸນາໃສ່ຂໍ້ມູນເພື່ອເຊື່ອມຕໍ່ເຂົ້າຫາ ຖານຂໍ້ມູນ MySQ ໂດຍນຳໃຊ້ LJDBC. ໝາຍເຫດ ຈະຕ້ອງຕິດຕັ້ງ ຫ້ອງໂປຼແກຼມພິເສດ JDBC ໃນຄອມພິວເຕີຂອງທ່ານ ແລະ ລົງທະບຽນກັບ %PRODUCTNAME.\n"
+"ກະລຸນາດຕິດຕໍ່"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQL_DRIVERCLASSTEXT\n"
+"string.text"
+msgid "MySQL JDBC d~river class:"
+msgstr "ຫ້ອງໂປຼແກຼມພິເສດ MySQL JDBC "
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_JDBC\n"
+"STR_MYSQL_DEFAULT\n"
+"string.text"
+msgid "Default: 3306"
+msgstr "ຄ່າທີ່ກຳນົດໄວ້ໃຫ້ແລ້ວ : 3306"
+
+#: dbadminsetup.src
+#, fuzzy
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_NATIVE\n"
+"FT_SETUP_WIZARD_HEADER\n"
+"fixedtext.text"
+msgid "Set up connection to a MySQL database"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ ເຖີງ ຖານຂໍ້ມູນ MySQL"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MYSQL_NATIVE\n"
+"FT_SETUP_WIZARD_HELP\n"
+"fixedtext.text"
+msgid "Please enter the required information to connect to a MySQL database."
+msgstr ""
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_DBASE\n"
+"STR_DBASE_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to dBASE files"
+msgstr "ກຳນົດຄ່າການເຊື່ອມຕໍ່ເຂົ້າຫາແຟ້ມ dBASE "
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_DBASE\n"
+"STR_DBASE_HELPTEXT\n"
+"string.text"
+msgid "Select the folder where the dBASE files are stored."
+msgstr "ເລືອກບ່ອນເກັບຂໍ້ມູນ ທີ່ແຟ້ມ dBASE ຖຶກເກັບໄວ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to text files"
+msgstr "ຕິດຕັ້ງການເຊື່ອມຕໍ່ເຖີງແຟ້ມເອກະສານ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_HELPTEXT\n"
+"string.text"
+msgid "Select the folder where the CSV (Comma Separated Values) text files are stored. %PRODUCTNAME Base will open these files in read-only mode."
+msgstr "ເລືອກບ່ອນເກັບຂໍ້ມູນ ທີ່ ແຟ້ມເອກະສານ CSV (ຈຸດແຍກຫົວໜ່ວຍ) ຖືກເກັບໄວ້. ອີງຕາມ %PRODUCTNAME ຈະເປີດແຟ້ມເຫຼົ່ສນີ້ແບບອ່ານຢ່າງດຽວ."
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_TEXT\n"
+"STR_TEXT_PATH_OR_FILE\n"
+"string.text"
+msgid "Path to text files"
+msgstr "ເສັ້ນທາງແຟ້ມເອກະສານ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MSACCESS\n"
+"STR_MSACCESS_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to a Microsoft Access database"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຫາ Microsoft Access database"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_MSACCESS\n"
+"STR_MSACCESS_HELPTEXT\n"
+"string.text"
+msgid "Please select the Microsoft Access file you want to access."
+msgstr "ກະລຸນາເລືອກແຟ້ມ Microsoft Access ທີ່ທ່ານຕ້ອງການເຂົ້າເຖີງ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"FT_LDAP_HEADERTEXT\n"
+"fixedtext.text"
+msgid "Set up a connection to an LDAP directory"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຫາບ່ອນເກັບຂໍ້ມູນ LDAP "
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"FT_LDAP_HELPTEXT\n"
+"fixedtext.text"
+msgid ""
+"Please enter the required information to connect to an LDAP directory.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ກະລຸນາໃສ່ຂໍ້ມູນທີ່ຮຽກຮ້ອງເພື່ອທຳການເຊື່ອມຕໍ່ເຂົ້າຫາ​ບ່ອນເກັບຂໍ້ມູນ LDAP.\n"
+"ກະລຸນາຕິດຕໍ່ຫາຜູ້ໃຫ້ບໍລິການຂອງທ່ານ ຖ້າທ່ານບໍ່ໝັ້ນໃຈກ່ຽວກັບການຕິດຕັ້ງຕໍ່ໄປນີ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"STR_LDAP_DEFAULT\n"
+"string.text"
+msgid "Default: 389"
+msgstr "ຄ່າທີ່ກຳນົດໄວ້ໃຫ້ແລ້ວ : 389"
+
+#: dbadminsetup.src
+#, fuzzy
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_LDAP\n"
+"CB_WIZ_USESSL\n"
+"checkbox.text"
+msgid "Use ~secure connection (SSL)"
+msgstr "ນຳໃຊ້ການເຊື່ອມຕໍ່ທີ່ປອດໄພ (SSL)"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ADO\n"
+"STR_ADO_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an ADO database"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຖານຂໍ້ມູນ ADO"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ADO\n"
+"STR_ADO_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the URL of the ADO data source you want to connect to.\n"
+"Click 'Browse' to configure provider-specific settings.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ກະລຸນາໃສ່ຂໍ້ມູນ URL ຂອງແຫ່ຼງຂໍ້ມູນ ADO ທີ່ທ່ານຕ້ອງການເຊື່ອມຕໍ່ຫາ .\n"
+"ກົດ 'Browse' ເພື່ອທຳການປັບແຕ່ງການກຳນົດຄ່າທີ່ລະບຸຜູ້ໃຫ້ບໍລິການ.\n"
+"ກະລຸນາຕິດຕໍ່ຫາຜູ້ໃຫ້ບໍລິການຂອງທ່ານ ຖ້າທ່ານບໍ່ໝັ້ນໃຈກ່ຽວກັບການຕິດຕັ້ງຕໍ່ໄປນີ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ODBC\n"
+"STR_ODBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an ODBC database"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຫາຖານຂໍ້ມູນ ODBC"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ODBC\n"
+"STR_ODBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Enter the name of the ODBC database you want to connect to.\n"
+"Click 'Browse...' to select an ODBC database that is already registered in %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ໃສ່ຊື່ຖານຂໍ້ມູນ ODBC ທີ່ທ່ານຕ້ອງການເຊື່ອມຕໍ່ເຂົ້າຫາ .\n"
+"ກົດ 'Browse' ເພື່ອເລືອກຖານຂໍ້ມູນ ODBCເຊີ່ງໄດ້ລົງທະບຽນແລ້ວໃນ %PRODUCTNAME.\n"
+"ກະລຸນາຕິດຕໍ່ຫາຜູ້ໃຫ້ບໍລິການຂອງທ່ານ ຖ້າທ່ານບໍ່ໝັ້ນໃຈກ່ຽວກັບການຕິດຕັ້ງຕໍ່ໄປນີ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_JDBC\n"
+"STR_JDBC_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to a JDBC database"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຫາຖານຂໍ້ມູນ  JDBC"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_JDBC\n"
+"STR_JDBC_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to a JDBC database.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+"ກະລຸນາໃສ່ຂໍ້ມູນທີ່ຮຽກຮ້ອງເພື່ອທຳການເຊື່ອມຕໍ່ຫາຖານຂໍ້ມູນ JDBC .\n"
+"ກະລຸນາຕິດຕໍ່ຫາຜູ້ໃຫ້ບໍລິການຂອງທ່ານ ຖ້າທ່ານບໍ່ໝັ້ນໃຈກ່ຽວກັບການຕິດຕັ້ງຕໍ່ໄປນີ້"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to an Oracle database"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຫາຖານຂໍ້ມູນ Oracle"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_DEFAULT\n"
+"string.text"
+msgid "Default: 1521"
+msgstr "ຄ່າທີ່ກຳນົດໄວ້ໃຫ້ແລ້ວ: 1521"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_DRIVERCLASSTEXT\n"
+"string.text"
+msgid "Oracle JDBC ~driver class"
+msgstr "ຫ້ອງໂປຼແກຼມພິເສດ ~ Oracle JDBC"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_ORACLE\n"
+"STR_ORACLE_HELPTEXT\n"
+"string.text"
+msgid ""
+"Please enter the required information to connect to an Oracle database. Note that a JDBC Driver Class must be installed on your system and registered with %PRODUCTNAME.\n"
+"Please contact your system administrator if you are unsure about the following settings."
+msgstr ""
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEET_HEADERTEXT\n"
+"string.text"
+msgid "Set up a connection to spreadsheets"
+msgstr "ສ້າງການເຊື່ອມຕໍ່ຫາ ໂປຼແກຼມຄິດໄລ່"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEET_HELPTEXT\n"
+"string.text"
+msgid ""
+"Click 'Browse...' to select a %PRODUCTNAME spreadsheet or Microsoft Excel workbook.\n"
+"%PRODUCTNAME will open this file in read-only mode."
+msgstr ""
+"ກົດ 'Browse...' ເພື່ອເລືອກໂປຼແກຼມຄິດໄລ່ %PRODUCTNAME ຫລື Microsoft Excel workbook.\n"
+"%PRODUCTNAME ຈະເປີດແຟ້ມນີ້ໃນຮູບແບບອ່ານຢ່າງດຽວ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"STR_SPREADSHEETPATH\n"
+"string.text"
+msgid "~Location and file name"
+msgstr "~ຊື່ທີ່ຕັ້ງແລະແຟ້ມ"
+
+#: dbadminsetup.src
+msgctxt ""
+"dbadminsetup.src\n"
+"PAGE_DBWIZARD_SPREADSHEET\n"
+"CB_SPREADSHEETPASSWORDREQUIRED\n"
+"checkbox.text"
+msgid "~Password required"
+msgstr "~ຕ້ອງການລະຫັດຜ່ານ"
+
+#: directsql.src
+msgctxt ""
+"directsql.src\n"
+"STR_COMMAND_EXECUTED_SUCCESSFULLY\n"
+"string.text"
+msgid "Command successfully executed."
+msgstr "ຄຳສັ່ງປະຄິບັດສຳເລັດ"
+
+#: directsql.src
+msgctxt ""
+"directsql.src\n"
+"STR_DIRECTSQL_CONNECTIONLOST\n"
+"string.text"
+msgid "The connection to the database has been lost. This dialog will be closed."
+msgstr "ການການເຊື່ອມຕໍ່ຫາຖານຂໍ້ມູນຖືກຢຸດ. ກອບການເຮັດວຽກນີ້ຈຳຖືກປິດ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_NEW\n"
+"toolboxitem.text"
+msgid "New Index"
+msgstr "ດັດສະນີໃໝ່"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_DROP\n"
+"toolboxitem.text"
+msgid "Delete Current Index"
+msgstr "ລຶບດັດສະນີຂະນະນີ້"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_RENAME\n"
+"toolboxitem.text"
+msgid "Rename Current Index"
+msgstr "ປ່ຽນຊື່ດັດສະນີຂະນະນີ້"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_SAVE\n"
+"toolboxitem.text"
+msgid "Save Current Index"
+msgstr "ບັນທຶກດັດສະນີຂະນະນີ້"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN.TLB_ACTIONS\n"
+"ID_INDEX_RESET\n"
+"toolboxitem.text"
+msgid "Reset Current Index"
+msgstr "ສ້າງຄືນດັດສະນີຂະນະນີ້"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FL_INDEXDETAILS\n"
+"fixedline.text"
+msgid "Index details"
+msgstr "ລາຍລະອຽດດັດສະນີ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FT_DESC_LABEL\n"
+"fixedtext.text"
+msgid "Index identifier:"
+msgstr "ຕົວຊີ້ວັດດັດສະນີ:"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"CB_UNIQUE\n"
+"checkbox.text"
+msgid "~Unique"
+msgstr "~ໜຶ່ງດຽວ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"FT_FIELDS\n"
+"fixedtext.text"
+msgid "Fields"
+msgstr "ພື້ນທີ່"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"PB_CLOSE\n"
+"pushbutton.text"
+msgid "~Close"
+msgstr "~ປິດ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"DLG_INDEXDESIGN\n"
+"modaldialog.text"
+msgid "Indexes"
+msgstr "ດັດສະນີ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_TAB_INDEX_SORTORDER\n"
+"string.text"
+msgid "Sort order"
+msgstr "ລຽງລຳດັບ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_TAB_INDEX_FIELD\n"
+"string.text"
+msgid "Index field"
+msgstr "ດັດສະນີພື້ນທີ່"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_ORDER_ASCENDING\n"
+"string.text"
+msgid "Ascending"
+msgstr "ນ້ອຍຫາໃຫຍ່"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_ORDER_DESCENDING\n"
+"string.text"
+msgid "Descending"
+msgstr "ໃຫຍ່ຫານ້ອຍ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_CONFIRM_DROP_INDEX\n"
+"string.text"
+msgid "Do you really want to delete the index '$name$'?"
+msgstr "ທ່ານຕ້ອງການລຶບດັດສະນີ '$name$' ແທ້ບໍ່?"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_LOGICAL_INDEX_NAME\n"
+"string.text"
+msgid "index"
+msgstr "ດັດສະນີ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"ERR_NEED_INDEX_FIELDS\n"
+"errorbox.text"
+msgid "The index must contain at least one field."
+msgstr "ດັດສະນີຈະຕ້ອງບັນຈຸໜື່ງພື້ນທີ່ເປັນຢ່າງໜ້ອຍ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"ERR_NEED_INDEX_FIELDS\n"
+"errorbox.title"
+msgid "Save Index"
+msgstr "ບັນທຶກດັດສະນີ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"QUERY_SAVE_CURRENT_INDEX\n"
+"querybox.text"
+msgid "Do you want to save the changes made to the current index?"
+msgstr "ທ່ານຕ້ອງການປ່ຽນບັນທຶກໃສ່ໃນດັດສະນີປະຈຸບັນນີ້ບໍ່?"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"QUERY_SAVE_CURRENT_INDEX\n"
+"querybox.title"
+msgid "Exit Index Design"
+msgstr "ອອກຈາກການອອກແບບດັສະນີ"
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_INDEX_NAME_ALREADY_USED\n"
+"string.text"
+msgid "There is already another index named \"$name$\"."
+msgstr "ມີຊື່ດັດສະນີອື່ນແລ້ວ\"$name$\"."
+
+#: indexdialog.src
+msgctxt ""
+"indexdialog.src\n"
+"STR_INDEXDESIGN_DOUBLE_COLUMN_NAME\n"
+"string.text"
+msgid "In an index definition, no table column may occur more than once. However, you have entered column \"$name$\" twice."
+msgstr "ນິຍາມດັດສະນຮ, ບໍ່ມີຖັນຕາຕະລາງໃດເກີດຂື້ນຫຼາຍກວ່າໜື່ງຄັ້ງ. ຢ່າງໃດກໍ່ຕາມທ່ານໄດ້ໃສ່ຖັນ \"$name$\" ສອງຄັ້ງ"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"FL_PARAMS\n"
+"fixedline.text"
+msgid "~Parameters"
+msgstr "~ຕົວຊີ້ວັດ"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"FT_VALUE\n"
+"fixedtext.text"
+msgid "~Value"
+msgstr "~ມູນຄ່າ"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"BT_TRAVELNEXT\n"
+"pushbutton.text"
+msgid "~Next"
+msgstr "~ຕໍ່ໄປ"
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"STR_COULD_NOT_CONVERT_PARAM\n"
+"string.text"
+msgid "The entry could not be converted to a valid value for the \"$name$\"column"
+msgstr "ບໍ່ສາມາດປ່ຽນຂໍ້ມູນທີ່ໃສ່ເຂົ້າໄປເພື່ອເປັນຄ່າທີ່ໃຊ້ໄດ້ສຳລັບຖັນ  \"$name$\""
+
+#: paramdialog.src
+msgctxt ""
+"paramdialog.src\n"
+"DLG_PARAMETERS\n"
+"modaldialog.text"
+msgid "Parameter Input"
+msgstr "ຕົວຊີ້ວັດຂໍ້ມູນໃສ່ເຂົ້າໄປ"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_STATUS\n"
+"string.text"
+msgid "SQL Status"
+msgstr ""
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_ERRORCODE\n"
+"string.text"
+msgid "Error code"
+msgstr ""
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXPLAN_STRINGCONVERSION_ERROR\n"
+"string.text"
+msgid "A frequent reason for this error is an inappropriate character set setting for the language of your database. Check the setting by choosing Edit - Database - Properties."
+msgstr "ເຫດຜົນທີ່ເກີດິດພາດນີ້ຂື້ນແມ່ນຄວາມບໍ່ເໝາະສົມຂອງກຸ່ມຕົວອັກສອນທີ່ກຳນົດສຳລັບພາສາຂອງຖານຂໍ້ມູນຂອງທ່ານ. ກວດສອບການຕັ້ງຄ່າໂດຍເລືອກ ແກ້ໄຂຄຸນສົມບັດ -ຖານຂໍ້ມູນ- "
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "ຜິດພາດ"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr "ການເຕືອນ"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_INFO\n"
+"string.text"
+msgid "Information"
+msgstr "ຂໍ້ມູນ"
+
+#: sqlmessage.src
+msgctxt ""
+"sqlmessage.src\n"
+"STR_EXCEPTION_DETAILS\n"
+"string.text"
+msgid "Details"
+msgstr "ລາຍລະອຽດ"
+
+#: textconnectionsettings.src
+#, fuzzy
+msgctxt ""
+"textconnectionsettings.src\n"
+"DLG_TEXT_CONNECTION_SETTINGS\n"
+"modaldialog.text"
+msgid "Text Connection Settings"
+msgstr "ກຳນົດຄ່າການເຊື່ອມຕໍ່"

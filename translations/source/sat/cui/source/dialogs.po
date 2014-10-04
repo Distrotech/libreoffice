@@ -1,0 +1,2335 @@
+#. extracted from cui/source/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-08-20 06:04+0000\n"
+"Last-Translator: chandrakantd <cpdhutadmal@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sat\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1408514679.000000\n"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"modaldialog.text"
+msgid "Color Picker"
+msgstr "रोङ राकाबाक् ."
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"PB_PICKER\n"
+"imagebutton.quickhelptext"
+msgid "Pick a color from the document"
+msgstr "दोलिल खोन मित् रोङ राकाब मे"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_RGB\n"
+"fixedline.text"
+msgid "RGB"
+msgstr "RGB"
+
+#: colorpicker.src
+#, fuzzy
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_RED\n"
+"fixedtext.text"
+msgid "~Red"
+msgstr "आराक्"
+
+#: colorpicker.src
+#, fuzzy
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_GREEN\n"
+"fixedtext.text"
+msgid "~Green"
+msgstr "हा़रियाड़"
+
+#: colorpicker.src
+#, fuzzy
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BLUE\n"
+"fixedtext.text"
+msgid "~Blue"
+msgstr "लील"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HEX\n"
+"fixedtext.text"
+msgid "Hex ~#"
+msgstr "मोहनी ( ~#)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_HSB\n"
+"fixedline.text"
+msgid "HSB"
+msgstr "HSB"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HUE\n"
+"fixedtext.text"
+msgid "H~ue"
+msgstr "रोङ बोरनो (~u)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_SATURATION\n"
+"fixedtext.text"
+msgid "~Saturation"
+msgstr "भिंजाव(~S)"
+
+#: colorpicker.src
+#, fuzzy
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BRIGHTNESS\n"
+"fixedtext.text"
+msgid "Bright~ness"
+msgstr "चोक् मोक्"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_CMYK\n"
+"fixedline.text"
+msgid "CMYK"
+msgstr "CMYK"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_CYAN\n"
+"fixedtext.text"
+msgid "~Cyan"
+msgstr "एतांङ लिल रोङ (~C)"
+
+#: colorpicker.src
+#, fuzzy
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_MAGENTA\n"
+"fixedtext.text"
+msgid "~Magenta"
+msgstr "मैजेन्टा"
+
+#: colorpicker.src
+#, fuzzy
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_YELLOW\n"
+"fixedtext.text"
+msgid "~Yellow"
+msgstr "Yellow"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_KEY\n"
+"fixedtext.text"
+msgid "~Key"
+msgstr "का़ठी (~K) ."
+
+#: commonlingui.src
+#, fuzzy
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_WORD\n"
+"fixedtext.text"
+msgid "Origi~nal"
+msgstr ""
+"#-#-#-#-#  miscdlgs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मूल\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मूल\n"
+"#-#-#-#-#  filter.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पा़हिलाक्"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_NEWWORD\n"
+"fixedtext.text"
+msgid "~Word"
+msgstr "साबाद (~W) ."
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_SUGGESTION\n"
+"fixedtext.text"
+msgid "~Suggestions"
+msgstr "सोलाह(~S)"
+
+#: commonlingui.src
+#, fuzzy
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNORE\n"
+"pushbutton.text"
+msgid "~Ignore"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आड़क्  गिडी (~I)\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बा़गियाक् (~I)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNOREALL\n"
+"pushbutton.text"
+msgid "Always I~gnore"
+msgstr "जावगे आड़ाकाक् (~g) ."
+
+#: commonlingui.src
+#, fuzzy
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGE\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"साहाय मे(R)\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"साहा (~R)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGEALL\n"
+"pushbutton.text"
+msgid "Always R~eplace"
+msgstr "जावगे ओचोगसाहा  (~e) ."
+
+#: commonlingui.src
+#, fuzzy
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_OPTIONS\n"
+"pushbutton.text"
+msgid "Options..."
+msgstr ""
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"विकल्प...\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"एटागाक्"
+
+#: commonlingui.src
+#, fuzzy
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_SPL_CANCEL\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "बोंद(~C)"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ERR_TEXTNOTFOUND\n"
+"string.text"
+msgid "No alternatives found."
+msgstr "जहान ओरापारी  बाङ  ञाम लेना ."
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECT_FILE_IFRAME\n"
+"string.text"
+msgid "Select File for Floating Frame"
+msgstr "चापे साज ला़गित् रेत् बाछाव मे ."
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_MYMACROS\n"
+"string.text"
+msgid "My Macros"
+msgstr "इञाक् माराङ तेत्"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PRODMACROS\n"
+"string.text"
+msgid "%PRODUCTNAME Macros"
+msgstr "BASIC माराङ तेत्"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_ADD_COMMANDS\n"
+"string.text"
+msgid "Add Commands"
+msgstr "कोमांड को सेलेद मे"
+
+#: cuires.src
+#, fuzzy
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_RUN\n"
+"string.text"
+msgid "Run"
+msgstr "R~चालावाक्"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ROW\n"
+"string.text"
+msgid "Insert Rows"
+msgstr "थार को सोगे"
+
+#. PPI is pixel per inch, %1 is a number
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PPI\n"
+"string.text"
+msgid "(%1 PPI)"
+msgstr ""
+
+#: cuires.src
+#, fuzzy
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_COL\n"
+"string.text"
+msgid "Insert Columns"
+msgstr "कांधा आदेर (~I)"
+
+#: cuires.src
+#, fuzzy
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_AUTO_ENTRY\n"
+"string.text"
+msgid "Automatic"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"स्वचालित\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् ते\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_EDIT_GRAPHIC\n"
+"string.text"
+msgid "Link"
+msgstr "Link"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_LOADACCELCONFIG\n"
+"string.text"
+msgid "Load Keyboard Configuration"
+msgstr "का़ठी बोर्ड भितरी लादे तेयार ."
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SAVEACCELCONFIG\n"
+"string.text"
+msgid "Save Keyboard Configuration"
+msgstr "का़ठी बोर्ड भितरी तेयार सांचाव मे ."
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_FILTERNAME_CFG\n"
+"string.text"
+msgid "Configuration (*.cfg)"
+msgstr "Configuration (*.cfg)"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_ANYWHERE\n"
+"string.text"
+msgid "anywhere in the field"
+msgstr "जायगा रे जाहां रेगे"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_BEGINNING\n"
+"string.text"
+msgid "beginning of field"
+msgstr "जायगा रेयाक् एतोहोप"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_END\n"
+"string.text"
+msgid "end of field"
+msgstr "जायगा रेयाक् मुचा़त्"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_WHOLE\n"
+"string.text"
+msgid "entire field"
+msgstr "गोटा जायगा"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_TOP\n"
+"string.text"
+msgid "From top"
+msgstr "From top"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_BOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "नीचे से"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_NORECORD\n"
+"errorbox.text"
+msgid "No records corresponding to your data found."
+msgstr "आमाक् डाटा ञाम ला़गित जाहान रेकोर्ड रोड़ रुवा़ड़ बाय ञाम लेना."
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_GENERAL_ERROR\n"
+"errorbox.text"
+msgid "An unknown error occurred. The search could not be finished."
+msgstr "मित् बाङ बाडाय भुल ञामेना. पानते बाङ मुचा़द  दाड़ेयाक् आ."
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_FORWARD\n"
+"string.text"
+msgid "Overflow, search continued at the beginning"
+msgstr "सारेड़ पारोम, एतोहोब रे पानते लेताड़ाकाना"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_BACKWARD\n"
+"string.text"
+msgid "Overflow, search continued at the end"
+msgstr "सारेड़ पारोम, मुचा़त् रे पानते लेताड़ाकाना"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_COUNTING\n"
+"string.text"
+msgid "counting records"
+msgstr "रेकोर्ड को लेखायेक् आ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOFILES\n"
+"string.text"
+msgid "<No Files>"
+msgstr "<जाहान रेत् को बाङ >"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERYPROPS_OBJECT\n"
+"string.text"
+msgid "Object;Objects"
+msgstr "जिनिस ; जिनिस को ."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_READONLY\n"
+"string.text"
+msgid "(read-only)"
+msgstr "(पाड़हाव एसकार)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ALLFILES\n"
+"string.text"
+msgid "<All Files>"
+msgstr "<जोतो रेत् को >"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ID_EXISTS\n"
+"string.text"
+msgid "This ID already exists..."
+msgstr "नेवा ञुतुम माड़ाङ खोन मेनाक् आ"
+
+#: hangulhanjadlg.src
+#, fuzzy
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find"
+msgstr ""
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~अन्वेषण\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ञाम(~F)\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~पानते (F)\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पानते (~F)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "तेयार"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_SIMPLE_CONVERSION\n"
+"radiobutton.text"
+msgid "~Hangul/Hanja"
+msgstr "हांगुल /हांजा  (~H)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BRACKETED\n"
+"radiobutton.text"
+msgid "Hanja (Han~gul)"
+msgstr "हानजा  (हांगुल) (~g)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BRACKETED\n"
+"radiobutton.text"
+msgid "Hang~ul (Hanja)"
+msgstr "हांगुल (हांजा) (~u)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_ABOVE\n"
+"radiobutton.text"
+msgid "Hangu~l"
+msgstr "हांगुल (~l)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BELOW\n"
+"radiobutton.text"
+msgid "Hang~ul"
+msgstr "हांगुल (~u) ."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_ABOVE\n"
+"radiobutton.text"
+msgid "Han~ja"
+msgstr "हानजा (~j) ."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BELOW\n"
+"radiobutton.text"
+msgid "Ha~nja"
+msgstr "हानजा (~n)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_CONVERSION\n"
+"fixedtext.text"
+msgid "Conversion"
+msgstr "गालोच"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANGUL_ONLY\n"
+"checkbox.text"
+msgid "Hangul ~only"
+msgstr "एकेन हांगुल ( ~o) ."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANJA_ONLY\n"
+"checkbox.text"
+msgid "Hanja onl~y"
+msgstr "एकेन हानजा (~y)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_REPLACE_BY_CHARACTER\n"
+"checkbox.text"
+msgid "Replace b~y character"
+msgstr "आखोर दाराय ते ओचोक् साहा (~y) ."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "हा़नगुल l"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANJA\n"
+"string.text"
+msgid "Hanja"
+msgstr "हा़नजा (~u)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"modaldialog.text"
+msgid "Hangul/Hanja Conversion"
+msgstr "हांगुल/हानजा उचाड़"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"STR_EDITHINT\n"
+"string.text"
+msgid "[Enter text here]"
+msgstr "[नोडे ओनोल आदेर मे ]"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_BOOK\n"
+"fixedtext.text"
+msgid "Book"
+msgstr "पोतोब, पुथी"
+
+#: hangulhanjadlg.src
+#, fuzzy
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_ORIGINAL\n"
+"fixedtext.text"
+msgid "Original"
+msgstr ""
+"#-#-#-#-#  miscdlgs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मूल\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"मूल\n"
+"#-#-#-#-#  filter.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पा़हिलाक्"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_SUGGESTIONS\n"
+"fixedtext.text"
+msgid "Suggestions (max. 8)"
+msgstr "सोला़ह  (ढ़ेर उतर . 8)"
+
+#: hangulhanjadlg.src
+#, fuzzy
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_NEW\n"
+"pushbutton.text"
+msgid "New"
+msgstr ""
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नावा\n"
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नावा"
+
+#: hangulhanjadlg.src
+#, fuzzy
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_DELETE\n"
+"pushbutton.text"
+msgid "Delete"
+msgstr "मेटाव"
+
+#: hangulhanjadlg.src
+#, fuzzy
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_CLOSE\n"
+"cancelbutton.text"
+msgid "Close"
+msgstr " बोंद"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"modaldialog.text"
+msgid "Edit Custom Dictionary"
+msgstr "कुसियाक् साबाद गादेल सासापड़ाव मे ."
+
+#: hlmarkwn.src
+#, fuzzy
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_APPLY\n"
+"pushbutton.text"
+msgid "Apply"
+msgstr "बाहाल"
+
+#: hlmarkwn.src
+#, fuzzy
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_CLOSE\n"
+"pushbutton.text"
+msgid "Close"
+msgstr " बोंद"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"modaldialog.text"
+msgid "Target in Document"
+msgstr "दोलिल रे जोस ."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_NOENTRIES\n"
+"string.text"
+msgid "Targets do not exist in the document."
+msgstr "दोलिल रे जोस को बा़नुक् आ ."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_DOCNOTOPEN\n"
+"string.text"
+msgid "Couldn't open the document."
+msgstr "दोलिल बाम झिज दाड़ेयाक् ."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"STR_MARK_TREE\n"
+"string.text"
+msgid "Mark Tree"
+msgstr "दारे चिनहा़ मे"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_LINKTYPE\n"
+"fixedline.text"
+msgid "Hyperlink type"
+msgstr "माराङ रोकोम ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_INTERNET\n"
+"radiobutton.text"
+msgid "~Web"
+msgstr "वेब (~W)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_FTP\n"
+"radiobutton.text"
+msgid "~FTP"
+msgstr "FTP(~F)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TARGET_HTML\n"
+"fixedtext.text"
+msgid "Tar~get"
+msgstr "बेझा"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_LOGIN\n"
+"fixedtext.text"
+msgid "~Login name"
+msgstr "बोलोन ञुतुम (~L)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_PASSWD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दानाङ साबाद(~P)\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दानाङ साबाद(~P)\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दानाङ साबाद\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दानाङ साबाद\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दानाङ साबाद(~P)\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दानाङ साबाद(~P)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"CBX_ANONYMOUS\n"
+"checkbox.text"
+msgid "Anonymous ~user"
+msgstr "बेगोर ञुतुम बेभारिच्( ~u) ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "WWW Browser"
+msgstr "WWW  पानतेयाक् ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Open web browser, copy an URL, and paste it to Target field"
+msgstr "वेब पानतेयाक् झिज , URL,नोकोल आर ओना जोस जायगा रे लाठा ."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr " छानियाक् साजाव"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "साज"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr ""
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फार्म"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ओनोल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "बुता़म"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ओनोल (~x)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ञुतुम"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "माराङ खोंजा"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MAILNEWS\n"
+"fixedline.text"
+msgid "Mail & news"
+msgstr "मेल आर खोबोर ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_MAIL\n"
+"radiobutton.text"
+msgid "~E-mail"
+msgstr "इ-मेल (~E)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_NEWS\n"
+"radiobutton.text"
+msgid "~News"
+msgstr "नावा (~N)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_RECEIVER\n"
+"fixedtext.text"
+msgid "Re~cipient"
+msgstr "हाताविक् (~R)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "विसोय (~S)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.text"
+msgid "Data Sources..."
+msgstr "सा़खिया़त मुल (~D)..."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.quickhelptext"
+msgid "Data Sources..."
+msgstr "सा़खिया़त मुल (~D)..."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr " छानियाक् साजाव"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "साज"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr ""
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फार्म"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ओनोल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "बुता़म"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ओनोल (~x)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ञुतुम"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "माराङ खोंजा"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_DOCUMENT\n"
+"fixedline.text"
+msgid "Document"
+msgstr "दोलिल"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_PATH_DOC\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "होर (~P)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.text"
+msgid "Open File"
+msgstr "रेत् झिज ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.quickhelptext"
+msgid "Open File"
+msgstr "रेत् झिज ."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_TARGET\n"
+"fixedline.text"
+msgid "Target in document"
+msgstr "जोस दोलिल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TARGET_DOC\n"
+"fixedtext.text"
+msgid "Targ~et"
+msgstr "बेझा"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_URL\n"
+"fixedtext.text"
+msgid "URL"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"URL\n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"URL\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"यूआरएल\n"
+"#-#-#-#-#  template.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"URL\n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"URL\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"URL\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"URL"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FULL_URL\n"
+"fixedtext.text"
+msgid "Test text"
+msgstr "ओनोल बिडा़व"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "Target in Document"
+msgstr "दोलिल रे जोस ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Target in Document"
+msgstr "दोलिल रे जोस ."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr " छानियाक् साजाव"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "साज"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr ""
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फार्म"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ओनोल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "बुता़म"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ओनोल (~x)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ञुतुम"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "माराङ खोंजा"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_NEWDOCUMENT\n"
+"fixedline.text"
+msgid "New document"
+msgstr "नावा दोलिल"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITNOW\n"
+"radiobutton.text"
+msgid "Edit ~now"
+msgstr "नितोक् सासापड़व मे ( ~n) ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITLATER\n"
+"radiobutton.text"
+msgid "Edit ~later"
+msgstr "तायोम ते सासापड़ाव ( ~l) ."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_PATH_NEWDOC\n"
+"fixedtext.text"
+msgid "~File"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"(~F) रेत्\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"(~F) रेत्\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+" रेत् (~F)\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रेत्"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_DOCUMENT_TYPES\n"
+"fixedtext.text"
+msgid "File ~type"
+msgstr "नोकोल रेत् (~t)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.text"
+msgid "Select Path"
+msgstr "होर बाछाव"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.quickhelptext"
+msgid "Select Path"
+msgstr "होर बाछाव"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr " छानियाक् साजाव"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "साज"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr ""
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"तेयार\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"फार्म"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ओनोल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "बुता़म"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ओनोल (~x)"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ञुतुम"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "लाटाक्"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "माराङ खोंजा"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXDLG_NEWHYPERLINK\n"
+"modaldialog.text"
+msgid "Hyperlink"
+msgstr "माराङ खोंजा"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_APPLYBUT\n"
+"string.text"
+msgid "Apply"
+msgstr "बाहाल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_CLOSEBUT\n"
+"string.text"
+msgid "Close"
+msgstr " बोंद"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT1\n"
+"string.text"
+msgid "Mouse over object"
+msgstr "माउस जिनिस चेतान रे"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT2\n"
+"string.text"
+msgid "Trigger hyperlink"
+msgstr "आ़डी ढेर जोनोड़ाव घोड़ा"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT3\n"
+"string.text"
+msgid "Mouse leaves object"
+msgstr "माउस जिनिस बाहरे"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_NOVALIDFILENAME\n"
+"string.text"
+msgid "Please type in a valid file name."
+msgstr "आम बाताव रेत् ञुतुम टाइप मे ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP\n"
+"string.text"
+msgid "Internet"
+msgstr "इन्टरनेट"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to a Web page or FTP server connection."
+msgstr "नोवा दो ओकारे आम मित् वेब साहटा आर बाङ   FTP  सार्ब र जोनोड़ाव रे माराङ खोंजाम तेयार ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP\n"
+"string.text"
+msgid "Mail & News"
+msgstr "मेल आर खोबोर ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an e-mail address or newsgroup."
+msgstr "नोवा  दो ओकारे आम मित् इमेल ठिका़ना आर बाङ खोबोर दोल को रे माराङ खोंजाम तेयाराक् ."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP\n"
+"string.text"
+msgid "Document"
+msgstr "दोलिल"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an existing document or a target within a document."
+msgstr "नोवा रे आम मित् मेनागाक् दोलिल आर बाङ मित् दोलिल भितिर जोस रे माराङ खोंजाम तेयाराक् ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP\n"
+"string.text"
+msgid "New Document"
+msgstr "नावा दोलिल"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP_HELP\n"
+"string.text"
+msgid "This is where you create a new document to which the new link points."
+msgstr "नोवा दो ओकारे आम नावा दोलिलेम तेयाराक् ओका नावा खोंजा टुडाक् रे ताहेनाक् ."
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FORM_BUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "बुता़म"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FROM_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "ओनोल"
+
+#: hyperdlg.src
+#, fuzzy
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_QUERYOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रेत् माड़ाङ खोन मेनाक् आ ओना चेतान रे ओल मे?\n"
+"#-#-#-#-#  office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रेत् माड़ाङ खोन मेनाक् आ.नोवा चेतान रे ओल मे?"
+
+#: iconcdlg.src
+#, fuzzy
+msgctxt ""
+"iconcdlg.src\n"
+"RID_SVXSTR_ICONCHOICEDLG_RESETBUT\n"
+"string.text"
+msgid "~Back"
+msgstr "तायोम"
+
+#: multipat.src
+#, fuzzy
+msgctxt ""
+"multipat.src\n"
+"RID_MULTIPATH_DBL_ERR\n"
+"string.text"
+msgid "The path %1 already exists."
+msgstr "ञुतुम लाहा खोन मेनाक् आ"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_TITLE\n"
+"string.text"
+msgid "Select Archives"
+msgstr "मारे बाछाव मे . (~h)"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_HEADLINE\n"
+"string.text"
+msgid "Archives"
+msgstr "मारे ओनोल"
+
+#: multipat.src
+#, fuzzy
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_MULTIFILE_DBL_ERR\n"
+"string.text"
+msgid "The file %1 already exists."
+msgstr "ञुतुम लाहा खोन मेनाक् आ"
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_PASSWD_MUST_BE_CONFIRMED\n"
+"string.text"
+msgid "Password must be confirmed"
+msgstr "दानाङ साबाद गोटा ला़कती"
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_ONE_PASSWORD_MISMATCH\n"
+"string.text"
+msgid "The confirmation password did not match the password. Set the password again by entering the same password in both boxes."
+msgstr ""
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_TWO_PASSWORDS_MISMATCH\n"
+"string.text"
+msgid "The confirmation passwords did not match the original passwords. Set the passwords again."
+msgstr ""
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_INVALID_STATE_FOR_OK_BUTTON\n"
+"string.text"
+msgid "Please enter a password to open or to modify, or check the open read-only option to continue."
+msgstr ""
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY\n"
+"string.text"
+msgid "Do you want to delete the following object?"
+msgstr "चेत् आम नोवा को जिनिस मेटाव सानाम काना ?"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY_TITLE\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "मेटाव ला़गित् गोटा"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED\n"
+"string.text"
+msgid "The selected object could not be deleted."
+msgstr "बाछावाक् जिनिस बाङ मेटाव दाड़ेयाक् आ."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to delete this object."
+msgstr "आम ठेन नोवा जिनिस मेटाव ला़गित् छा़ड बा़नुक् आ  ."
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED_TITLE\n"
+"string.text"
+msgid "Error Deleting Object"
+msgstr "Error creating object"
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED\n"
+"string.text"
+msgid "The object could not be created."
+msgstr "जिनिस बाङ सोगे. दाड़ेयाक्"
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDDUP\n"
+"string.text"
+msgid " Object with the same name already exists."
+msgstr "समान नाम का वस्तु पहले से ही अस्तित्व में है"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to create this object."
+msgstr "आम ठेन नोवा जिनिस तेयार रेयाक् छा़ड बा़नुक् आ."
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED_TITLE\n"
+"string.text"
+msgid "Error Creating Object"
+msgstr "Error creating object"
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED\n"
+"string.text"
+msgid "The object could not be renamed."
+msgstr "जिनिस बाङ सोगे. दाड़ेयाक्"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to rename this object."
+msgstr "आम ठेन नोवा जिनिस दोहड़ा ञुतुम रेयाक् छा़ड बा़नुक् आ."
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED_TITLE\n"
+"string.text"
+msgid "Error Renaming Object"
+msgstr "Error creating object"
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TITLE\n"
+"string.text"
+msgid "%PRODUCTNAME Error"
+msgstr "BASIC माराङ तेत्"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_LANG_NOT_SUPPORTED\n"
+"string.text"
+msgid "The scripting language %LANGUAGENAME is not supported."
+msgstr "नोवा चिकी एम पा़रसी दो %LANGUAGENAME बाय गोड़ोवाक् आ."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_RUNNING\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "चालाव ओकतो मित् भुल हुयेना%LANGUAGENAME चिकी %SCRIPTNAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_RUNNING\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "चालाव ओकतो मित् बादाक् ञामेना %LANGUAGENAME चिकी %SCRIPTNAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_AT_LINE\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "चालाव ओकतो मित् भुल हुयेना %LANGUAGENAME चिकी %SCRIPTNAME गार रे: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_AT_LINE\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "चालाव ओकतो मित् बादाक् ञामेना  %LANGUAGENAME चिकी %SCRIPTNAME गार रे: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_RUNNING\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "चालाव ओकतो मित् चिकी साज का़मी भुल ञामेना %LANGUAGENAME चिकी %SCRIPTNAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_AT_LINE\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "चालाव ओकतो मित् चिकी साज का़मी भुल ञामेना %LANGUAGENAME लिपि %SCRIPTNAME गार रे: %LINENUMBER."
+
+#: scriptdlg.src
+#, fuzzy
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TYPE_LABEL\n"
+"string.text"
+msgid "Type:"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लेकान\n"
+"#-#-#-#-#  dbui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  fmtui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लेकान\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"टाइप ओल\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रोकोम\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रेकोम"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_MESSAGE_LABEL\n"
+"string.text"
+msgid "Message:"
+msgstr "खोबोर:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "ओनोड़ रेत् ."
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_LINKS\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "जिनिस"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "Type"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लेकान\n"
+"#-#-#-#-#  dbui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  fmtui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लेकान\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"टाइप ओल\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रोकोम\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रेकोम"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_STATUS\n"
+"fixedtext.text"
+msgid "Status"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"एहोप\n"
+"#-#-#-#-#  dbui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दोसा \n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दोसा\n"
+"#-#-#-#-#  textconversiondlgs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दोसा"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"1\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "बोंद(~C)"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_UPDATE_NOW\n"
+"pushbutton.text"
+msgid "~Update"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हालियाक् (~U)\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हालियाक् (~U)\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हा़लियाकà\n"
+"#-#-#-#-#  classes.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हा़लियाक्"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_OPEN_SOURCE\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr ""
+"#-#-#-#-#  docvw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+" झिच्\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+" झिच्\n"
+"#-#-#-#-#  contnr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+" झिच्(~O)\n"
+"#-#-#-#-#  office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"झिच् (~O)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_CHANGE_SOURCE\n"
+"pushbutton.text"
+msgid "~Modify..."
+msgstr "बोदोल (~M) ..."
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_BREAK_LINK\n"
+"pushbutton.text"
+msgid "~Break Link"
+msgstr "खोंजा रा़पुत्(~B)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES2\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "ओनोड़ रेत् ."
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_SOURCE2\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "जिनिस"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE2\n"
+"fixedtext.text"
+msgid "Type:"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लेकान\n"
+"#-#-#-#-#  dbui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  fmtui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"लेकान\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"नोकोल\n"
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"टाइप ओल\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रोकोम\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"रेकोम"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_UPDATE\n"
+"fixedtext.text"
+msgid "Update:"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हा़लियाक्\n"
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हा़लियाक्\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हा़लियाक्\n"
+"#-#-#-#-#  engine3d.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"हा़लियाक्"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_AUTOMATIC\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"स्वचालित\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् ते\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_MANUAL\n"
+"radiobutton.text"
+msgid "Ma~nual"
+msgstr "ति तेयाके (~n) ."
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_AUTOLINK\n"
+"string.text"
+msgid "Automatic"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"स्वचालित\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् ते\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"आच् आच् ते"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_MANUALLINK\n"
+"string.text"
+msgid "Manual"
+msgstr "ति तेयाक्"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BROKENLINK\n"
+"string.text"
+msgid "Not available"
+msgstr "बाङ नामोगाक्"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_GRAPHICLINK\n"
+"string.text"
+msgid "Graphic"
+msgstr "ता़लिका"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BUTTONCLOSE\n"
+"string.text"
+msgid "~Close"
+msgstr "बोंद(~C)"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "चेद आम नोवा चिंनाह बोदोल सानाम काना?"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG_MULTI\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "चेद आम नोवा चिंनाह बोदोल सानाम काना?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_WAITINGLINK\n"
+"string.text"
+msgid "Waiting"
+msgstr "तांगी"
+
+#: svuidlg.src
+#, fuzzy
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"modaldialog.text"
+msgid "Edit Links"
+msgstr "खोंजा सापड़ाव"

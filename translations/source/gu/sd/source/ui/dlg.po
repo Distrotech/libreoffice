@@ -1,0 +1,867 @@
+#. extracted from sd/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-06-21 11:21+0000\n"
+"Last-Translator: sweta <swkothar@redhat.com>\n"
+"Language-Team: gu_IN <kde-i18n-doc@kde.org>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1371813696.0\n"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_IMPRESS_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Slide Pane"
+msgstr "સ્લાઈડ તકતી"
+
+#: PaneDockingWindow.src
+msgctxt ""
+"PaneDockingWindow.src\n"
+"FLT_LEFT_PANE_DRAW_DOCKING_WINDOW\n"
+"dockingwindow.text"
+msgid "Page Pane"
+msgstr "પાનાં તકતી"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_FIRST\n"
+"imagebutton.quickhelptext"
+msgid "First Image"
+msgstr "પહેલું ચિત્ર"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REVERSE\n"
+"imagebutton.quickhelptext"
+msgid "Backwards"
+msgstr "પાછળનું"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_STOP\n"
+"imagebutton.quickhelptext"
+msgid "Stop"
+msgstr "બંધ કરો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_PLAY\n"
+"imagebutton.quickhelptext"
+msgid "Play"
+msgstr "વગાડવુ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_LAST\n"
+"imagebutton.quickhelptext"
+msgid "Last Image"
+msgstr "છેલ્લું ચિત્ર"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"NUM_FLD_BITMAP\n"
+"numericfield.quickhelptext"
+msgid "Image Number"
+msgstr "ચિત્ર સંખ્યા"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"TIME_FIELD\n"
+"timefield.quickhelptext"
+msgid "Duration"
+msgstr "સમયગાળો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"LB_LOOP_COUNT\n"
+"listbox.quickhelptext"
+msgid "Loop Count"
+msgstr "લુપ ગણતરી"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1\n"
+"stringlist.text"
+msgid "1"
+msgstr "૧"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"2\n"
+"stringlist.text"
+msgid "2"
+msgstr "૨"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"3\n"
+"stringlist.text"
+msgid "3"
+msgstr "૩"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"4\n"
+"stringlist.text"
+msgid "4"
+msgstr "૪"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"5\n"
+"stringlist.text"
+msgid "5"
+msgstr "૫"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"6\n"
+"stringlist.text"
+msgid "6"
+msgstr "૬"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"7\n"
+"stringlist.text"
+msgid "7"
+msgstr "૭"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"8\n"
+"stringlist.text"
+msgid "8"
+msgstr "૮"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"9\n"
+"stringlist.text"
+msgid "9"
+msgstr "૯"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"10\n"
+"stringlist.text"
+msgid "10"
+msgstr "૧૦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"12\n"
+"stringlist.text"
+msgid "12"
+msgstr "૧૨"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"15\n"
+"stringlist.text"
+msgid "15"
+msgstr "૧૫"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"20\n"
+"stringlist.text"
+msgid "20"
+msgstr "૨૦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"25\n"
+"stringlist.text"
+msgid "25"
+msgstr "૨૫"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"50\n"
+"stringlist.text"
+msgid "50"
+msgstr "૫૦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"100\n"
+"stringlist.text"
+msgid "100"
+msgstr "૧૦૦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"500\n"
+"stringlist.text"
+msgid "500"
+msgstr "૫૦૦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"1000\n"
+"stringlist.text"
+msgid "1000"
+msgstr "૧૦૦૦"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_LOOP_COUNT\n"
+"Max.\n"
+"stringlist.text"
+msgid "Max."
+msgstr "મહત્તમ."
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ONE_OBJECT\n"
+"imagebutton.quickhelptext"
+msgid "Apply Object"
+msgstr "વસ્તુ લાગુ પાડો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_GET_ALL_OBJECTS\n"
+"imagebutton.quickhelptext"
+msgid "Apply Objects Individually"
+msgstr "વસ્તુઓ વ્યક્તિગત લાગુ પાડો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_BITMAP\n"
+"imagebutton.quickhelptext"
+msgid "Delete Current Image"
+msgstr "હાલનું ચિત્ર દૂર કરો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_REMOVE_ALL\n"
+"imagebutton.quickhelptext"
+msgid "Delete All Images"
+msgstr "ચિત્રો દૂર કરો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_COUNT\n"
+"fixedtext.text"
+msgid "Number"
+msgstr "સંખ્યા"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_BITMAP\n"
+"fixedline.text"
+msgid "Image"
+msgstr "ચિત્ર"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_GROUP\n"
+"radiobutton.text"
+msgid "Group object"
+msgstr "જૂથ વસ્તુ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"RBT_BITMAP\n"
+"radiobutton.text"
+msgid "Bitmap object"
+msgstr "બીટમેપ વસ્તુ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"FT_ADJUSTMENT\n"
+"fixedtext.text"
+msgid "Alignment"
+msgstr "ગોઠવણી"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Left\n"
+"stringlist.text"
+msgid "Top Left"
+msgstr "ઉપર ડાબે"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Left\n"
+"stringlist.text"
+msgid "Left"
+msgstr "ડાબે"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Left\n"
+"stringlist.text"
+msgid "Bottom Left"
+msgstr "નીચે ડાબે"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top\n"
+"stringlist.text"
+msgid "Top"
+msgstr "ઉપર"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Centered\n"
+"stringlist.text"
+msgid "Centered"
+msgstr "કેન્દ્રસ્થ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "નીચે"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Top Right\n"
+"stringlist.text"
+msgid "Top Right"
+msgstr "ઉપર જમણે"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Right\n"
+"stringlist.text"
+msgid "Right"
+msgstr "જમણુ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION.LB_ADJUSTMENT\n"
+"Bottom Right\n"
+"stringlist.text"
+msgid "Bottom Right"
+msgstr "નીચે જમણે"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"BTN_CREATE_GROUP\n"
+"pushbutton.text"
+msgid "Create"
+msgstr "બનાવો"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"GRP_ANIMATION_GROUP\n"
+"fixedline.text"
+msgid "Animation group"
+msgstr "એનિમેશન સમૂહ"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"STR_DISPLAY\n"
+"string.text"
+msgid "Preview"
+msgstr "પૂર્વદર્શન"
+
+#: animobjs.src
+msgctxt ""
+"animobjs.src\n"
+"FLT_WIN_ANIMATION\n"
+"dockingwindow.text"
+msgid "Animation"
+msgstr "એનિમેશન"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PREVIEW\n"
+"checkbox.text"
+msgid "Previe~w"
+msgstr "પૂર્વદર્શન (~w)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_STARTWITH\n"
+"checkbox.text"
+msgid "~Do not show this wizard again"
+msgstr "આ વિઝાર્ડ પાછું બતાવશો નહિં (~D)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE1_ARTGROUP\n"
+"fixedline.text"
+msgid "Type"
+msgstr "પ્રકાર"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_EMPTY\n"
+"radiobutton.text"
+msgid "~Empty presentation"
+msgstr "ખાલી રજૂઆત (~E)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_TEMPLATE\n"
+"radiobutton.text"
+msgid "~From template"
+msgstr "ટેમ્પલેટમાંથી (~F)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE1_OPEN\n"
+"radiobutton.text"
+msgid "O~pen existing presentation"
+msgstr "અસ્તિત્વમાં હોય તેવી રજૂઆત ખોલો (~p)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_LAYOUT\n"
+"fixedline.text"
+msgid "~Select a slide design"
+msgstr "સ્લાઈડ ડિઝાઈન પસંદ કરો (~S)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE2_OUTPUTTYPES\n"
+"fixedline.text"
+msgid "Select an output medium"
+msgstr "આઉટપુટનુ માધ્યમ પસંદ કરો"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM5\n"
+"radiobutton.text"
+msgid "~Original"
+msgstr "મૂળ (~O)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM1\n"
+"radiobutton.text"
+msgid "Sc~reen"
+msgstr "સ્ક્રીન (~r)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM2\n"
+"radiobutton.text"
+msgid "Sli~de"
+msgstr "સ્લાઇડ (~d)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM3\n"
+"radiobutton.text"
+msgid "O~verhead sheet"
+msgstr "ઓવરહેડ શીટ (~v)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM4\n"
+"radiobutton.text"
+msgid "P~aper"
+msgstr "કાગળ (~a)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE2_MEDIUM6\n"
+"radiobutton.text"
+msgid "W~idescreen"
+msgstr "વિશાળસ્ક્રીન (~i)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_EFFECT\n"
+"fixedline.text"
+msgid "Select a slide transition"
+msgstr "સ્લાઇડ પરિવહન પસંદ કરો"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_EFFECT\n"
+"fixedtext.text"
+msgid "~Effect"
+msgstr "અસર (~E)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_SPEED\n"
+"fixedtext.text"
+msgid "~Speed"
+msgstr "ઝડપ (~S)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE3_PRESTYPE\n"
+"fixedline.text"
+msgid "Select the presentation type"
+msgstr "રજૂઆતનો પ્રકાર પસંદ કરો"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_LIVE\n"
+"radiobutton.text"
+msgid "~Default"
+msgstr "મૂળભૂત (~D)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"RB_PAGE3_KIOSK\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "આપમેળે (~A)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_TIME\n"
+"fixedtext.text"
+msgid "D~uration of page"
+msgstr "પાનાંનો સમયગાળો (~u)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE3_BREAK\n"
+"fixedtext.text"
+msgid "Du~ration of pause"
+msgstr "થોભવાનો સમયગાળો (~r)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE3_LOGO\n"
+"checkbox.text"
+msgid "Sh~ow logo"
+msgstr "લોગો દેખાડો (~o)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FL_PAGE4_PERSONAL\n"
+"fixedline.text"
+msgid "Describe your basic ideas"
+msgstr "તમારી મૂળભૂત યુક્તિઓ વર્ણવો"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKNAME\n"
+"fixedtext.text"
+msgid "What is your name or the name of your company?"
+msgstr "તમારુ અથવા તમારી કંપનીનુ નામ શું છે?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKTOPIC\n"
+"fixedtext.text"
+msgid "What is the subject of your presentation?"
+msgstr "તમારી રજૂઆતનો વિષય શું છે?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE4_ASKINFORMATION\n"
+"fixedtext.text"
+msgid "Further ideas to be presented?"
+msgstr "હજૂ વધારે યુક્તિઓ રજૂ કરવાની છે?"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"FT_PAGE5_PAGELIST\n"
+"fixedtext.text"
+msgid "Ch~oose your pages"
+msgstr "તમારા પાનાંઓ પસંદ કરો (~o)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"CB_PAGE5_SUMMARY\n"
+"checkbox.text"
+msgid "C~reate summary"
+msgstr "સારાંશ બનાવો (~r)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_LAST\n"
+"pushbutton.text"
+msgid "<< ~Back"
+msgstr "<< પાછળ (~B)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_NEXT\n"
+"pushbutton.text"
+msgid "~Next >>"
+msgstr "આગળ (~N) >>"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"BUT_FINISH\n"
+"okbutton.text"
+msgid "~Create"
+msgstr "બનાવો (~C)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "ખોલો (~O)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"STR_CREATE\n"
+"string.text"
+msgid "~Create"
+msgstr "બનાવો (~C)"
+
+#: dlgass.src
+msgctxt ""
+"dlgass.src\n"
+"DLG_ASS\n"
+"modaldialog.text"
+msgid "Presentation Wizard"
+msgstr "રજૂઆત વિઝાર્ડ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PEN\n"
+"toolboxitem.text"
+msgid "Pointer"
+msgstr "નિર્દેશક"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_FIRST\n"
+"toolboxitem.text"
+msgid "First Slide"
+msgstr "પ્રથમ સ્લાઇડ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_PREVIOUS\n"
+"toolboxitem.text"
+msgid "Previous Slide"
+msgstr "પહેલાની સ્લાઇડ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_NEXT\n"
+"toolboxitem.text"
+msgid "Next Slide"
+msgstr "પછીની સ્લાઇડ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_LAST\n"
+"toolboxitem.text"
+msgid "Last Slide"
+msgstr "અંતિમ સ્લાઇડ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_DRAGTYPE\n"
+"toolboxitem.text"
+msgid "Drag Mode"
+msgstr "ખેંચો સ્થિતિ"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR.1\n"
+"TBI_SHAPE_FILTER\n"
+"toolboxitem.text"
+msgid "Show Shapes"
+msgstr "આકારો બતાવો"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"FLT_NAVIGATOR\n"
+"LB_DOCS\n"
+"listbox.quickhelptext"
+msgid "Documents"
+msgstr "દસ્તાવેજો"
+
+#: navigatr.src
+msgctxt ""
+"navigatr.src\n"
+"STR_OBJECTS_TREE\n"
+"string.text"
+msgid "Page Tree"
+msgstr "પાના ટ્રી"

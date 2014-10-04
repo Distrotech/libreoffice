@@ -1,0 +1,2006 @@
+#. extracted from cui/source/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-01-21 11:46+0000\n"
+"Last-Translator: Amandeep Singh <jimidar@gmail.com>\n"
+"Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
+"Language: pa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1390304775.0\n"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"modaldialog.text"
+msgid "Color Picker"
+msgstr "ਰੰਗ ਚੋਣਕਾਰ"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"PB_PICKER\n"
+"imagebutton.quickhelptext"
+msgid "Pick a color from the document"
+msgstr "ਦਸਤਾਵੇਜ਼ ਤੋਂ ਰੰਗ ਚੁਣੋ"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_RGB\n"
+"fixedline.text"
+msgid "RGB"
+msgstr "RGB"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_RED\n"
+"fixedtext.text"
+msgid "~Red"
+msgstr "ਲਾਲ(~R)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_GREEN\n"
+"fixedtext.text"
+msgid "~Green"
+msgstr "ਹਰਾ(~G)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BLUE\n"
+"fixedtext.text"
+msgid "~Blue"
+msgstr "ਨੀਲਾ(~B)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HEX\n"
+"fixedtext.text"
+msgid "Hex ~#"
+msgstr "Hex ~#"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_HSB\n"
+"fixedline.text"
+msgid "HSB"
+msgstr "HSB"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HUE\n"
+"fixedtext.text"
+msgid "H~ue"
+msgstr "ਰੰਗਤ(~u)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_SATURATION\n"
+"fixedtext.text"
+msgid "~Saturation"
+msgstr "ਸੰਤ੍ਰਿਪਤਾ(~S)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BRIGHTNESS\n"
+"fixedtext.text"
+msgid "Bright~ness"
+msgstr "ਚਮਕ(~n)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_CMYK\n"
+"fixedline.text"
+msgid "CMYK"
+msgstr "CMYK"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_CYAN\n"
+"fixedtext.text"
+msgid "~Cyan"
+msgstr "ਕਿਰਮਚੀ(~C)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_MAGENTA\n"
+"fixedtext.text"
+msgid "~Magenta"
+msgstr "ਮੈਜ਼ਾਨਟਿਕ(~M)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_YELLOW\n"
+"fixedtext.text"
+msgid "~Yellow"
+msgstr "ਪੀਲਾ(~Y)"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_KEY\n"
+"fixedtext.text"
+msgid "~Key"
+msgstr "ਸਵਿੱਚ(~K)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_WORD\n"
+"fixedtext.text"
+msgid "Origi~nal"
+msgstr "ਅਸਲੀ(~n)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_NEWWORD\n"
+"fixedtext.text"
+msgid "~Word"
+msgstr "ਸ਼ਬਦ(~W)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_SUGGESTION\n"
+"fixedtext.text"
+msgid "~Suggestions"
+msgstr "ਸੁਝਾਅ(~S)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNORE\n"
+"pushbutton.text"
+msgid "~Ignore"
+msgstr "ਅਣਡਿੱਠਾ(~i)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNOREALL\n"
+"pushbutton.text"
+msgid "Always I~gnore"
+msgstr "ਹਮੇਸ਼ਾ ਅਣਡਿੱਠ(~g)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGE\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr "ਬਦਲੋ(~R)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGEALL\n"
+"pushbutton.text"
+msgid "Always R~eplace"
+msgstr "ਹਮੇਸ਼ਾ ਬਦਲੋ(~e)"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_OPTIONS\n"
+"pushbutton.text"
+msgid "Options..."
+msgstr "ਚੋਣ..."
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_SPL_CANCEL\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "ਬੰਦ ਕਰੋ(~C)"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ERR_TEXTNOTFOUND\n"
+"string.text"
+msgid "No alternatives found."
+msgstr "ਕੋਈ ਫਾਇਲ ਪ੍ਰਤੀਰੂਪ ਨਹੀਂ ਹੈ।"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECT_FILE_IFRAME\n"
+"string.text"
+msgid "Select File for Floating Frame"
+msgstr "ੇ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_MYMACROS\n"
+"string.text"
+msgid "My Macros"
+msgstr "ਮੇਰਾ ਮਾਇਕਰੋ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PRODMACROS\n"
+"string.text"
+msgid "%PRODUCTNAME Macros"
+msgstr "%PRODUCTNAME ਮਾਇਕਰੋ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_ADD_COMMANDS\n"
+"string.text"
+msgid "Add Commands"
+msgstr "ਕਮਾਂਡਾਂ ਸ਼ਾਮਿਲ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_RUN\n"
+"string.text"
+msgid "Run"
+msgstr "ਚਲਾਓ(~u)"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ROW\n"
+"string.text"
+msgid "Insert Rows"
+msgstr "ਕਤਾਰ ਸ਼ਾਮਲ"
+
+#. PPI is pixel per inch, %1 is a number
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PPI\n"
+"string.text"
+msgid "(%1 PPI)"
+msgstr ""
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_COL\n"
+"string.text"
+msgid "Insert Columns"
+msgstr "ਕਾਲਮ ਸ਼ਾਮਲ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_AUTO_ENTRY\n"
+"string.text"
+msgid "Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_EDIT_GRAPHIC\n"
+"string.text"
+msgid "Link"
+msgstr "ਲਿੰਕ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_LOADACCELCONFIG\n"
+"string.text"
+msgid "Load Keyboard Configuration"
+msgstr ""
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SAVEACCELCONFIG\n"
+"string.text"
+msgid "Save Keyboard Configuration"
+msgstr ""
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_FILTERNAME_CFG\n"
+"string.text"
+msgid "Configuration (*.cfg)"
+msgstr ""
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_ANYWHERE\n"
+"string.text"
+msgid "anywhere in the field"
+msgstr "ਫੀਲਡ ਵਿੱਚ ਕਿਤੇ ਵੀ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_BEGINNING\n"
+"string.text"
+msgid "beginning of field"
+msgstr "ਖੇਤਰ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_END\n"
+"string.text"
+msgid "end of field"
+msgstr "ਖੇਤਰ ਦੇ ਅੰਤ ਉੱਤੇ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_WHOLE\n"
+"string.text"
+msgid "entire field"
+msgstr "ਪੂਰਾ ਖੇਤਰ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_TOP\n"
+"string.text"
+msgid "From top"
+msgstr "ਉਤੋਂ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_BOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "ਹੇਠਾਂ ਤੋਂ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_NORECORD\n"
+"errorbox.text"
+msgid "No records corresponding to your data found."
+msgstr "ਕੋਈ ਆਡਿਟ ਰਿਕਾਰਡ ਨਹੀਂ ਲੱਭਿਆ।"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_GENERAL_ERROR\n"
+"errorbox.text"
+msgid "An unknown error occurred. The search could not be finished."
+msgstr "ਅਣਜਾਣ ਗਲਤੀ ਆਈ ਹੈ। ਖੋਜ ਖਤਮ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ।"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_FORWARD\n"
+"string.text"
+msgid "Overflow, search continued at the beginning"
+msgstr "ਓਵਰਫਲੋ, ਖੋਜ ਸ਼ੁਰੂ ਤੋਂ ਚਾਲੂ ਕੀਤੀ ਸੀ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_BACKWARD\n"
+"string.text"
+msgid "Overflow, search continued at the end"
+msgstr "ਓਵਰਫਲੋ, ਖੋਜ ਅੰਤ ਤੋਂ ਚਾਲੂ ਕੀਤੀ ਸੀ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_COUNTING\n"
+"string.text"
+msgid "counting records"
+msgstr "ਗਿਣਤੀ ਰਿਕਾਰਡ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOFILES\n"
+"string.text"
+msgid "<No Files>"
+msgstr "<ਫਾਇਲਾਂ ਨਹੀਂ>"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERYPROPS_OBJECT\n"
+"string.text"
+msgid "Object;Objects"
+msgstr "Object;Objects"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_READONLY\n"
+"string.text"
+msgid "(read-only)"
+msgstr "(ਸਿਰਫ਼ ਪੜ੍ਹਨ ਲਈ)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ALLFILES\n"
+"string.text"
+msgid "<All Files>"
+msgstr "<ਸਭ ਫਾਇਲਾਂ>"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ID_EXISTS\n"
+"string.text"
+msgid "This ID already exists..."
+msgstr "ਇਹ ID ਪਹਿਲਾਂ ਮੌਜੂਦ ਹੈ..."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find"
+msgstr "ਖੋਜ(~F)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "ਫਾਰਮੈਟ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_SIMPLE_CONVERSION\n"
+"radiobutton.text"
+msgid "~Hangul/Hanja"
+msgstr "ਹੰਗੁਲ/ਹਾਂਜਾ(~H)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BRACKETED\n"
+"radiobutton.text"
+msgid "Hanja (Han~gul)"
+msgstr "ਹਾਂਜਾ (ਹੰਗੁਲ(~g))"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BRACKETED\n"
+"radiobutton.text"
+msgid "Hang~ul (Hanja)"
+msgstr "ਹੰਗੁਲ (ਹਾਂਜਾ)(~u)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_ABOVE\n"
+"radiobutton.text"
+msgid "Hangu~l"
+msgstr "ਹੰਗੁਲ(~l)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BELOW\n"
+"radiobutton.text"
+msgid "Hang~ul"
+msgstr "ਹੰਗੁਲ(~u)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_ABOVE\n"
+"radiobutton.text"
+msgid "Han~ja"
+msgstr "ਹਾਂਜਾ(~j)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BELOW\n"
+"radiobutton.text"
+msgid "Ha~nja"
+msgstr "ਹਾਂਜਾ(~n)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_CONVERSION\n"
+"fixedtext.text"
+msgid "Conversion"
+msgstr "ਤਬਦੀਲੀ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANGUL_ONLY\n"
+"checkbox.text"
+msgid "Hangul ~only"
+msgstr "ਸਿਰਫ ਹੰਗੁਲ(~o)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANJA_ONLY\n"
+"checkbox.text"
+msgid "Hanja onl~y"
+msgstr "ਸਿਰਫ ਹਾਂਜਾ(~y)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_REPLACE_BY_CHARACTER\n"
+"checkbox.text"
+msgid "Replace b~y character"
+msgstr "ਅੱਖਰ ਨਾਲ ਤਬਦੀਲ(~y)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "ਅੱਖਰ ਨਾਲ ਵਟਾਉ (~y)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANJA\n"
+"string.text"
+msgid "Hanja"
+msgstr "ਹਾਂਜਾ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"modaldialog.text"
+msgid "Hangul/Hanja Conversion"
+msgstr "ਹੰਗੁਲ/ਹਾਂਜਾ ਤਬਦੀਲੀ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"STR_EDITHINT\n"
+"string.text"
+msgid "[Enter text here]"
+msgstr "[ਟੈਕਸਟ ਇੱਥੇ ਦਿਓ]"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_BOOK\n"
+"fixedtext.text"
+msgid "Book"
+msgstr "ਕਿਤਾਬ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_ORIGINAL\n"
+"fixedtext.text"
+msgid "Original"
+msgstr "ਅਸਲੀ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_SUGGESTIONS\n"
+"fixedtext.text"
+msgid "Suggestions (max. 8)"
+msgstr "ਸੁਝਾਅ (ਵੱਧ ਤੋ ਵੱਧ 8)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_NEW\n"
+"pushbutton.text"
+msgid "New"
+msgstr "ਨਵਾਂ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_DELETE\n"
+"pushbutton.text"
+msgid "Delete"
+msgstr "ਹਟਾਓ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_CLOSE\n"
+"cancelbutton.text"
+msgid "Close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"modaldialog.text"
+msgid "Edit Custom Dictionary"
+msgstr "ਪਸੰਦੀ ਦੀ ਡਿਕਸ਼ਨਰੀ ਸੋਧ"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_APPLY\n"
+"pushbutton.text"
+msgid "Apply"
+msgstr "ਲਾਗੂ ਕਰੋ"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_CLOSE\n"
+"pushbutton.text"
+msgid "Close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"modaldialog.text"
+msgid "Target in Document"
+msgstr "ਦਸਤਾਵੇਜ਼ 'ਚ ਟਾਰਗੇਟ"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_NOENTRIES\n"
+"string.text"
+msgid "Targets do not exist in the document."
+msgstr "ਡੌਕੂਮੈਂਟ ਵਿੱਚ ਟਾਰਗਿਟ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_DOCNOTOPEN\n"
+"string.text"
+msgid "Couldn't open the document."
+msgstr "ਦਸਤਾਵੇਜ਼ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"STR_MARK_TREE\n"
+"string.text"
+msgid "Mark Tree"
+msgstr "ਟਰੀ ਮਾਰਕ ਕਰੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_LINKTYPE\n"
+"fixedline.text"
+msgid "Hyperlink type"
+msgstr "ਹਾਇਪਰਲਿੰਕ ਕਿਸਮ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_INTERNET\n"
+"radiobutton.text"
+msgid "~Web"
+msgstr "ਵੈੱਬ(~W)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_FTP\n"
+"radiobutton.text"
+msgid "~FTP"
+msgstr "~FTP"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TARGET_HTML\n"
+"fixedtext.text"
+msgid "Tar~get"
+msgstr "ਟਾਰਗੇਟ(~g)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_LOGIN\n"
+"fixedtext.text"
+msgid "~Login name"
+msgstr "ਲਾਗਇਨ ਨਾਂ(~L)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_PASSWD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr "ਪਾਸਵਰਡ(~P)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"CBX_ANONYMOUS\n"
+"checkbox.text"
+msgid "Anonymous ~user"
+msgstr "ਅਣਜਾਣ ਯੂਜ਼ਰ(~u)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "WWW Browser"
+msgstr "WWW ਬਰਾਊਜ਼ਰ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Open web browser, copy an URL, and paste it to Target field"
+msgstr "WWW ਬਰਾਊਜ਼ਰ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "ਹੋਰ ਸੈਟਿੰਗ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "ਫਰੇਮ(~r)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "ਫਾਰਮ(~o)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr ""
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr ""
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ਟੈਕਸਟ(~x)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ਨਾਂ(~a)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "ਹਾਈਪਰਲਿੰਕ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MAILNEWS\n"
+"fixedline.text"
+msgid "Mail & news"
+msgstr "ਮੇਲ ਅਤੇ ਖ਼ਬਰਾਂ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_MAIL\n"
+"radiobutton.text"
+msgid "~E-mail"
+msgstr "ਈਮੇਲ(~E)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_NEWS\n"
+"radiobutton.text"
+msgid "~News"
+msgstr "ਖ਼ਬਰਾਂ(~N)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_RECEIVER\n"
+"fixedtext.text"
+msgid "Re~cipient"
+msgstr "ਪ੍ਰਾਪਤ ਕਰਤਾ(~c)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "ਵਿਸ਼ਾ(~S)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.text"
+msgid "Data Sources..."
+msgstr "ਡਾਟਾ ਸਰੋਤ..."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.quickhelptext"
+msgid "Data Sources..."
+msgstr "ਡਾਟਾ ਸਰੋਤ..."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "ਹੋਰ ਸੈਟਿੰਗ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "ਫਰੇਮ(~r)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "ਫਾਰਮ(~o)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "ਬਟਨ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ਟੈਕਸਟ(~x)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ਨਾਂ(~a)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "ਹਾਈਪਰਲਿੰਕ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_DOCUMENT\n"
+"fixedline.text"
+msgid "Document"
+msgstr "ਡੌਕੂਮੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_PATH_DOC\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "ਮਾਰਗ(~P)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.text"
+msgid "Open File"
+msgstr "ਫਾਇਲ ਖੋਲ੍ਹੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.quickhelptext"
+msgid "Open File"
+msgstr "ਫਾਇਲ ਖੋਲ੍ਹੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_TARGET\n"
+"fixedline.text"
+msgid "Target in document"
+msgstr "ਦਸਤਾਵੇਜ਼ 'ਚ ਟਾਰਗੇਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TARGET_DOC\n"
+"fixedtext.text"
+msgid "Targ~et"
+msgstr "ਟਾਰਗੇਟ(~e)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_URL\n"
+"fixedtext.text"
+msgid "URL"
+msgstr "URL"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FULL_URL\n"
+"fixedtext.text"
+msgid "Test text"
+msgstr "ਟੈਕਸਟ ਟੈਸਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "Target in Document"
+msgstr "ਦਸਤਾਵੇਜ਼ 'ਚ ਟਾਰਗੇਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Target in Document"
+msgstr "ਦਸਤਾਵੇਜ਼ 'ਚ ਟਾਰਗੇਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "ਹੋਰ ਸੈਟਿੰਗ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "ਫਰੇਮ(~r)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "ਫਾਰਮ(~o)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "ਬਟਨ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ਟੈਕਸਟ(~x)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ਨਾਂ(~a)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "ਹਾਈਪਰਲਿੰਕ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_NEWDOCUMENT\n"
+"fixedline.text"
+msgid "New document"
+msgstr "ਨਵਾਂ ਡੌਕੂਮੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITNOW\n"
+"radiobutton.text"
+msgid "Edit ~now"
+msgstr "ਹੁਣੇ ਸੋਧ(~n)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITLATER\n"
+"radiobutton.text"
+msgid "Edit ~later"
+msgstr "ਬਾਅਦ 'ਚ ਸੋਧ(~l)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_PATH_NEWDOC\n"
+"fixedtext.text"
+msgid "~File"
+msgstr "ਫਾਇਲ(~F)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_DOCUMENT_TYPES\n"
+"fixedtext.text"
+msgid "File ~type"
+msgstr "ਫਾਇਲ ਕਿਸਮ(~t)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.text"
+msgid "Select Path"
+msgstr "ਮਾਰਗ ਚੁਣੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.quickhelptext"
+msgid "Select Path"
+msgstr "ਮਾਰਗ ਚੁਣੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "ਹੋਰ ਸੈਟਿੰਗ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "ਫਰੇਮ(~r)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "ਫਾਰਮ(~o)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "ਬਟਨ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "ਟੈਕਸਟ(~x)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "ਨਾਂ(~a)"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "ਈਵੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "ਹਾਈਪਰਲਿੰਕ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXDLG_NEWHYPERLINK\n"
+"modaldialog.text"
+msgid "Hyperlink"
+msgstr "ਹਾਈਪਰਲਿੰਕ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_APPLYBUT\n"
+"string.text"
+msgid "Apply"
+msgstr "ਲਾਗੂ ਕਰੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_CLOSEBUT\n"
+"string.text"
+msgid "Close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT1\n"
+"string.text"
+msgid "Mouse over object"
+msgstr "ਇਕਾਈ ਉਪਰ ਮਾਊਸ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT2\n"
+"string.text"
+msgid "Trigger hyperlink"
+msgstr "ਹਾਈਪਰਲਿੰਕ ਚਲਾਓ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT3\n"
+"string.text"
+msgid "Mouse leaves object"
+msgstr "ਮਾਊਸ ਇਕਾਈ ਛੱਡਦਾ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_NOVALIDFILENAME\n"
+"string.text"
+msgid "Please type in a valid file name."
+msgstr "ਠੀਕ ਫਾਇਲ ਨਾਂ ਦਿਉ ਜੀ।"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP\n"
+"string.text"
+msgid "Internet"
+msgstr "ਇੰਟਰਨੈੱਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to a Web page or FTP server connection."
+msgstr "ਇੱਥੇ ਤੁਸੀਂ ਵੈੱਬ ਪੇਜ਼ ਜਾਂ FTP ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ ਲਈ ਹਾਈਪਰਲਿੰਕ ਬਣਾ ਸਕਦੇ ਹੋ।"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP\n"
+"string.text"
+msgid "Mail & News"
+msgstr "ਮੇਲ ਅਤੇ ਖ਼ਬਰਾਂ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an e-mail address or newsgroup."
+msgstr "ਇੱਥੇ ਤੁਸੀਂ ਸਲਾਇਡਾਂ ਬਣਾ ਤੇ ਸੋਧ ਸਕਦੇ ਹੋ।"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP\n"
+"string.text"
+msgid "Document"
+msgstr "ਡੌਕੂਮੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an existing document or a target within a document."
+msgstr "ਇੱਥੇ ਤੁਸੀਂ ਸਲਾਇਡਾਂ ਬਣਾ ਤੇ ਸੋਧ ਸਕਦੇ ਹੋ।"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP\n"
+"string.text"
+msgid "New Document"
+msgstr "ਨਵਾਂ ਡੌਕੂਮੈਂਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP_HELP\n"
+"string.text"
+msgid "This is where you create a new document to which the new link points."
+msgstr "ਇੱਥੇ ਤੁਸੀਂ ਡਰਾਇੰਗਾਂ ਬਣਾ ਅਤੇ ਸੋਧ ਸਕਦੇ ਹੋ।"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FORM_BUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "ਬਟਨ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FROM_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_QUERYOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "ਫਾਇਲ  ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਉੱਤੇ ਲਿਖਣਾ ਹੈ?"
+
+#: iconcdlg.src
+msgctxt ""
+"iconcdlg.src\n"
+"RID_SVXSTR_ICONCHOICEDLG_RESETBUT\n"
+"string.text"
+msgid "~Back"
+msgstr "ਪਿੱਛੇ(~B)"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_MULTIPATH_DBL_ERR\n"
+"string.text"
+msgid "The path %1 already exists."
+msgstr "ਮਾਰਗ %1 ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_TITLE\n"
+"string.text"
+msgid "Select Archives"
+msgstr "ਆਰਚੀਵ ਚੁਣੋ"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_HEADLINE\n"
+"string.text"
+msgid "Archives"
+msgstr "ਅਕਾਇਵ"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_MULTIFILE_DBL_ERR\n"
+"string.text"
+msgid "The file %1 already exists."
+msgstr "ਫਾਇਲ %1 ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।"
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_PASSWD_MUST_BE_CONFIRMED\n"
+"string.text"
+msgid "Password must be confirmed"
+msgstr ""
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_ONE_PASSWORD_MISMATCH\n"
+"string.text"
+msgid "The confirmation password did not match the password. Set the password again by entering the same password in both boxes."
+msgstr ""
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_TWO_PASSWORDS_MISMATCH\n"
+"string.text"
+msgid "The confirmation passwords did not match the original passwords. Set the passwords again."
+msgstr ""
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_INVALID_STATE_FOR_OK_BUTTON\n"
+"string.text"
+msgid "Please enter a password to open or to modify, or check the open read-only option to continue."
+msgstr ""
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY\n"
+"string.text"
+msgid "Do you want to delete the following object?"
+msgstr "ਕੀ ਤੁਸੀਂ ਅੱਗੇ ਦਿੱਤਾ ਆਬਜੈਕਟ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY_TITLE\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED\n"
+"string.text"
+msgid "The selected object could not be deleted."
+msgstr "ਸ਼ੀਟਾਂ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to delete this object."
+msgstr " ਤੁਹਾਨੂੰ ਇਸ ਐਡਰੈੱਸ-ਬੁੱਕ ਵਿੱਚ ਸੰਪਰਕ ਹਟਾਉਣ ਦਾ ਅਧਿਕਾਰ ਨਹੀਂ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED_TITLE\n"
+"string.text"
+msgid "Error Deleting Object"
+msgstr "ਆਬਜੈਕਟ ਹਟਾਉਣ ਲਈ ਗਲਤੀ"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED\n"
+"string.text"
+msgid "The object could not be created."
+msgstr "ਆਬਜੈਕਟ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDDUP\n"
+"string.text"
+msgid " Object with the same name already exists."
+msgstr "ਇਸ ਨਾਂ ਵਾਲਾ ਐਬਜੈਕਟ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to create this object."
+msgstr " ਤੁਹਾਨੂੰ ਇਸ ਐਡਰੈੱਸ-ਬੁੱਕ ਵਿੱਚ ਸੰਪਰਕ ਹਟਾਉਣ ਦਾ ਅਧਿਕਾਰ ਨਹੀਂ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED_TITLE\n"
+"string.text"
+msgid "Error Creating Object"
+msgstr "ਆਬਜੈਕਟ ਬਣਾਉਣ ਦੌਰਾਨ ਗਲਤੀ"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED\n"
+"string.text"
+msgid "The object could not be renamed."
+msgstr "ਆਬਜੈਕਟ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to rename this object."
+msgstr " ਤੁਹਾਨੂੰ ਇਸ ਇਕਾਈ ਦਾ ਨਾਂ ਬਦਲਣ ਦਾ ਅਧਿਕਾਰ ਨਹੀਂ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED_TITLE\n"
+"string.text"
+msgid "Error Renaming Object"
+msgstr "ਆਬਜੈਕਟ ਹਟਾਉਣ ਲਈ ਗਲਤੀ"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TITLE\n"
+"string.text"
+msgid "%PRODUCTNAME Error"
+msgstr "%PRODUCTNAME ਗਲਤੀ"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_LANG_NOT_SUPPORTED\n"
+"string.text"
+msgid "The scripting language %LANGUAGENAME is not supported."
+msgstr "ਸਕਰਿਪਟਿੰਗ ਭਾਸ਼ਾ %LANGUAGENAME ਨੂੰ ਸਹਿਯੋਗ ਨਹੀਂ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_RUNNING\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "%LANGUAGENAME ਸਕਰਿਪਟ %SCRIPTNAME ਚਲਾਉਣ ਵੇਲੇ ਗਲਤੀ ਆਈ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_RUNNING\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "%LANGUAGENAME ਸਕਰਿਪਟ %SCRIPTNAME ਚਲਾਉਣ ਵੇਲੇ ਇੱਕ ਅੱਪਵਾਦ ਆਇਆ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_AT_LINE\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "%LANGUAGENAME ਸਕਰਿਪਟ %SCRIPTNAME ਨੂੰ ਚਲਾਉਣ ਵੇਲੇ ਜਿਹੜੀ ਲਾਈਨ ਤੇ ਗਲਤੀ ਆਈ ਹੈ: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_AT_LINE\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "%LANGUAGENAME ਸਕਰਿਪਟ %SCRIPTNAME ਨੂੰ ਚਲਾਉਣ ਤੇ ਜਿਹੜੀ ਲਾਈਨ ਤੇ ਗਲਤੀ ਆਈ ਹੈ: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_RUNNING\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "%LANGUAGENAME ਸਕਰਿਪਟ %SCRIPTNAME ਨੂੰ ਚਲਾਉਣ ਵੇਲੇ ਇੱਕ ਸਕਰਿਪਟ ਫਰੇਮਵਰਕ ਗਲਤੀ ਆਈ ਹੈ।"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_AT_LINE\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "%LANGUAGENAME ਸਕਰਿਪਟ %SCRIPTNAME ਨੂੰ ਚਲਾਉਣ ਤੇ ਜਿਸ ਲਾਈਨ ਤੇ ਇੱਕ ਸਕਰਿਪਟਿੰਗ ਫਰੇਮਵਰਕ ਗਲਤੀ ਆਈ ਹੈ: %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TYPE_LABEL\n"
+"string.text"
+msgid "Type:"
+msgstr "ਕਿਸਮ:"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_MESSAGE_LABEL\n"
+"string.text"
+msgid "Message:"
+msgstr "ਸੁਨੇਹਾ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "ਸਰੋਤ ਫਾਇਲ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_LINKS\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "ਤੱਤ:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "Type"
+msgstr "ਕਿਸਮ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_STATUS\n"
+"fixedtext.text"
+msgid "Status"
+msgstr "ਹਾਲਤ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"1\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "ਬੰਦ ਕਰੋ(~C)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_UPDATE_NOW\n"
+"pushbutton.text"
+msgid "~Update"
+msgstr "ਅੱਪਡੇਟ(~U)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_OPEN_SOURCE\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr "ਖੋਲ੍ਹੋ(~O)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_CHANGE_SOURCE\n"
+"pushbutton.text"
+msgid "~Modify..."
+msgstr "ਸੋਧ(~m)..."
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_BREAK_LINK\n"
+"pushbutton.text"
+msgid "~Break Link"
+msgstr "ਲਿੰਕ ਬਰੇਕ(~B)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES2\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "ਸਰੋਤ ਫਾਇਲ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_SOURCE2\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "ਤੱਤ:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE2\n"
+"fixedtext.text"
+msgid "Type:"
+msgstr "ਕਿਸਮ:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_UPDATE\n"
+"fixedtext.text"
+msgid "Update:"
+msgstr "ਅੱਪਡੇਟ:"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_AUTOMATIC\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ(~A)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_MANUAL\n"
+"radiobutton.text"
+msgid "Ma~nual"
+msgstr "ਦਸਤੀ(~n)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_AUTOLINK\n"
+"string.text"
+msgid "Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_MANUALLINK\n"
+"string.text"
+msgid "Manual"
+msgstr "ਡੌਕੂਮੈਂਟ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BROKENLINK\n"
+"string.text"
+msgid "Not available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_GRAPHICLINK\n"
+"string.text"
+msgid "Graphic"
+msgstr "ਗਰਾਫਿਕਸ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BUTTONCLOSE\n"
+"string.text"
+msgid "~Close"
+msgstr "ਬੰਦ ਕਰੋ(~C)"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਚੁਣੇ ਲਿੰਕ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG_MULTI\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਚੁਣੇ ਲਿੰਕ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_WAITINGLINK\n"
+"string.text"
+msgid "Waiting"
+msgstr "ਉਡੀਕ ਜਾਰੀ ਹੈ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"modaldialog.text"
+msgid "Edit Links"
+msgstr "ਲਿੰਕ ਸੋਧ"

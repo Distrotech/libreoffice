@@ -1,0 +1,602 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreOffice 4.3\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-02-22 17:02+0100\n"
+"PO-Revision-Date: 2013-11-04 21:39+0200\n"
+"Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
+"Language-Team: sl.libreoffice.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Project-Style: openoffice\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "Izbor polja:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Tabela;Poizvedba;Sql;Sql [izvirni]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "Bibliografska zbirka podatkov"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "Ali želite urediti razporeditev stolpcev?"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"GB_MAPPING\n"
+"fixedline.text"
+msgid "Column names"
+msgstr "Imena stolpcev"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"ST_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<brez>"
+
+#: datman.src
+msgctxt ""
+"datman.src\n"
+"RID_DLG_MAPPING\n"
+"modaldialog.text"
+msgid "Column Layout for Table %1"
+msgstr "Postavitev stolpcev za tabelo %1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr "Sledečih imen stolpcev ni bilo mogoče dodeliti:\n"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "Članek"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "Knjiga"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "Brošure"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Konferenčni zapisnik"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "Izvleček iz knjige"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "Izvleček iz knjige z naslovom"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Konferenčni zapisnik"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr "Dnevnik"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr "Tehnična dokumentacija"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "Diploma"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "Razno"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "Disertacija"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Konferenčni zapisnik"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "Raziskovalno poročilo"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "Neobjavljeno"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "e-mail"
+msgstr "e-pošta"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "Spletni dokument"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "Uporabniško določeno1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr "Uporabniško določeno2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr "Uporabniško določeno3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr "Uporabniško določeno4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr "Uporabniško določeno5"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"RID_TP_GENERAL\n"
+"tabpage.text"
+msgid "General"
+msgstr "Splošno"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_IDENTIFIER\n"
+"string.text"
+msgid "~Short name"
+msgstr "K~ratko ime"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHTYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "~Vrsta"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_YEAR\n"
+"string.text"
+msgid "~Year"
+msgstr "L~eto"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_AUTHOR\n"
+"string.text"
+msgid "Author(s)"
+msgstr "Avtor(ji)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TITLE\n"
+"string.text"
+msgid "Tit~le"
+msgstr "Nas~lov"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PUBLISHER\n"
+"string.text"
+msgid "~Publisher"
+msgstr "I~zdajatelj"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ADDRESS\n"
+"string.text"
+msgid "A~ddress"
+msgstr "~Naslov"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ISBN\n"
+"string.text"
+msgid "~ISBN"
+msgstr "~ISBN"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CHAPTER\n"
+"string.text"
+msgid "~Chapter"
+msgstr "P~oglavje"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_PAGE\n"
+"string.text"
+msgid "Pa~ge(s)"
+msgstr "St~ran(i)"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITOR\n"
+"string.text"
+msgid "Editor"
+msgstr "Urednik"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_EDITION\n"
+"string.text"
+msgid "Ed~ition"
+msgstr "~Izdaja"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_BOOKTITLE\n"
+"string.text"
+msgid "~Book title"
+msgstr "Naslo~v knjige"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_VOLUME\n"
+"string.text"
+msgid "Volume"
+msgstr "Zvezek/del"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_HOWPUBLISHED\n"
+"string.text"
+msgid "Publication t~ype"
+msgstr "Vrsta ~objave"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ORGANIZATION\n"
+"string.text"
+msgid "Organi~zation"
+msgstr "Organi~zacija"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_INSTITUTION\n"
+"string.text"
+msgid "Instit~ution"
+msgstr "~Ustanova"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SCHOOL\n"
+"string.text"
+msgid "University"
+msgstr "Univerza"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_REPORT\n"
+"string.text"
+msgid "Type of re~port"
+msgstr "Vrsta po~ročila"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_MONTH\n"
+"string.text"
+msgid "~Month"
+msgstr "~Mesec"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_JOURNAL\n"
+"string.text"
+msgid "~Journal"
+msgstr "~Revija"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NUMBER\n"
+"string.text"
+msgid "Numb~er"
+msgstr "Števil~ka"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_SERIES\n"
+"string.text"
+msgid "Se~ries"
+msgstr "~Zbirka"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ANNOTE\n"
+"string.text"
+msgid "Ann~otation"
+msgstr "Prip~omba"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_NOTE\n"
+"string.text"
+msgid "~Note"
+msgstr "~Opomba"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM1\n"
+"string.text"
+msgid "User-defined field ~1"
+msgstr "Upor. določeno polje ~1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM2\n"
+"string.text"
+msgid "User-defined field ~2"
+msgstr "Upor. določeno polje ~2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM3\n"
+"string.text"
+msgid "User-defined field ~3"
+msgstr "Upor. določeno polje ~3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM4\n"
+"string.text"
+msgid "User-defined field ~4"
+msgstr "Upor. določeno polje ~4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_CUSTOM5\n"
+"string.text"
+msgid "User-defined field ~5"
+msgstr "Upor. določeno polje ~5"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "Tabela"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "Iskani niz"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "Samodejni filter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr "Standardni filter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr "Ponastavi filter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "Razporeditev stolpcev"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "Vir podatkov"

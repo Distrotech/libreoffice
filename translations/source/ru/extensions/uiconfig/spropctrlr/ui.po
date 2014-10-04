@@ -1,0 +1,107 @@
+#. extracted from extensions/uiconfig/spropctrlr/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: ui\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2014-06-10 19:04+0000\n"
+"Last-Translator: bormant <bormant@mail.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1402427075.000000\n"
+
+#: controlfontdialog.ui
+msgctxt ""
+"controlfontdialog.ui\n"
+"ControlFontDialog\n"
+"title\n"
+"string.text"
+msgid "Character"
+msgstr "Символы"
+
+#: controlfontdialog.ui
+msgctxt ""
+"controlfontdialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Шрифт"
+
+#: controlfontdialog.ui
+msgctxt ""
+"controlfontdialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Эффекты шрифта"
+
+#: datatypedialog.ui
+msgctxt ""
+"datatypedialog.ui\n"
+"DataTypeDialog\n"
+"title\n"
+"string.text"
+msgid "New Data Type"
+msgstr "Новый тип данных"
+
+#: datatypedialog.ui
+msgctxt ""
+"datatypedialog.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "Type a name for the new data type:"
+msgstr "Введите имя для нового типа данных:"
+
+#: taborder.ui
+msgctxt ""
+"taborder.ui\n"
+"TabOrderDialog\n"
+"title\n"
+"string.text"
+msgid "Tab Order"
+msgstr "Порядок активирования"
+
+#: taborder.ui
+msgctxt ""
+"taborder.ui\n"
+"upB\n"
+"label\n"
+"string.text"
+msgid "_Move Up"
+msgstr "Поднять"
+
+#: taborder.ui
+msgctxt ""
+"taborder.ui\n"
+"downB\n"
+"label\n"
+"string.text"
+msgid "Move _Down"
+msgstr "Опустить"
+
+#: taborder.ui
+msgctxt ""
+"taborder.ui\n"
+"autoB\n"
+"label\n"
+"string.text"
+msgid "_Automatic Sort"
+msgstr "Автосортировка"
+
+#: taborder.ui
+msgctxt ""
+"taborder.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Controls"
+msgstr "Элементы управления"

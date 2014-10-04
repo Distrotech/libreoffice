@@ -1,0 +1,2006 @@
+#. extracted from cui/source/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-06-08 16:00+0000\n"
+"Last-Translator: Alan <alan.monfort@free.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1402243248.000000\n"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"modaldialog.text"
+msgid "Color Picker"
+msgstr "Taper livioù"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"PB_PICKER\n"
+"imagebutton.quickhelptext"
+msgid "Pick a color from the document"
+msgstr "Tapout ul liv diwar an teul"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_RGB\n"
+"fixedline.text"
+msgid "RGB"
+msgstr "RGG"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_RED\n"
+"fixedtext.text"
+msgid "~Red"
+msgstr "~Ruz"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_GREEN\n"
+"fixedtext.text"
+msgid "~Green"
+msgstr "~Gwer"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BLUE\n"
+"fixedtext.text"
+msgid "~Blue"
+msgstr "~Glas"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HEX\n"
+"fixedtext.text"
+msgid "Hex ~#"
+msgstr "C'hwezekredel ~#"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_HSB\n"
+"fixedline.text"
+msgid "HSB"
+msgstr "APL"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_HUE\n"
+"fixedtext.text"
+msgid "H~ue"
+msgstr "Arli~v"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_SATURATION\n"
+"fixedtext.text"
+msgid "~Saturation"
+msgstr "Peurve~c'hiañ"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_BRIGHTNESS\n"
+"fixedtext.text"
+msgid "Bright~ness"
+msgstr "Li~ntr"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"FL_CMYK\n"
+"fixedline.text"
+msgid "CMYK"
+msgstr "SMMD"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_CYAN\n"
+"fixedtext.text"
+msgid "~Cyan"
+msgstr "~Siañ"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_MAGENTA\n"
+"fixedtext.text"
+msgid "~Magenta"
+msgstr "~Majenta"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_YELLOW\n"
+"fixedtext.text"
+msgid "~Yellow"
+msgstr "M~elen"
+
+#: colorpicker.src
+msgctxt ""
+"colorpicker.src\n"
+"RID_CUI_DIALOG_COLORPICKER\n"
+"CT_KEY\n"
+"fixedtext.text"
+msgid "~Key"
+msgstr "~Alc'hwez"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_WORD\n"
+"fixedtext.text"
+msgid "Origi~nal"
+msgstr "Ori~n"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_NEWWORD\n"
+"fixedtext.text"
+msgid "~Word"
+msgstr "~Ger"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"FT_SUGGESTION\n"
+"fixedtext.text"
+msgid "~Suggestions"
+msgstr "~Alioù"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNORE\n"
+"pushbutton.text"
+msgid "~Ignore"
+msgstr "Leuskel a-g~ostez"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_IGNOREALL\n"
+"pushbutton.text"
+msgid "Always I~gnore"
+msgstr "Leuskel a-~gostez bewech"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGE\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr "~Amsaviñ"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_CHANGEALL\n"
+"pushbutton.text"
+msgid "Always R~eplace"
+msgstr "Amsaviñ b~ewech"
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_OPTIONS\n"
+"pushbutton.text"
+msgid "Options..."
+msgstr "Dibarzhioù..."
+
+#: commonlingui.src
+msgctxt ""
+"commonlingui.src\n"
+"RID_SVX_WND_COMMON_LINGU\n"
+"BTN_SPL_CANCEL\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "~Serriñ"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ERR_TEXTNOTFOUND\n"
+"string.text"
+msgid "No alternatives found."
+msgstr "Dazeilad ebet bet kavet"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECT_FILE_IFRAME\n"
+"string.text"
+msgid "Select File for Floating Frame"
+msgstr "Diuzañ ur restr evit ar frammad war neuñv"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_MYMACROS\n"
+"string.text"
+msgid "My Macros"
+msgstr "Ma makroioù"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PRODMACROS\n"
+"string.text"
+msgid "%PRODUCTNAME Macros"
+msgstr "Makroioù %PRODUCTNAME"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_ADD_COMMANDS\n"
+"string.text"
+msgid "Add Commands"
+msgstr "Ouzhpennañ arc'hadoù"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SELECTOR_RUN\n"
+"string.text"
+msgid "Run"
+msgstr "Erounit"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_ROW\n"
+"string.text"
+msgid "Insert Rows"
+msgstr "Enlakaat renkoù"
+
+#. PPI is pixel per inch, %1 is a number
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_PPI\n"
+"string.text"
+msgid "(%1 PPI)"
+msgstr "(%1 PDM)"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_COL\n"
+"string.text"
+msgid "Insert Columns"
+msgstr "Enlakaat bannoù"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_AUTO_ENTRY\n"
+"string.text"
+msgid "Automatic"
+msgstr "Emgefreek"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_EDIT_GRAPHIC\n"
+"string.text"
+msgid "Link"
+msgstr "Ere"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_LOADACCELCONFIG\n"
+"string.text"
+msgid "Load Keyboard Configuration"
+msgstr "Kargañ kefluniadur ar c'hlavier"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_SAVEACCELCONFIG\n"
+"string.text"
+msgid "Save Keyboard Configuration"
+msgstr "Enrollañ kefluniadur ar c'hlavier"
+
+#: cuires.src
+msgctxt ""
+"cuires.src\n"
+"RID_SVXSTR_FILTERNAME_CFG\n"
+"string.text"
+msgid "Configuration (*.cfg)"
+msgstr "Kefluniadur (*.cfg)"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_ANYWHERE\n"
+"string.text"
+msgid "anywhere in the field"
+msgstr "ne vern pelec'h er vaezienn"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_BEGINNING\n"
+"string.text"
+msgid "beginning of field"
+msgstr "derou ar vaezienn"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_END\n"
+"string.text"
+msgid "end of field"
+msgstr "dibenn ar vaezienn"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_WHOLE\n"
+"string.text"
+msgid "entire field"
+msgstr "ar vaezienn a-bezh"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_TOP\n"
+"string.text"
+msgid "From top"
+msgstr "Eus krec'h"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_FROM_BOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "Eus an traoñ"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_NORECORD\n"
+"errorbox.text"
+msgid "No records corresponding to your data found."
+msgstr "Kavet ez eus bet enrolladenn ebet o klotañ gant ho roadennoù"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_SVXERR_SEARCH_GENERAL_ERROR\n"
+"errorbox.text"
+msgid "An unknown error occurred. The search could not be finished."
+msgstr "Degouezhet ez eus bet ur fazi. Ar c'hlask n'hallo ket bezañ echuet."
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_FORWARD\n"
+"string.text"
+msgid "Overflow, search continued at the beginning"
+msgstr "Dic'hlann, d'an derou eo bet kendalc'het ar c'hlask"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_OVERFLOW_BACKWARD\n"
+"string.text"
+msgid "Overflow, search continued at the end"
+msgstr "Dic'hlann, d'an dibenn eo bet kendalc'het ar c'hlask"
+
+#: fmsearch.src
+msgctxt ""
+"fmsearch.src\n"
+"RID_STR_SEARCH_COUNTING\n"
+"string.text"
+msgid "counting records"
+msgstr "kontadur an enrolladennoù"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOFILES\n"
+"string.text"
+msgid "<No Files>"
+msgstr "<Restr ebet>"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERYPROPS_OBJECT\n"
+"string.text"
+msgid "Object;Objects"
+msgstr "Ergorenn;Ergorernnoù"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_READONLY\n"
+"string.text"
+msgid "(read-only)"
+msgstr "(mod lenn nemetken)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ALLFILES\n"
+"string.text"
+msgid "<All Files>"
+msgstr "<An holl restroù>"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ID_EXISTS\n"
+"string.text"
+msgid "This ID already exists..."
+msgstr "An naoudi-mañ a zo anezhañ endeo..."
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find"
+msgstr "~Kavout"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "Mentrezh"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_SIMPLE_CONVERSION\n"
+"radiobutton.text"
+msgid "~Hangul/Hanja"
+msgstr "~Hangul/Hanja"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BRACKETED\n"
+"radiobutton.text"
+msgid "Hanja (Han~gul)"
+msgstr "Hanja (Han~gul)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BRACKETED\n"
+"radiobutton.text"
+msgid "Hang~ul (Hanja)"
+msgstr "Han~gul (Hanja)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_ABOVE\n"
+"radiobutton.text"
+msgid "Hangu~l"
+msgstr "Hangu~l"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANGUL_HANJA_BELOW\n"
+"radiobutton.text"
+msgid "Hang~ul"
+msgstr "Hang~ul"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_ABOVE\n"
+"radiobutton.text"
+msgid "Han~ja"
+msgstr "Han~ja"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"RB_HANJA_HANGUL_BELOW\n"
+"radiobutton.text"
+msgid "Ha~nja"
+msgstr "Ha~nja"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"FT_CONVERSION\n"
+"fixedtext.text"
+msgid "Conversion"
+msgstr "Amdroadur"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANGUL_ONLY\n"
+"checkbox.text"
+msgid "Hangul ~only"
+msgstr "Hangul ~hepken"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_HANJA_ONLY\n"
+"checkbox.text"
+msgid "Hanja onl~y"
+msgstr "Hanja he~pken"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"CB_REPLACE_BY_CHARACTER\n"
+"checkbox.text"
+msgid "Replace b~y character"
+msgstr "Amsaviñ gant un aroue~zenn"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "Hangul"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"STR_HANJA\n"
+"string.text"
+msgid "Hanja"
+msgstr "Hanja"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA\n"
+"modaldialog.text"
+msgid "Hangul/Hanja Conversion"
+msgstr "Amdroadur Hangul/Hanja"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"STR_EDITHINT\n"
+"string.text"
+msgid "[Enter text here]"
+msgstr "[Bizskrivit an destenn amañ]"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_BOOK\n"
+"fixedtext.text"
+msgid "Book"
+msgstr "Levr"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_ORIGINAL\n"
+"fixedtext.text"
+msgid "Original"
+msgstr "Orin"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"FT_SUGGESTIONS\n"
+"fixedtext.text"
+msgid "Suggestions (max. 8)"
+msgstr "Alioù (8 d'an uc'hek)"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_NEW\n"
+"pushbutton.text"
+msgid "New"
+msgstr "Nevez"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_DELETE\n"
+"pushbutton.text"
+msgid "Delete"
+msgstr "Lemel kuit"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"PB_HHE_CLOSE\n"
+"cancelbutton.text"
+msgid "Close"
+msgstr "Serriñ"
+
+#: hangulhanjadlg.src
+msgctxt ""
+"hangulhanjadlg.src\n"
+"RID_SVX_MDLG_HANGULHANJA_EDIT\n"
+"modaldialog.text"
+msgid "Edit Custom Dictionary"
+msgstr "Embann ar geriadur personel"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_APPLY\n"
+"pushbutton.text"
+msgid "Apply"
+msgstr "Seveniñ"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"BT_CLOSE\n"
+"pushbutton.text"
+msgid "Close"
+msgstr "Serriñ"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXFLOAT_HYPERLINK_MARKWND\n"
+"modaldialog.text"
+msgid "Target in Document"
+msgstr "Buken e-barzh an teul"
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_NOENTRIES\n"
+"string.text"
+msgid "Targets do not exist in the document."
+msgstr "Bukenn ebet kavet en teul."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"RID_SVXSTR_HYPDLG_ERR_LERR_DOCNOTOPEN\n"
+"string.text"
+msgid "Couldn't open the document."
+msgstr "N'haller ket digeriñ an teul."
+
+#: hlmarkwn.src
+msgctxt ""
+"hlmarkwn.src\n"
+"STR_MARK_TREE\n"
+"string.text"
+msgid "Mark Tree"
+msgstr "Merkañ ar gwezennad"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_LINKTYPE\n"
+"fixedline.text"
+msgid "Hyperlink type"
+msgstr "Rizh gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_INTERNET\n"
+"radiobutton.text"
+msgid "~Web"
+msgstr "Ken~rouedad"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"RB_LINKTYP_FTP\n"
+"radiobutton.text"
+msgid "~FTP"
+msgstr "~FTP"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TARGET_HTML\n"
+"fixedtext.text"
+msgid "Tar~get"
+msgstr "B~ukenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_LOGIN\n"
+"fixedtext.text"
+msgid "~Login name"
+msgstr "~Anv kennaskañ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_PASSWD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr "~Ger-tremen"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"CBX_ANONYMOUS\n"
+"checkbox.text"
+msgid "Anonymous ~user"
+msgstr "~Arveriad dianv"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "WWW Browser"
+msgstr "Merdeer web"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Open web browser, copy an URL, and paste it to Target field"
+msgstr "Digeriñ ar merdeer web, eilañ an URL ha pegañ eñ er maezienn Bukenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Arventennoù ouzhpenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "F~rammad"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "F~urmskrid"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Testenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Afell"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "Te~stenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Anv"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_INTERNET\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MAILNEWS\n"
+"fixedline.text"
+msgid "Mail & news"
+msgstr "Postel & Keleier"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_MAIL\n"
+"radiobutton.text"
+msgid "~E-mail"
+msgstr "Post~el"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"RB_LINKTYP_NEWS\n"
+"radiobutton.text"
+msgid "~News"
+msgstr "Ke~leier"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_RECEIVER\n"
+"fixedtext.text"
+msgid "Re~cipient"
+msgstr "De~gemerour"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "~Danvez"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.text"
+msgid "Data Sources..."
+msgstr "Tarzh ar roadennoù..."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_ADRESSBOOK\n"
+"imagebutton.quickhelptext"
+msgid "Data Sources..."
+msgstr "Tarzh ar roadennoù..."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Arventennoù ouzhpenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "F~rammad"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "F~urmskrid"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Testenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Afell"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "Te~stenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Anv"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_MAIL\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_DOCUMENT\n"
+"fixedline.text"
+msgid "Document"
+msgstr "Teul"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_PATH_DOC\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "~Treug"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.text"
+msgid "Open File"
+msgstr "Digeriñ ur restr"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_FILEOPEN\n"
+"imagebutton.quickhelptext"
+msgid "Open File"
+msgstr "Digeriñ ur restr"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_TARGET\n"
+"fixedline.text"
+msgid "Target in document"
+msgstr "Buken e-barzh an teul"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TARGET_DOC\n"
+"fixedtext.text"
+msgid "Targ~et"
+msgstr "Buk~enn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_URL\n"
+"fixedtext.text"
+msgid "URL"
+msgstr "URL"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FULL_URL\n"
+"fixedtext.text"
+msgid "Test text"
+msgstr "Testenn brouadiñ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.text"
+msgid "Target in Document"
+msgstr "Buken e-barzh an teul"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_BROWSE\n"
+"imagebutton.quickhelptext"
+msgid "Target in Document"
+msgstr "Buken e-barzh an teul"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Arventennoù ouzhpenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "F~rammad"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "F~urmskrid"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Testenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Afell"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "Te~stenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Anv"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_DOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_NEWDOCUMENT\n"
+"fixedline.text"
+msgid "New document"
+msgstr "Teul nevez"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITNOW\n"
+"radiobutton.text"
+msgid "Edit ~now"
+msgstr "Emba~nn diouzhtu"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"RB_EDITLATER\n"
+"radiobutton.text"
+msgid "Edit ~later"
+msgstr "Embann ~diwezhatoc'h"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_PATH_NEWDOC\n"
+"fixedtext.text"
+msgid "~File"
+msgstr "~Restr"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_DOCUMENT_TYPES\n"
+"fixedtext.text"
+msgid "File ~type"
+msgstr "Rizh res~tr"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.text"
+msgid "Select Path"
+msgstr "Diuzañ un treug"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_CREATE\n"
+"imagebutton.quickhelptext"
+msgid "Select Path"
+msgstr "Diuzañ un treug"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"GRP_MORE\n"
+"fixedline.text"
+msgid "Further settings"
+msgstr "Arventennoù ouzhpenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FRAME\n"
+"fixedtext.text"
+msgid "F~rame"
+msgstr "F~rammad"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_FORM\n"
+"fixedtext.text"
+msgid "F~orm"
+msgstr "F~urmskrid"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Testenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.LB_FORM\n"
+"Button\n"
+"stringlist.text"
+msgid "Button"
+msgstr "Afell"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_INDICATION\n"
+"fixedtext.text"
+msgid "Te~xt"
+msgstr "Te~stenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "N~ame"
+msgstr "~Anv"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.text"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"BTN_SCRIPT\n"
+"imagebutton.quickhelptext"
+msgid "Events"
+msgstr "Degouezhioù"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXPAGE_HYPERLINK_NEWDOCUMENT\n"
+"tabpage.text"
+msgid "Hyperlink"
+msgstr "Gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXDLG_NEWHYPERLINK\n"
+"modaldialog.text"
+msgid "Hyperlink"
+msgstr "Gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_APPLYBUT\n"
+"string.text"
+msgid "Apply"
+msgstr "Seveniñ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_CLOSEBUT\n"
+"string.text"
+msgid "Close"
+msgstr "Serriñ"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT1\n"
+"string.text"
+msgid "Mouse over object"
+msgstr "Logodenn war an ergorenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT2\n"
+"string.text"
+msgid "Trigger hyperlink"
+msgstr "Deluskañ ar gourere"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_MACROACT3\n"
+"string.text"
+msgid "Mouse leaves object"
+msgstr "Logodenn a guita an ergorenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPDLG_NOVALIDFILENAME\n"
+"string.text"
+msgid "Please type in a valid file name."
+msgstr "Bizskrivit un anv restr talvoudek."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP\n"
+"string.text"
+msgid "Internet"
+msgstr "Internet"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLINETTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to a Web page or FTP server connection."
+msgstr "Amañ e vez krouet ur gourere etrezek ur bajennad Web pe ur c'hennask ouzh un dafariad FTP."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP\n"
+"string.text"
+msgid "Mail & News"
+msgstr "Postel & Keleier"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLMAILTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an e-mail address or newsgroup."
+msgstr "Amañ e vez krouet ur gourere etrezek ur chomlec'h postel pe ur forom."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP\n"
+"string.text"
+msgid "Document"
+msgstr "Teul"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCTP_HELP\n"
+"string.text"
+msgid "This is where you create a hyperlink to an existing document or a target within a document."
+msgstr "Amañ e vez krouet ur gourere etrezek un teul ez eus anezhañ pe ur vukenn en un teul."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP\n"
+"string.text"
+msgid "New Document"
+msgstr "Teul nevez"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_HLDOCNTP_HELP\n"
+"string.text"
+msgid "This is where you create a new document to which the new link points."
+msgstr "Amañ e vez krouet un teul nevez ma 'z aio an ere nevez da vukañ warnañ."
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FORM_BUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "Afell"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_FROM_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Testenn"
+
+#: hyperdlg.src
+msgctxt ""
+"hyperdlg.src\n"
+"RID_SVXSTR_HYPERDLG_QUERYOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "Kavout a reer ar restr-mañ dija. Flastrañ ar restr ?"
+
+#: iconcdlg.src
+msgctxt ""
+"iconcdlg.src\n"
+"RID_SVXSTR_ICONCHOICEDLG_RESETBUT\n"
+"string.text"
+msgid "~Back"
+msgstr "~Kent"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_MULTIPATH_DBL_ERR\n"
+"string.text"
+msgid "The path %1 already exists."
+msgstr "An treug %1 a zo anezhañ endeo."
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_TITLE\n"
+"string.text"
+msgid "Select Archives"
+msgstr "Diuzañ dielloù"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_ARCHIVE_HEADLINE\n"
+"string.text"
+msgid "Archives"
+msgstr "Dielloù"
+
+#: multipat.src
+msgctxt ""
+"multipat.src\n"
+"RID_SVXSTR_MULTIFILE_DBL_ERR\n"
+"string.text"
+msgid "The file %1 already exists."
+msgstr "Ar restr %1 a zo anezhi endeo."
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_PASSWD_MUST_BE_CONFIRMED\n"
+"string.text"
+msgid "Password must be confirmed"
+msgstr "Ret eo kadarnaat ar ger-tremen"
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_ONE_PASSWORD_MISMATCH\n"
+"string.text"
+msgid "The confirmation password did not match the password. Set the password again by entering the same password in both boxes."
+msgstr "Ar ger-tremen kadarnaat ne glot ket gant ar ger-tremen. Arventennit ar ger-tremen en-dro en ur viziata an hevelep ger-tremen en div voest."
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_TWO_PASSWORDS_MISMATCH\n"
+"string.text"
+msgid "The confirmation passwords did not match the original passwords. Set the passwords again."
+msgstr "Ar ger-tremen kadarnaat ne glot ket gant ar ger-tremen. Arventennit ar ger-tremen en-dro."
+
+#: passwdomdlg.src
+msgctxt ""
+"passwdomdlg.src\n"
+"RID_SVXSTR_INVALID_STATE_FOR_OK_BUTTON\n"
+"string.text"
+msgid "Please enter a password to open or to modify, or check the open read-only option to continue."
+msgstr "Mar plij, enankit ur ger-tremen da zigeriñ pe zaskemmañ, pe gevaskit an dibarzh a-fet digeriñ e mod lenn nemetken a-benn kenderc'hel ganti."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY\n"
+"string.text"
+msgid "Do you want to delete the following object?"
+msgstr "Fellout a ra deoc'h dilemel an ergorenn da-heul ?"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELQUERY_TITLE\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "Kadarnaat an dilemel"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED\n"
+"string.text"
+msgid "The selected object could not be deleted."
+msgstr "N'haller ket dilemel an ergorenn diuzet."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to delete this object."
+msgstr " N'ho peus ket ar gwirioù ret a-benn dilemel an elfenn-mañ."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_DELFAILED_TITLE\n"
+"string.text"
+msgid "Error Deleting Object"
+msgstr "Fazi e-pad dilamadur an ergorenn"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED\n"
+"string.text"
+msgid "The object could not be created."
+msgstr "N'haller ket krouiñ an ergorenn"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDDUP\n"
+"string.text"
+msgid " Object with the same name already exists."
+msgstr " Un ergorenn gant un anv heñvel ez eus anezhi endeo."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to create this object."
+msgstr " N'ho peus ket ar gwirioù ret a-benn krouiñ an elfenn-mañ."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_CREATEFAILED_TITLE\n"
+"string.text"
+msgid "Error Creating Object"
+msgstr "Fazi e-pad krouidigezh an ergorenn"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED\n"
+"string.text"
+msgid "The object could not be renamed."
+msgstr "N'haller ket adenvel an ergorenn."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILEDPERM\n"
+"string.text"
+msgid " You do not have permission to rename this object."
+msgstr " N'ho peus ket ar gwirioù ret a-benn adenvel an elfenn-mañ."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_RENAMEFAILED_TITLE\n"
+"string.text"
+msgid "Error Renaming Object"
+msgstr "Fazi e-pad ma oa oc'h adenvel an ergorenn"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TITLE\n"
+"string.text"
+msgid "%PRODUCTNAME Error"
+msgstr "Fazi gant %PRODUCTNAME"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_LANG_NOT_SUPPORTED\n"
+"string.text"
+msgid "The scripting language %LANGUAGENAME is not supported."
+msgstr "N'eo ket skoret areg ar skript e %LANGUAGENAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_RUNNING\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "C'hoarvezet ez eus bet ur fazi e-pad erounezadur ar skript %SCRIPTNAME e %LANGUAGENAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_RUNNING\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "C'hoarvezet ez eus bet un nemedenn e-pad erounezadur ar skript %SCRIPTNAME e %LANGUAGENAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_AT_LINE\n"
+"string.text"
+msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "C'hoarvezet ez eus bet ur fazi war al linenn da-heul e-pad erounezadur ar skript %SCRIPTNAME e %LANGUAGENAME : %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_EXCEPTION_AT_LINE\n"
+"string.text"
+msgid "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "C'hoarvezet ez eus bet un nemedenn war al linenn da-heul e-pad erounezadur ar skript %SCRIPTNAME e %LANGUAGENAME : %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_RUNNING\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
+msgstr "C'hoarvezet ez eus bet ur fazi framm skript e-pad erounezadur ar skript %SCRIPTNAME e %LANGUAGENAME."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_FRAMEWORK_ERROR_AT_LINE\n"
+"string.text"
+msgid "A Scripting Framework error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: %LINENUMBER."
+msgstr "C'hoarvezet ez eus bet ur fazi framm skript gant al linenn da-heul e-pad erounezadur ar skript %SCRIPTNAME e %LANGUAGENAME : %LINENUMBER."
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_TYPE_LABEL\n"
+"string.text"
+msgid "Type:"
+msgstr "Rizh :"
+
+#: scriptdlg.src
+msgctxt ""
+"scriptdlg.src\n"
+"RID_SVXSTR_ERROR_MESSAGE_LABEL\n"
+"string.text"
+msgid "Message:"
+msgstr "Kemennadenn :"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "Restr tarzh"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_LINKS\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "Elfenn :"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "Type"
+msgstr "Rizh"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_STATUS\n"
+"fixedtext.text"
+msgid "Status"
+msgstr "Stad"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"1\n"
+"cancelbutton.text"
+msgid "~Close"
+msgstr "~Serriñ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_UPDATE_NOW\n"
+"pushbutton.text"
+msgid "~Update"
+msgstr "~Hizivaat"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_OPEN_SOURCE\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr "~Digeriñ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_CHANGE_SOURCE\n"
+"pushbutton.text"
+msgid "~Modify..."
+msgstr "Daske~mmañ..."
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"PB_BREAK_LINK\n"
+"pushbutton.text"
+msgid "~Break Link"
+msgstr "~Terriñ an ere"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_FILES2\n"
+"fixedtext.text"
+msgid "Source file"
+msgstr "Restr tarzh"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_SOURCE2\n"
+"fixedtext.text"
+msgid "Element:"
+msgstr "Elfenn :"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_TYPE2\n"
+"fixedtext.text"
+msgid "Type:"
+msgstr "Rizh :"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"FT_UPDATE\n"
+"fixedtext.text"
+msgid "Update:"
+msgstr "Hizivaat :"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_AUTOMATIC\n"
+"radiobutton.text"
+msgid "~Automatic"
+msgstr "~Emgefreek"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"RB_MANUAL\n"
+"radiobutton.text"
+msgid "Ma~nual"
+msgstr "Dre zor~n"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_AUTOLINK\n"
+"string.text"
+msgid "Automatic"
+msgstr "Emgefreek"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_MANUALLINK\n"
+"string.text"
+msgid "Manual"
+msgstr "Dre zorn"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BROKENLINK\n"
+"string.text"
+msgid "Not available"
+msgstr "Dihegerz"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_GRAPHICLINK\n"
+"string.text"
+msgid "Graphic"
+msgstr "Skeudenn"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_BUTTONCLOSE\n"
+"string.text"
+msgid "~Close"
+msgstr "~Serriñ"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "Ha sur oc'h da lemel kuit an ere diuzet ?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_CLOSELINKMSG_MULTI\n"
+"string.text"
+msgid "Are you sure you want to remove the selected link?"
+msgstr "Ha sur oc'h da lemel kuit an ere diuzet ?"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"STR_WAITINGLINK\n"
+"string.text"
+msgid "Waiting"
+msgstr "O c'hortoz"
+
+#: svuidlg.src
+msgctxt ""
+"svuidlg.src\n"
+"MD_UPDATE_BASELINKS\n"
+"modaldialog.text"
+msgid "Edit Links"
+msgstr "Embann an ereoù"

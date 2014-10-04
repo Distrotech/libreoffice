@@ -1,0 +1,903 @@
+#. extracted from sw/source/ui/dbui
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2012-12-26 10:43+0000\n"
+"Last-Translator: mgiri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356518584.0\n"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"FI_ADDRESSINFORMATION\n"
+"fixedtext.text"
+msgid "Address Information"
+msgstr "ଠିକଣା ସୂଚନା"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_NEW\n"
+"pushbutton.text"
+msgid "~New"
+msgstr "ନୂଆ"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_DELETE\n"
+"pushbutton.text"
+msgid "~Delete"
+msgstr "ବିଲୋପ କର"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_FIND\n"
+"pushbutton.text"
+msgid "~Find..."
+msgstr "ଖୋଜ..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"PB_CUSTOMIZE\n"
+"pushbutton.text"
+msgid "C~ustomize..."
+msgstr "ବ୍ଯବସ୍ଥା କର..."
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"FI_VIEWENTRIES\n"
+"fixedtext.text"
+msgid "Sho~w entry number"
+msgstr "ପ୍ରବେଶ ସଂଖ୍ଯା ମନୋନୀତ କର"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"ST_FILTERNAME\n"
+"string.text"
+msgid "%PRODUCTNAME Address List (.csv)"
+msgstr "ଠିକଣା ତାଲିକା"
+
+#: createaddresslistdialog.src
+msgctxt ""
+"createaddresslistdialog.src\n"
+"DLG_MM_CREATEADDRESSLIST\n"
+"modaldialog.text"
+msgid "New Address List"
+msgstr "ନୂଆ ଠିକଣା ତାଲିକା"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"FI_DESCRIPTION\n"
+"fixedtext.text"
+msgid "The list below shows the contents of: %1"
+msgstr "%1ର ସୂଚୀପତ୍ରଗୁଡିକ ତଳ ତାଲିକା ଦେଖାଉଛି:"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"PB_OK\n"
+"okbutton.text"
+msgid "~Close"
+msgstr "ବନ୍ଦ କର"
+
+#: dbtablepreviewdialog.src
+msgctxt ""
+"dbtablepreviewdialog.src\n"
+"DLG_MM_DBTABLEPREVIEWDIALOG\n"
+"modaldialog.text"
+msgid "Mail Merge Recipients"
+msgstr "ମେଲ ପ୍ରାପ୍ତିକର୍ତ୍ତାମାନଙ୍କୁ ମିଶାଅ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Title\n"
+"itemlist.text"
+msgid "Title"
+msgstr "ଶୀର୍ଷକ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"First Name\n"
+"itemlist.text"
+msgid "First Name"
+msgstr "ପ୍ରଥମ ନାମ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Last Name\n"
+"itemlist.text"
+msgid "Last Name"
+msgstr "ଶେଷ ନାମ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Company Name\n"
+"itemlist.text"
+msgid "Company Name"
+msgstr "କମ୍ପାନୀ ନାମ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Address Line 1\n"
+"itemlist.text"
+msgid "Address Line 1"
+msgstr "ଠିକଣା ରେଖା ୧"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Address Line 2\n"
+"itemlist.text"
+msgid "Address Line 2"
+msgstr "ଠିକଣା ରେଖା ୨"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"City\n"
+"itemlist.text"
+msgid "City"
+msgstr "ନଗର"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"State\n"
+"itemlist.text"
+msgid "State"
+msgstr "ରାଜ୍ଯ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"ZIP\n"
+"itemlist.text"
+msgid "ZIP"
+msgstr "ZIP"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Country\n"
+"itemlist.text"
+msgid "Country"
+msgstr "ଦେଶ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Telephone private\n"
+"itemlist.text"
+msgid "Telephone private"
+msgstr "ବ୍ଯକ୍ତିଗତ ଟେଲିଫୋନ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Telephone business\n"
+"itemlist.text"
+msgid "Telephone business"
+msgstr "ବ୍ଯବସାଯ ଟେଲିଫୋନ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"E-mail Address\n"
+"itemlist.text"
+msgid "E-mail Address"
+msgstr "ଇ-ମେଲ୍ ଠିକଣା"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"SA_ADDRESS_HEADER\n"
+"Gender\n"
+"itemlist.text"
+msgid "Gender"
+msgstr "ଲିଙ୍ଗ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_NOTASSIGNED\n"
+"string.text"
+msgid " not yet matched "
+msgstr " ଏପର୍ଯ୍ଯନ୍ତ ମେଳଖାଇନାହିଁ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ALL\n"
+"string.text"
+msgid "All files"
+msgstr "ସମସ୍ତ ଫାଇଲଗୁଡ଼ିକ"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ALL_DATA\n"
+"string.text"
+msgid "Address lists(*.*)"
+msgstr "ଠିକଣା ତାଲିକାଗୁଡିକ (*.*)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_SXB\n"
+"string.text"
+msgid "%PRODUCTNAME Base (*.odb)"
+msgstr "%PRODUCTNAME ଆଧାର (*.odb)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_SXC\n"
+"string.text"
+msgid "%PRODUCTNAME Calc (*.ods;*.sxc)"
+msgstr "%PRODUCTNAME ଗଣନା (*.ods;*.sxc)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_DBF\n"
+"string.text"
+msgid "dBase (*.dbf)"
+msgstr "dଆଧାର (*.dbf)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_XLS\n"
+"string.text"
+msgid "Microsoft Excel (*.xls)"
+msgstr "ମାଇକ୍ରୋସଫଟ ଏକ୍ସେଲ (*.xls)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_TXT\n"
+"string.text"
+msgid "Plain text (*.txt)"
+msgstr "ସାଧା ଟେକ୍ସଟ (*.txt)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_CSV\n"
+"string.text"
+msgid "Text Comma Separated (*.csv)"
+msgstr "କମା ଅଲଗା ହୋଇଥିବା ଟେକ୍ସଟ  (*.csv)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_MDB\n"
+"string.text"
+msgid "Microsoft Access (*.mdb)"
+msgstr "Microsoft Access (*.mdb)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"STR_FILTER_ACCDB\n"
+"string.text"
+msgid "Microsoft Access 2007 (*.accdb)"
+msgstr "Microsoft Access 2007 (*.accdb)"
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SAVESTART\n"
+"string.text"
+msgid "Save ~starting document"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SAVEMERGED\n"
+"string.text"
+msgid "Save merged document"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_PRINT\n"
+"string.text"
+msgid "Print settings"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_SENDMAIL\n"
+"string.text"
+msgid "E-Mail settings"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_DEFAULTATTACHMENT\n"
+"string.text"
+msgid "Untitled"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_NOSUBJECT\n"
+"string.text"
+msgid "No subject"
+msgstr ""
+
+#: dbui.src
+msgctxt ""
+"dbui.src\n"
+"ST_CONFIGUREMAIL\n"
+"string.text"
+msgid ""
+"In order to be able to send mail merge documents by e-mail, %PRODUCTNAME requires information about the e-mail account to be used.\n"
+"\n"
+"Do you want to enter e-mail account information now?"
+msgstr ""
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_STARTING\n"
+"string.text"
+msgid "Select starting document"
+msgstr "ଆରମ୍ଭକରିବା ଦଲିଲ ମନୋନୀତ କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_DOCUMETNTYPE\n"
+"string.text"
+msgid "Select document type"
+msgstr "ଦଲିଲ ପ୍ରକାର ମନୋନୀତ କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_ADDRESSBLOCK\n"
+"string.text"
+msgid "Insert address block"
+msgstr "ଠିକଣା ଅବରୋଧ ଭର୍ତ୍ତି କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_ADDRESSLIST\n"
+"string.text"
+msgid "Select address list"
+msgstr "ଠିକଣା ତାଲିକା ମନୋନୀତ କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_GREETINGSLINE\n"
+"string.text"
+msgid "Create salutation"
+msgstr "ଅଭିବାଦନ ସୃଷ୍ଟି କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_LAYOUT\n"
+"string.text"
+msgid "Adjust layout"
+msgstr "ଲେପନ ବ୍ଯବସ୍ଥା କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_PREPAREMERGE\n"
+"string.text"
+msgid "Edit document"
+msgstr "ଦଲିଲ ସମ୍ପାଦନ କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_MERGE\n"
+"string.text"
+msgid "Personalize document"
+msgstr "ଦଲିଲ ବ୍ଯକ୍ତିଗତ କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_OUTPUT\n"
+"string.text"
+msgid "Save, print or send"
+msgstr "ସଞ୍ଚଯକର,ମୁଦ୍ରଣକର କିମ୍ବା ପ୍ରେରଣ କର"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"ST_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "ଶେଷ"
+
+#: mailmergewizard.src
+msgctxt ""
+"mailmergewizard.src\n"
+"DLG_MAILMERGEWIZARD\n"
+"modaldialog.text"
+msgid "Mail Merge Wizard"
+msgstr "ମେଲ ମର୍ଜ ଉଇଜାର୍ଡ "
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"_ST_NONE_LIST\n"
+"< none >\n"
+"stringlist.text"
+msgid "< none >"
+msgstr "ନାହିଁ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"WORKAROUND\n"
+"#define.text"
+msgid "New Address Block"
+msgstr "ନୂଆ ଠିକଣା ଅବରୋଧ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_EDIT\n"
+"string.text"
+msgid "Edit Address Block"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_MALE\n"
+"string.text"
+msgid "Custom Salutation (Male Recipients)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TITLE_FEMALE\n"
+"string.text"
+msgid "Custom Salutation (Female Recipients)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_SALUTATIONELEMENTS\n"
+"string.text"
+msgid "Salutation e~lements"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_INSERTSALUTATIONFIELD\n"
+"string.text"
+msgid "Add to salutation"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_REMOVESALUTATIONFIELD\n"
+"string.text"
+msgid "Remove from salutation"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_DRAGSALUTATION\n"
+"string.text"
+msgid "1. ~Drag salutation elements into the box below"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_SALUTATION\n"
+"string.text"
+msgid "Salutation"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_PUNCTUATION\n"
+"string.text"
+msgid "Punctuation Mark"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"ST_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Dear\n"
+"itemlist.text"
+msgid "Dear"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Hello\n"
+"itemlist.text"
+msgid "Hello"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_SALUTATION\n"
+"Hi\n"
+"itemlist.text"
+msgid "Hi"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+",\n"
+"itemlist.text"
+msgid ","
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+":\n"
+"itemlist.text"
+msgid ":"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+"!\n"
+"itemlist.text"
+msgid "!"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"RA_PUNCTUATION\n"
+"(none)\n"
+"itemlist.text"
+msgid "(none)"
+msgstr ""
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"FI_MATCHING\n"
+"fixedtext.text"
+msgid "Assign the fields from your data source to match the address elements."
+msgstr "ଠିକଣା ଉପାଦାନଗୁଡିକ ମିଳାଇବା ପାଇଁ ତୁମ ତଥ୍ଯ ମୂଳରୁ କ୍ଷେତ୍ରଗୁଡିକ ନିର୍ଦ୍ଦିଷ୍ଟ କର୤"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONMATCHING\n"
+"string.text"
+msgid "Assign the fields from your data source to match the salutation elements."
+msgstr "ଅଭିବାଦନ ଉପାଦାନଗୁଡିକ ମିଳାଇବା ପାଇଁ ତୁମ ତଥ୍ଯ ମୂଳରୁ କ୍ଷେତ୍ରଗୁଡିକ ନିର୍ଦ୍ଦିଷ୍ଟ କର୤"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"FI_PREVIEW\n"
+"fixedtext.text"
+msgid "Address block preview"
+msgstr "ଠିକଣା ଅବରୋଧ ପୂର୍ବଦୃଶ୍ଯ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONPREVIEW\n"
+"string.text"
+msgid "Salutation preview"
+msgstr "ଅଭିବାଦନ ପୂର୍ବଦୃଶ୍ଯ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_ADDRESSELEMENT\n"
+"string.text"
+msgid "Address elements"
+msgstr "ଠିକଣା ଉପାଦାନଗୁଡିକ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_SALUTATIONELEMENT\n"
+"string.text"
+msgid "Salutation elements"
+msgstr "ଅଭିବାଦନ ଉପାଦାନଗୁଡିକ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_MATCHESTO\n"
+"string.text"
+msgid "Matches to field:"
+msgstr "କ୍ଷେତ୍ରକୁ ମିଶାଅ:"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"ST_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "ପୂର୍ବଦୃଶ୍ଯ"
+
+#: mmaddressblockpage.src
+msgctxt ""
+"mmaddressblockpage.src\n"
+"DLG_MM_ASSIGNFIELDS\n"
+"modaldialog.text"
+msgid "Match Fields"
+msgstr "କ୍ଷେତ୍ରଗୁଡିକ ମିଶାଅ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"_LB_FEMALECOLUMN\n"
+"< not available >\n"
+"stringlist.text"
+msgid "< not available >"
+msgstr "< ଉପଲବ୍ଧ ନାହିଁ >"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"CB_PERSONALIZED\n"
+"checkbox.text"
+msgid "Insert personalized salutation"
+msgstr "ବ୍ଯକ୍ତିଗତ ଅଭିବାଦନ ଭର୍ତ୍ତି କର"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALE\n"
+"fixedtext.text"
+msgid "~Female"
+msgstr "ମହିଳା"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"PB_FEMALE\n"
+"pushbutton.text"
+msgid "~New..."
+msgstr "ନୂଆ..."
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_MALE\n"
+"fixedtext.text"
+msgid "~Male"
+msgstr "ପୁରୁଷ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"PB_MALE\n"
+"pushbutton.text"
+msgid "N~ew..."
+msgstr "ନୂଆ..."
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FI_FEMALE\n"
+"fixedtext.text"
+msgid "Address list field indicating a female recipient"
+msgstr "ଠିକଣା ତାଲିକା କ୍ଷେତ୍ର ଗୋଟିଏ ମହିଳା ପ୍ରାପ୍ତିକର୍ତ୍ତା ସୂଚିତ କରୁଛି"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALECOLUMN\n"
+"fixedtext.text"
+msgid "Field name"
+msgstr "କ୍ଷେତ୍ର ନାମ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_FEMALEFIELD\n"
+"fixedtext.text"
+msgid "Field value"
+msgstr "କ୍ଷେତ୍ର ମୂଲ୍ଯ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"GREETINGS_BODY\n"
+"FT_NEUTRAL\n"
+"fixedtext.text"
+msgid "General salutation"
+msgstr "ସାଧାରଣ ଅଭିବାଦନ "
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"CB_GREETINGLINE\n"
+"checkbox.text"
+msgid "This e-mail should contain a salutation"
+msgstr "ଏହି ଇ-ମେଲରେ ଗୋଟିଏ ଅଭିବାଦନ ରହିବା ଉଚିତ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"FT_BODY\n"
+"fixedtext.text"
+msgid "Write your message here"
+msgstr "ଏଠାରେ ତୁମ ସଂଦେଶ ଲେଖ"
+
+#: mmgreetingspage.src
+msgctxt ""
+"mmgreetingspage.src\n"
+"DLG_MM_MAILBODY\n"
+"modaldialog.text"
+msgid "E-Mail Message"
+msgstr "ଇ-ମେଲ ସଂଦେଶ"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"FI_SELECT\n"
+"fixedtext.text"
+msgid "The file you have selected contains more than one table. Please select the table containing the address list you want to use."
+msgstr "ତୁମେ ମନୋନୀତ କରିଥିବା ଫାଇଲଗୁଡିକରେ ଗୋଟିଏ କିମ୍ବା ଅଧିକ ଟେବୁଲ ଅଛି୤ ତୁମେ ଉପୟୋଗ କରିବାକୁ ଚାହୁଁଥିବା ଠିକଣା ତାଲିକାଥିବା ଟେବୁଲକୁ ଦଯାକରି ମନୋନୀତ କର୤"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"PB_PREVIEW\n"
+"pushbutton.text"
+msgid "~Preview"
+msgstr "ପୂର୍ବଦୃଶ୍ଯ"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "ନାମ"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "ପ୍ରକାର"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "ଟେବୁଲ"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"ST_QUERY\n"
+"string.text"
+msgid "Query"
+msgstr "ପ୍ରଶ୍ନ"
+
+#: selectdbtabledialog.src
+msgctxt ""
+"selectdbtabledialog.src\n"
+"DLG_MM_SELECTDBTABLEDDIALOG\n"
+"modaldialog.text"
+msgid "Select Table"
+msgstr "ଟେବୁଲ ମନୋନୀତ କର"

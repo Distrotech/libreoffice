@@ -1,0 +1,715 @@
+#. extracted from reportdesign/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2011-04-06 15:21+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_COND_TYPE\n"
+"Field Value Is\n"
+"stringlist.text"
+msgid "Field Value Is"
+msgstr "Maydonning qiymati"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_COND_TYPE\n"
+"Expression Is\n"
+"stringlist.text"
+msgid "Expression Is"
+msgstr "Ibora"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"between\n"
+"stringlist.text"
+msgid "between"
+msgstr "orasida"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"not between\n"
+"stringlist.text"
+msgid "not between"
+msgstr "orasida emas"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"equal to\n"
+"stringlist.text"
+msgid "equal to"
+msgstr "teng"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"not equal to\n"
+"stringlist.text"
+msgid "not equal to"
+msgstr "teng emas"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"greater than\n"
+"stringlist.text"
+msgid "greater than"
+msgstr "kattaroq"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"less than\n"
+"stringlist.text"
+msgid "less than"
+msgstr "kamroq"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"greater than or equal to\n"
+"stringlist.text"
+msgid "greater than or equal to"
+msgstr "kattaroq yoki teng"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION.LB_OP\n"
+"less than or equal to\n"
+"stringlist.text"
+msgid "less than or equal to"
+msgstr "kamroq yoki teng"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION\n"
+"FT_AND\n"
+"fixedtext.text"
+msgid "and"
+msgstr "va"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"WIN_CONDITION\n"
+"CRTL_FORMAT_PREVIEW\n"
+"window.text"
+msgid "Example"
+msgstr "Misol"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_CONDFORMAT\n"
+"PB_HELP\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Yordam"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_CONDFORMAT\n"
+"modaldialog.text"
+msgid "Conditional Formatting"
+msgstr "Shartli formatlash"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_NUMBERED_CONDITION\n"
+"string.text"
+msgid "Condition $number$"
+msgstr "Shart $number$"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_COLOR_WHITE\n"
+"string.text"
+msgid "White"
+msgstr "Oq"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_CHARCOLOR\n"
+"string.text"
+msgid "Font color"
+msgstr "Shriftning rangi"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_CHARBACKGROUND\n"
+"string.text"
+msgid "Background"
+msgstr "Orqa fon"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_TRANSPARENT\n"
+"string.text"
+msgid "No Fill"
+msgstr "Toʻldirishsiz"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_SORTUP\n"
+"toolboxitem.text"
+msgid "Sort Ascending"
+msgstr "Koʻpayish boʻyicha saralash"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_SORTDOWN\n"
+"toolboxitem.text"
+msgid "Sort Descending"
+msgstr "Kamayish boʻyicha saralash"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_REMOVE_FILTER_SORT\n"
+"toolboxitem.text"
+msgid "Remove sorting"
+msgstr "Saralashni olib tashlash"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_ADD_CONTROL_PAIR\n"
+"toolboxitem.text"
+msgid "Insert"
+msgstr "Qoʻyish"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"ADDFIELD_FL_HELP_SEPARATOR\n"
+"fixedline.text"
+msgid "Help"
+msgstr "Yordam"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"ADDFIELD_HELP_FIELD\n"
+"fixedtext.text"
+msgid "Highlight the fields to insert into the selected section of the template, then click Insert or press Enter."
+msgstr ""
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FL_SEPARATOR2\n"
+"fixedline.text"
+msgid "Groups"
+msgstr "Guruhlar"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_MOVELABEL\n"
+"fixedtext.text"
+msgid "Group actions"
+msgstr ""
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.TB_TOOLBOX\n"
+"SID_RPT_GROUPSORT_MOVE_UP\n"
+"toolboxitem.text"
+msgid "Move up"
+msgstr "Yuqoriga koʻchirish"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.TB_TOOLBOX\n"
+"SID_RPT_GROUPSORT_MOVE_DOWN\n"
+"toolboxitem.text"
+msgid "Move down"
+msgstr "Pastga koʻchirish"
+
+#: GroupsSorting.src
+#, fuzzy
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.TB_TOOLBOX\n"
+"SID_RPT_GROUPSORT_DELETE\n"
+"toolboxitem.text"
+msgid "~Delete"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻ~chirish\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻ~chirish\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  customize.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  ucbexplorer.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  schedule.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  dlged.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  extension.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash\n"
+"#-#-#-#-#  textconversiondlgs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Olib tashlash"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FL_SEPARATOR3\n"
+"fixedline.text"
+msgid "Properties"
+msgstr "Xossalari"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_ORDER\n"
+"fixedtext.text"
+msgid "Sorting"
+msgstr "Saralash"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_ORDER\n"
+"Ascending\n"
+"stringlist.text"
+msgid "Ascending"
+msgstr "Koʻpayish boʻyicha"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_ORDER\n"
+"Descending\n"
+"stringlist.text"
+msgid "Descending"
+msgstr "Kamayish boʻyicha"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_HEADER\n"
+"fixedtext.text"
+msgid "Group Header"
+msgstr "Guruhning ustgi kolntituli"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_HEADERLST\n"
+"Present\n"
+"stringlist.text"
+msgid "Present"
+msgstr "Mavjud"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_HEADERLST\n"
+"Not present\n"
+"stringlist.text"
+msgid "Not present"
+msgstr "Mavjud emas"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_FOOTER\n"
+"fixedtext.text"
+msgid "Group Footer"
+msgstr "Guruhning ostgi kolntituli"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_FOOTERLST\n"
+"Present\n"
+"stringlist.text"
+msgid "Present"
+msgstr "Mavjud"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_FOOTERLST\n"
+"Not present\n"
+"stringlist.text"
+msgid "Not present"
+msgstr "Mavjud emas"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_GROUPON\n"
+"fixedtext.text"
+msgid "Group On"
+msgstr "Guruhlash"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_GROUPONLST\n"
+"Each Value\n"
+"stringlist.text"
+msgid "Each Value"
+msgstr "Har bir qiymat"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_GROUPINTERVAL\n"
+"fixedtext.text"
+msgid "Group Interval"
+msgstr "Guruh oraligʻi"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FT_KEEPTOGETHER\n"
+"fixedtext.text"
+msgid "Keep Together"
+msgstr "Birlashtirish"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_KEEPTOGETHERLST\n"
+"No\n"
+"stringlist.text"
+msgid "No"
+msgstr "Yoʻq"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_KEEPTOGETHERLST\n"
+"Whole Group\n"
+"stringlist.text"
+msgid "Whole Group"
+msgstr "Butun guruh"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING.LST_KEEPTOGETHERLST\n"
+"With First Detail\n"
+"stringlist.text"
+msgid "With First Detail"
+msgstr "Ilk tafsilot bilan"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"FL_SEPARATOR1\n"
+"fixedline.text"
+msgid "Help"
+msgstr "Yordam"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"RID_GROUPS_SORTING\n"
+"floatingwindow.text"
+msgid "Sorting and Grouping"
+msgstr "Saralash va guruhlash"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_EXPRESSION\n"
+"string.text"
+msgid "Field/Expression"
+msgstr "Maydon/ibora"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_SORTING\n"
+"string.text"
+msgid "Sort Order"
+msgstr "Saralash qoidasi"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_PREFIXCHARS\n"
+"string.text"
+msgid "Prefix Characters"
+msgstr "Prefiks belgilari"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_YEAR\n"
+"string.text"
+msgid "Year"
+msgstr "Yil"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_QUARTER\n"
+"string.text"
+msgid "Quarter"
+msgstr "Chorak"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_MONTH\n"
+"string.text"
+msgid "Month"
+msgstr "Oy"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_WEEK\n"
+"string.text"
+msgid "Week"
+msgstr "Hafta"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_DAY\n"
+"string.text"
+msgid "Day"
+msgstr "Kun"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HOUR\n"
+"string.text"
+msgid "Hour"
+msgstr "Soat"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_MINUTE\n"
+"string.text"
+msgid "Minute"
+msgstr "Daqiqa"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_INTERVAL\n"
+"string.text"
+msgid "Interval"
+msgstr "Oraliq"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_FIELD\n"
+"string.text"
+msgid "Select a field or type an expression to sort or group on."
+msgstr ""
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_HEADER\n"
+"string.text"
+msgid "Display a header for this group?"
+msgstr "Ushbu guruh uchun ustgi kolontitul koʻrsatilsinmi?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_FOOTER\n"
+"string.text"
+msgid "Display a footer for this group?"
+msgstr "Ushbu guruh uchun ostgi kolontitul koʻrsatilsinmi?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_GROUPON\n"
+"string.text"
+msgid "Select the value or range of values that starts a new group."
+msgstr ""
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_INTERVAL\n"
+"string.text"
+msgid "Interval or number of characters to group on."
+msgstr ""
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_KEEP\n"
+"string.text"
+msgid "Keep group together on one page?"
+msgstr ""
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_SORT\n"
+"string.text"
+msgid "Select ascending or descending sort order. Ascending means from A to Z or 0 to 9"
+msgstr "Saralashni koʻpayishi yoki kamayishi boʻyicha turini tanlang. Koʻpayishi boʻyicha A dan Z gacha yoki 0 dan 9 gacha kabi"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_NAVIGATOR\n"
+"floatingwindow.text"
+msgid "Report navigator"
+msgstr "Hisobot navigatori"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_STR_FUNCTIONS\n"
+"string.text"
+msgid "Functions"
+msgstr "Funksiyalar"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_STR_GROUPS\n"
+"string.text"
+msgid "Groups"
+msgstr "Guruhlar"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_SORTINGANDGROUPING\n"
+"menuitem.text"
+msgid "Sorting and Grouping..."
+msgstr "Saralash va guruhlash..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_PAGEHEADERFOOTER\n"
+"menuitem.text"
+msgid "Page Header/Footer..."
+msgstr "Sahifaning ustgi/ostgi kolontitullari"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_REPORTHEADERFOOTER\n"
+"menuitem.text"
+msgid "Report Header/Footer..."
+msgstr "Hisobotning ustgi/ostgi kolontitullari"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_RPT_NEW_FUNCTION\n"
+"menuitem.text"
+msgid "New Function"
+msgstr "Yangi funksiya"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_SHOW_PROPERTYBROWSER\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr "Xossalari..."
+
+#. The space after the word is no error. #PAGENUMBER# is a replacement and & must not be translated as well as "
+#: PageNumber.src
+msgctxt ""
+"PageNumber.src\n"
+"STR_RPT_PN_PAGE\n"
+"string.text"
+msgid "\"Page \" & #PAGENUMBER#"
+msgstr "\"Sahifa \" & #PAGENUMBER#"
+
+#. The space before and after the word is no error. #PAGECOUNT# is a replacement and & must not be translated  as well as "
+#: PageNumber.src
+msgctxt ""
+"PageNumber.src\n"
+"STR_RPT_PN_PAGE_OF\n"
+"string.text"
+msgid " & \" of \" & #PAGECOUNT#"
+msgstr " & \" / \" & #PAGECOUNT#"

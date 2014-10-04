@@ -1,0 +1,268 @@
+#. extracted from uui/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:07+0200\n"
+"PO-Revision-Date: 2014-06-13 09:34+0000\n"
+"Last-Translator: kees538 <kees538@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1402652068.000000\n"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"LoginDialog\n"
+"title\n"
+"string.text"
+msgid "Authentication Required"
+msgstr "Authenticatie vereist"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"syscreds\n"
+"label\n"
+"string.text"
+msgid "_Use system credentials"
+msgstr "_Systeemaanmelding gebruiken"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"remember\n"
+"label\n"
+"string.text"
+msgid "_Remember password"
+msgstr "Wachtwoord o_nthouden"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"accountft\n"
+"label\n"
+"string.text"
+msgid "A_ccount"
+msgstr "A_ccount"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"passwordft\n"
+"label\n"
+"string.text"
+msgid "Pass_word"
+msgstr "Wacht_woord"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_User name"
+msgstr "_Gebruikersnaam"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"pathft\n"
+"label\n"
+"string.text"
+msgid "_Path"
+msgstr "_Pad"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"pathbtn\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Bladeren..."
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"loginrealm\n"
+"label\n"
+"string.text"
+msgid ""
+"Enter user name and password for:\n"
+"\"%2\" on %1"
+msgstr ""
+"Voer gebruikersnaam en wachtwoord in voor: \n"
+"\"%2\" op %1"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"requestinfo\n"
+"label\n"
+"string.text"
+msgid ""
+"Enter user name and password for:\n"
+"%1"
+msgstr ""
+"Voer gebruikersnaam en wachtwoord in voor: \n"
+"%1"
+
+#: logindialog.ui
+msgctxt ""
+"logindialog.ui\n"
+"errorft\n"
+"label\n"
+"string.text"
+msgid "Message from server:"
+msgstr "Bericht van de server:"
+
+#: masterpassworddlg.ui
+msgctxt ""
+"masterpassworddlg.ui\n"
+"MasterPasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Enter Master Password"
+msgstr "Hoofdwachtwoord invoeren"
+
+#: masterpassworddlg.ui
+msgctxt ""
+"masterpassworddlg.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Enter password"
+msgstr "Wachtwoord _invoeren"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Set Password"
+msgstr "Wachtwoord instellen"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"SetMasterPasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Set Master Password"
+msgstr "Hoofdwachtwoord instellen"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Passwords for web connections are protected by a master password. You will be asked to enter it once per session, if %PRODUCTNAME retrieves a password from the protected password list."
+msgstr "Wachtwoorden voor webverbindingen worden beschermd door een hoofd-wachtwoord. U zult één maal per sessie gevraagd worden om het in te voeren, als %PRODUCTNAME een wachtwoord ophaalt uit de lijst met beveiligde wachtwoorden."
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Enter password:"
+msgstr "_Wachtwoord invoeren:"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Reenter password:"
+msgstr "Wachtwoord op_nieuw invoeren:"
+
+#: setmasterpassworddlg.ui
+msgctxt ""
+"setmasterpassworddlg.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Caution: If you forget the master password, you will be unable to access any of the information protected by it. Passwords are case sensitive."
+msgstr "Waarschuwing: Als u uw hoofd-wachtwoord vergeet, zult u niet meer in staat zijn ook maar enige informatie te bereiken die er door beveiligd wordt. Wachtwoorden zijn hoofdlettergevoelig."
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"SSLWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Security Warning: "
+msgstr "Beveiligingswaarschuwing: "
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "Continue"
+msgstr "Doorgaan"
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Cancel Connection"
+msgstr "Verbinding afbreken"
+
+#: sslwarndialog.ui
+msgctxt ""
+"sslwarndialog.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "View Certificate"
+msgstr "Certificaat weergeven"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"UnknownAuthDialog\n"
+"title\n"
+"string.text"
+msgid "Website Certified by an Unknown Authority"
+msgstr "Website gecertificeerd door een onbekende autoriteit"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "Accept this certificate temporarily for this session"
+msgstr "Dit certificaat tijdelijk voor deze sessie aanvaarden"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"reject\n"
+"label\n"
+"string.text"
+msgid "Do not accept this certificate and do not connect to this Web site"
+msgstr "Dit certificaat niet aanvaarden en niet met deze website verbinden"
+
+#: unknownauthdialog.ui
+msgctxt ""
+"unknownauthdialog.ui\n"
+"examine\n"
+"label\n"
+"string.text"
+msgid "Examine Certificate..."
+msgstr "Het certificaat onderzoeken..."

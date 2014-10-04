@@ -1,0 +1,507 @@
+#. extracted from extensions/source/dbpilots
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-06 14:38+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FL_DATA\n"
+"fixedline.text"
+msgid "Data"
+msgstr "تاريخ"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_EXPLANATION\n"
+"fixedtext.text"
+msgid ""
+"Currently, the form the control belongs to is not (or not completely) bound to a data source.\n"
+"\n"
+"Please choose a data source and a table.\n"
+"\n"
+"\n"
+"Please note that the settings made on this page will take effect immediately upon leaving the page."
+msgstr "هن وقت فارم جو ضابطو سامگريءَ جي مول سان ٻڌل ناهي يا پوري طرح ناهي n/n/ مهرباني ڪري ان ڳالهہ جو ڌيان رکو تہ هن صفحي تي طئہ ترتيبون ڇڏيندڙ صفحي تي يڪدم اثر ڪڻي وينديون۔"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_DATASOURCE\n"
+"fixedtext.text"
+msgid "~Data source:"
+msgstr "سامگري جو مول"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"PB_FORMDATASOURCE\n"
+"pushbutton.text"
+msgid "~..."
+msgstr " ~..."
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_TABLE\n"
+"fixedtext.text"
+msgid "~Table / Query:"
+msgstr "تختي/پڇا"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"tabpage.text"
+msgid "Data"
+msgstr "تاريخ"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"FT_DATABASEFIELD_QUEST\n"
+"fixedtext.text"
+msgid "Do you want to save the value in a database field?"
+msgstr " ڇا توهين آڌار سامگريءَ جي کيتر ۾ مُلهُہ سانڍڻ چاهيو ٿا؟"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"RB_STOREINFIELD_YES\n"
+"radiobutton.text"
+msgid "~Yes, I want to save it in the following database field:"
+msgstr "ها، مان هيٺ ڄاڻايل آڌار سامگريءَ ۾ اِهو سانڍڻ چاهيان ٿو:"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"RB_STOREINFIELD_NO\n"
+"radiobutton.text"
+msgid "~No, I only want to save the value in the form."
+msgstr "نہ فقط فارم ۾ ملهُہ سانڍڻ چاهيان ٿو۔"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"tabpage.text"
+msgid "Database Field"
+msgstr "آڌار سامگري کيتر"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FL_FORMSETINGS\n"
+"fixedline.text"
+msgid "Form"
+msgstr "فارم"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMDATASOURCELABEL\n"
+"fixedtext.text"
+msgid "Data source"
+msgstr "سامگريءَ جو مول"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMCONTENTTYPELABEL\n"
+"fixedtext.text"
+msgid "Content type"
+msgstr "موضوع جو قسم"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMTABLELABEL\n"
+"fixedtext.text"
+msgid "Content"
+msgstr "موضوع"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "تختي"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_QUERY\n"
+"string.text"
+msgid "Query"
+msgstr "پڇا"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_COMMAND\n"
+"string.text"
+msgid "SQL command"
+msgstr "SQL آديش"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_DLG_GROUPBOXWIZARD\n"
+"modaldialog.text"
+msgid "Group Element Wizard"
+msgstr "گروپ عناسروِ رارد"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_DLG_GRIDWIZARD\n"
+"modaldialog.text"
+msgid "Table Element Wizard"
+msgstr "تختي عناسر وِزارد"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_LISTWIZARD_TITLE\n"
+"string.text"
+msgid "List Box Wizard"
+msgstr "لسٽ باڪس وِزارڊ"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_COMBOWIZARD_TITLE\n"
+"string.text"
+msgid "Combo Box Wizard"
+msgstr "ڪومبوباڪس وِزارڊ"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_COULDNOTOPENTABLE\n"
+"string.text"
+msgid "The table connection to the data source could not be established."
+msgstr "سامگريءَ جي مول لاءِ تختيءَ جو سنٻنڌ قائم نہ ٿي سگهيو۔"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Table element"
+msgstr "تختيءَ جو عناسر"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FT_EXISTING_FIELDS\n"
+"fixedtext.text"
+msgid "Existing fields"
+msgstr "مؤجودہ کيتر"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FT_SELECTED_FIELDS\n"
+"fixedtext.text"
+msgid "Selected fields"
+msgstr "چونڊيل کيتر"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"tabpage.text"
+msgid "Field Selection"
+msgstr "کيتر جي چونڊ"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_STR_DATEPOSTFIX\n"
+"string.text"
+msgid " (Date)"
+msgstr "(تاريخ)"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_STR_TIMEPOSTFIX\n"
+"string.text"
+msgid " (Time)"
+msgstr "(وقت)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"FT_RADIOLABELS\n"
+"fixedtext.text"
+msgid "Which ~names do you want to give the option fields?"
+msgstr "وڪلپ کيترن کي توهين ڪهڙا نالا ڏيڻ چاهيون ٿا؟"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"FT_RADIOBUTTONS\n"
+"fixedtext.text"
+msgid "~Option fields"
+msgstr "وِڪلپ کيتر"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"tabpage.text"
+msgid "Data"
+msgstr "تاريخ"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"FT_DEFAULTSELECTION\n"
+"fixedtext.text"
+msgid "Should one option field be selected as a default?"
+msgstr "هڪ وڪلپ کيتر وِڪلپ جي غيرمؤجودگيءَ سبب اڳہ ۾ ئي اپنايل جو روپ ۾ چونڊڻ گهرجي"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"RB_DEFSELECTION_YES\n"
+"radiobutton.text"
+msgid "~Yes, the following:"
+msgstr "ها، هيٺيون"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"RB_DEFSELECTION_NO\n"
+"radiobutton.text"
+msgid "No, one particular field is not going to be selected."
+msgstr "نہ، اهو خاص کيتر ڪونہ چونڊيو ويندو"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"tabpage.text"
+msgid "Default Field Selection"
+msgstr "وِڪلپ جي غيرمؤجودگيءَ ۾ اڳہ ۾ ئي اپنايل کيتر جي چونڊ"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_OPTIONVALUES_EXPL\n"
+"fixedtext.text"
+msgid "When you select an option, the option group is given a specific value."
+msgstr "جڏهن توهين ڪو وڪلپ چونڊيو ٿا تڏهن ان وڪلپ سموہ کي خاص ملهُہ ڏنو ويندو آہي۔"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_OPTIONVALUES\n"
+"fixedtext.text"
+msgid "Which ~value do you want to assign to each option?"
+msgstr "هرهڪ وڪلپ لاءِ ڪهڙو ملهُہ ڏيڻ چاهيو ٿا؟"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_RADIOBUTTONS\n"
+"fixedtext.text"
+msgid "~Option fields"
+msgstr "وِڪلپ کيتر"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"tabpage.text"
+msgid "Field Values"
+msgstr "کيتر جو ملهُہ"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"FT_NAMEIT\n"
+"fixedtext.text"
+msgid "Which ~caption is to be given to your option group?"
+msgstr "توهان جي وڪلپ سموہ کي ڪهڙو نالو ڏنو وڃي"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"FT_THATSALL\n"
+"fixedtext.text"
+msgid "These were all details needed to create the option group."
+msgstr "وڪلپ سموہ خلقڻ لاءِ انهن سڀني تفصيلن جي ضرور هئي۔"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"tabpage.text"
+msgid "Create Option Group"
+msgstr "وڪلپ سموہ خلقيو"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_STR_GROUPWIZ_DBFIELD\n"
+"string.text"
+msgid "You can either save the value of the option group in a database field or use it for a later action."
+msgstr "توهين يا تہ آڌار سامگريءَ جي کيتر ۾ وڪلپ سموہ جو ملهُہ سانڍي سگهو ٿا يا وري اڳتي ايندڙ ڪم لاءِ اِن جو اِستعمال ڪريو۔"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Control"
+msgstr "صابطو"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"FT_SELECTTABLE_LABEL\n"
+"fixedtext.text"
+msgid ""
+"On the right side, you see all the tables from the data source of the form.\n"
+"\n"
+"\n"
+"Choose the table from which the data should be used as basis for the list content:"
+msgstr "ساڄي پاسي تي توهين فارم جي سامگريءَ جي مول مان سڀ تختيون ڏسو ٿا۔ n/n/n توهين اُها تختي چونڊيو جنهن مان  موضوع جي ياداشت لاءِ تاريخ چونڊي وڃي۔"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"tabpage.text"
+msgid "Table Selection"
+msgstr "تختيءَ جي چونڊ"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"FT_TABLEFIELDS\n"
+"fixedtext.text"
+msgid "Existing fields"
+msgstr "مؤجودہ کيتر"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"FT_DISPLAYEDFIELD\n"
+"fixedtext.text"
+msgid "Display field"
+msgstr "کيتر ڏيکاريو"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"STR_FIELDINFO_COMBOBOX\n"
+"string.text"
+msgid "The contents of the field selected will be shown in the combo box list."
+msgstr "چونڊيل کيترن جا موضوع ڪوبو باڪس جي فهرست ۾ ڏيکاريا ويندا"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"STR_FIELDINFO_LISTBOX\n"
+"string.text"
+msgid "The contents of the selected field will be shown in the list box if the linked fields are identical."
+msgstr "اَگر ڳنڍيل کيتر هڪ جهڙا هوندا۔ تہ چونڊيل کيتر جا موضون ياداشت خاني ۾ ڏيکايا ويندا۔"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"tabpage.text"
+msgid "Field Selection"
+msgstr "کيتر جي چونڊ"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_FIELDLINK_DESC\n"
+"fixedtext.text"
+msgid "This is where you select fields with matching contents so that the value from the display field will be shown."
+msgstr "هتان توهين ميل کائيندڙ موضعن سان کيتر چونڊيون جئن نظر ايندڙ کيتر مان ملهہ ڏيکاريو وڃي۔"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_VALUELISTFIELD\n"
+"fixedtext.text"
+msgid "Field from the ~Value Table"
+msgstr "ملهہ جي تختيءَ جو کيتر"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_TABLEFIELD\n"
+"fixedtext.text"
+msgid "Field from the ~List Table"
+msgstr "فهرست جي تختيءَ جو کيتر"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"tabpage.text"
+msgid "Field Link"
+msgstr "کيتر جي ڪڙي"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_STR_COMBOWIZ_DBFIELD\n"
+"string.text"
+msgid "You can either save the value of the combo box in a database field or use it for display purposes."
+msgstr "توهين يا تہ آڌار سامگري کيتر ۾ ڪومبو باڪس جو ملهہ سانڍي سگهو ٿا يا وري ان جو اِستعمال ڏيکارڻ جي مقصدن لاءِ ڪري سگهو ٿا۔؟؟؟"

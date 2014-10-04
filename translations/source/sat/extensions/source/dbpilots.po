@@ -1,0 +1,517 @@
+#. extracted from extensions/source/dbpilots
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-06 14:31+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sat\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FL_DATA\n"
+"fixedline.text"
+msgid "Data"
+msgstr "सा़खिया़त"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_EXPLANATION\n"
+"fixedtext.text"
+msgid ""
+"Currently, the form the control belongs to is not (or not completely) bound to a data source.\n"
+"\n"
+"Please choose a data source and a table.\n"
+"\n"
+"\n"
+"Please note that the settings made on this page will take effect immediately upon leaving the page."
+msgstr ""
+"Currently, the form the control belongs to is not (or not completely) bound to a data source.\n"
+"\n"
+"Please choose a data source and a table.\n"
+"\n"
+"\n"
+"Please note that the settings made on this page will take effect immediately upon leaving the page."
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_DATASOURCE\n"
+"fixedtext.text"
+msgid "~Data source:"
+msgstr "सा़खिया़त मुल (~D):"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"PB_FORMDATASOURCE\n"
+"pushbutton.text"
+msgid "~..."
+msgstr "~..."
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"FT_TABLE\n"
+"fixedtext.text"
+msgid "~Table / Query:"
+msgstr "ता़लिका/कुकली (~T):"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_TABLESELECTION\n"
+"tabpage.text"
+msgid "Data"
+msgstr "सा़खिया़त"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"FT_DATABASEFIELD_QUEST\n"
+"fixedtext.text"
+msgid "Do you want to save the value in a database field?"
+msgstr "चेत् आम सा़खिया़त बा़यसा.व जायगा रे गोनोङ सांचाव सांचाव सानाम काना?"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"RB_STOREINFIELD_YES\n"
+"radiobutton.text"
+msgid "~Yes, I want to save it in the following database field:"
+msgstr "होय, इञ नोवा को सा़खिया़त बा़यसा़व जायगा रे सांचाव साना़ञ काना  (~Y):"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"RB_STOREINFIELD_NO\n"
+"radiobutton.text"
+msgid "~No, I only want to save the value in the form."
+msgstr "बाङा, इञ गोनोङ एकेन फार्म रे सांचाव सानाञ काना (N)."
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_OPTION_DBFIELD\n"
+"tabpage.text"
+msgid "Database Field"
+msgstr "सा़खिया़त बा़यसा़व जायगा"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FL_FORMSETINGS\n"
+"fixedline.text"
+msgid "Form"
+msgstr "फार्म"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMDATASOURCELABEL\n"
+"fixedtext.text"
+msgid "Data source"
+msgstr "सा़खिया़त मुल"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMCONTENTTYPELABEL\n"
+"fixedtext.text"
+msgid "Content type"
+msgstr "बिसोय रेयाक् रेकोम"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_PAGE_FORM_DATASOURCE_STATUS\n"
+"FT_FORMTABLELABEL\n"
+"fixedtext.text"
+msgid "Content"
+msgstr "बिसोय"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "ता़लिका"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_QUERY\n"
+"string.text"
+msgid "Query"
+msgstr "कुकली"
+
+#: commonpagesdbp.src
+msgctxt ""
+"commonpagesdbp.src\n"
+"RID_STR_TYPE_COMMAND\n"
+"string.text"
+msgid "SQL command"
+msgstr "SQL हुकुम "
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_DLG_GROUPBOXWIZARD\n"
+"modaldialog.text"
+msgid "Group Element Wizard"
+msgstr "दोल जिनिस विजार्ड"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_DLG_GRIDWIZARD\n"
+"modaldialog.text"
+msgid "Table Element Wizard"
+msgstr "ता़लिका जिनिस विजार्ड"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_LISTWIZARD_TITLE\n"
+"string.text"
+msgid "List Box Wizard"
+msgstr "लिसटी बाकसा विजार्ड"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_COMBOWIZARD_TITLE\n"
+"string.text"
+msgid "Combo Box Wizard"
+msgstr "कोम्बो बाकसा विजार्ड"
+
+#: dbpilots.src
+msgctxt ""
+"dbpilots.src\n"
+"RID_STR_COULDNOTOPENTABLE\n"
+"string.text"
+msgid "The table connection to the data source could not be established."
+msgstr "सा़खया़त मुल ला़गित् ता़लिका जोनोड़ाव बाङ थापोन दाड़ेयाक् आ ."
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Table element"
+msgstr "ता़लिका जिनिस "
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FT_EXISTING_FIELDS\n"
+"fixedtext.text"
+msgid "Existing fields"
+msgstr "मेनाक् जायगा"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"FT_SELECTED_FIELDS\n"
+"fixedtext.text"
+msgid "Selected fields"
+msgstr "बाछावाकन जायगा"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_PAGE_GW_FIELDSELECTION\n"
+"tabpage.text"
+msgid "Field Selection"
+msgstr "जायगा बाछाव"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_STR_DATEPOSTFIX\n"
+"string.text"
+msgid " (Date)"
+msgstr "(मा़हित्)"
+
+#: gridpages.src
+msgctxt ""
+"gridpages.src\n"
+"RID_STR_TIMEPOSTFIX\n"
+"string.text"
+msgid " (Time)"
+msgstr "(ओकतो)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"FT_RADIOLABELS\n"
+"fixedtext.text"
+msgid "Which ~names do you want to give the option fields?"
+msgstr "आम एटागाक् जायगा ला़गित् चेत् ञुतुम एम सानाम काना (~n)?"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"FT_RADIOBUTTONS\n"
+"fixedtext.text"
+msgid "~Option fields"
+msgstr "एटागाक् जायगा (~O)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_GROUPRADIOSELECTION\n"
+"tabpage.text"
+msgid "Data"
+msgstr "सा़खिया़त"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"FT_DEFAULTSELECTION\n"
+"fixedtext.text"
+msgid "Should one option field be selected as a default?"
+msgstr "मित् एटागाक् जायगा मित् मुल फेडात् लेका बाछाव लाकती ?"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"RB_DEFSELECTION_YES\n"
+"radiobutton.text"
+msgid "~Yes, the following:"
+msgstr "होय, नोवा को (~Y):"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"RB_DEFSELECTION_NO\n"
+"radiobutton.text"
+msgid "No, one particular field is not going to be selected."
+msgstr "बाङ, मित् बिसेस जायगा बाङ बाछाव दाड़ेयाक् आ ."
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_DEFAULTFIELDSELECTION\n"
+"tabpage.text"
+msgid "Default Field Selection"
+msgstr "मुल फेडात जायगा बाछाव"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_OPTIONVALUES_EXPL\n"
+"fixedtext.text"
+msgid "When you select an option, the option group is given a specific value."
+msgstr "तिनरे आम एटागाक् एम बाछावा, उन रे एटागाक् दोल मित बिसेस गोनोङ ए एमाया  ."
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_OPTIONVALUES\n"
+"fixedtext.text"
+msgid "Which ~value do you want to assign to each option?"
+msgstr "जोतो एटागाक् रे आम आम ओका गोनोङ एम सानाम काना (~v)?"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"FT_RADIOBUTTONS\n"
+"fixedtext.text"
+msgid "~Option fields"
+msgstr "एटागाक् जायगा (~O)"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONVALUES\n"
+"tabpage.text"
+msgid "Field Values"
+msgstr "जायगा गोनोङ"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"FT_NAMEIT\n"
+"fixedtext.text"
+msgid "Which ~caption is to be given to your option group?"
+msgstr "आम एटागाक् दोल दो चेत् ञुतुम एमोक् सानाम काना\" (~c)?"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"FT_THATSALL\n"
+"fixedtext.text"
+msgid "These were all details needed to create the option group."
+msgstr "एटागाक् दोल तेयार ला़गित् ते नोवा सानाम बिबरोन रेयाक् लाकती काना ."
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_PAGE_OPTIONS_FINAL\n"
+"tabpage.text"
+msgid "Create Option Group"
+msgstr "एटागक् दोल तेयार मे"
+
+#: groupboxpages.src
+msgctxt ""
+"groupboxpages.src\n"
+"RID_STR_GROUPWIZ_DBFIELD\n"
+"string.text"
+msgid "You can either save the value of the option group in a database field or use it for a later action."
+msgstr "आम एटागाक् दोल रेयाक् गोनोङ सा़खिया़त जायगा रेम सांचाव दाड़ेयाक् आ बाङखान आगाम का़मी ला़गित् एम बेभार दाड़ेयाक् आ . "
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Control"
+msgstr "सांवड़ाव दोहो"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"FT_SELECTTABLE_LABEL\n"
+"fixedtext.text"
+msgid ""
+"On the right side, you see all the tables from the data source of the form.\n"
+"\n"
+"\n"
+"Choose the table from which the data should be used as basis for the list content:"
+msgstr ""
+"जोजम ती सेद रे, तेयार रेयाक् सा़खिया़त मुल खोन आम जोतो ता़लिकाम ञेला.\n"
+"\n"
+"\n"
+"लिसटी बिसोय ला़गित ता़लिका बाछाव मे ओका सा़खिया़त बा़यसायव लेकाते बेभार लाकती हुयुक् आ:"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_TABLE\n"
+"tabpage.text"
+msgid "Table Selection"
+msgstr "ता़लिका बाछाव"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"FT_TABLEFIELDS\n"
+"fixedtext.text"
+msgid "Existing fields"
+msgstr "मेनाक् जायगा"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"FT_DISPLAYEDFIELD\n"
+"fixedtext.text"
+msgid "Display field"
+msgstr "जायगा उदुग मे"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"STR_FIELDINFO_COMBOBOX\n"
+"string.text"
+msgid "The contents of the field selected will be shown in the combo box list."
+msgstr "बाछाव आकान जायगा रेयाक् बिसोय को कॉम्बो बाकसा रेयाक् लिसटी रे उदुक् होचोया ."
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"STR_FIELDINFO_LISTBOX\n"
+"string.text"
+msgid "The contents of the selected field will be shown in the list box if the linked fields are identical."
+msgstr "जुदी जोनोड़ाव जायगा सोमाना एन खान बाछावाकान जायगा रेयाक् बिसोय लिसटी बाकसा रे उदुक् होचोया ."
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_CONTENTSELECTION_FIELD\n"
+"tabpage.text"
+msgid "Field Selection"
+msgstr "जायगा बाछाव"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_FIELDLINK_DESC\n"
+"fixedtext.text"
+msgid "This is where you select fields with matching contents so that the value from the display field will be shown."
+msgstr "नोडे ओकारे आम सोमान बिसोय रेयाक् जायगा बाछाव दाड़ेयाक् आ, ओका ते उदुक् जायगा रेयाक् गोनोङ सोदोर दाड़ेयाक् आम."
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_VALUELISTFIELD\n"
+"fixedtext.text"
+msgid "Field from the ~Value Table"
+msgstr "गोनोङ ता़लिका रेयाक् जायगा (~V)"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"FT_TABLEFIELD\n"
+"fixedtext.text"
+msgid "Field from the ~List Table"
+msgstr "लिसटी ता़लिका रेयाक् जायगा (~L)"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_PAGE_LCW_FIELDLINK\n"
+"tabpage.text"
+msgid "Field Link"
+msgstr "जायगा जोड़ाव मे"
+
+#: listcombopages.src
+msgctxt ""
+"listcombopages.src\n"
+"RID_STR_COMBOWIZ_DBFIELD\n"
+"string.text"
+msgid "You can either save the value of the combo box in a database field or use it for display purposes."
+msgstr "आम काम्बो जायगा रेयाक् गोनोङ सा़खिया़त बा़यसा़व जायगा रेम सांचाव दाड़ेयाक् आ बाङखान उदुक् ला़गित बेभार दाड़ेयाक् आ."

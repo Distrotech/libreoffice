@@ -1,0 +1,194 @@
+#. extracted from sc/source/ui/dbgui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2012-12-26 10:20+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356517209.0\n"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_SERVICE\n"
+"fixedtext.text"
+msgid "~Service"
+msgstr "شيوا"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_SOURCE\n"
+"fixedtext.text"
+msgid "So~urce"
+msgstr "مولُ"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_NAME\n"
+"fixedtext.text"
+msgid "~Name"
+msgstr "نالو"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_USER\n"
+"fixedtext.text"
+msgid "Us~er"
+msgstr "اِستعمال ڪندڙ"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FT_PASSWD\n"
+"fixedtext.text"
+msgid "~Password"
+msgstr "ڳجهو لفظ"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"FL_FRAME\n"
+"fixedline.text"
+msgid "Selection"
+msgstr "چونڊ"
+
+#: dapitype.src
+msgctxt ""
+"dapitype.src\n"
+"RID_SCDLG_DAPISERVICE\n"
+"modaldialog.text"
+msgid "External Source"
+msgstr "ٻاهريون مول"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Sum\n"
+"itemlist.text"
+msgid "Sum"
+msgstr "حساب"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Count\n"
+"itemlist.text"
+msgid "Count"
+msgstr "ڳڻيو"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Average\n"
+"itemlist.text"
+msgid "Average"
+msgstr "سراسر"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Max\n"
+"itemlist.text"
+msgid "Max"
+msgstr "وڌِ ۾ وَڌِ"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Min\n"
+"itemlist.text"
+msgid "Min"
+msgstr "گهٽِ ۾ گهٽ"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Product\n"
+"itemlist.text"
+msgid "Product"
+msgstr "اُپت"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Count (Numbers only)\n"
+"itemlist.text"
+msgid "Count (Numbers only)"
+msgstr "ڳڻيو (فقط اَنگ)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"StDev (Sample)\n"
+"itemlist.text"
+msgid "StDev (Sample)"
+msgstr "StDev (نمونو)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"StDevP (Population)\n"
+"itemlist.text"
+msgid "StDevP (Population)"
+msgstr "StDevP (آدمشماري)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"Var (Sample)\n"
+"itemlist.text"
+msgid "Var (Sample)"
+msgstr "Var(نمونو)"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"SCSTR_DPFUNCLISTBOX\n"
+"VarP (Population)\n"
+"itemlist.text"
+msgid "VarP (Population)"
+msgstr "VarP (آدمشماري )"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"RID_SCDLG_DPSHOWDETAIL\n"
+"FT_DIMS\n"
+"fixedtext.text"
+msgid "~Choose the field containing the detail you want to show"
+msgstr "اُهو کيتر چونڊيو جنهن ۾ تفصيل هجن ۽ اُهو توهين ڏيکارڻ چاهيو ٿا"
+
+#: pvfundlg.src
+msgctxt ""
+"pvfundlg.src\n"
+"RID_SCDLG_DPSHOWDETAIL\n"
+"modaldialog.text"
+msgid "Show Detail"
+msgstr "تفصيل ڏيکاريو"
