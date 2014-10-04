@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#
+# This file is part of the LibreOffice project.
+#
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#
+
+omnicppoptions="--c++-kinds=+p --fields=+iaS --extra=+q"
+
+ctags -h "+.hdl.hrc" --langmap=c:+.hrc.src,c++:+.hdl $omnicppoptions \
+      --languages=-HTML,Java,JavaScript \
+      -R --exclude=instdir --exclude=workdir \
+      --exclude=clone --totals=yes *
+
+ctags -h "+.hdl.hrc" --langmap=c:+.hrc.src,c++:+.hdl $omnicppoptions \
+      --languages=-HTML,Java,JavaScript \
+      -R --append=yes --totals=yes \
+      workdir/UnoApiHeadersTarget/udkapi/normal \
+      workdir/UnoApiHeadersTarget/offapi/normal

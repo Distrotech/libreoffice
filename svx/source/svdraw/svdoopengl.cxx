@@ -1,0 +1,62 @@
+/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
+/*
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */
+
+#include <config_features.h>
+
+#include <svdoopengl.hxx>
+#include <sdr/contact/viewcontactofopenglobj.hxx>
+
+#include <vcl/opengl/IOpenGLRenderer.hxx>
+
+SdrOpenGLObj::SdrOpenGLObj()
+  : SdrObject(),
+    mpContext(NULL)
+{
+#if HAVE_FEATURE_DESKTOP
+    mpContext = new OpenGLContext;
+#endif
+}
+
+SdrOpenGLObj::~SdrOpenGLObj()
+{
+    delete mpContext;
+}
+
+sdr::contact::ViewContact* SdrOpenGLObj::CreateObjectSpecificViewContact()
+{
+    return NULL;
+}
+
+OpenGLContext* SdrOpenGLObj::getOpenGLContext()
+{
+    return mpContext;
+}
+
+void SdrOpenGLObj::NbcResize(const Point& rRef, const Fraction& xFact, const Fraction& yFact)
+{
+    SdrObject::NbcResize(rRef, xFact, yFact);
+
+    // now pass the information to the OpenGL context
+    if (mpContext)
+        mpContext->setWinSize(aOutRect.GetSize());
+
+    SAL_WARN("svx.opengl", "resized opengl drawinglayer object");
+}
+
+void SdrOpenGLObj::setRenderer(IOpenGLRenderer* pRenderer)
+{
+    mpRenderer.reset(pRenderer);
+}
+
+IOpenGLRenderer* SdrOpenGLObj::getRenderer()
+{
+    return mpRenderer.get();
+}
+
+/* vim:set shiftwidth=4 softtabstop=4 expandtab: */

@@ -1,0 +1,23 @@
+Contains graphics related helper code. Lots of the draw and impress code is in this shared library.
+
+xoutdev
+this is where a lot of wht work would happen to move to the canvas. (what does that mean?)
+
+svdraw
+transparent gradient stuff.
+
+Drawing Layer Object diagram:
+
+.------- Model ------------.     .------- View -----------------------------------------.
+| SdrObject - ViewContact  | 1.* | ViewObjectContact        1.*                         |
+|              getChild()  |-----|    getPrimitiveList()  -----> Object(s) ---> SdrView |
+|              getVOC()    |     |    getRecPrimitiveList()      Contact                |
+|              getViewIn...|     |___________|__________________________________________|
+| dependentPrimitiveList() |                 |
+|_________________________ |              generates      ______
+                                             |          /      |
+                                   .----------------------.    |
+                                   | basePrimitive        |    |
+                                   |   getRange()         |----`
+                                   |   getDecomposition() |
+                                   |______________________|

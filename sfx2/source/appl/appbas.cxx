@@ -1,0 +1,245 @@
+/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
+/*
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ */
+
+#include <config_options.h>
+
+#include <com/sun/star/frame/XDesktop.hpp>
+#include <com/sun/star/script/XLibraryContainer.hpp>
+#include <com/sun/star/uno/Reference.h>
+#include <basic/basrdll.hxx>
+#include <officecfg/Office/Common.hxx>
+#include <svl/macitem.hxx>
+#include <basic/sbxfac.hxx>
+#include <basic/sbx.hxx>
+#include <vcl/gradient.hxx>
+#include <svl/rectitem.hxx>
+#include <svl/intitem.hxx>
+#include <svl/eitem.hxx>
+#include <basic/sbmod.hxx>
+#include <svl/whiter.hxx>
+#include <basic/sbmeth.hxx>
+#include <basic/sbstar.hxx>
+#include <vcl/wrkwin.hxx>
+#include <vcl/msgbox.hxx>
+#include <basic/sbuno.hxx>
+#include <svtools/sfxecode.hxx>
+#include <svtools/ehdl.hxx>
+
+#include <unotools/pathoptions.hxx>
+#include <unotools/useroptions.hxx>
+#include <unotools/bootstrap.hxx>
+
+#include <sfx2/module.hxx>
+#include "arrdecl.hxx"
+#include <sfx2/app.hxx>
+#include "sfxtypes.hxx"
+#include <sfx2/sfxresid.hxx>
+#include <sfx2/msg.hxx>
+#include <sfx2/msgpool.hxx>
+#include <sfx2/progress.hxx>
+#include <sfx2/objsh.hxx>
+#include <sfx2/objitem.hxx>
+#include <sfx2/viewfrm.hxx>
+#include <sfx2/viewsh.hxx>
+#include <sfx2/dispatch.hxx>
+#include <sfx2/tplpitem.hxx>
+#include <sfx2/minfitem.hxx>
+#include "app.hrc"
+#include <sfx2/evntconf.hxx>
+#include <sfx2/request.hxx>
+#include <sfx2/dinfdlg.hxx>
+#include "appdata.hxx"
+#include <sfx2/sfxhelp.hxx>
+#include <basic/basmgr.hxx>
+#include <svtools/svtools.hrc>
+#include "sorgitm.hxx"
+#include "appbaslib.hxx"
+#include <basic/basicmanagerrepository.hxx>
+
+#include <svl/srchitem.hxx>
+#include <osl/socket.hxx>
+
+#define SFX_TYPEMAP
+#include "sfxslots.hxx"
+
+using namespace ::com::sun::star;
+using namespace ::com::sun::star::uno;
+using namespace ::com::sun::star::frame;
+using namespace ::com::sun::star::script;
+
+using ::basic::BasicManagerRepository;
+
+
+sal_uInt16 SfxApplication::SaveBasicAndDialogContainer() const
+{
+    if ( pAppData_Impl->pBasicManager->isValid() )
+        pAppData_Impl->pBasicManager->storeAllLibraries();
+    return 0;
+}
+
+BasicManager* SfxApplication::GetBasicManager()
+{
+#ifdef DISABLE_SCRIPTING
+    return 0;
+#else
+    return BasicManagerRepository::getApplicationBasicManager( true );
+#endif
+}
+
+
+
+XLibraryContainer * SfxApplication::GetDialogContainer()
+{
+#ifdef DISABLE_SCRIPTING
+    return NULL;
+#else
+    if ( !pAppData_Impl->pBasicManager->isValid() )
+        GetBasicManager();
+    return pAppData_Impl->pBasicManager->getLibraryContainer( SfxBasicManagerHolder::DIALOGS );
+#endif
+}
+
+
+
+XLibraryContainer * SfxApplication::GetBasicContainer()
+{
+#ifdef DISABLE_SCRIPTING
+    return NULL;
+#else
+    if ( !pAppData_Impl->pBasicManager->isValid() )
+        GetBasicManager();
+    return pAppData_Impl->pBasicManager->getLibraryContainer( SfxBasicManagerHolder::SCRIPTS );
+#endif
+}
+
+
+
+StarBASIC* SfxApplication::GetBasic()
+{
+#ifdef DISABLE_SCRIPTING
+    return 0;
+#else
+    return GetBasicManager()->GetLib(0);
+#endif
+}
+
+
+void SfxApplication::PropExec_Impl( SfxRequest &rReq )
+{
+#ifdef DISABLE_SCRIPTING
+    (void) rReq;
+#else
+    rReq.GetArgs();
+    sal_uInt16 nSID = rReq.GetSlot();
+    switch ( nSID )
+    {
+        case SID_CREATE_BASICOBJECT:
+        {
+            SFX_REQUEST_ARG(rReq, pItem, SfxStringItem, nSID, false);
+            if ( pItem )
+            {
+                SbxObject* pObject = SbxBase::CreateObject( pItem->GetValue() );
+                pObject->AddRef();
+                rReq.Done();
+            }
+            break;
+        }
+
+        case SID_DELETE_BASICOBJECT:
+        {
+            break;
+        }
+
+        case SID_ATTR_UNDO_COUNT:
+        {
+            SFX_REQUEST_ARG(rReq, pCountItem, SfxUInt16Item, nSID, false);
+            boost::shared_ptr< comphelper::ConfigurationChanges > batch(
+                comphelper::ConfigurationChanges::create());
+            officecfg::Office::Common::Undo::Steps::set(
+                pCountItem->GetValue(), batch);
+            batch->commit();
+            break;
+        }
+
+        case SID_WIN_VISIBLE:
+        {
+            break;
+        }
+
+        case SID_OFFICE_CUSTOMERNUMBER:
+        {
+            SFX_REQUEST_ARG(rReq, pStringItem, SfxStringItem, nSID, false);
+
+            if ( pStringItem )
+                SvtUserOptions().SetCustomerNumber( pStringItem->GetValue() );
+            break;
+        }
+    }
+#endif
+}
+
+
+void SfxApplication::PropState_Impl( SfxItemSet &rSet )
+{
+#ifdef DISABLE_SCRIPTING
+    (void) rSet;
+#else
+    SfxWhichIter aIter(rSet);
+    for ( sal_uInt16 nSID = aIter.FirstWhich(); nSID; nSID = aIter.NextWhich() )
+    {
+        switch ( nSID )
+        {
+            case SID_PROGNAME:
+                rSet.Put( SfxStringItem( SID_PROGNAME, GetName() ) );
+                break;
+
+            case SID_ACTIVEDOCUMENT:
+                rSet.Put( SfxObjectItem( SID_ACTIVEDOCUMENT, SfxObjectShell::Current() ) );
+                break;
+
+            case SID_APPLICATION:
+                rSet.Put( SfxObjectItem( SID_APPLICATION, this ) );
+                break;
+
+            case SID_PROGFILENAME:
+                rSet.Put( SfxStringItem( SID_PROGFILENAME, Application::GetAppFileName() ) );
+                break;
+
+            case SID_ATTR_UNDO_COUNT:
+                rSet.Put(
+                    SfxUInt16Item(
+                        SID_ATTR_UNDO_COUNT,
+                        officecfg::Office::Common::Undo::Steps::get()));
+                break;
+
+            case SID_UPDATE_VERSION:
+                rSet.Put( SfxUInt32Item( SID_UPDATE_VERSION, SUPD ) );
+                break;
+
+            case SID_OFFICE_CUSTOMERNUMBER:
+            {
+                rSet.Put( SfxStringItem( nSID, SvtUserOptions().GetCustomerNumber() ) );
+                break;
+            }
+        }
+    }
+#endif
+}
+
+/* vim:set shiftwidth=4 softtabstop=4 expandtab: */
