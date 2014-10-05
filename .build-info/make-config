@@ -1,0 +1,54 @@
+#!/bin/bash
+
+DESTDIR=${3}
+LIBREVER="4.3.2";
+
+make || make || make || exit 1
+make DESTDIR=${DESTDIR} install || exit 1
+
+rm ${DESTDIR}/* >/dev/null 2>&1
+
+#Add icons to system foolders
+for colcat in hicolor locolor;do
+  for res in 16 32 48 128 256 512 1024;do
+    if [ -d sysui/desktop/icons/${colcat}/${res}x${res} ];then
+      mkdir -p ${DESTDIR}/usr/share/icons/${colcat}/${res}x${res}/{apps,mimetypes};
+      for appicon in sysui/desktop/icons/${colcat}/${res}x${res}/apps/*.png;do
+        cp ${appicon} ${DESTDIR}/usr/share/icons/${colcat}/${res}x${res}/apps/libreoffice-${LIBREVER}-$(basename ${appicon})
+      done;
+      cp sysui/desktop/icons/${colcat}/${res}x${res}/mimetypes/*.png  ${DESTDIR}/usr/share/icons/${colcat}/${res}x${res}/mimetypes;
+    fi;
+  done
+
+  if [ -d sysui/desktop/icons/${colcat}/scalable ];then
+    mkdir -p ${DESTDIR}/usr/share/icons/${colcat}/scalable/{apps,mimetypes};
+    for appicon in sysui/desktop/icons/${colcat}/scalable/apps/*.svg;do
+      cp ${appicon} ${DESTDIR}/usr/share/icons/${colcat}/scalable/apps/libreoffice-${LIBREVER}-$(basename ${appicon})
+    done;
+    cp sysui/desktop/icons/${colcat}/scalable/mimetypes/*.svg  ${DESTDIR}/usr/share/icons/${colcat}/scalable/mimetypes;
+  fi;
+done;
+
+#Links in menus
+mkdir -p ${DESTDIR}/usr/share/applications/
+for menu in `ls ${DESTDIR}/usr/${C_LIBDIRS}/libreoffice/share/xdg/*.desktop`;do
+  menfile=$(basename ${menu})
+  if [ ! -e ${DESTDIR}/usr/share/applications/libreoffice4.0-${menfile} ];then
+    ln -sr ${DESTDIR}/usr/${C_LIBDIRS}/libreoffice/share/xdg/${menfile} ${DESTDIR}/usr/share/applications/libreoffice-${LIBREVER}-${menfile};
+  fi;
+done
+
+#Add a link in the bin directory
+if [ ! -d ${DESTDIR}/usr/bin ];then
+  mkdir -p ${DESTDIR}/usr/bin
+fi;
+if [ -e ${DESTDIR}/usr/bin/libreoffice ];then
+  rm ${DESTDIR}/usr/bin/libreoffice
+fi;
+if [ -e ${DESTDIR}/usr/bin/libreoffice-${LIBREVER} ];then
+  rm ${DESTDIR}/usr/bin/libreoffice-${LIBREVER}
+fi;
+ln -sr ${DESTDIR}/usr/${C_LIBDIRS}/libreoffice/program/soffice ${DESTDIR}/usr/bin/libreoffice-${LIBREVER}
+ln -sr ${DESTDIR}/usr/bin/libreoffice-${LIBREVER} ${DESTDIR}/usr/bin/libreoffice
+
+exit 0
