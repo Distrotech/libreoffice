@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DESTDIR=${3}
-LIBREVER="4.3.2";
+LIBREVER="dev4.3";
 
 make || make || make || exit 1
 make DESTDIR=${DESTDIR} install || exit 1
