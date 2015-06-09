@@ -24,7 +24,7 @@ ifeq ($(OS),WNT)
 ifeq ($(COM),GCC)
 $(call gb_ExternalProject_get_state_target,xmlsec,build) :
 	$(call gb_ExternalProject_run,build,\
-		autoreconf \
+		autoreconf -i -f \
 		&& ./configure --build=$(BUILD_PLATFORM) --host=$(HOST_PLATFORM) \
 			--without-libxslt --without-openssl --without-gnutls --disable-crypto-dl \
 			$(if $(SYSTEM_NSS),,--disable-pkgconfig) \
@@ -52,7 +52,7 @@ $(call gb_ExternalProject_get_state_target,xmlsec,build) :
 	$(call gb_ExternalProject_run,build,\
 		$(if $(filter IOS MACOSX,$(OS)),ACLOCAL="aclocal -I $(SRCDIR)/m4/mac") \
 		$(if $(filter AIX,$(OS)),ACLOCAL="aclocal -I /opt/freeware/share/aclocal") \
-		autoreconf \
+		autoreconf -i -f \
 		&& ./configure \
 			--with-pic --disable-shared --disable-crypto-dl --without-libxslt --without-gnutls \
 			$(if $(or $(filter-out ANDROID,$(OS)),$(DISABLE_OPENSSL)),--without-openssl,--with-openssl=$(call gb_UnpackedTarball_get_dir,openssl)) \
